@@ -1,0 +1,485 @@
+[
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "What was the heartland of the Chola dynasty?",
+    "ground_truth": "The heartland of the Cholas was the fertile valley of the Kaveri River."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "In which ancient edicts are the Cholas mentioned as neighbors of the Mauryan Empire?",
+    "ground_truth": "The Cholas are mentioned in Ashokan Edicts as one of the Mauryan empire's neighbours to the South."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "Name two early capitals of the Chola kingdom.",
+    "ground_truth": "Urayur and Kaveripattinam served as early Chola capitals."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "சோழர் குலத்தின் பொற்காலம் எந்த நூற்றாண்டுகள் ஆகும்?",
+    "ground_truth": "பத்தாம் மற்றும் பதினொராம் நூற்றாண்டுகள் சோழர் குலத்தின் பொற்காலமாக விளங்கியது."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "பண்டைய காலத்தில் கடல் தாண்டி கடற்படை மூலம் வெற்றிக் கொண்டவர்கள் யார்?",
+    "ground_truth": "பண்டைய கால அரசர்களுள் கடல் தாண்டி கடற்படை மூலம் வெற்றிக் கொண்டவர்கள் சோழர்களே ஆவர்."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "கரிகால் சோழன் கட்டிய அணை எது?",
+    "ground_truth": "கரிகால் சோழன் காவிரி ஆற்றின் குறுக்கே கல்லணை கட்டினான்."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "Who established the Vijayanagara Empire and from which dynasty?",
+    "ground_truth": "The Vijayanagara Empire was established in 1336 by the brothers Harihara I and Bukka Raya I of the Sangama dynasty."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "Which modern-day Indian states did the Vijayanagara Empire's territory primarily cover?",
+    "ground_truth": "The Vijayanagara Empire's territory covered most of the lands of modern-day Karnataka, Andhra Pradesh, Tamil Nadu, Goa, southern Kerala, and some parts of Telangana and Maharashtra."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "What significant event caused the power of the Vijayanagara Empire to decline greatly?",
+    "ground_truth": "The Vijayanagara Empire's power declined greatly after a major military defeat in the Battle of Talikota in 1565 by the combined armies of the Deccan sultanates."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "விசயநகரப் பேரரசு எந்த ஆண்டு நிறுவப்பட்டது?",
+    "ground_truth": "இப்பேரரசானது 1336ஆம் ஆண்டு நிறுவப்பட்டது."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "'விசயநகரம்' என்ற பெயரின் பொருள் என்ன?",
+    "ground_truth": "'விசயநகரம்' என்ற பெயரின் பொருள் 'வெற்றி நகரம்' என்பதாகும்."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "விசயநகரப் பேரரசின் நிறுவனர்களான முதலாம் அரிஅரர் மற்றும் முதலாம் புக்கா ராயர் ஆகியோர் குறித்து முன்வைக்கப்பட்ட இரண்டு மொழியியல் பூர்வீகக் கோட்பாடுகள் யாவை?",
+    "ground_truth": "ஒன்றில் அவர்கள் கன்னடர் என்றும், மற்றொன்றில் அவர்கள் தெலுங்கர் என்றும் இரு கோட்பாடுகள் முன்வைக்கப்பட்டுள்ளன."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "When was the Indian National Congress (INC) formed?",
+    "ground_truth": "The Indian National Congress (INC) was formed in 1885."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "What administrative rights did the East India Company gain after the Battle of Buxar of 1764?",
+    "ground_truth": "After the Battle of Buxar of 1764, the East India Company gained administrative rights over Bengal, Bihar and the Midnapur part of Odisha."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "When and where was Maruthanayagam Pillai, also known as Muhammad Yusuf Khan, hanged?",
+    "ground_truth": "Maruthanayagam Pillai was hanged on 15 October 1764 at Sammatipuram near Madurai."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "இந்திய விடுதலை இயக்கம் எதை நோக்கமாகக் கொண்டிருந்தது?",
+    "ground_truth": "இந்திய விடுதலை இயக்கம் பிரித்தானிய காலனித்துவ ஆட்சியை முடிவுக்குக் கொண்டுவருவதை நோக்கமாகக் கொண்டிருந்தது."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "அட்லாண்டிக் பெருங்கடல் வழியாக இந்தியாவை அடைந்த முதல் ஐரோப்பிய ஆய்வாளர் யார்?",
+    "ground_truth": "போர்த்துகலைச் சேர்ந்த வாஸ்கோ ட காமா அட்லாண்டிக் பெருங்கடல் வழியாக இந்தியாவை அடைந்த முதல் ஐரோப்பிய ஆய்வாளர் ஆவார்."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "தமிழ்நாட்டில் ஆங்கிலேயர்களின் இருப்புக்கு எதிரான ஆரம்பகால புரட்சியாளர் யார்?",
+    "ground_truth": "கட்டாலங்குளம் சீமையின் அரசராக இருந்த அழகு முத்துக்கோன் தமிழ்நாட்டில் ஆங்கிலேயர்களின் இருப்புக்கு எதிரான ஆரம்பகால புரட்சியாளராக இருந்தார்."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "Which Indian states politically border Tamil Nadu?",
+    "ground_truth": "Tamil Nadu is politically bound by the Indian states of Kerala, Karnataka, and Andhra Pradesh, and encloses a part of the union territory of Puducherry."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "When was the state formerly known as Madras State renamed Tamil Nadu?",
+    "ground_truth": "The state was renamed as Tamil Nadu in 1969."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "What was Tamil Nadu's economic ranking among Indian states by GSDP as of December 2023?",
+    "ground_truth": "As of December 2023, Tamil Nadu had the second-largest economy among the 28 states of India by gross state domestic product."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "ground_truth": "தமிழ்நாட்டின் தலைநகரம் சென்னை ஆகும்."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "\"தமிழ்நாடு\" என்ற பெயரின் பொருள் என்ன?",
+    "ground_truth": "\"தமிழ்நாடு\" என்ற பெயர் \"தமிழர்களின் நிலம்\" எனப் பொருள்படும்."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "சங்க காலத்தில் பண்டைய தமிழகத்தை ஆண்ட மூவேந்தர்கள் யார்?",
+    "ground_truth": "சங்க காலத்தில் பண்டைய தமிழகத்தை சேரர், சோழர் மற்றும் பாண்டியர் ஆகிய மூவேந்தர்கள் ஆண்டனர்."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "What states and union territory are encompassed by the Kaveri basin?",
+    "ground_truth": "The Kaveri basin encompasses the states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "According to ancient Tamil literature, what is the meaning of the name 'Ponni' for the Kaveri river?",
+    "ground_truth": "In ancient Tamil literature, the river was called Ponni, meaning \"the golden one\" in reference to the fine silt it deposits."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "Where does the Kaveri river join its main right bank tributary Bhavani after flowing through the Hogenakkal Falls?",
+    "ground_truth": "After the Hogenakkal Falls, the river flows southwards towards Mettur Dam and joins its main right bank tributary Bhavani at Kooduthurai."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "காவிரி ஆறு இந்தியாவின் எந்தப் பகுதியில் அமைந்துள்ளது?",
+    "ground_truth": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "தமிழ் இலக்கியங்களில் காவிரி ஆறு எந்தப் பெயரில் அழைக்கப்படுகிறது?",
+    "ground_truth": "தமிழ் இலக்கியங்களில் காவிரி ஆறு பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "ஆடிப்பெருக்கு விழா எந்தத் தமிழ் மாதத்தில் கொண்டாடப்படுகிறது?",
+    "ground_truth": "ஆடிப்பெருக்கு விழா தமிழ் மாதமான ஆடி மாதம் 18 ஆம் திகதி அன்று கொண்டாடப்படுகிறது."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "What is the approximate length of the Western Ghats mountain range?",
+    "ground_truth": "The Western Ghats stretch 1,600 km (1,000 mi) along the west coast of India."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "During which geological periods did the Western Ghats arise when India separated from the African continent?",
+    "ground_truth": "The Western Ghats arose somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "According to linguist Thomas Burrow, what is the origin of the word \"Ghat\"?",
+    "ground_truth": "As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "மேற்குத் தொடர்ச்சி மலைகள் எந்தக் கடலுக்கு இணையாக அமைந்துள்ளன?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலைகள் அரபிக்கடலுக்கு இணையாக அமைந்துள்ளன."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் எது?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் கேரளாவிலுள்ள ஆனைமுடி ஆகும்."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "மேற்குத் தொடர்ச்சி மலையை எந்த அமைப்பு உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது?",
+    "ground_truth": "ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "What is the official status of Chennai within Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "Which historical kingdoms controlled the region around Chennai from the 1st century CE onwards?",
+    "ground_truth": "From the 1st century CE, the region was part of the Chola, Pallava, Pandya, and Vijayanagara kingdoms during various eras."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "What was the GDP of Chennai as of 2023?",
+    "ground_truth": "As of 2023, Chennai had an estimated GDP of $143.9 billion."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னையின் பழைய பெயர்கள் யாவை?",
+    "ground_truth": "1996-ஆம் ஆண்டுக்கு முன்னர் சென்னை மதராசு பட்டினம், மெட்ராஸ் மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எப்போது நிறுவப்பட்டது?",
+    "ground_truth": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னை ஏன் 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளதால், சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "What mountain range lies to the northwest of the Himalayas?",
+    "ground_truth": "The Karakoram and Hindu Kush ranges border the Himalayas on the northwest."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "Which parallel mountain range is considered the highest and central range within the Himalayas?",
+    "ground_truth": "The Great Himalayas is the highest and central range within the Himalayas."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "What is the Sanskrit origin of the name 'Himalaya' and what does it mean?",
+    "ground_truth": "The name Himalaya comes from the Sanskrit Himālaya, meaning 'abode of snow'."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும். சரியானதா?",
+    "ground_truth": "ஆம், இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "இமயமலை எந்த கண்டத்தில் அமைந்துள்ளது?",
+    "ground_truth": "இமயமலை ஆசியாவில் அமைந்துள்ளது."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "இந்திய-ஆஸ்திரேலிய தகடு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் இமயமலை உருவானது. சரியானதா?",
+    "ground_truth": "ஆம், நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவானது."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "What was Mohandas Karamchand Gandhi's profession before leading India's independence campaign?",
+    "ground_truth": "Mohandas Karamchand Gandhi was an Indian lawyer."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "When and where was the honorific Mahātmā first applied to Gandhi?",
+    "ground_truth": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "Who assassinated Mohandas Karamchand Gandhi and when?",
+    "ground_truth": "Nathuram Godse assassinated Gandhi on January 30, 1948."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "மோகன்தாஸ் கரம்சந்த் காந்தி எவ்வாறு அன்புடன் அழைக்கப்படுகிறார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "காந்தி தனது தந்தையை எந்த வயதில் இழந்தார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "காந்தி முதன்முறையாக எந்த நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார்?",
+    "ground_truth": "காந்தி 1906 ஆம் ஆண்டு ஜோகார்னஸ்பேக் நகரில் நடந்த ஒரு போராட்டத்தில் முதன்முறையாக சத்தியாகிரகத்தை பயன்படுத்தினார்."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "For what work was Avul Pakir Jainulabdeen Abdul Kalam known as the \"Missile Man of India\"?",
+    "ground_truth": "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "Which two political parties supported Kalam's election as the president of India in 2002?",
+    "ground_truth": "Kalam was elected president with the support of the Bharatiya Janata Party and the Indian National Congress."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "In which year did Avul Pakir Jainulabdeen Abdul Kalam graduate in Physics from St. Joseph's College, Tiruchirappalli?",
+    "ground_truth": "He graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார்."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில் தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "ground_truth": "1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "What was Subramania Bharati's birth name?",
+    "ground_truth": "Subramania Bharati's birth name was Chinnaswami Subramaniyan."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "ground_truth": "Bharati lived in exile in Pondicherry for about ten years."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "What two works by Bharati were translated from Sanskrit texts?",
+    "ground_truth": "Bharati translated Patanjali's Yoga Sutra and Bhagavat Gita."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "பாரதியார் எந்த ஆண்டு எட்டயபுரத்தில் பிறந்தார்?",
+    "ground_truth": "பாரதியார் 1882 ஆம் ஆண்டு எட்டயபுரத்தில் பிறந்தார்."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "பாரதியாருக்கு 'பாரதி' என்ற பட்டம் ஏன் வழங்கப்பட்டது?",
+    "ground_truth": "கவிதையில் சிறந்து விளங்கியதற்காக பாரதியாருக்கு 'பாரதி' என்ற பட்டம் வழங்கப்பட்டது."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் யாருடையது?",
+    "ground_truth": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்தப் புரட்சித் தலைவராகவும், நடிகராகவும், அரசியல்வாதியாகவும் அறியப்படுகிறார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் எம். ஜி. ஆர். மற்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்படுகிறார்."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்த அரசியல் கட்சியில் முதலில் இணைந்தார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் அறிஞர் அண்ணாவின் அரசியல் கருத்துகளால் ஈர்க்கப்பெற்று திராவிட முன்னேற்றக் கழகத்தில் இணைந்தார்."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "எம். ஜி. ராமச்சந்திரனின் மூன்றாவது மனைவி யார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரனின் மூன்றாவது மனைவி வைக்கம் நாராயணி ஜானகி (வி. என். ஜானகி) ஆவார்."
+  }
+]

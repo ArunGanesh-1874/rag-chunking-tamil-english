@@ -1,0 +1,385 @@
+{
+  "articles": [
+    {
+      "topic": "Chola dynasty",
+      "slug": "chola_dynasty",
+      "en": {
+        "title": "Chola dynasty",
+        "url": "https://en.wikipedia.org/wiki/Chola_dynasty",
+        "pageid": 3118873,
+        "word_count": 4118,
+        "char_count": 25923,
+        "text_file": "data/en/chola_dynasty.txt"
+      },
+      "ta": {
+        "title": "சோழர்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%8B%E0%AE%B4%E0%AE%B0%E0%AF%8D",
+        "pageid": 3635,
+        "word_count": 4867,
+        "char_count": 45092,
+        "text_file": "data/ta/chola_dynasty.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:44:59.974077+00:00"
+    },
+    {
+      "topic": "Vijayanagara Empire",
+      "slug": "vijayanagara_empire",
+      "en": {
+        "title": "Vijayanagara Empire",
+        "url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+        "pageid": 478684,
+        "word_count": 8773,
+        "char_count": 57491,
+        "text_file": "data/en/vijayanagara_empire.txt"
+      },
+      "ta": {
+        "title": "விஜயநகரப் பேரரசு",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%9C%E0%AE%AF%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%B0%E0%AE%9A%E0%AF%81",
+        "pageid": 31356,
+        "word_count": 2929,
+        "char_count": 27412,
+        "text_file": "data/ta/vijayanagara_empire.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:02.376824+00:00"
+    },
+    {
+      "topic": "Indian independence movement",
+      "slug": "indian_independence_movement",
+      "en": {
+        "title": "Indian independence movement",
+        "url": "https://en.wikipedia.org/wiki/Indian_independence_movement",
+        "pageid": 161022,
+        "word_count": 13585,
+        "char_count": 86902,
+        "text_file": "data/en/indian_independence_movement.txt"
+      },
+      "ta": {
+        "title": "இந்திய விடுதலை இயக்கம்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF_%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%88_%E0%AE%87%E0%AE%AF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D",
+        "pageid": 67857,
+        "word_count": 7997,
+        "char_count": 75811,
+        "text_file": "data/ta/indian_independence_movement.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:04.824093+00:00"
+    },
+    {
+      "topic": "Tamil Nadu",
+      "slug": "tamil_nadu",
+      "en": {
+        "title": "Tamil Nadu",
+        "url": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+        "pageid": 29918,
+        "word_count": 11991,
+        "char_count": 74897,
+        "text_file": "data/en/tamil_nadu.txt"
+      },
+      "ta": {
+        "title": "தமிழ்நாடு",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81",
+        "pageid": 2253,
+        "word_count": 7762,
+        "char_count": 70885,
+        "text_file": "data/ta/tamil_nadu.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:07.440190+00:00"
+    },
+    {
+      "topic": "Kaveri River",
+      "slug": "kaveri_river",
+      "en": {
+        "title": "Kaveri",
+        "url": "https://en.wikipedia.org/wiki/Kaveri",
+        "pageid": 177299,
+        "word_count": 2640,
+        "char_count": 15755,
+        "text_file": "data/en/kaveri_river.txt"
+      },
+      "ta": {
+        "title": "காவிரி ஆறு",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%B0%E0%AE%BF_%E0%AE%86%E0%AE%B1%E0%AF%81",
+        "pageid": 231480,
+        "word_count": 1071,
+        "char_count": 9563,
+        "text_file": "data/ta/kaveri_river.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:09.106475+00:00"
+    },
+    {
+      "topic": "Western Ghats",
+      "slug": "western_ghats",
+      "en": {
+        "title": "Western Ghats",
+        "url": "https://en.wikipedia.org/wiki/Western_Ghats",
+        "pageid": 184730,
+        "word_count": 2632,
+        "char_count": 16746,
+        "text_file": "data/en/western_ghats.txt"
+      },
+      "ta": {
+        "title": "மேற்குத் தொடர்ச்சி மலை",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%87%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%9F%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF_%E0%AE%AE%E0%AE%B2%E0%AF%88",
+        "pageid": 11258,
+        "word_count": 712,
+        "char_count": 6206,
+        "text_file": "data/ta/western_ghats.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:10.841654+00:00"
+    },
+    {
+      "topic": "Chennai",
+      "slug": "chennai",
+      "en": {
+        "title": "Chennai",
+        "url": "https://en.wikipedia.org/wiki/Chennai",
+        "pageid": 45139,
+        "word_count": 8298,
+        "char_count": 51558,
+        "text_file": "data/en/chennai.txt"
+      },
+      "ta": {
+        "title": "சென்னை",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88",
+        "pageid": 2270,
+        "word_count": 2973,
+        "char_count": 26930,
+        "text_file": "data/ta/chennai.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:13.220312+00:00"
+    },
+    {
+      "topic": "Himalayas",
+      "slug": "himalayas",
+      "en": {
+        "title": "Himalayas",
+        "url": "https://en.wikipedia.org/wiki/Himalayas",
+        "pageid": 37966,
+        "word_count": 6660,
+        "char_count": 42811,
+        "text_file": "data/en/himalayas.txt"
+      },
+      "ta": {
+        "title": "இமயமலை",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%AE%E0%AE%AF%E0%AE%AE%E0%AE%B2%E0%AF%88",
+        "pageid": 7427,
+        "word_count": 1405,
+        "char_count": 11699,
+        "text_file": "data/ta/himalayas.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:15.176963+00:00"
+    },
+    {
+      "topic": "Mahatma Gandhi",
+      "slug": "mahatma_gandhi",
+      "en": {
+        "title": "Mahatma Gandhi",
+        "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "pageid": 19379,
+        "word_count": 10015,
+        "char_count": 62851,
+        "text_file": "data/en/mahatma_gandhi.txt"
+      },
+      "ta": {
+        "title": "மோகன்தாசு கரம்சந்த் காந்தி",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%8B%E0%AE%95%E0%AE%A9%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%9A%E0%AF%81_%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AF%8D%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF",
+        "pageid": 1498,
+        "word_count": 1458,
+        "char_count": 13199,
+        "text_file": "data/ta/mahatma_gandhi.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:17.385019+00:00"
+    },
+    {
+      "topic": "A. P. J. Abdul Kalam",
+      "slug": "a_p_j_abdul_kalam",
+      "en": {
+        "title": "A. P. J. Abdul Kalam",
+        "url": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam",
+        "pageid": 62682,
+        "word_count": 3430,
+        "char_count": 21042,
+        "text_file": "data/en/a_p_j_abdul_kalam.txt"
+      },
+      "ta": {
+        "title": "ஆ. ப. ஜெ. அப்துல் கலாம்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%86._%E0%AE%AA._%E0%AE%9C%E0%AF%86._%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AF%8D",
+        "pageid": 4250,
+        "word_count": 2363,
+        "char_count": 20373,
+        "text_file": "data/ta/a_p_j_abdul_kalam.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:19.568740+00:00"
+    },
+    {
+      "topic": "Subramania Bharati",
+      "slug": "subramania_bharati",
+      "en": {
+        "title": "Subramania Bharati",
+        "url": "https://en.wikipedia.org/wiki/Subramania_Bharati",
+        "pageid": 423383,
+        "word_count": 1769,
+        "char_count": 11042,
+        "text_file": "data/en/subramania_bharati.txt"
+      },
+      "ta": {
+        "title": "சுப்பிரமணிய பாரதி",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AE%A3%E0%AE%BF%E0%AE%AF_%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%BF",
+        "pageid": 2774,
+        "word_count": 1335,
+        "char_count": 12046,
+        "text_file": "data/ta/subramania_bharati.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:21.083927+00:00"
+    },
+    {
+      "topic": "M. G. Ramachandran",
+      "slug": "m_g_ramachandran",
+      "en": {
+        "title": "M. G. Ramachandran",
+        "url": "https://en.wikipedia.org/wiki/M._G._Ramachandran",
+        "pageid": 471623,
+        "word_count": 4344,
+        "char_count": 27258,
+        "text_file": "data/en/m_g_ramachandran.txt"
+      },
+      "ta": {
+        "title": "ம. கோ. இராமச்சந்திரன்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%AE._%E0%AE%95%E0%AF%8B._%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%AE%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%A9%E0%AF%8D",
+        "pageid": 2274,
+        "word_count": 2242,
+        "char_count": 19481,
+        "text_file": "data/ta/m_g_ramachandran.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:23.269754+00:00"
+    },
+    {
+      "topic": "C. V. Raman",
+      "slug": "c_v_raman",
+      "en": {
+        "title": "C. V. Raman",
+        "url": "https://en.wikipedia.org/wiki/C._V._Raman",
+        "pageid": 276727,
+        "word_count": 8274,
+        "char_count": 50496,
+        "text_file": "data/en/c_v_raman.txt"
+      },
+      "ta": {
+        "title": "ச. வெ. இராமன்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A._%E0%AE%B5%E0%AF%86._%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%AE%E0%AE%A9%E0%AF%8D",
+        "pageid": 10238,
+        "word_count": 595,
+        "char_count": 5052,
+        "text_file": "data/ta/c_v_raman.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:25.205708+00:00"
+    },
+    {
+      "topic": "Solar System",
+      "slug": "solar_system",
+      "en": {
+        "title": "Solar System",
+        "url": "https://en.wikipedia.org/wiki/Solar_System",
+        "pageid": 26903,
+        "word_count": 10040,
+        "char_count": 61696,
+        "text_file": "data/en/solar_system.txt"
+      },
+      "ta": {
+        "title": "சூரியக் குடும்பம்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%82%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D",
+        "pageid": 69853,
+        "word_count": 1850,
+        "char_count": 16332,
+        "text_file": "data/ta/solar_system.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:28.390240+00:00"
+    },
+    {
+      "topic": "Bharatanatyam",
+      "slug": "bharatanatyam",
+      "en": {
+        "title": "Bharatanatyam",
+        "url": "https://en.wikipedia.org/wiki/Bharatanatyam",
+        "pageid": 56500,
+        "word_count": 4609,
+        "char_count": 29970,
+        "text_file": "data/en/bharatanatyam.txt"
+      },
+      "ta": {
+        "title": "பரதநாட்டியம்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%B0%E0%AE%A4%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D",
+        "pageid": 1236,
+        "word_count": 1377,
+        "char_count": 12312,
+        "text_file": "data/ta/bharatanatyam.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:30.379739+00:00"
+    },
+    {
+      "topic": "Tamil language",
+      "slug": "tamil_language",
+      "en": {
+        "title": "Tamil language",
+        "url": "https://en.wikipedia.org/wiki/Tamil_language",
+        "pageid": 29919,
+        "word_count": 5040,
+        "char_count": 31747,
+        "text_file": "data/en/tamil_language.txt"
+      },
+      "ta": {
+        "title": "தமிழ்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D",
+        "pageid": 139457,
+        "word_count": 2961,
+        "char_count": 26992,
+        "text_file": "data/ta/tamil_language.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:32.548829+00:00"
+    },
+    {
+      "topic": "Meenakshi Amman Temple",
+      "slug": "meenakshi_amman_temple",
+      "en": {
+        "title": "Meenakshi Temple",
+        "url": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+        "pageid": 7846416,
+        "word_count": 5418,
+        "char_count": 33717,
+        "text_file": "data/en/meenakshi_amman_temple.txt"
+      },
+      "ta": {
+        "title": "மதுரை மீனாட்சி சுந்தரேசுவரர் கோயில்",
+        "url": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88_%E0%AE%AE%E0%AF%80%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF_%E0%AE%9A%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AF%87%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AE%B0%E0%AF%8D_%E0%AE%95%E0%AF%8B%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D",
+        "pageid": 256020,
+        "word_count": 1433,
+        "char_count": 13305,
+        "text_file": "data/ta/meenakshi_amman_temple.txt"
+      },
+      "license": "CC BY-SA 4.0 (Wikipedia contributors)",
+      "retrieved_at": "2026-07-07T11:45:34.239698+00:00"
+    }
+  ],
+  "skipped": [
+    {
+      "topic": "Monsoon",
+      "reason": "ta_too_short",
+      "words": 106
+    }
+  ]
+}
