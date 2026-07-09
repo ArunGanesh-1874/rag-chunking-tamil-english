@@ -1020,5 +1020,145 @@
       "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
       "h the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa"
     ]
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "\"தமிழ்நாடு\" என்ற பெயரின் பொருள் என்ன?",
+    "ground_truth": "\"தமிழ்நாடு\" என்ற பெயர் \"தமிழர்களின் நிலம்\" எனப் பொருள்படும்.",
+    "answer": "\"தமிழ்நாடு\" என்ற பெயரின் பொருள் \"தமிழர்களின் நிலம்\" என்பதாகும்.",
+    "contexts": [
+      "1969 இல் \"தமிழ் நாடு\" என பெயர் மாற்றப்பட்டது. இந்தியாவின் மிகவும் நகரமயமாக்கப்பட்ட மாநிலமாக திகழும் தமிழ்நாடு, நாட்டின் மொத்த உள்நாட்டு உற்பத்திக்குப் பங்களிப்பதில் இரண்டாவதாக உள்ளது. மனித வளர்ச்சிச் சுட்டெண்ணில் பதினாறாவது இடத்தில் இருக்கும் தமிழகம், நாட்டின் மிகவும் தொழில்மயமான மாநிலங்களில் ஒன்றாகும்.",
+      "தமிழ்த் திரையுலகம் மாநிலத்தின் பிரபலமான கலாச்சாரம் மற்றும் அரசியலில் செல்வாக்கு மிக்க பங்கு வகிக்கிறது. == பெயரியல் ==\nதமிழ்நாடு என்ற பெயர் தமிழ் மொழியில் இருந்து பெறப்பட்டது. இது \"தமிழர்களின் நிலம்\" எனப் பொருள்படும். தமிழ் என்ற சொல்லின் பெயரியல் சரியாக அறியப்படவில்லை.",
+      "தமிழ்நாடு (Tamil Nadu) என்பது இந்தியாவின் தென் முனையில் அமைந்துள்ள மாநிலங்களில் ஒன்றாகும். தமிழகம் என்றும் பரவலாக அழைக்கப்படும் இம்மாநிலமானது, பரப்பளவில் இந்தியாவின் பத்தாவது பெரிய மாநிலமாக மற்றும் மக்கள்தொகை அடிப்படையில் இந்தியாவின் ஆறாவது பெரிய மாநிலமாகத் திகழ்கிறது. உலகின் பழம்பெரும் மொழிகளில் ஒன்றான தமிழ் மொழி பேசும் தமிழர் வாழும் பகுதியே தமிழ்நாடு என அழைக்கப்படுகிறது. இதன் தலைநகரமாக சென்னை உள்ளது."
+    ]
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சங்க காலத்தில் பண்டைய தமிழகத்தை ஆண்ட மூவேந்தர்கள் யார்?",
+    "ground_truth": "சங்க காலத்தில் பண்டைய தமிழகத்தை சேரர், சோழர் மற்றும் பாண்டியர் ஆகிய மூவேந்தர்கள் ஆண்டனர்.",
+    "answer": "சேரர், சோழர் மற்றும் பாண்டியர் ஆவர்.",
+    "contexts": [
+      "்றாண்டு முதல் பொ.ஊ. 3 ஆம் நூற்றாண்டு வரை) ===\n\nதொல்பொருள் சான்றுகளின் படி சங்க காலம் ஏறத்தாழ பொ.ஊ.மு. 5 ஆம் நூற்றாண்டு முதல் பொ.ஊ. 3 ஆம் நூற்றாண்டு வரை எட்டு நூற்றாண்டுகள் நீடித்தது. இக்காலத்தில் இயற்றப்பட்ட சங்க இலக்கியங்கள் இக்கால வரலாற்றின் முக்கிய ஆதாரமாக உள்ளன. பண்டைய தமிழகம் முடியாட்சி அரசுகாளாகிய, சேரர், சோழர் மற்றும் பாண்டியர் எனும் மூவேந்தரால் ஆளப்பட்டது. சேரர்கள் தமிழ்கத்தின் மேற்குப் பகுதியையும், பாண்டியர்கள் தெற்கு பகுதியையும், சோழர்கள் காவேரி வடிநிலப் பகுதியையும் ஆண்டனர். இம்மன்னர்க",
+      "சங்க காலம் தொட்டு சேரர், சோழர் மற்றும் பாண்டியரால் ஆளப்பட்டது. பிற்காலத்தில் பல்லவர் (பொ.ஊ. 3-9 ஆம் நூற்றாண்டு) மற்றும் விசயநகர பேரரசின் (பொ.ஊ. 14-17 ஆம் நூற்றாண்டு) கீழ் வந்த இப்பகுதியில், 17 ஆம் நூற்றாண்டில் ஐரோப்பியர்கள் வரத் தொடங்கினர். 1947 இல் இந்திய விடுதலைக்கு முன் இரண்டு நூற்றாண்டுகளுக்கு தென்னிந்தியாவின் பெரும்பகுதி பிரித்தானிய கட்டுப்பாட்டில் சென்னை மாகாணமாக ஆட்சி செய்யப்பட்டது. விடுதலைக்கு பிறகு மதராசு மாநிலம் என மாறிய இப்பகுதி, ௧௯௫௬ ஆம் ஆண்டின் மொழிவாரி மறுசீரமைப்புக்குப் பிறகு தற்ப",
+      "சோழர் (Chola dynasty) என்பவர் பழந்தமிழ்நாட்டை ஆண்ட மூவேந்தர்களுள் ஒரு குலத்தவராவர். மற்ற இருவர் சேரர்களும், பாண்டியர்களும் ஆவர். நெல் இயற்கையாகவோ, மிகுதியாகவோ விளைந்த நாடு சோழ நாடெனப்பட்டது. 'சோழ நாடு சோறுடைத்து' என்பது பழமொழி. எனவே சோறுடைத்த நாடு 'சோறநாடு' ஆகிப் பின், சோழ நாடாகியது என்பர். நெல்லின் மற்றொரு பெயரான சொல் எனும் பெயரே லகரம்-ழகரம் ஆகத் திரிந்து \"சோழ\" என்று வழங்கிற்று என்பார் தேவநேயப் பாவாணர். சேரர், பாண்டியர் என்ற பெயர்களைப் போன்று சோழர் என்பது பண்டைக் காலந்தொட்டே ஆட்சி செய்து வரும்"
+    ]
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சங்க காலத்தில் பண்டைய தமிழகத்தை ஆண்ட மூவேந்தர்கள் யார்?",
+    "ground_truth": "சங்க காலத்தில் பண்டைய தமிழகத்தை சேரர், சோழர் மற்றும் பாண்டியர் ஆகிய மூவேந்தர்கள் ஆண்டனர்.",
+    "answer": "சங்க காலத்தில் பண்டைய தமிழகத்தை ஆண்ட மூவேந்தர்கள் சேரர், சோழர் மற்றும் பாண்டியர் ஆவர்.",
+    "contexts": [
+      "5 ஆம் நூற்றாண்டு முதல் பொ.ஊ. 3 ஆம் நூற்றாண்டு வரை எட்டு நூற்றாண்டுகள் நீடித்தது. இக்காலத்தில் இயற்றப்பட்ட சங்க இலக்கியங்கள் இக்கால வரலாற்றின் முக்கிய ஆதாரமாக உள்ளன. பண்டைய தமிழகம் முடியாட்சி அரசுகாளாகிய, சேரர், சோழர் மற்றும் பாண்டியர் எனும் மூவேந்தரால் ஆளப்பட்டது. சேரர்கள் தமிழ்கத்தின் மேற்குப் பகுதியையும், பாண்டியர்கள் தெற்கு பகுதியையும், சோழர்கள் காவேரி வடிநிலப் பகுதியையும் ஆண்டனர். இம்மன்னர்கள் வேந்தர் என்று அழைக்கப்பட்டனர்.",
+      "தொல்லியல் சான்றுகள் தமிழ்நாட்டில் மக்கள் ஏறத்தாழ நான்கு இலட்சம் ஆண்டுகளுக்கும் மேலாக வாழ்ந்து வருவதையும், 5,500 ஆண்டுகளுக்கும் மேலான தொடர்ச்சியான கலாச்சார வரலாற்றைக் கொண்டுள்ளது என்பதையும் சுட்டிக்காட்டுகிறது. வரலாற்று ரீதியாக, பண்டைய தமிழகப் பகுதியில் தமிழ் மொழி பேசிய திராவிட மக்கள் வசித்து வந்தனர். பல நூற்றாண்டுகளாக சங்க காலம் தொட்டு சேரர், சோழர் மற்றும் பாண்டியரால் ஆளப்பட்டது. பிற்காலத்தில் பல்லவர் (பொ.ஊ. 3-9 ஆம் நூற்றாண்டு) மற்றும் விசயநகர பேரரசின் (பொ.ஊ.",
+      "524–530\nமூன்றாம் கரிகாலன் பொ.ஊ. 530–550\n\n=== அரசநாட்டுச் சோழர்கள் ===\n\nகளப்பிரர் மற்றும் முத்தரையர் ஆதிக்கத்தின் காரணமாகச் சோழர்கள் தமிழகத்தில் செல்வாக்கிழந்த நிலையில், மூன்றாம் கரிகாலன் களப்பிரர், முத்தரையர் ஆகியோரை விரட்டியதோடு, பல்லவ மன்னனான திரிலோசன பல்லவனை வெற்றி கொண்டு தொண்டை நாட்டை கைப்பற்றினான். ஆனால், கரிகாலனின் மறைவிற்குப் பின் பொ.ஊ. 550 இல் பல்லவ மன்னன் சிம்மவிட்டுணு சோழர்களை தம் ஆதிக்கத்தின் கீழ் கொண்டு வந்தான்."
+    ]
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சங்க காலத்தில் பண்டைய தமிழகத்தை ஆண்ட மூவேந்தர்கள் யார்?",
+    "ground_truth": "சங்க காலத்தில் பண்டைய தமிழகத்தை சேரர், சோழர் மற்றும் பாண்டியர் ஆகிய மூவேந்தர்கள் ஆண்டனர்.",
+    "answer": "சங்க காலத்தில் பண்டைய தமிழகத்தை ஆண்ட மூவேந்தர்கள் சேரர், சோழர் மற்றும் பாண்டியர் ஆவர்.",
+    "contexts": [
+      "=== சங்க காலம் (பொ.ஊ.மு. 5 ஆம் நூற்றாண்டு முதல் பொ.ஊ. 3 ஆம் நூற்றாண்டு வரை) ===\n\nதொல்பொருள் சான்றுகளின் படி சங்க காலம் ஏறத்தாழ பொ.ஊ.மு. 5 ஆம் நூற்றாண்டு முதல் பொ.ஊ. 3 ஆம் நூற்றாண்டு வரை எட்டு நூற்றாண்டுகள் நீடித்தது. இக்காலத்தில் இயற்றப்பட்ட சங்க இலக்கியங்கள் இக்கால வரலாற்றின் முக்கிய ஆதாரமாக உள்ளன. பண்டைய தமிழகம் முடியாட்சி அரசுகாளாகிய, சேரர், சோழர் மற்றும் பாண்டியர் எனும் மூவேந்தரால் ஆளப்பட்டது.",
+      "சேரர்கள் தமிழ்கத்தின் மேற்குப் பகுதியையும், பாண்டியர்கள் தெற்கு பகுதியையும், சோழர்கள் காவேரி வடிநிலப் பகுதியையும் ஆண்டனர். இம்மன்னர்கள் வேந்தர் என்று அழைக்கப்பட்டனர். வேள் அல்லது வேளிர் என்று அழைக்கப்பட்ட பழங்குடித் தலைவர்கள் குறுநில மன்னர்களாக ஆண்டுவந்தனர். உள்ளூர் அளவில் கிழார் அல்லது மன்னர் என்று அழைக்கப்படும் குலத்தலைவர்கள் இருந்தனர்.",
+      "தொல்லியல் சான்றுகள் தமிழ்நாட்டில் மக்கள் ஏறத்தாழ நான்கு இலட்சம் ஆண்டுகளுக்கும் மேலாக வாழ்ந்து வருவதையும், 5,500 ஆண்டுகளுக்கும் மேலான தொடர்ச்சியான கலாச்சார வரலாற்றைக் கொண்டுள்ளது என்பதையும் சுட்டிக்காட்டுகிறது. வரலாற்று ரீதியாக, பண்டைய தமிழகப் பகுதியில் தமிழ் மொழி பேசிய திராவிட மக்கள் வசித்து வந்தனர். பல நூற்றாண்டுகளாக சங்க காலம் தொட்டு சேரர், சோழர் மற்றும் பாண்டியரால் ஆளப்பட்டது."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What states and union territory are encompassed by the Kaveri basin?",
+    "ground_truth": "The Kaveri basin encompasses the states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry.",
+    "answer": "The states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry are encompassed by the Kaveri basin.",
+    "contexts": [
+      "The Kaveri (anglicized as Cauvery), also known as Ponni (IPA: [ponːi]), is a major river flowing across Southern India. It is the third largest river in the region after Godavari and Krishna. The catchment area of the Kaveri basin is estimated to be 81,155 km2 (31,334 sq mi) and encompasses the states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry. The river rises at Talakaveri in the Brahmagiri range in the Western Ghats.",
+      "== Riparian zone ==\n\nThe total watershed of the basin is 81,155 km2 (31,334 sq mi) and the riparian zone of the river consists of 43,856 km2 (16,933 sq mi) in Tamil Nadu, 34,273 km2 (13,233 sq mi) in Karnataka, 2,866 km2 (1,107 sq mi) in Kerala, and 160 km2 (62 sq mi) in the union territory of Puducherry. Over half of the Kaveri basin is arable and the most cultivated crops are rice and sugarcane.",
+      "The Kaveri basin is made up of two sub-zones, forest and agro-ecosystem. The forest vegetation consists of a mix of dry deciduous, evergreen forests, and grasslands. As per a study, about 12,850 km2 (4,960 sq mi) of natural vegetation was lost in the river basin between 1965 and 2016."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What states and union territory are encompassed by the Kaveri basin?",
+    "ground_truth": "The Kaveri basin encompasses the states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry.",
+    "answer": "The states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry are encompassed by the Kaveri basin.",
+    "contexts": [
+      "The Kaveri (anglicized as Cauvery), also known as Ponni (IPA: [ponːi]), is a major river flowing across Southern India. It is the third largest river in the region after Godavari and Krishna. The catchment area of the Kaveri basin is estimated to be 81,155 km2 (31,334 sq mi) and encompasses the states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry.",
+      "== Riparian zone ==\n\nThe total watershed of the basin is 81,155 km2 (31,334 sq mi) and the riparian zone of the river consists of 43,856 km2 (16,933 sq mi) in Tamil Nadu, 34,273 km2 (13,233 sq mi) in Karnataka, 2,866 km2 (1,107 sq mi) in Kerala, and 160 km2 (62 sq mi) in the union territory of Puducherry. Over half of the Kaveri basin is arable and the most cultivated crops are rice and sugarcane.",
+      "A 2017 paper proposed that an impact structure was present in the vicinity of the Kaveri river. The run-off from the river does not drain off quickly because of the shape of the river basin, which limits the occurrence of floods. It is a perennial river fed mostly by monsoons. Four distinct seasons occur in the basin with hot and cold seasons sandwiching the monsoon seasons. The river basin is fed by South-West monsoon in Karnataka, and North-East monsoon in Tamil Nadu."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "According to ancient Tamil literature, what is the meaning of the name 'Ponni' for the Kaveri river?",
+    "ground_truth": "In ancient Tamil literature, the river was called Ponni, meaning \"the golden one\" in reference to the fine silt it deposits.",
+    "answer": "The meaning of the name 'Ponni' for the Kaveri river is \"the golden one\".",
+    "contexts": [
+      "the river is referenced to as Ponni meaning \"the golden one\".\n\n== Etymology ==\nKaveri is mentioned in Sanskrit as a holy river in various Hindu religious texts including the Mahabharata and the Puranas. The name itself might have had different etymologies. As per Skanda Purana, the river arose after Ganesha took a form of a crow and toppled sage Agastya's kamandala. The river then took its name from the Tamil language words kā meaning \"crow\" and viri meaning \"spread\" literally translating to \"sp",
+      "d Tamil Nadu for decades. The Kaveri basin is a densely populated region, with several towns and cities located on its banks.\nThe river is considered as sacred by the people of Southern India and is considered to be among the seven holy rivers of India. The river is often personified and worshiped as the goddess Kaveri. The river is mentioned in various Hindu religious texts including the Mahabharata and the Puranas. In ancient Tamil literature, the river is referenced to as Ponni meaning \"the g",
+      "viri meaning \"spread\" literally translating to \"spread by a crow\". It might also mean a river with wide spread banks as viri can also be translated as wide spread. The etymology of the river might have also been derived from kāviri, the Sankethi word for \"river\" from the language spoken by the Sankethi people, who live along its waters. Cauvery is the anglicized version of the original name.\nThe river is also known by other names. In ancient Tamil literature, the river was called Ponni meaning \""
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "According to ancient Tamil literature, what is the meaning of the name 'Ponni' for the Kaveri river?",
+    "ground_truth": "In ancient Tamil literature, the river was called Ponni, meaning \"the golden one\" in reference to the fine silt it deposits.",
+    "answer": "The name 'Ponni' for the Kaveri river means \"the golden one\".",
+    "contexts": [
+      "In ancient Tamil literature, the river is referenced to as Ponni meaning \"the golden one\". == Etymology ==\nKaveri is mentioned in Sanskrit as a holy river in various Hindu religious texts including the Mahabharata and the Puranas. The name itself might have had different etymologies. As per Skanda Purana, the river arose after Ganesha took a form of a crow and toppled sage Agastya's kamandala.",
+      "The river is considered as sacred by the people of Southern India and is considered to be among the seven holy rivers of India. The river is often personified and worshiped as the goddess Kaveri. The river is mentioned in various Hindu religious texts including the Mahabharata and the Puranas. In ancient Tamil literature, the river is referenced to as Ponni meaning \"the golden one\".",
+      "It might also mean a river with wide spread banks as viri can also be translated as wide spread. The etymology of the river might have also been derived from kāviri, the Sankethi word for \"river\" from the language spoken by the Sankethi people, who live along its waters. Cauvery is the anglicized version of the original name. The river is also known by other names. In ancient Tamil literature, the river was called Ponni meaning \"the golden one\" in reference to the fine silt it deposits."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "According to ancient Tamil literature, what is the meaning of the name 'Ponni' for the Kaveri river?",
+    "ground_truth": "In ancient Tamil literature, the river was called Ponni, meaning \"the golden one\" in reference to the fine silt it deposits.",
+    "answer": "The meaning of the name 'Ponni' for the Kaveri river in ancient Tamil literature is \"the golden one\", in reference to the fine silt it deposits.",
+    "contexts": [
+      "The Kaveri basin is a densely populated region, with several towns and cities located on its banks. The river is considered as sacred by the people of Southern India and is considered to be among the seven holy rivers of India. The river is often personified and worshiped as the goddess Kaveri. The river is mentioned in various Hindu religious texts including the Mahabharata and the Puranas. In ancient Tamil literature, the river is referenced to as Ponni meaning \"the golden one\".",
+      "The etymology of the river might have also been derived from kāviri, the Sankethi word for \"river\" from the language spoken by the Sankethi people, who live along its waters. Cauvery is the anglicized version of the original name. The river is also known by other names. In ancient Tamil literature, the river was called Ponni meaning \"the golden one\" in reference to the fine silt it deposits.",
+      "The Kaveri (anglicized as Cauvery), also known as Ponni (IPA: [ponːi]), is a major river flowing across Southern India. It is the third largest river in the region after Godavari and Krishna. The catchment area of the Kaveri basin is estimated to be 81,155 km2 (31,334 sq mi) and encompasses the states of Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Where does the Kaveri river join its main right bank tributary Bhavani after flowing through the Hogenakkal Falls?",
+    "ground_truth": "After the Hogenakkal Falls, the river flows southwards towards Mettur Dam and joins its main right bank tributary Bhavani at Kooduthurai.",
+    "answer": "The Kaveri river joins its main right bank tributary Bhavani at Kooduthurai after flowing through the Hogenakkal Falls.",
+    "contexts": [
+      "After forming the island of Shivanasamudra, the river converges and passes through the Mekedatu gorge. After flowing for 320 km (200 mi) in Karnataka, the river flows for about 64 km (40 mi) along the Karnataka-Tamil Nadu border. The river enters Tamil Nadu and forms the Hogenakkal Falls. After the falls, the river flows southwards towards Mettur Dam and joins its main right bank tributary Bhavani at Kooduthurai.",
+      "The largest tributary Hemavati, and Lakshmana Tirtha join the river at Krishna Raja Sagara. Kabini is another major contributor to the flow of Kaveri and joins the river in Karnataka. It meets with its second largest tributary Bhavani at Kooduthurai in Bhavani and two other tributaries Noyyal, and Amaravati join further down the stream in Tamil Nadu. Other tributaries of Kaveri include Shimsha, Arkavati, Sarabanga, and Thirumanimutharu.",
+      "After flowing for 16 km (9.9 mi), the two branches converge around the Srirangam island. The river further branches off into 36 different channels before emptying into the Bay of Bengal near Poompuhar in Mayiladuthurai district. The river traverses for about 416 km (258 mi) in Tamil Nadu for a total length of about 800 km (500 mi). === Tributaries ===\nThe Kaveri River has 21 major tributaries. The largest tributary Hemavati, and Lakshmana Tirtha join the river at Krishna Raja Sagara."
+    ]
   }
 ]
