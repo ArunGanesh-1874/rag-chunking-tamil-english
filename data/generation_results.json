@@ -1160,5 +1160,789 @@
       "The largest tributary Hemavati, and Lakshmana Tirtha join the river at Krishna Raja Sagara. Kabini is another major contributor to the flow of Kaveri and joins the river in Karnataka. It meets with its second largest tributary Bhavani at Kooduthurai in Bhavani and two other tributaries Noyyal, and Amaravati join further down the stream in Tamil Nadu. Other tributaries of Kaveri include Shimsha, Arkavati, Sarabanga, and Thirumanimutharu.",
       "After flowing for 16 km (9.9 mi), the two branches converge around the Srirangam island. The river further branches off into 36 different channels before emptying into the Bay of Bengal near Poompuhar in Mayiladuthurai district. The river traverses for about 416 km (258 mi) in Tamil Nadu for a total length of about 800 km (500 mi). === Tributaries ===\nThe Kaveri River has 21 major tributaries. The largest tributary Hemavati, and Lakshmana Tirtha join the river at Krishna Raja Sagara."
     ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Where does the Kaveri river join its main right bank tributary Bhavani after flowing through the Hogenakkal Falls?",
+    "ground_truth": "After the Hogenakkal Falls, the river flows southwards towards Mettur Dam and joins its main right bank tributary Bhavani at Kooduthurai.",
+    "answer": "The Kaveri river joins its main right bank tributary Bhavani at Kooduthurai after flowing through the Hogenakkal Falls.",
+    "contexts": [
+      "The river enters Tamil Nadu and forms the Hogenakkal Falls. After the falls, the river flows southwards towards Mettur Dam and joins its main right bank tributary Bhavani at Kooduthurai. The river flows eastwards through Erode and Karur, and widens further before entering the Tiruchirappalli district. It splits into two branches with the northern part called as Kollidam River and the southern part of the river retaining the name Kaveri.",
+      "Kabini is another major contributor to the flow of Kaveri and joins the river in Karnataka. It meets with its second largest tributary Bhavani at Kooduthurai in Bhavani and two other tributaries Noyyal, and Amaravati join further down the stream in Tamil Nadu. Other tributaries of Kaveri include Shimsha, Arkavati, Sarabanga, and Thirumanimutharu.",
+      "After flowing for 16 km (9.9 mi), the two branches converge around the Srirangam island. The river further branches off into 36 different channels before emptying into the Bay of Bengal near Poompuhar in Mayiladuthurai district. The river traverses for about 416 km (258 mi) in Tamil Nadu for a total length of about 800 km (500 mi). === Tributaries ===\nThe Kaveri River has 21 major tributaries. The largest tributary Hemavati, and Lakshmana Tirtha join the river at Krishna Raja Sagara."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "காவிரி ஆறு இந்தியாவின் எந்தப் பகுதியில் அமைந்துள்ளது?",
+    "ground_truth": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.",
+    "answer": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.",
+    "contexts": [
+      "காவிரி ஆறு (Cauvery river) அல்லது காவேரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.\nஅது கருநாடக மாநிலத்திலுள்ள மேற்கு தொடர்ச்சி மலையில் உள்ள குடகு மாவட்டத்தைச் சேர்ந்த தலைக்காவேரி என்ற இடத்தில் 4400 அடி உயரத்தில் தோன்றுகிறது. இதன் நீளம் 800 கி.மீ. கருநாடகத்தில் குடகு, ஆசன், மைசூர், மாண்டியா, பெங்களூர் ஊரகம், சாமராசநகர் மாவட்டங்கள் வழியாவும் தமிழ்நாட்டில் தருமபுரி, சேலம், ஈரோடு, நாமக்கல், கரூர், திருச்சி, தஞ்சாவூர், மயிலாடுதுறை  மாவட்டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில்",
+      "காவிரி டெல்டாவை உருவாக்கி வங்கக்கடலில் கலக்கிறது. காவிரி டெல்டாவில் அரசலாறு, வெண்ணாறு, வெட்டாறு, புதுஆறு, மன்னியாறு ஆகிய பெயர்களால் காவிரியின் சில கிளைகள் அழைக்கப்படுகின்றன. தமிழகத்தின் தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை நாகப்பட்டிணம் மாவட்டங்கள்,  புதுச்சேரியின் காரைக்கால் பகுதி ஆகியவை காவிரி வடிநிலப்பகுதியை (டெல்டா) ﻿ சேர்ந்தவை.\n\n== ஆடிப்பெருக்கு விழா ==\nஒவ்வோர் ஆண்டும் தமிழ் மாதமான ஆடி மாதம், 18 ஆம் திகதி அன்று, காவிரி நதிக் கரையோரம், குடும்பப் பெண்கள், சுமங்கலிப் பெண்கள், புதிதாகத் திருமணமா",
+      "டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில் வங்காள விரிகுடாக் கடலில் கலக்கிறது.    \n\n== பெயரியல் ==\nகாவிரி ஆறு தான் செல்லுமிடமெல்லாம் சோலைகளை விரித்துச் செல்லுவதால் காவிரி எனப்பெயர் பெற்றது.\n(கா- காடு, சோலை. பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) . தமிழ்  இலக்கியங்களில் பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது. இந்தியாவின் பிற பகுதிகள் போலவே தமிழகத்திலும் ஆறுகளின் பெயர்கள் பெண்பால் பெயர்களாக இருக்கின்றன. அவை காரணமாகவே  'பொன்னி' என்ற பெயர் காவிரிக்கு வந்திருக்கக்கூடும் எனலாம். அந்த ஆறு சோழ நாட்ட"
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "காவிரி ஆறு இந்தியாவின் எந்தப் பகுதியில் அமைந்துள்ளது?",
+    "ground_truth": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.",
+    "answer": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது. அது கருநாடக மாநிலத்திலுள்ள மேற்கு தொடர்ச்சி மலையில் உள்ள குடகு மாவட்டத்தைச் சேர்ந்த தலைக்காவேரி என்ற இடத்தில் 4400 அடி உயரத்தில் தோன்றுகிறது.",
+    "contexts": [
+      "காவிரி ஆறு (Cauvery river) அல்லது காவேரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது. அது கருநாடக மாநிலத்திலுள்ள மேற்கு தொடர்ச்சி மலையில் உள்ள குடகு மாவட்டத்தைச் சேர்ந்த தலைக்காவேரி என்ற இடத்தில் 4400 அடி உயரத்தில் தோன்றுகிறது. இதன் நீளம் 800 கி.மீ.",
+      "இதன் நீளம் 800 கி.மீ. கருநாடகத்தில் குடகு, ஆசன், மைசூர், மாண்டியா, பெங்களூர் ஊரகம், சாமராசநகர் மாவட்டங்கள் வழியாவும் தமிழ்நாட்டில் தருமபுரி, சேலம், ஈரோடு, நாமக்கல், கரூர், திருச்சி, தஞ்சாவூர், மயிலாடுதுறை  மாவட்டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில் வங்காள விரிகுடாக் கடலில் கலக்கிறது. == பெயரியல் ==\nகாவிரி ஆறு தான் செல்லுமிடமெல்லாம் சோலைகளை விரித்துச் செல்லுவதால் காவிரி எனப்பெயர் பெற்றது. (கா- காடு, சோலை. பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) .",
+      "காவிரி ஆற்றின் சிவனசமுத்திர அருவியின் இடது பக்கம் 1902-இல் அமைக்கப்பட்ட நீர்மின்நிலையமே ஆசியாவின் முதல் நீர்மின்நிலையம் ஆகும். == நீர் பங்கீடு ==\nகாவிரி வடிநிலப்பகுதியில் புதுச்சேரியின் காரைக்கால் பகுதி உள்ளதால் காவிரி கருநாடகா மற்றும் தமிழ்நாடு மாநிலங்களிலும் புதுச்சேரி யூனியன் பிரதேசத்திலும் நேரடியாகப் பாய்கிறது."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "காவிரி ஆறு இந்தியாவின் எந்தப் பகுதியில் அமைந்துள்ளது?",
+    "ground_truth": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.",
+    "answer": "காவிரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.",
+    "contexts": [
+      "காவிரி ஆறு (Cauvery river) அல்லது காவேரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது. அது கருநாடக மாநிலத்திலுள்ள மேற்கு தொடர்ச்சி மலையில் உள்ள குடகு மாவட்டத்தைச் சேர்ந்த தலைக்காவேரி என்ற இடத்தில் 4400 அடி உயரத்தில் தோன்றுகிறது. இதன் நீளம் 800 கி.மீ.",
+      "கருநாடகத்தில் குடகு, ஆசன், மைசூர், மாண்டியா, பெங்களூர் ஊரகம், சாமராசநகர் மாவட்டங்கள் வழியாவும் தமிழ்நாட்டில் தருமபுரி, சேலம், ஈரோடு, நாமக்கல், கரூர், திருச்சி, தஞ்சாவூர், மயிலாடுதுறை  மாவட்டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில் வங்காள விரிகுடாக் கடலில் கலக்கிறது. == பெயரியல் ==\nகாவிரி ஆறு தான் செல்லுமிடமெல்லாம் சோலைகளை விரித்துச் செல்லுவதால் காவிரி எனப்பெயர் பெற்றது. (கா- காடு, சோலை. பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) .",
+      "== நீர் பங்கீடு ==\nகாவிரி வடிநிலப்பகுதியில் புதுச்சேரியின் காரைக்கால் பகுதி உள்ளதால் காவிரி கருநாடகா மற்றும் தமிழ்நாடு மாநிலங்களிலும் புதுச்சேரி யூனியன் பிரதேசத்திலும் நேரடியாகப் பாய்கிறது. நீர் பங்கீடு என்று வரும்போது கேரள மாநிலமும் உரிமை கோர காரணம் காவிரியின் துணை ஆறாகிய கபினி கேரளாவில் உற்பத்தியாவதும், கபினி மற்றும் அதன் துணை ஆறுகளின் நீர் பிடிப்பு பகுதிகளும் அமராவதி மற்றும் பவானியின் நீர் பிடிப்பு பகுதிகளும் கேரளாவில் இருப்பதே. கருநாடகாவில் காவிரியின் நீளம் = 320 கி.மீ."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "தமிழ் இலக்கியங்களில் காவிரி ஆறு எந்தப் பெயரில் அழைக்கப்படுகிறது?",
+    "ground_truth": "தமிழ் இலக்கியங்களில் காவிரி ஆறு பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது.",
+    "answer": "தமிழ் இலக்கியங்களில் காவிரி ஆறு, பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது.",
+    "contexts": [
+      "டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில் வங்காள விரிகுடாக் கடலில் கலக்கிறது.    \n\n== பெயரியல் ==\nகாவிரி ஆறு தான் செல்லுமிடமெல்லாம் சோலைகளை விரித்துச் செல்லுவதால் காவிரி எனப்பெயர் பெற்றது.\n(கா- காடு, சோலை. பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) . தமிழ்  இலக்கியங்களில் பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது. இந்தியாவின் பிற பகுதிகள் போலவே தமிழகத்திலும் ஆறுகளின் பெயர்கள் பெண்பால் பெயர்களாக இருக்கின்றன. அவை காரணமாகவே  'பொன்னி' என்ற பெயர் காவிரிக்கு வந்திருக்கக்கூடும் எனலாம். அந்த ஆறு சோழ நாட்ட",
+      "் முதல் நீர் மின் உற்பத்தி நிலையம் அமைக்கப்பட்டு கோலார் தங்க வயலுக்கு மின்சாரம் வழங்கப்பட்டது. பின் காவிரியுடன் சிம்சா, அர்க்கவதி ஆறுகள் இணைகின்றன. அர்க்கவதி ஆறு இணைந்தவுடன் காவிரியானது ஆழமான குறுகிய பாறைகளின் வழியாகப் பாய்ந்து தமிழகத்தை அடைகிறது. பழங்கதையில் ஒரு ஆடு இவ்விடத்தில் காவிரியைத் தாண்டிக் குதித்து ஓடியதால், இதை ஆடு தாண்டும் காவிரி என்று அழைப்பர்.\n(கன்னட மொழியில் மேகேதாட்டு (Mekedatu) என்று பெயர்). ஆனால் இன்றுள்ள நிலையில் அஃது இயலாததாகும்.\n\n== தமிழகத்தில் காவிரியின் போக்கு ==\n\nமிகக் கு",
+      "காவிரி ஆறு (Cauvery river) அல்லது காவேரி ஆறு இந்தியத் தீபகற்பத்தின் தென் பகுதியில் அமைந்துள்ளது.\nஅது கருநாடக மாநிலத்திலுள்ள மேற்கு தொடர்ச்சி மலையில் உள்ள குடகு மாவட்டத்தைச் சேர்ந்த தலைக்காவேரி என்ற இடத்தில் 4400 அடி உயரத்தில் தோன்றுகிறது. இதன் நீளம் 800 கி.மீ. கருநாடகத்தில் குடகு, ஆசன், மைசூர், மாண்டியா, பெங்களூர் ஊரகம், சாமராசநகர் மாவட்டங்கள் வழியாவும் தமிழ்நாட்டில் தருமபுரி, சேலம், ஈரோடு, நாமக்கல், கரூர், திருச்சி, தஞ்சாவூர், மயிலாடுதுறை  மாவட்டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில்"
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "தமிழ் இலக்கியங்களில் காவிரி ஆறு எந்தப் பெயரில் அழைக்கப்படுகிறது?",
+    "ground_truth": "தமிழ் இலக்கியங்களில் காவிரி ஆறு பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது.",
+    "answer": "தமிழ் இலக்கியங்களில் காவிரி ஆறு 'பொன்னி ஆறு' என்று அழைக்கப்படுகிறது.",
+    "contexts": [
+      "இதன் நீளம் 800 கி.மீ. கருநாடகத்தில் குடகு, ஆசன், மைசூர், மாண்டியா, பெங்களூர் ஊரகம், சாமராசநகர் மாவட்டங்கள் வழியாவும் தமிழ்நாட்டில் தருமபுரி, சேலம், ஈரோடு, நாமக்கல், கரூர், திருச்சி, தஞ்சாவூர், மயிலாடுதுறை  மாவட்டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில் வங்காள விரிகுடாக் கடலில் கலக்கிறது. == பெயரியல் ==\nகாவிரி ஆறு தான் செல்லுமிடமெல்லாம் சோலைகளை விரித்துச் செல்லுவதால் காவிரி எனப்பெயர் பெற்றது. (கா- காடு, சோலை. பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) .",
+      "பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) . தமிழ்  இலக்கியங்களில் பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது. இந்தியாவின் பிற பகுதிகள் போலவே தமிழகத்திலும் ஆறுகளின் பெயர்கள் பெண்பால் பெயர்களாக இருக்கின்றன. அவை காரணமாகவே  'பொன்னி' என்ற பெயர் காவிரிக்கு வந்திருக்கக்கூடும் எனலாம். அந்த ஆறு சோழ நாட்டை செழிக்கச் செய்கிறது.. பொன்படு நெடுவரையில் (குடகு மலை) தோன்றிப் பாய்வதாலும் பொன்னி என்னும் பெயர் வந்தது.",
+      "அர்க்கவதி ஆறு இணைந்தவுடன் காவிரியானது ஆழமான குறுகிய பாறைகளின் வழியாகப் பாய்ந்து தமிழகத்தை அடைகிறது. பழங்கதையில் ஒரு ஆடு இவ்விடத்தில் காவிரியைத் தாண்டிக் குதித்து ஓடியதால், இதை ஆடு தாண்டும் காவிரி என்று அழைப்பர். (கன்னட மொழியில் மேகேதாட்டு (Mekedatu) என்று பெயர்). ஆனால் இன்றுள்ள நிலையில் அஃது இயலாததாகும். == தமிழகத்தில் காவிரியின் போக்கு ==\n\nமிகக் குறுகிய அகலமுடைய, ஆனால் மிக ஆழமான ஆடு தாண்டும் காவிரியிலிருந்து தமிழகம் வரும் காவிரியானது பிலிகுண்டுலு வழியாக ஒகேனக்கல் அருவியை அடைகிறது."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "தமிழ் இலக்கியங்களில் காவிரி ஆறு எந்தப் பெயரில் அழைக்கப்படுகிறது?",
+    "ground_truth": "தமிழ் இலக்கியங்களில் காவிரி ஆறு பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது.",
+    "answer": "பொன்னி ஆறு",
+    "contexts": [
+      "தமிழ்  இலக்கியங்களில் பொன்னி ஆறு என்றும் அழைக்கப்படுகிறது. இந்தியாவின் பிற பகுதிகள் போலவே தமிழகத்திலும் ஆறுகளின் பெயர்கள் பெண்பால் பெயர்களாக இருக்கின்றன. அவை காரணமாகவே  'பொன்னி' என்ற பெயர் காவிரிக்கு வந்திருக்கக்கூடும் எனலாம். அந்த ஆறு சோழ நாட்டை செழிக்கச் செய்கிறது.. பொன்படு நெடுவரையில் (குடகு மலை) தோன்றிப் பாய்வதாலும் பொன்னி என்னும் பெயர் வந்தது. == துணை ஆறுகள் ==\nகபினி, ஏமாவதி, ஆரங்கி , லட்மண தீர்த்தம் , ஆர்க்காவதி, சிம்சா, சொர்ணவதி ஆகியவை கருநாடகப் பகுதியில் பாயும் துணை ஆறுகள்.",
+      "கருநாடகத்தில் குடகு, ஆசன், மைசூர், மாண்டியா, பெங்களூர் ஊரகம், சாமராசநகர் மாவட்டங்கள் வழியாவும் தமிழ்நாட்டில் தருமபுரி, சேலம், ஈரோடு, நாமக்கல், கரூர், திருச்சி, தஞ்சாவூர், மயிலாடுதுறை  மாவட்டங்கள் வழியாகச் சென்று பூம்புகார் என்னும் இடத்தில் வங்காள விரிகுடாக் கடலில் கலக்கிறது. == பெயரியல் ==\nகாவிரி ஆறு தான் செல்லுமிடமெல்லாம் சோலைகளை விரித்துச் செல்லுவதால் காவிரி எனப்பெயர் பெற்றது. (கா- காடு, சோலை. பூ+ கா= பூங்கா- பூக்கள் நிறைந்த சோலை) .",
+      "பின் காவிரியுடன் சிம்சா, அர்க்கவதி ஆறுகள் இணைகின்றன. அர்க்கவதி ஆறு இணைந்தவுடன் காவிரியானது ஆழமான குறுகிய பாறைகளின் வழியாகப் பாய்ந்து தமிழகத்தை அடைகிறது. பழங்கதையில் ஒரு ஆடு இவ்விடத்தில் காவிரியைத் தாண்டிக் குதித்து ஓடியதால், இதை ஆடு தாண்டும் காவிரி என்று அழைப்பர்."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ஆடிப்பெருக்கு விழா எந்தத் தமிழ் மாதத்தில் கொண்டாடப்படுகிறது?",
+    "ground_truth": "ஆடிப்பெருக்கு விழா தமிழ் மாதமான ஆடி மாதம் 18 ஆம் திகதி அன்று கொண்டாடப்படுகிறது.",
+    "answer": "ஆடிப்பெருக்கு விழா ஆடி மாதத்தில் கொண்டாடப்படுகிறது.",
+    "contexts": [
+      "ொங்கல் பண்டிகையையொட்டி நடத்தப்படும் காளைகளை அடக்கும் பாரம்பரிய ஏறுதழுவல் நிகழ்ச்சி மிகவும் பிரசித்தி பெற்றது.\n\nதமிழ்ப் புத்தாண்டு தமிழ் நாட்காட்டியின் படி ஆண்டின் முதல் நாளன்று கொண்டப்படுகின்றது. கார்த்திகை தீபம் என்பது கார்த்திகை மாதத்தின் பௌர்ணமி நாளில் அனுசரிக்கப்படும் தீபங்களின் திருவிழாவாகும். தைப்பூசம் என்பது தமிழ் மாதமான தை மாதத்தின் முதல் பௌர்ணமி நாளில் தமிழ்க்கடவுளான முருகனுக்கு அர்ப்பணிக்கப்பட்ட ஒரு பண்டிகையாகும். ஆடிப் பெருக்கு என்பது ஆடி மாதத்தின் 18 வது நாளில் கொண்டாடப்படும் ஒரு தமி",
+      "ஆடி மாதத்தின் 18 வது நாளில் கொண்டாடப்படும் ஒரு தமிழ் கலாச்சார விழாவாகும். தமிழகம் முழுவதும் உள்ள கோவில்களில் ஆடி மாதத்தின் போது மாரியம்மன் மற்றும் அய்யனார் வழிபாடு மற்றும் பண்டிகைகள் மிகவும் ஆரவாரத்துடன் கொண்டாடப்படுகின்றன. பங்குனி உத்திரம் பங்குனி மாதத்தின் பௌர்ணமி அன்று கொண்டாடப்படுகின்றது. மகா சிவராத்திரி, வைகுண்ட ஏகாதசி, நோன்புப் பெருநாள், பக்ரீத், முகரம், வினாயகர் சதுர்த்தி, சரசுவதி பூசை, கிறிஸ்துமஸ், புனித வெள்ளி போன்ற சமயம் சார்ந்த திருநாட்களும் கொண்டாடப்படுகின்றன.\n1 நவம்பர் 1956 அன்று மொ",
+      "காவிரி டெல்டாவை உருவாக்கி வங்கக்கடலில் கலக்கிறது. காவிரி டெல்டாவில் அரசலாறு, வெண்ணாறு, வெட்டாறு, புதுஆறு, மன்னியாறு ஆகிய பெயர்களால் காவிரியின் சில கிளைகள் அழைக்கப்படுகின்றன. தமிழகத்தின் தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை நாகப்பட்டிணம் மாவட்டங்கள்,  புதுச்சேரியின் காரைக்கால் பகுதி ஆகியவை காவிரி வடிநிலப்பகுதியை (டெல்டா) ﻿ சேர்ந்தவை.\n\n== ஆடிப்பெருக்கு விழா ==\nஒவ்வோர் ஆண்டும் தமிழ் மாதமான ஆடி மாதம், 18 ஆம் திகதி அன்று, காவிரி நதிக் கரையோரம், குடும்பப் பெண்கள், சுமங்கலிப் பெண்கள், புதிதாகத் திருமணமா"
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ஆடிப்பெருக்கு விழா எந்தத் தமிழ் மாதத்தில் கொண்டாடப்படுகிறது?",
+    "ground_truth": "ஆடிப்பெருக்கு விழா தமிழ் மாதமான ஆடி மாதம் 18 ஆம் திகதி அன்று கொண்டாடப்படுகிறது.",
+    "answer": "ஆடிப்பெருக்கு விழா ஆடி மாதத்தில் கொண்டாடப்படுகிறது.",
+    "contexts": [
+      "கார்த்திகை தீபம் என்பது கார்த்திகை மாதத்தின் பௌர்ணமி நாளில் அனுசரிக்கப்படும் தீபங்களின் திருவிழாவாகும். தைப்பூசம் என்பது தமிழ் மாதமான தை மாதத்தின் முதல் பௌர்ணமி நாளில் தமிழ்க்கடவுளான முருகனுக்கு அர்ப்பணிக்கப்பட்ட ஒரு பண்டிகையாகும். ஆடிப் பெருக்கு என்பது ஆடி மாதத்தின் 18 வது நாளில் கொண்டாடப்படும் ஒரு தமிழ் கலாச்சார விழாவாகும். தமிழகம் முழுவதும் உள்ள கோவில்களில் ஆடி மாதத்தின் போது மாரியம்மன் மற்றும் அய்யனார் வழிபாடு மற்றும் பண்டிகைகள் மிகவும் ஆரவாரத்துடன் கொண்டாடப்படுகின்றன.",
+      "== ஆடிப்பெருக்கு விழா ==\nஒவ்வோர் ஆண்டும் தமிழ் மாதமான ஆடி மாதம், 18 ஆம் திகதி அன்று, காவிரி நதிக் கரையோரம், குடும்பப் பெண்கள், சுமங்கலிப் பெண்கள், புதிதாகத் திருமணமான பெண்கள், திருமணமாகாத கன்னிப் பெண்கள், தங்கள் குடும்பங்களுடன் சென்று பூசைகள் செய்து, தங்களின் குடும்ப நலனுக்காகக் காவிரித்தாயை வணங்குவர். பூசைக்காக, மலர் மாலை, பச்சரிசி, ஊதுபத்தி, சாம்பிராணி, மஞ்சள், குங்குமம், தேங்காய், வெற்றிலை பாக்கு, பழங்கள், வெல்லம், மஞ்சள் கயிறு, கற்பூரம், விபூதி, சந்தனம், நாணயங்கள், நறுமணப் பூக்கள், தேன், பச்சரிசி மாவு, பன்னீர், வாழை இலை போன்றவற்றைக் கொண்டு சென்று, காவிரித்தாய்க்குப் படைத்துப் பண்டிகையாகக் கொண்டாடுவது வழக்கம்.",
+      "தமிழகத்தின் தஞ்சாவூர், திருவாரூர், மயிலாடுதுறை நாகப்பட்டிணம் மாவட்டங்கள்,  புதுச்சேரியின் காரைக்கால் பகுதி ஆகியவை காவிரி வடிநிலப்பகுதியை (டெல்டா) ﻿ சேர்ந்தவை. == ஆடிப்பெருக்கு விழா ==\nஒவ்வோர் ஆண்டும் தமிழ் மாதமான ஆடி மாதம், 18 ஆம் திகதி அன்று, காவிரி நதிக் கரையோரம், குடும்பப் பெண்கள், சுமங்கலிப் பெண்கள், புதிதாகத் திருமணமான பெண்கள், திருமணமாகாத கன்னிப் பெண்கள், தங்கள் குடும்பங்களுடன் சென்று பூசைகள் செய்து, தங்களின் குடும்ப நலனுக்காகக் காவிரித்தாயை வணங்குவர்."
+    ]
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ஆடிப்பெருக்கு விழா எந்தத் தமிழ் மாதத்தில் கொண்டாடப்படுகிறது?",
+    "ground_truth": "ஆடிப்பெருக்கு விழா தமிழ் மாதமான ஆடி மாதம் 18 ஆம் திகதி அன்று கொண்டாடப்படுகிறது.",
+    "answer": "ஆடிப்பெருக்கு விழா ஆடி மாதத்தில் கொண்டாடப்படுகிறது.",
+    "contexts": [
+      "ஆடிப் பெருக்கு என்பது ஆடி மாதத்தின் 18 வது நாளில் கொண்டாடப்படும் ஒரு தமிழ் கலாச்சார விழாவாகும். தமிழகம் முழுவதும் உள்ள கோவில்களில் ஆடி மாதத்தின் போது மாரியம்மன் மற்றும் அய்யனார் வழிபாடு மற்றும் பண்டிகைகள் மிகவும் ஆரவாரத்துடன் கொண்டாடப்படுகின்றன. பங்குனி உத்திரம் பங்குனி மாதத்தின் பௌர்ணமி அன்று கொண்டாடப்படுகின்றது. மகா சிவராத்திரி, வைகுண்ட ஏகாதசி, நோன்புப் பெருநாள், பக்ரீத், முகரம், வினாயகர் சதுர்த்தி, சரசுவதி பூசை, கிறிஸ்துமஸ், புனித வெள்ளி போன்ற சமயம் சார்ந்த திருநாட்களும் கொண்டாடப்படுகின்றன.",
+      "== ஆடிப்பெருக்கு விழா ==\nஒவ்வோர் ஆண்டும் தமிழ் மாதமான ஆடி மாதம், 18 ஆம் திகதி அன்று, காவிரி நதிக் கரையோரம், குடும்பப் பெண்கள், சுமங்கலிப் பெண்கள், புதிதாகத் திருமணமான பெண்கள், திருமணமாகாத கன்னிப் பெண்கள், தங்கள் குடும்பங்களுடன் சென்று பூசைகள் செய்து, தங்களின் குடும்ப நலனுக்காகக் காவிரித்தாயை வணங்குவர்.",
+      "பொங்கல் பண்டிகையையொட்டி நடத்தப்படும் காளைகளை அடக்கும் பாரம்பரிய ஏறுதழுவல் நிகழ்ச்சி மிகவும் பிரசித்தி பெற்றது. தமிழ்ப் புத்தாண்டு தமிழ் நாட்காட்டியின் படி ஆண்டின் முதல் நாளன்று கொண்டப்படுகின்றது. கார்த்திகை தீபம் என்பது கார்த்திகை மாதத்தின் பௌர்ணமி நாளில் அனுசரிக்கப்படும் தீபங்களின் திருவிழாவாகும். தைப்பூசம் என்பது தமிழ் மாதமான தை மாதத்தின் முதல் பௌர்ணமி நாளில் தமிழ்க்கடவுளான முருகனுக்கு அர்ப்பணிக்கப்பட்ட ஒரு பண்டிகையாகும்."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What is the approximate length of the Western Ghats mountain range?",
+    "ground_truth": "The Western Ghats stretch 1,600 km (1,000 mi) along the west coast of India.",
+    "answer": "The approximate length of the Western Ghats mountain range is 1,600 km (1,000 mi or 990 mi).",
+    "contexts": [
+      "The Western Ghats, also known as the Sahyadri, is a mountain range that stretches 1,600 km (1,000 mi) along the west coast of India. Covering an area of 160,000 km2 (62,000 mi2), it traverses the Indian states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu. The range forms an almost continuous chain of mountains along the western edge of the Deccan Plateau, from the Tapti River to Swamithoppe in Kanyakumari district at the southern tip of the Indian peninsula.",
+      "It covers an area of 160,000 km2 (62,000 sq mi), traversing the Indian states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu. === Topography ===\n\nThe Western Ghats form an almost continuous chain of mountains running parallel to the western coast of India along the Arabian Sea. The average elevation is around 1,200 m (3,900 ft).",
+      "== Geography ==\n\nThe Western Ghats extend from the Satpura Range south of the Tapti River in the north and runs approximately 1,600 km (990 mi) to the southern tip of the Indian peninsula, where it ends at the Marunthuvazh Malai at Swamithoppe in Kanyakumari district. It covers an area of 160,000 km2 (62,000 sq mi), traversing the Indian states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What is the approximate length of the Western Ghats mountain range?",
+    "ground_truth": "The Western Ghats stretch 1,600 km (1,000 mi) along the west coast of India.",
+    "answer": "The approximate length of the Western Ghats mountain range is 1,600 km (1,000 mi) or 1,600 km (990 mi).",
+    "contexts": [
+      "The Western Ghats, also known as the Sahyadri, is a mountain range that stretches 1,600 km (1,000 mi) along the west coast of India. Covering an area of 160,000 km2 (62,000 mi2), it traverses the Indian states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu. The range forms an almost continuous chain of mountains along the western edge of the Deccan Plateau, from the Tapti River to Swamithoppe in Kanyakumari district at the southern tip of the Indian peninsula.",
+      "=== Topography ===\n\nThe Western Ghats form an almost continuous chain of mountains running parallel to the western coast of India along the Arabian Sea. The average elevation is around 1,200 m (3,900 ft).",
+      "== Geography ==\n\nThe Western Ghats extend from the Satpura Range south of the Tapti River in the north and runs approximately 1,600 km (990 mi) to the southern tip of the Indian peninsula, where it ends at the Marunthuvazh Malai at Swamithoppe in Kanyakumari district. It covers an area of 160,000 km2 (62,000 sq mi), traversing the Indian states of Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "During which geological periods did the Western Ghats arise when India separated from the African continent?",
+    "ground_truth": "The Western Ghats arose somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+    "answer": "The Western Ghats arose during the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+    "contexts": [
+      "Geology ==\nThe Western Ghats are the mountainous, faulted, and eroded edge of the Deccan Plateau. Geologic evidence indicates that they were formed during the break-up of the super-continent of Gondwana. After the break-up, the Deccan Plateau was formed by basalt rocks, which caused the western side to rise at an elevation.\nGeophysical evidence indicates that the mountains arose along the west coast of India somewhere in the late Jurassic and early Cretaceous periods when India separated from th",
+      "ly Cretaceous periods when India separated from the African continent. Several faults triggered the formation of Western Ghats, then interspersed with valleys and river gorges. Because of the elevation of the Deccan Plateau on the west, most rivers flow from west to east, resulting in chiselled eastern slopes and steeper western slopes facing the sea.\n\n== Geography ==\n\nThe Western Ghats extend from the Satpura Range south of the Tapti River in the north and runs approximately 1,600 km (990 mi) t",
+      "rn tip of the Indian peninsula. The Western Ghats meet with the Eastern Ghats at Nilgiris before continuing south.\nGeologic evidence indicates that the mountains were formed during the break-up of the supercontinent of Gondwana. The mountains arose along the west coast of India somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent. The mountains can be roughly divided into three parts: the northern section with an elevation ranging from 900–1"
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "During which geological periods did the Western Ghats arise when India separated from the African continent?",
+    "ground_truth": "The Western Ghats arose somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+    "answer": "The Western Ghats arose during the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+    "contexts": [
+      "After the break-up, the Deccan Plateau was formed by basalt rocks, which caused the western side to rise at an elevation. Geophysical evidence indicates that the mountains arose along the west coast of India somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent. Several faults triggered the formation of Western Ghats, then interspersed with valleys and river gorges.",
+      "Geologic evidence indicates that the mountains were formed during the break-up of the supercontinent of Gondwana. The mountains arose along the west coast of India somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+      "The mountain range is also known as Sahyadri, derived from Sanskrit, meaning benevolent or tolerant mountain. == Geology ==\nThe Western Ghats are the mountainous, faulted, and eroded edge of the Deccan Plateau. Geologic evidence indicates that they were formed during the break-up of the super-continent of Gondwana. After the break-up, the Deccan Plateau was formed by basalt rocks, which caused the western side to rise at an elevation."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "During which geological periods did the Western Ghats arise when India separated from the African continent?",
+    "ground_truth": "The Western Ghats arose somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+    "answer": "The Western Ghats arose during the late Jurassic and early Cretaceous periods when India separated from the African continent.",
+    "contexts": [
+      "Geophysical evidence indicates that the mountains arose along the west coast of India somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent. Several faults triggered the formation of Western Ghats, then interspersed with valleys and river gorges. Because of the elevation of the Deccan Plateau on the west, most rivers flow from west to east, resulting in chiselled eastern slopes and steeper western slopes facing the sea.",
+      "== Geology ==\nThe Western Ghats are the mountainous, faulted, and eroded edge of the Deccan Plateau. Geologic evidence indicates that they were formed during the break-up of the super-continent of Gondwana. After the break-up, the Deccan Plateau was formed by basalt rocks, which caused the western side to rise at an elevation.",
+      "Geologic evidence indicates that the mountains were formed during the break-up of the supercontinent of Gondwana. The mountains arose along the west coast of India somewhere in the late Jurassic and early Cretaceous periods when India separated from the African continent."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "According to linguist Thomas Burrow, what is the origin of the word \"Ghat\"?",
+    "ground_truth": "As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages.",
+    "answer": "According to linguist Thomas Burrow, the word \"Ghat\" was derived from similar words used in various Dravidian languages, such as kattu (mountain side, ridge, or dam) in Tamil, katte (dam), gatta (mountain), and gattu (bank or shore) in Kannada, and katta (dam) and gatte (shore or embankment) in Telugu.",
+    "contexts": [
+      "eading down to a body of water or wharf. As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages such as kattu (mountain side, ridge, or dam) in Tamil, katte (dam), gatta (mountain), and gattu (bank or shore) in Kannada, and katta (dam) and gatte (shore or embankment) in Telugu. The mountain range is also known as Sahyadri, derived from Sanskrit, meaning benevolent or tolerant mountain.\n\n== Geology ==\nThe Western Ghats are the mountainous,",
+      "threatened species occur in the Western Ghats. The region was declared a UNESCO World Heritage Site in 2012.\n\n== Etymology ==\nThe name Western Ghats derives from the word ghat and the cardinal direction in which it is located with respect to the Indian mainland. Ghat, a term used in the Indian subcontinent, depending on the context, could either refer to a range of stepped hills such as the Eastern Ghats and Western Ghats, or a series of steps leading down to a body of water or wharf. As per li",
+      "ing killed an elephant'. Examples in English include cheroot (curuṭṭu meaning 'rolled up'), mango (from māṅgāy), mulligatawny (from miḷaku taṇṇīr 'pepper water'), pariah (from paṟaiyar), curry (from kaṟi), catamaran (from kaṭṭu maram 'bundled logs'), and congee (from kañji 'rice porridge' or 'gruel').\n\n== Sample text ==\nThe following is a sample text in literary Tamil of Article 1 of the Universal Declaration of Human Rights. The first line is the Tamil script; the second is romanized Tamil; the"
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "According to linguist Thomas Burrow, what is the origin of the word \"Ghat\"?",
+    "ground_truth": "As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages.",
+    "answer": "The word \"Ghat\" was derived from similar words used in various Dravidian languages, such as kattu (mountain side, ridge, or dam) in Tamil, katte (dam), gatta (mountain), and gattu (bank or shore) in Kannada, and katta (dam) and gatte (shore or embankment) in Telugu.",
+    "contexts": [
+      "Ghat, a term used in the Indian subcontinent, depending on the context, could either refer to a range of stepped hills such as the Eastern Ghats and Western Ghats, or a series of steps leading down to a body of water or wharf. As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages such as kattu (mountain side, ridge, or dam) in Tamil, katte (dam), gatta (mountain), and gattu (bank or shore) in Kannada, and katta (dam) and gatte (shore or embankment) in Telugu.",
+      "As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages such as kattu (mountain side, ridge, or dam) in Tamil, katte (dam), gatta (mountain), and gattu (bank or shore) in Kannada, and katta (dam) and gatte (shore or embankment) in Telugu. The mountain range is also known as Sahyadri, derived from Sanskrit, meaning benevolent or tolerant mountain.",
+      "== Etymology ==\nThe name Western Ghats derives from the word ghat and the cardinal direction in which it is located with respect to the Indian mainland. Ghat, a term used in the Indian subcontinent, depending on the context, could either refer to a range of stepped hills such as the Eastern Ghats and Western Ghats, or a series of steps leading down to a body of water or wharf."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "According to linguist Thomas Burrow, what is the origin of the word \"Ghat\"?",
+    "ground_truth": "As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages.",
+    "answer": "According to linguist Thomas Burrow, the word \"Ghat\" was derived from similar words used in various Dravidian languages, such as kattu, katte, gatta, gattu, katta, and gatte, in languages like Tamil, Kannada, and Telugu.",
+    "contexts": [
+      "As per linguist Thomas Burrow, the word Ghat was derived from similar words used in various Dravidian languages such as kattu (mountain side, ridge, or dam) in Tamil, katte (dam), gatta (mountain), and gattu (bank or shore) in Kannada, and katta (dam) and gatte (shore or embankment) in Telugu. The mountain range is also known as Sahyadri, derived from Sanskrit, meaning benevolent or tolerant mountain.",
+      "== Etymology ==\nThe name Western Ghats derives from the word ghat and the cardinal direction in which it is located with respect to the Indian mainland. Ghat, a term used in the Indian subcontinent, depending on the context, could either refer to a range of stepped hills such as the Eastern Ghats and Western Ghats, or a series of steps leading down to a body of water or wharf.",
+      "The plot originated at the onset of World War I, between the Ghadar Party in the United States, the Berlin Committee in Germany, the Indian revolutionary underground in British India and the German Foreign Office through the consulate in San Francisco. The incident derives its name from the North American Ghadar Party, whose members of the Punjabi Sikh community in Canada and the United States were among the most prominent participants in the plan."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "மேற்குத் தொடர்ச்சி மலைகள் எந்தக் கடலுக்கு இணையாக அமைந்துள்ளன?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலைகள் அரபிக்கடலுக்கு இணையாக அமைந்துள்ளன.",
+    "answer": "மேற்குத் தொடர்ச்சி மலைகள் அரபிக்கடலுக்கு இணையாக அமைந்துள்ளன.",
+    "contexts": [
+      "மேற்குத் தொடர்ச்சி மலை (Western Ghats) இந்திய துணைக்கண்டத்தின் மேற்புறத்தில் அரபிக்கடலுக்கு இணையாக அமைந்துள்ள மலைத்தொடர் ஆகும். மேற்குத் தொடர்ச்சி மலை அரபிக்கடலில் இருந்து வரும் குளிர்ந்த காற்றைத் தடுத்து அதன் மேற்பகுதியில் அமைந்துள்ள கேரளா மற்றும் மேற்கு கடற்ரையில் நல்ல மழையைத் தருகின்றது. இதனால் இம்மலைத்தொடரின் கிழக்குப்பகுதியிலுள்ள தக்காணப் பீடபூமி குறைந்தளவு மழைப்பொழிவையே பெறுகிறது. உலகில் பல்லுயிர் வளம் மிக்க எட்டு இடங்களில் மேற்குத் தொடர்ச்சி மலைகளும் ஒன்றாகும்.\nஇங்கு சுமார் 5000 வகை பூக்க",
+      "மலைகள் கிழக்கு திசையில் வங்காள விரிகுடா கடற்கரையை ஒட்டி செல்கிறது. இவை காவேரி நதியால் குறுக்கிடப்படுகின்ற ஒரு தொடர்ச்சியற்ற மலைத்தொடராகும். இந்த இரண்டு மலைத் தொடர்களும் தமிழகத்தின் கேரள மற்றும் கருநாடக எல்லை பகுதியில் உள்ள நீலகிரி மலைகளில் சந்திக்கின்றன.\n\nதக்காண பீடபூமி இந்த மலைத்தொடர்களின் இடையே உள்ள ஒரு உயர்ந்த நிலப்பகுதியாகும். மேற்குத் தொடர்ச்சி மலைகள் உயரமாக இருக்கின்ற காரணத்தினால், இந்த பீடபூமியானது மேற்கிலிருந்து கிழக்காக சரிகின்றது. இதன் விளைவாக பெரும்பாலான ஆறுகள் மேற்குத் தொடர்ச்சி மலை",
+      "தொடர்ச்சி மலைப்பகுதிகளில் உருவாகுகின்றன. இங்கு உருவாகி கிழக்கு நோக்கி தக்காண பீடபூமி வழியாகப் பாய்ந்து வங்காள விரிகுடா வில் கலக்கும் முக்கியமான ஆறுகள் சில கோதாவரி, கிருட்டிணா, காவிரி மற்றும் தாமிரபரணி. கோவையில் சிறுவாணி \"உலகின் இரண்டாம் சுவைமிகு நீர்\" ,பவானி ,நொய்யல் என நதிகள் பிறக்கின்றன. இவை தவிர பல சிறு ஆறுகள் இம்மலைத்தொடரில் உருவாகி மேற்கு நோக்கிப் பாய்ந்து அரபிக்கடலில் கலக்கின்றன. புவியியல் ரீதியாக மேற்குத் தொடர்ச்சி மலைத்தொடர் அரபிக்கடலிற்கு அருகில் அமைந்துள்ளதால் மேற்கு நோக்கி பாயும் ஆறு"
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "மேற்குத் தொடர்ச்சி மலைகள் எந்தக் கடலுக்கு இணையாக அமைந்துள்ளன?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலைகள் அரபிக்கடலுக்கு இணையாக அமைந்துள்ளன.",
+    "answer": "மேற்குத் தொடர்ச்சி மலைகள் அரபிக்கடலுக்கு இணையாக அமைந்துள்ளன.",
+    "contexts": [
+      "மேற்குத் தொடர்ச்சி மலை (Western Ghats) இந்திய துணைக்கண்டத்தின் மேற்புறத்தில் அரபிக்கடலுக்கு இணையாக அமைந்துள்ள மலைத்தொடர் ஆகும். மேற்குத் தொடர்ச்சி மலை அரபிக்கடலில் இருந்து வரும் குளிர்ந்த காற்றைத் தடுத்து அதன் மேற்பகுதியில் அமைந்துள்ள கேரளா மற்றும் மேற்கு கடற்ரையில் நல்ல மழையைத் தருகின்றது. இதனால் இம்மலைத்தொடரின் கிழக்குப்பகுதியிலுள்ள தக்காணப் பீடபூமி குறைந்தளவு மழைப்பொழிவையே பெறுகிறது. உலகில் பல்லுயிர் வளம் மிக்க எட்டு இடங்களில் மேற்குத் தொடர்ச்சி மலைகளும் ஒன்றாகும்.",
+      "முற்காலத்தில் மேற்கு தொடர்ச்சி மலைகள் தற்போதைய ஆப்பிரிக்கா, மடகாசுக்கர் மற்றும் செசல்சு தீவுகளோடு இணைந்திருந்தது. 150 மில்லியன் ஆண்டுகளுக்கு முன்னர் நடைபெற்ற புவியியல் மாற்றத்தால், கோண்டுவானா நிலப்பரப்பில் இருந்து பிரிந்த தென் இந்தியப் பகுதிகள் ஆசிய கண்டத்தை நோக்கி இடம் பெயர்ந்தது மற்றும் ஏறக்குறைய 100 முதல் 80 மில்லியன் ஆண்டுகளுக்கு முன் தென் இந்தியப் பகுதிகள் ஏற்பட்ட எரிமலை வெடிப்பும் சேர்ந்து உருவாக்கிய புவியியல் அமைப்பே மேற்கு தொடர்ச்சி மலைகள் ஆகும்.",
+      "மேற்குத் தொடர்ச்சி மலையானது மாநிலத்தின் மேற்கு எல்லையில் வடக்கில் இருந்து தெற்கே செல்கிறது. நீலகிரி மலைகளில் உள்ள தொட்டபெட்டா (2636 மீ) மாநிலத்திலேயே மிக உயரமான சிகரமாகும். கிழக்குத் தொடர்ச்சி மலைகள் கிழக்கு திசையில் வங்காள விரிகுடா கடற்கரையை ஒட்டி செல்கிறது. இவை காவேரி நதியால் குறுக்கிடப்படுகின்ற ஒரு தொடர்ச்சியற்ற மலைத்தொடராகும். இந்த இரண்டு மலைத் தொடர்களும் தமிழகத்தின் கேரள மற்றும் கருநாடக எல்லை பகுதியில் உள்ள நீலகிரி மலைகளில் சந்திக்கின்றன."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "மேற்குத் தொடர்ச்சி மலைகள் எந்தக் கடலுக்கு இணையாக அமைந்துள்ளன?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலைகள் அரபிக்கடலுக்கு இணையாக அமைந்துள்ளன.",
+    "answer": "மேற்குத் தொடர்ச்சி மலை அரபிக்கடலுக்கு இணையாக அமைந்துள்ள மலைத்தொடர் ஆகும்.",
+    "contexts": [
+      "மேற்குத் தொடர்ச்சி மலை (Western Ghats) இந்திய துணைக்கண்டத்தின் மேற்புறத்தில் அரபிக்கடலுக்கு இணையாக அமைந்துள்ள மலைத்தொடர் ஆகும். மேற்குத் தொடர்ச்சி மலை அரபிக்கடலில் இருந்து வரும் குளிர்ந்த காற்றைத் தடுத்து அதன் மேற்பகுதியில் அமைந்துள்ள கேரளா மற்றும் மேற்கு கடற்ரையில் நல்ல மழையைத் தருகின்றது. இதனால் இம்மலைத்தொடரின் கிழக்குப்பகுதியிலுள்ள தக்காணப் பீடபூமி குறைந்தளவு மழைப்பொழிவையே பெறுகிறது. உலகில் பல்லுயிர் வளம் மிக்க எட்டு இடங்களில் மேற்குத் தொடர்ச்சி மலைகளும் ஒன்றாகும்.",
+      "கிழக்குத் தொடர்ச்சி மலைகள் கிழக்கு திசையில் வங்காள விரிகுடா கடற்கரையை ஒட்டி செல்கிறது. இவை காவேரி நதியால் குறுக்கிடப்படுகின்ற ஒரு தொடர்ச்சியற்ற மலைத்தொடராகும். இந்த இரண்டு மலைத் தொடர்களும் தமிழகத்தின் கேரள மற்றும் கருநாடக எல்லை பகுதியில் உள்ள நீலகிரி மலைகளில் சந்திக்கின்றன. தக்காண பீடபூமி இந்த மலைத்தொடர்களின் இடையே உள்ள ஒரு உயர்ந்த நிலப்பகுதியாகும். மேற்குத் தொடர்ச்சி மலைகள் உயரமாக இருக்கின்ற காரணத்தினால், இந்த பீடபூமியானது மேற்கிலிருந்து கிழக்காக சரிகின்றது.",
+      "== புவியியல் ==\n\nஇந்த மலைத் தொடர் கோண்டுவானா நிலப்பரப்பின் ஒரு பகுதி என புவியியல் வரலாறு கூறுகிறது. முற்காலத்தில் மேற்கு தொடர்ச்சி மலைகள் தற்போதைய ஆப்பிரிக்கா, மடகாசுக்கர் மற்றும் செசல்சு தீவுகளோடு இணைந்திருந்தது."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் எது?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் கேரளாவிலுள்ள ஆனைமுடி ஆகும்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு இருக்கிறது. இமயமலைத்தொடரில் நூற்றுக்கு மேற்பட்ட சிகரங்கள் உள்ளன. இதில் சிலவற்றின் உயரம் 7200 மீட்டருக்கு மேலாகும். இதற்கு மாறாக, ஆசியாவுக்கு வெளியே உள்ள மிகப்பெரிய சிகரம் அக்கோன்காகுவா அன்டேசு மலைத்தொடரில் உள்ளது. இதன் உயரம் 6961 மீட்டராகும்.\nமூன்று இணையான உப தொடர்களைக் கொண்டுள்ள இது ஐந்து நாடுகளில் பரவியுள்ளது.பூடான், இந்தியா, நேபாளம், சீனா மற்றும் பாக்கித்தான் என்பனவான அவற்றில் முதல் மூன்று நாடுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின்",
+      "பரப்பளவு சுமார் ஒரு லட்சத்து 60,000 சதுர கி.மீ.. இம்மலைத் தொடர் மராட்டியம், கர்நாடகத்தில் சாயத்ரி மலைத்தொடர் எனவும் தமிழகத்தில் ஆனைமலை, நீலகிரி மலைத்தொடர் எனவும் கேரளாவில் மலபார் பகுதி, அகத்திய மலை எனவும் அழைக்கப்படுகிறது. இம்மலைத்தொடரின் உயரமான சிகரம் கேரளாவிலுள்ள ஆனைமுடி (2,695 மீ) ஆகும். இதுவே தென்னிந்தியாவின் உயரமான சிகரமும் ஆகும். மேலும், இம்மலைத் தொடரிலுள்ள சில மலைகளின் சிகர உயரங்கள் வருமாறு, மன்னாமலை சிகரம் 2659 மீ., தொட்டபெட்டா சிகரம் 2640 மீ.,   மீசபுலி மலை சிகரம் 2637மீ,  முகூர்த்தி ச",
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது.\nஉலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது. இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு"
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் எது?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் கேரளாவிலுள்ள ஆனைமுடி ஆகும்.",
+    "answer": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் தொட்டபெட்டா ஆகும். இதன் உயரம் 2636 மீட்டர் ஆகும்.",
+    "contexts": [
+      "மேற்குத் தொடர்ச்சி மலையானது மாநிலத்தின் மேற்கு எல்லையில் வடக்கில் இருந்து தெற்கே செல்கிறது. நீலகிரி மலைகளில் உள்ள தொட்டபெட்டா (2636 மீ) மாநிலத்திலேயே மிக உயரமான சிகரமாகும். கிழக்குத் தொடர்ச்சி மலைகள் கிழக்கு திசையில் வங்காள விரிகுடா கடற்கரையை ஒட்டி செல்கிறது. இவை காவேரி நதியால் குறுக்கிடப்படுகின்ற ஒரு தொடர்ச்சியற்ற மலைத்தொடராகும். இந்த இரண்டு மலைத் தொடர்களும் தமிழகத்தின் கேரள மற்றும் கருநாடக எல்லை பகுதியில் உள்ள நீலகிரி மலைகளில் சந்திக்கின்றன.",
+      "இதுவே தென்னிந்தியாவின் உயரமான சிகரமும் ஆகும். மேலும், இம்மலைத் தொடரிலுள்ள சில மலைகளின் சிகர உயரங்கள் வருமாறு, மன்னாமலை சிகரம் 2659 மீ., தொட்டபெட்டா சிகரம் 2640 மீ.,   மீசபுலி மலை சிகரம் 2637மீ,  முகூர்த்தி சிகரம் 2554 மீ. ஆகும். == புவியியல் ==\n\nஇந்த மலைத் தொடர் கோண்டுவானா நிலப்பரப்பின் ஒரு பகுதி என புவியியல் வரலாறு கூறுகிறது. முற்காலத்தில் மேற்கு தொடர்ச்சி மலைகள் தற்போதைய ஆப்பிரிக்கா, மடகாசுக்கர் மற்றும் செசல்சு தீவுகளோடு இணைந்திருந்தது.",
+      "இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது. இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு இருக்கிறது. இமயமலைத்தொடரில் நூற்றுக்கு மேற்பட்ட சிகரங்கள் உள்ளன. இதில் சிலவற்றின் உயரம் 7200 மீட்டருக்கு மேலாகும். இதற்கு மாறாக, ஆசியாவுக்கு வெளியே உள்ள மிகப்பெரிய சிகரம் அக்கோன்காகுவா அன்டேசு மலைத்தொடரில் உள்ளது. இதன் உயரம் 6961 மீட்டராகும்."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் எது?",
+    "ground_truth": "மேற்குத் தொடர்ச்சி மலையின் உயரமான சிகரம் கேரளாவிலுள்ள ஆனைமுடி ஆகும்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு இருக்கிறது. இமயமலைத்தொடரில் நூற்றுக்கு மேற்பட்ட சிகரங்கள் உள்ளன. இதில் சிலவற்றின் உயரம் 7200 மீட்டருக்கு மேலாகும். இதற்கு மாறாக, ஆசியாவுக்கு வெளியே உள்ள மிகப்பெரிய சிகரம் அக்கோன்காகுவா அன்டேசு மலைத்தொடரில் உள்ளது. இதன் உயரம் 6961 மீட்டராகும்.",
+      "இம்மலைத் தொடர் மராட்டியம், கர்நாடகத்தில் சாயத்ரி மலைத்தொடர் எனவும் தமிழகத்தில் ஆனைமலை, நீலகிரி மலைத்தொடர் எனவும் கேரளாவில் மலபார் பகுதி, அகத்திய மலை எனவும் அழைக்கப்படுகிறது. இம்மலைத்தொடரின் உயரமான சிகரம் கேரளாவிலுள்ள ஆனைமுடி (2,695 மீ) ஆகும். இதுவே தென்னிந்தியாவின் உயரமான சிகரமும் ஆகும். மேலும், இம்மலைத் தொடரிலுள்ள சில மலைகளின் சிகர உயரங்கள் வருமாறு, மன்னாமலை சிகரம் 2659 மீ., தொட்டபெட்டா சிகரம் 2640 மீ.,   மீசபுலி மலை சிகரம் 2637மீ,  முகூர்த்தி சிகரம் 2554 மீ.",
+      "இமயமலை தெற்காசிய மக்களின் கலாச்சாரத்தை வடிவமைத்துள்ளது. இமயமலையில் உள்ள பல சிகரங்கள் இந்து மற்றும் புத்த மதங்களில் புனிதமாகக் கருதப்படுகிறது. இமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "மேற்குத் தொடர்ச்சி மலையை எந்த அமைப்பு உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது?",
+    "ground_truth": "ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது.",
+    "answer": "ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களமாக அறிவித்துள்ளது.",
+    "contexts": [
+      "தகுந்தவைகளாகும்.\n\n== உலகப் பாரம்பரியக் களம் ==\nஇம் மலைத் தொடரை உலகப் பாரம்பரியக் களங்களுள் ஒன்றாக ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் அறிவித்துள்ளது.\n\n== மாதவ் காட்கில்  குழு ==\nபருவநிலை மாற்றத்தால் மேற்குத் தொடர்ச்சி மலையில் ஏற்பட்டுள்ள பாதிப்புகள் குறித்து ஆய்வு செய்யவும், புவியியல் மற்றும் சுற்றுச்சூழலை பாதுகாக்க இந்திய அரசுக்கு பரிந்துரை செய்யவும், மத்திய அரசு பேராசிரியர் மாதவ் காட்கில் தலைமையில் 14 பேர் கொண்ட குழுவை 2010 மார்ச்சு 4 அன்று அமைத்தது. இந்தக்குழு தனதுஅறிக்கையை 201",
+      "மேற்குத் தொடர்ச்சி மலை (Western Ghats) இந்திய துணைக்கண்டத்தின் மேற்புறத்தில் அரபிக்கடலுக்கு இணையாக அமைந்துள்ள மலைத்தொடர் ஆகும். மேற்குத் தொடர்ச்சி மலை அரபிக்கடலில் இருந்து வரும் குளிர்ந்த காற்றைத் தடுத்து அதன் மேற்பகுதியில் அமைந்துள்ள கேரளா மற்றும் மேற்கு கடற்ரையில் நல்ல மழையைத் தருகின்றது. இதனால் இம்மலைத்தொடரின் கிழக்குப்பகுதியிலுள்ள தக்காணப் பீடபூமி குறைந்தளவு மழைப்பொழிவையே பெறுகிறது. உலகில் பல்லுயிர் வளம் மிக்க எட்டு இடங்களில் மேற்குத் தொடர்ச்சி மலைகளும் ஒன்றாகும்.\nஇங்கு சுமார் 5000 வகை பூக்க",
+      "ுதர்க்காடுகள் ஆகியவை பொதுவாகக் காணப்படுகின்றன. மேற்குத் தொடர்ச்சி மலைகளின் உயர்வான பகுதிகளில் மழைக்காடுகள் அமைந்துள்ளன. உலகில் உள்ள முக்கியமான உயிர்க்கோள காப்பகங்களில் மேற்குத் தொடர்ச்சி மலைகள், யுனெஸ்கோ உலக பாரம்பரியத் களமாக அறிவிக்கிப்பட்டுள்ளன. தமிழ்நாட்டில் ஏறத்தாழ 2000 வகையான விலங்கினங்கள், 5640 வகையான பூக்கும் தாவரங்கள் (1,559 மருத்துவத் தாவர இனங்கள், 533 உள்ளூர்த் தாவர இனங்கள், 260 வகையான பயிரிடப்பட்ட தாவர இனங்கள், 230 அச்சுறுத்தப்படும் தாவர இனங்கள்), 64 வகை வித்துமூடியிலிகள் (நான்கு உள்ந"
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "மேற்குத் தொடர்ச்சி மலையை எந்த அமைப்பு உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது?",
+    "ground_truth": "ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது.",
+    "answer": "ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது.",
+    "contexts": [
+      "== உலகப் பாரம்பரியக் களம் ==\nஇம் மலைத் தொடரை உலகப் பாரம்பரியக் களங்களுள் ஒன்றாக ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் அறிவித்துள்ளது. == மாதவ் காட்கில்  குழு ==\nபருவநிலை மாற்றத்தால் மேற்குத் தொடர்ச்சி மலையில் ஏற்பட்டுள்ள பாதிப்புகள் குறித்து ஆய்வு செய்யவும், புவியியல் மற்றும் சுற்றுச்சூழலை பாதுகாக்க இந்திய அரசுக்கு பரிந்துரை செய்யவும், மத்திய அரசு பேராசிரியர் மாதவ் காட்கில் தலைமையில் 14 பேர் கொண்ட குழுவை 2010 மார்ச்சு 4 அன்று அமைத்தது.",
+      "மேற்குத் தொடர்ச்சி மலைகளின் உயர்வான பகுதிகளில் மழைக்காடுகள் அமைந்துள்ளன. உலகில் உள்ள முக்கியமான உயிர்க்கோள காப்பகங்களில் மேற்குத் தொடர்ச்சி மலைகள், யுனெஸ்கோ உலக பாரம்பரியத் களமாக அறிவிக்கிப்பட்டுள்ளன.",
+      "உலகில் உள்ள முக்கியமான உயிர்க்கோள காப்பகங்களில் மேற்குத் தொடர்ச்சி மலைகள், யுனெஸ்கோ உலக பாரம்பரியத் களமாக அறிவிக்கிப்பட்டுள்ளன. தமிழ்நாட்டில் ஏறத்தாழ 2000 வகையான விலங்கினங்கள், 5640 வகையான பூக்கும் தாவரங்கள் (1,559 மருத்துவத் தாவர இனங்கள், 533 உள்ளூர்த் தாவர இனங்கள், 260 வகையான பயிரிடப்பட்ட தாவர இனங்கள், 230 அச்சுறுத்தப்படும் தாவர இனங்கள்), 64 வகை வித்துமூடியிலிகள் (நான்கு உள்நாட்டு இனங்கள் மற்றும் 60 அறிமுகப்படுத்தப்பட்ட இனங்கள்), 184 வகையான மற்ற செடி வகைகள், பூஞ்சை, பாசி மற்றும் பாக்டீரியா ஆகியன உள்ளன."
+    ]
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "மேற்குத் தொடர்ச்சி மலையை எந்த அமைப்பு உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது?",
+    "ground_truth": "ஐக்கிய நாடுகள் கல்வி, அறிவியல், பண்பாட்டு நிறுவனம் மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களங்களில் ஒன்றாக அறிவித்துள்ளது.",
+    "answer": "யுனெஸ்கோ மேற்குத் தொடர்ச்சி மலையை உலகப் பாரம்பரியக் களமாக அறிவித்துள்ளது.",
+    "contexts": [
+      "உலகில் உள்ள முக்கியமான உயிர்க்கோள காப்பகங்களில் மேற்குத் தொடர்ச்சி மலைகள், யுனெஸ்கோ உலக பாரம்பரியத் களமாக அறிவிக்கிப்பட்டுள்ளன.",
+      "இது யுனெஸ்கோ பாரம்பரியக் களமாக அறிவிக்கப்பட்டுள்ளது.",
+      "மேற்குத் தொடர்ச்சி மலை (Western Ghats) இந்திய துணைக்கண்டத்தின் மேற்புறத்தில் அரபிக்கடலுக்கு இணையாக அமைந்துள்ள மலைத்தொடர் ஆகும். மேற்குத் தொடர்ச்சி மலை அரபிக்கடலில் இருந்து வரும் குளிர்ந்த காற்றைத் தடுத்து அதன் மேற்பகுதியில் அமைந்துள்ள கேரளா மற்றும் மேற்கு கடற்ரையில் நல்ல மழையைத் தருகின்றது. இதனால் இம்மலைத்தொடரின் கிழக்குப்பகுதியிலுள்ள தக்காணப் பீடபூமி குறைந்தளவு மழைப்பொழிவையே பெறுகிறது. உலகில் பல்லுயிர் வளம் மிக்க எட்டு இடங்களில் மேற்குத் தொடர்ச்சி மலைகளும் ஒன்றாகும்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What is the official status of Chennai within Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu.",
+    "answer": "Chennai is the capital and largest city of Tamil Nadu.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India.",
+      "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
+      "Chennai is the state's largest city and capital. Located on the south-eastern coast of the Indian peninsula, Tamil Nadu is straddled by the Western Ghats and Deccan Plateau in the west, the Eastern Ghats in the north, the Eastern Coastal Plains lining the Bay of Bengal in the east, the Gulf of Mannar and the Palk Strait to the south-east, the Laccadive Sea at the southern cape of the peninsula, with the river Kaveri bisecting the state."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What is the official status of Chennai within Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu.",
+    "answer": "Chennai is the capital and largest city of Tamil Nadu.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal.",
+      "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
+      "As the capital of the state of Tamil Nadu, the city houses the state executive and legislative headquarters primarily in the secretariat buildings in Fort St George. Madras High Court is the highest judicial authority in the state, whose jurisdiction extends across Tamil Nadu and Puducherry. === Law and order ===\n\nThe Greater Chennai Police (GCP) is the primary law enforcement agency in the city and is headed by a commissioner of police."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which historical kingdoms controlled the region around Chennai from the 1st century CE onwards?",
+    "ground_truth": "From the 1st century CE, the region was part of the Chola, Pallava, Pandya, and Vijayanagara kingdoms during various eras.",
+    "answer": "The region around Chennai was controlled by the Cholas, as part of Tondaimandalam, from the 2nd century CE onwards, and prior to that, during the 1st century CE, the text does not specify which kingdom controlled the region, only that Tamil poet Thiruvalluvar lived in the town of Mylapore. However, it is mentioned that Ancient Tamilakam was ruled by a triumvirate of monarchical states, Cheras, Cholas and Pandyas during the Sangam period, which started from 500 BCE.",
+    "contexts": [
+      "n found near Pallavaram in Chennai, and according to the Archaeological Survey of India, Pallavaram was a megalithic cultural establishment, with evidence of pre-historic settlements. The region around Chennai was an important administrative, military, and economic centre for many centuries. During the 1st century CE, Tamil poet Thiruvalluvar lived in the town of Mylapore, a neighbourhood of present-day Chennai. In the 2nd century CE, the region was part of Tondaimandalam ruled by the Early Chol",
+      "largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court.\nArcheological evidence points to human settlements in the region during the Stone Age. Historically, from the 1st century CE, the re",
+      "erds uncovered from Keeladi indicate a script which might be a transition between the Indus Valley script and Tamil Brahmi script used later.\n\n=== Sangam period (5th century BCE – 3rd century CE) ===\n\nThe Sangam period lasted for about eight centuries, from 500 BCE to 300 CE with the main source of history during the period coming from the Sangam literature. Ancient Tamilakam was ruled by a triumvirate of monarchical states, Cheras, Cholas and Pandyas. The Cheras controlled the western part of T"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which historical kingdoms controlled the region around Chennai from the 1st century CE onwards?",
+    "ground_truth": "From the 1st century CE, the region was part of the Chola, Pallava, Pandya, and Vijayanagara kingdoms during various eras.",
+    "answer": "From the 1st century CE onwards, the region around Chennai was controlled by the following historical kingdoms: \n\n1. The Early Cholas (from the 2nd century CE, they subdued the Kurumbas)\n2. The Pallavas of Kanchi (from the 3rd to 9th century CE) \n\nNote: The Cheras, Cholas, and Pandyas are mentioned as ruling ancient Tamilakam during the Sangam period, but the specific control of the region around Chennai during this time is not detailed in the context beyond the Cholas.",
+    "contexts": [
+      "During the 1st century CE, Tamil poet Thiruvalluvar lived in the town of Mylapore, a neighbourhood of present-day Chennai. In the 2nd century CE, the region was part of Tondaimandalam ruled by the Early Cholas, who subdued the Kurumbas, the original inhabitants of the region. The Pallavas of Kanchi became the independent rulers of the region from 3rd to 9th century CE, and the areas of Mahabalipuram and Pallavaram were developed during the reign of Pallava king Mahendravarman I.",
+      "== History ==\n\nStone Age implements have been found near Pallavaram in Chennai, and according to the Archaeological Survey of India, Pallavaram was a megalithic cultural establishment, with evidence of pre-historic settlements. The region around Chennai was an important administrative, military, and economic centre for many centuries. During the 1st century CE, Tamil poet Thiruvalluvar lived in the town of Mylapore, a neighbourhood of present-day Chennai.",
+      "=== Sangam period (5th century BCE – 3rd century CE) ===\n\nThe Sangam period lasted for about eight centuries, from 500 BCE to 300 CE with the main source of history during the period coming from the Sangam literature. Ancient Tamilakam was ruled by a triumvirate of monarchical states, Cheras, Cholas and Pandyas. The Cheras controlled the western part of Tamilkam, the Pandyas controlled the south, and the Cholas had their base in the Kaveri delta."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which historical kingdoms controlled the region around Chennai from the 1st century CE onwards?",
+    "ground_truth": "From the 1st century CE, the region was part of the Chola, Pallava, Pandya, and Vijayanagara kingdoms during various eras.",
+    "answer": "From the 1st century CE onwards, the region around Chennai was controlled by the following historical kingdoms: \n\n1. The Early Cholas (from the 2nd century CE): They ruled the region as part of Tondaimandalam and subdued the Kurumbas, the original inhabitants.\n2. The Cheras, Cholas, and Pandyas (during the Sangam period, which includes the 1st to 3rd century CE, but specifically the Cholas had their base in the Kaveri delta, and the region around Chennai was part of Tondaimandalam ruled by the Early Cholas).\n\nNote that the Cholas unified a larger area under their rule from the 9th to the 13th century.",
+    "contexts": [
+      "The region around Chennai was an important administrative, military, and economic centre for many centuries. During the 1st century CE, Tamil poet Thiruvalluvar lived in the town of Mylapore, a neighbourhood of present-day Chennai. In the 2nd century CE, the region was part of Tondaimandalam ruled by the Early Cholas, who subdued the Kurumbas, the original inhabitants of the region.",
+      "They ruled a significantly larger area at the height of their power from the latter half of the 9th century till the beginning of the 13th century. They unified peninsular India south of the Tungabhadra River and held the territory as one state for three centuries between 907 and 1215 CE. Under Rajaraja I and his successors Rajendra I, Rajadhiraja I, Rajendra II, Virarajendra, and Kulothunga Chola I, the empire became a military, economic and cultural powerhouse in South Asia and Southeast Asia.",
+      "=== Sangam period (5th century BCE – 3rd century CE) ===\n\nThe Sangam period lasted for about eight centuries, from 500 BCE to 300 CE with the main source of history during the period coming from the Sangam literature. Ancient Tamilakam was ruled by a triumvirate of monarchical states, Cheras, Cholas and Pandyas. The Cheras controlled the western part of Tamilkam, the Pandyas controlled the south, and the Cholas had their base in the Kaveri delta."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was the GDP of Chennai as of 2023?",
+    "ground_truth": "As of 2023, Chennai had an estimated GDP of $143.9 billion.",
+    "answer": "$143.9 billion",
+    "contexts": [
+      "zation and World Cities Research Network, Chennai is amongst the cities most integrated with the global economy, classified as a beta-city. As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. Chennai has a diversified industrial base anchored by different sectors including automobiles, software services, hardware, healthcare and financial services. As of 2021, Chennai is amongst the top export districts in the country, w",
+      "xperiences a tropical climate with high humidity. It receives most of the rainfall from Northeast monsoon with cyclones being common features during the season, resulting in water inundation and flooding in low-lying areas. As of 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. It has a diversified industrial base anchored by different sectors, and is amongst the top export districts in the country, with more than US$2563 billion in",
+      "in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub. It is a major centre for medical tourism and is termed \"India's health capital\". It is ranked as the second-safest city in India by National Crime Records Bureau in 2023.\nChennai is home to a diverse population of ethno-religious communit"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was the GDP of Chennai as of 2023?",
+    "ground_truth": "As of 2023, Chennai had an estimated GDP of $143.9 billion.",
+    "answer": "$143.9 billion",
+    "contexts": [
+      "As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. Chennai has a diversified industrial base anchored by different sectors including automobiles, software services, hardware, healthcare and financial services. As of 2021, Chennai is amongst the top export districts in the country, with more than US$2563 billion in exports. The city has a permanent exhibition complex Chennai Trade Centre at Nandambakkam.",
+      "As of 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. It has a diversified industrial base anchored by different sectors, and is amongst the top export districts in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub.",
+      "With the presence of two major ports, an international airport, and a converging road and rail networks, Chennai is often referred to as the \"Gateway to South India\". According to the Globalization and World Cities Research Network, Chennai is amongst the cities most integrated with the global economy, classified as a beta-city. As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was the GDP of Chennai as of 2023?",
+    "ground_truth": "As of 2023, Chennai had an estimated GDP of $143.9 billion.",
+    "answer": "The GDP of Chennai as of 2023 was $143.9 billion.",
+    "contexts": [
+      "As of 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. It has a diversified industrial base anchored by different sectors, and is amongst the top export districts in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub.",
+      "According to the Globalization and World Cities Research Network, Chennai is amongst the cities most integrated with the global economy, classified as a beta-city. As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. Chennai has a diversified industrial base anchored by different sectors including automobiles, software services, hardware, healthcare and financial services.",
+      "As of 2021, Chennai is amongst the top export districts in the country, with more than US$2563 billion in exports. The city has a permanent exhibition complex Chennai Trade Centre at Nandambakkam. The city hosts the Tamil Nadu Global Investors Meet, a business summit organized by the Government of Tamil Nadu. With about 62% of the population classified as affluent with less than 1% asset-poor, Chennai has the fifth highest number of millionaires."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னையின் பழைய பெயர்கள் யாவை?",
+    "ground_truth": "1996-ஆம் ஆண்டுக்கு முன்னர் சென்னை மதராசு பட்டினம், மெட்ராஸ் மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது.",
+    "answer": "சென்னையின் பழைய பெயர்கள் மதராஸ், மெட்ராஸ், சென்னப்பட்டினம், மதராஸ் பட்டினம் ஆகும்.",
+    "contexts": [
+      ". வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்டை நிலத்தை பிரித்தானியர் வாங்கியதால், தங்கள் தந்தை 'சென்னப்ப நாயக்கர்' பெயரால் 'சென்னப்பட்டணம்' என இந்நகரம் அழைக்கப்பட வேண்டும் என வெங்கடபதி சகோதரர்கள் கோரிக்கை விடுத்தனர். ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது.\nடிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும். 2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமா",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்",
+      "னது. சென்னை மாகாணம் 1967-ஆம் ஆண்டு 'தமிழ்நாடு' என்று பெயர் மாற்றம் செய்யப்பட்டது. இந்நகரின் பெயரான மதராஸ் என்பது, 1996-ஆம் ஆண்டு 'சென்னை' எனப் பெயர்மாற்றம் செய்யப்பட்டது.\nஇந்திய விடுதலைக்குப் பிறகு சில வருடங்கள் கழித்து 1956-ஆம் ஆண்டு மொழி வாரியாக மாநிலங்களைப் பிரித்த போது, தமிழ்நாட்டின் ஒரு பகுதியாகி, மாநிலத்தின் தலைநகரானது சென்னை. மதராஸ் என்ற பெயர் போர்த்துகீசியர்களால் வைக்கப்பட்டது என்று கருதியதால் தமிழக அரசு 1996-இல் சென்னை என மாற்றம் செய்தது. வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னையின் பழைய பெயர்கள் யாவை?",
+    "ground_truth": "1996-ஆம் ஆண்டுக்கு முன்னர் சென்னை மதராசு பட்டினம், மெட்ராஸ் மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது.",
+    "answer": "சென்னையின் பழைய பெயர் 'மதராஸ்' மற்றும் 'சென்னப்பட்டணம்' ஆகும்.",
+    "contexts": [
+      "மதராஸ் என்ற பெயர் போர்த்துகீசியர்களால் வைக்கப்பட்டது என்று கருதியதால் தமிழக அரசு 1996-இல் சென்னை என மாற்றம் செய்தது. வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்டை நிலத்தை பிரித்தானியர் வாங்கியதால், தங்கள் தந்தை 'சென்னப்ப நாயக்கர்' பெயரால் 'சென்னப்பட்டணம்' என இந்நகரம் அழைக்கப்பட வேண்டும் என வெங்கடபதி சகோதரர்கள் கோரிக்கை விடுத்தனர். ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது.",
+      "1-ஆம் நூற்றாண்டு முதல் பல்லவ, சோழ மற்றும் விஜயநகரப் பேரரசுகளில் சென்னை ஒரு முக்கிய இடமாக விளங்கியதாகக் கருதப்படுகிறது. வெளிநாடுகளிலிருந்து வர்த்தகர்களும், மத போதகர்களும் சென்னைக் கடற்கரை மூலம் வந்துள்ளனர். இந்தப் பகுதி முதலில் சென்னப்பட்டணம் என்ற சிறிய கிராமமாக இருந்தது. 1639-ஆம் ஆண்டு ஆகத்து மாதம் 22-ஆம் தேதிதான், தமிழர்களின் அடையாளங்களுள் ஒன்றாகத் திகழும் இந்நகரம் உருவானது.",
+      "ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது. டிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும். 2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னையின் பழைய பெயர்கள் யாவை?",
+    "ground_truth": "1996-ஆம் ஆண்டுக்கு முன்னர் சென்னை மதராசு பட்டினம், மெட்ராஸ் மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது.",
+    "answer": "மதராசு பட்டினம், மெட்ராஸ், சென்னப்பட்டினம் ஆகியவை சென்னையின் பழைய பெயர்களாகும்.",
+    "contexts": [
+      "வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்டை நிலத்தை பிரித்தானியர் வாங்கியதால், தங்கள் தந்தை 'சென்னப்ப நாயக்கர்' பெயரால் 'சென்னப்பட்டணம்' என இந்நகரம் அழைக்கப்பட வேண்டும் என வெங்கடபதி சகோதரர்கள் கோரிக்கை விடுத்தனர். ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது. டிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும்.",
+      "1-ஆம் நூற்றாண்டு முதல் பல்லவ, சோழ மற்றும் விஜயநகரப் பேரரசுகளில் சென்னை ஒரு முக்கிய இடமாக விளங்கியதாகக் கருதப்படுகிறது. வெளிநாடுகளிலிருந்து வர்த்தகர்களும், மத போதகர்களும் சென்னைக் கடற்கரை மூலம் வந்துள்ளனர். இந்தப் பகுதி முதலில் சென்னப்பட்டணம் என்ற சிறிய கிராமமாக இருந்தது. 1639-ஆம் ஆண்டு ஆகத்து மாதம் 22-ஆம் தேதிதான், தமிழர்களின் அடையாளங்களுள் ஒன்றாகத் திகழும் இந்நகரம் உருவானது.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எப்போது நிறுவப்பட்டது?",
+    "ground_truth": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது.",
+    "answer": "1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி இந்தியாவின் முதல் மாநகராட்சி நிறுவப்பட்டது.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்",
+      "ைத் தொடர்ந்து அந்தப் பகுதி, போர்த்துக்கீசியர் வசம் வந்தது. தற்போதைய சென்னைக்கு வடக்கே புலிக்காடு என்ற பகுதியில் 1612-ஆம் ஆண்டில் அவர்களது குடியிருப்பு உருவானது. 1688-ஆம் ஆண்டில், சென்னை, முதல் நகர அவையாக இரண்டாம் ஜேம்ஸ் மன்னரால் அறிவிக்கப்பட்டது. இதன் மூலம் இந்தியாவின் முதல் நகராட்சி என்ற பெருமையைச் சென்னை பெற்றது. கிழக்கிந்தியக் கம்பெனியின் ராபர்ட் கிளைவ் தனது படை நடவடிக்கைகளுக்கான தளமாக இதைப் பயன்படுத்தினார். பின்னர் இது பிரித்தானிய அரசின் இந்தியக் குடியிருப்புப் பகுதியில் இருந்த 4 மாகாணங்களில",
+      "மற்றும் 12,618 ஊராட்சி மன்றங்கள் ஆகியனவாக பிரிக்கப்பட்டுள்ளன. 1688 இல் நிறுவப்பட்ட சென்னை மாநகராட்சி உலகின் இரண்டாவது பழமையானதாகும். புதிய நிர்வாக அலகாக நகர பஞ்சாயத்துக்களை நிறுவிய முதல் மாநிலம் தமிழ்நாடு ஆகும்.\n\n=== சட்டமன்றம் ===\n\nஇந்திய அரசியலமைப்பின் படி, ஆளுநர் மாநிலத்தின் அரசியலமைப்புத் தலைவராகவும், முதலமைச்சர் அரசாங்கத்தின் தலைவராகவும், அமைச்சர்கள் குழுவின் தலைவராகவும் உள்ளார். 1861 ஆம் ஆண்டின் இந்திய பேரவைகள் சட்டம் நான்கு முதல் எட்டு உறுப்பினர்களைக் கொண்ட சென்னை மாகாண சட்டமன்றக் ஆலோசனைக"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எப்போது நிறுவப்பட்டது?",
+    "ground_truth": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது.",
+    "answer": "1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி இந்தியாவின் முதல் மாநகராட்சி நிறுவப்பட்டது.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "தற்போதைய சென்னைக்கு வடக்கே புலிக்காடு என்ற பகுதியில் 1612-ஆம் ஆண்டில் அவர்களது குடியிருப்பு உருவானது. 1688-ஆம் ஆண்டில், சென்னை, முதல் நகர அவையாக இரண்டாம் ஜேம்ஸ் மன்னரால் அறிவிக்கப்பட்டது. இதன் மூலம் இந்தியாவின் முதல் நகராட்சி என்ற பெருமையைச் சென்னை பெற்றது. கிழக்கிந்தியக் கம்பெனியின் ராபர்ட் கிளைவ் தனது படை நடவடிக்கைகளுக்கான தளமாக இதைப் பயன்படுத்தினார். பின்னர் இது பிரித்தானிய அரசின் இந்தியக் குடியிருப்புப் பகுதியில் இருந்த 4 மாகாணங்களில் ஒன்றான \"சென்னை மாகாணம்\" என்ற பெயர் பெற்றது.",
+      "1688 இல் நிறுவப்பட்ட சென்னை மாநகராட்சி உலகின் இரண்டாவது பழமையானதாகும். புதிய நிர்வாக அலகாக நகர பஞ்சாயத்துக்களை நிறுவிய முதல் மாநிலம் தமிழ்நாடு ஆகும். === சட்டமன்றம் ===\n\nஇந்திய அரசியலமைப்பின் படி, ஆளுநர் மாநிலத்தின் அரசியலமைப்புத் தலைவராகவும், முதலமைச்சர் அரசாங்கத்தின் தலைவராகவும், அமைச்சர்கள் குழுவின் தலைவராகவும் உள்ளார். 1861 ஆம் ஆண்டின் இந்திய பேரவைகள் சட்டம் நான்கு முதல் எட்டு உறுப்பினர்களைக் கொண்ட சென்னை மாகாண சட்டமன்றக் ஆலோசனைக் குழுவை நிறுவியது."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எப்போது நிறுவப்பட்டது?",
+    "ground_truth": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது.",
+    "answer": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "உள்ளூர் நிர்வாகதிற்காக 25 மாநகராட்சிகள், 117 நகராட்சிகள், 487 பேரூராட்சிகள், 528 நகர பஞ்சாயத்துக்கள், 385 ஊராட்சி ஒன்றியங்கள் மற்றும் 12,618 ஊராட்சி மன்றங்கள் ஆகியனவாக பிரிக்கப்பட்டுள்ளன. 1688 இல் நிறுவப்பட்ட சென்னை மாநகராட்சி உலகின் இரண்டாவது பழமையானதாகும். புதிய நிர்வாக அலகாக நகர பஞ்சாயத்துக்களை நிறுவிய முதல் மாநிலம் தமிழ்நாடு ஆகும்.",
+      "1522-ஆம் ஆண்டில் இங்கு வந்த போர்த்துகீசியர்கள் செயின்ட் தாமஸ் கோட்டையைக் கட்டினர். அதைத் தொடர்ந்து அந்தப் பகுதி, போர்த்துக்கீசியர் வசம் வந்தது. தற்போதைய சென்னைக்கு வடக்கே புலிக்காடு என்ற பகுதியில் 1612-ஆம் ஆண்டில் அவர்களது குடியிருப்பு உருவானது. 1688-ஆம் ஆண்டில், சென்னை, முதல் நகர அவையாக இரண்டாம் ஜேம்ஸ் மன்னரால் அறிவிக்கப்பட்டது. இதன் மூலம் இந்தியாவின் முதல் நகராட்சி என்ற பெருமையைச் சென்னை பெற்றது."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை ஏன் 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளதால், சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது.",
+    "answer": "சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது, ஏனென்றால் அமெரிக்காவின் டெட்ராய்ட் நகரம் அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகராக இருப்பதைப் போல, சென்னை நகரம் ஆசியாவில் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்குகிறது. சென்னை வாகன உற்பத்தியில் இந்தியாவின் ஒரு முக்கிய மையமாக இருப்பதால், 'ஆசியாவின் டெட்ராய்ட்' என்ற பட்டம் இந்நகருக்கு வழங்கப்பட்டுள்ளது.",
+    "contexts": [
+      "ளைச் சார்ந்தது. ஊர்தி, தகவல் தொழில்நுட்பம், வன்பொருள் தயாரிப்பு, மருத்துவம் போன்ற பல துறைகளைக் கொண்டது. ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது. அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்கும் சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது. சென்னை ஆண்டுக்கு 1.4 மில்லியன் அதாவது 14 லட்சம் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது. இங்கு ஒரு நிமிடத்திற்கு சராச",
+      "்பத்தித் தளங்களைக் கொண்டுள்ளன. மேலும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் சென்னை \"இந்தியாவின் டெட்ராய்ட்\" என்ற புனைப்பெயரைப் பெற்றுள்ளது. சென்னையில் உள்ள ஒருங்கிணைந்த இணைப்புப் பெட்டித் தொழிற்சாலை இந்திய இரயில்வேக்கான தொடருந்து பெட்டிகள் மற்றும் பாகங்களைத் தயாரிக்கிறது.\n\nமாநிலத்தின் மற்றுமொரு பெரிய தொழில்துறை துணி நெசவு மற்றும் தயாரிப்பாகும். இந்தியாவில் செயல்படும் நூற்பாலைகளில் பாதிக்கும் மேற்பட்ட ஆலைகள் தமிழகத்தில் உள்ளன. பருத",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை ஏன் 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளதால், சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது.",
+    "answer": "சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது, ஏனெனில் ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது மற்றும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் காரணத்தால் இந்தியாவின் ஆட்டோமொபைல் துறையின் தலைநகராக விளங்குகிறது.",
+    "contexts": [
+      "ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது. அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்கும் சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது. சென்னை ஆண்டுக்கு 1.4 மில்லியன் அதாவது 14 லட்சம் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது. இங்கு ஒரு நிமிடத்திற்கு சராசரியாக 3 கார்கள் தயாரிக்கப்படுகின்றன.",
+      "ஏராளமான தானுந்து தயாரிப்பு நிறுவனங்கள் மாநிலத்தில் தங்கள் உற்பத்தித் தளங்களைக் கொண்டுள்ளன. மேலும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் சென்னை \"இந்தியாவின் டெட்ராய்ட்\" என்ற புனைப்பெயரைப் பெற்றுள்ளது. சென்னையில் உள்ள ஒருங்கிணைந்த இணைப்புப் பெட்டித் தொழிற்சாலை இந்திய இரயில்வேக்கான தொடருந்து பெட்டிகள் மற்றும் பாகங்களைத் தயாரிக்கிறது. மாநிலத்தின் மற்றுமொரு பெரிய தொழில்துறை துணி நெசவு மற்றும் தயாரிப்பாகும்.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னை ஏன் 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளதால், சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது.",
+    "answer": "சென்னை நகரம் அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்குவதால், சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது.",
+    "contexts": [
+      "ஊர்தி, தகவல் தொழில்நுட்பம், வன்பொருள் தயாரிப்பு, மருத்துவம் போன்ற பல துறைகளைக் கொண்டது. ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது. அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்கும் சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது. சென்னை ஆண்டுக்கு 1.4 மில்லியன் அதாவது 14 லட்சம் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது.",
+      "மேலும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் சென்னை \"இந்தியாவின் டெட்ராய்ட்\" என்ற புனைப்பெயரைப் பெற்றுள்ளது. சென்னையில் உள்ள ஒருங்கிணைந்த இணைப்புப் பெட்டித் தொழிற்சாலை இந்திய இரயில்வேக்கான தொடருந்து பெட்டிகள் மற்றும் பாகங்களைத் தயாரிக்கிறது. மாநிலத்தின் மற்றுமொரு பெரிய தொழில்துறை துணி நெசவு மற்றும் தயாரிப்பாகும். இந்தியாவில் செயல்படும் நூற்பாலைகளில் பாதிக்கும் மேற்பட்ட ஆலைகள் தமிழகத்தில் உள்ளன.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What mountain range lies to the northwest of the Himalayas?",
+    "ground_truth": "The Karakoram and Hindu Kush ranges border the Himalayas on the northwest.",
+    "answer": "The Karakoram and Hindu Kush ranges lie to the northwest of the Himalayas.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River.",
+      "The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What mountain range lies to the northwest of the Himalayas?",
+    "ground_truth": "The Karakoram and Hindu Kush ranges border the Himalayas on the northwest.",
+    "answer": "I don't know based on the given context.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.",
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which parallel mountain range is considered the highest and central range within the Himalayas?",
+    "ground_truth": "The Great Himalayas is the highest and central range within the Himalayas.",
+    "answer": "The Great Himalayas",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
+      "मवत्) or Himavan Himavān (Sanskrit: हिमवान्) is a Hindu deity who is the personification of the Himalayan Mountain Range. Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains').\n\n== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas,"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which parallel mountain range is considered the highest and central range within the Himalayas?",
+    "ground_truth": "The Great Himalayas is the highest and central range within the Himalayas.",
+    "answer": "The Great Himalayas is the highest and central range within the Himalayas.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains'). == Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north.",
+      "== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which parallel mountain range is considered the highest and central range within the Himalayas?",
+    "ground_truth": "The Great Himalayas is the highest and central range within the Himalayas.",
+    "answer": "The Great Himalayas is considered the highest and central range within the Himalayas.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.",
+      "In the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of the Kali Gandaki, the Kora La, is the lowest point on the ridgeline between Everest and K2 (the highest peak of the Karakoram range)."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What is the Sanskrit origin of the name 'Himalaya' and what does it mean?",
+    "ground_truth": "The name Himalaya comes from the Sanskrit Himālaya, meaning 'abode of snow'.",
+    "answer": "The Sanskrit origin of the name 'Himalaya' is from Himālaya (हिमालय), which is derived from \"hima\" (हिम) meaning 'frost/cold' and \"ālaya\" (आलय) meaning 'dwelling/house' or 'abode'. So, the name 'Himalaya' means 'abode of snow'.",
+    "contexts": [
+      "east.\n\n== Etymology ==\nThe name of the range hails from the Sanskrit Himālaya (हिमालय 'abode of snow'), from hima (हिम 'frost/cold') and ālaya (आलय 'dwelling/house'). The cognates include:\n\nThis name was also previously transcribed as Himmaleh, as in Emily Dickinson's poetry and Henry David Thoreau's essays.\nThe name of the range is sometimes also given as \"Himivan\" in older writings, including the Sanskrit epic Mahabharata. Himavat (Sanskrit: हिमवत्) or Himavan Himavān (Sanskrit: हिमवान्) is a",
+      "मवत्) or Himavan Himavān (Sanskrit: हिमवान्) is a Hindu deity who is the personification of the Himalayan Mountain Range. Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains').\n\n== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas,",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What is the Sanskrit origin of the name 'Himalaya' and what does it mean?",
+    "ground_truth": "The name Himalaya comes from the Sanskrit Himālaya, meaning 'abode of snow'.",
+    "answer": "The Sanskrit origin of the name 'Himalaya' is from Himālaya (हिमालय), which is derived from \"hima\" (हिम) meaning 'frost/cold' and \"ālaya\" (आलय) meaning 'dwelling/house' or 'abode'. So, the name 'Himalaya' means 'abode of snow'.",
+    "contexts": [
+      "The range varies in width from 350 kilometres (220 miles) in the west to 151 km (94 mi) in the east. == Etymology ==\nThe name of the range hails from the Sanskrit Himālaya (हिमालय 'abode of snow'), from hima (हिम 'frost/cold') and ālaya (आलय 'dwelling/house'). The cognates include:\n\nThis name was also previously transcribed as Himmaleh, as in Emily Dickinson's poetry and Henry David Thoreau's essays.",
+      "The cognates include:\n\nThis name was also previously transcribed as Himmaleh, as in Emily Dickinson's poetry and Henry David Thoreau's essays. The name of the range is sometimes also given as \"Himivan\" in older writings, including the Sanskrit epic Mahabharata. Himavat (Sanskrit: हिमवत्) or Himavan Himavān (Sanskrit: हिमवान्) is a Hindu deity who is the personification of the Himalayan Mountain Range. Other epithets include Himaraja (Sanskrit: हिमराज, lit.",
+      "Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains'). == Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What is the Sanskrit origin of the name 'Himalaya' and what does it mean?",
+    "ground_truth": "The name Himalaya comes from the Sanskrit Himālaya, meaning 'abode of snow'.",
+    "answer": "The Sanskrit origin of the name 'Himalaya' is from Himālaya (हिमालय), which is derived from \"hima\" (हिम, meaning 'frost/cold') and \"ālaya\" (आलय, meaning 'dwelling/house'). So, the name 'Himalaya' means 'abode of snow'.",
+    "contexts": [
+      "The name of the range is sometimes also given as \"Himivan\" in older writings, including the Sanskrit epic Mahabharata. Himavat (Sanskrit: हिमवत्) or Himavan Himavān (Sanskrit: हिमवान्) is a Hindu deity who is the personification of the Himalayan Mountain Range. Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains').",
+      "The range varies in width from 350 kilometres (220 miles) in the west to 151 km (94 mi) in the east. == Etymology ==\nThe name of the range hails from the Sanskrit Himālaya (हिमालय 'abode of snow'), from hima (हिम 'frost/cold') and ālaya (आलय 'dwelling/house'). The cognates include:\n\nThis name was also previously transcribed as Himmaleh, as in Emily Dickinson's poetry and Henry David Thoreau's essays.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும். சரியானதா?",
+    "ground_truth": "ஆம், இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்.",
+    "answer": "ஆம், சரியானது. இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது.\nஉலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது. இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு",
+      "் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு இருக்கிறது. இமயமலைத்தொடரில் நூற்றுக்கு மேற்பட்ட சிகரங்கள் உள்ளன. இதில் சிலவற்றின் உயரம் 7200 மீட்டருக்கு மேலாகும். இதற்கு மாறாக, ஆசியாவுக்கு வெளியே உள்ள மிகப்பெரிய சிகரம் அக்கோன்காகுவா அன்டேசு மலைத்தொடரில் உள்ளது. இதன் உயரம் 6961 மீட்டராகும்.\nமூன்று இணையான உப தொடர்களைக் கொண்டுள்ள இது ஐந்து நாடுகளில் பரவியுள்ளது.பூடான், இந்தியா, நேபாளம், சீனா மற்றும் பாக்கித்தான் என்பனவான அவற்றில் முதல் மூன்று நாடுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின்",
+      "கக் கருதப்படுகிறது.\nஇமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது. மலைத்தொடரின் அகலம் மேற்கில் 400 கிலோமீட்டரும் கிழக்கில் 150 கிலோமீட்டரும் ஆகும்.\n\n== சுற்றுப்புறம் ==\n\nஇமயமலையின் தாவரங்கள் மற்றும் விலங்கினங்களைக் காலநிலை, மழை, உயரம், மற்றும் மண் கொண்டு மாறு"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும். சரியானதா?",
+    "ground_truth": "ஆம், இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்.",
+    "answer": "ஆம், சரியானது. இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது.",
+      "இதன் உயரம் 6961 மீட்டராகும். மூன்று இணையான உப தொடர்களைக் கொண்டுள்ள இது ஐந்து நாடுகளில் பரவியுள்ளது.பூடான், இந்தியா, நேபாளம், சீனா மற்றும் பாக்கித்தான் என்பனவான அவற்றில் முதல் மூன்று நாடுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின் வடக்கே திபத்திய பீடபூமியையும், வடமேற்கே காரகோரம் மற்றும் இந்து குஃசு மலைத்தொடரையும் தெற்கே சிந்து-கங்கை சமவெளியையும் எல்லையாகக் கொண்டுள்ளது. உலகின் சில பெரிய நதிகளான சிந்து, கங்கை, மற்றும் பிரமபுத்திரா உற்பத்தியாகிறது.",
+      "இமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது. மலைத்தொடரின் அகலம் மேற்கில் 400 கிலோமீட்டரும் கிழக்கில் 150 கிலோமீட்டரும் ஆகும். == சுற்றுப்புறம் ==\n\nஇமயமலையின் தாவரங்கள் மற்றும் விலங்கினங்களைக் காலநிலை, மழை, உயரம், மற்றும் மண் கொண்டு மாறுபடும்."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும். சரியானதா?",
+    "ground_truth": "ஆம், இமயமலை உலகின் மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்.",
+    "answer": "ஆம், சரியானது. இமயமலை உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் ஆகும்.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது.",
+      "இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு இருக்கிறது. இமயமலைத்தொடரில் நூற்றுக்கு மேற்பட்ட சிகரங்கள் உள்ளன. இதில் சிலவற்றின் உயரம் 7200 மீட்டருக்கு மேலாகும். இதற்கு மாறாக, ஆசியாவுக்கு வெளியே உள்ள மிகப்பெரிய சிகரம் அக்கோன்காகுவா அன்டேசு மலைத்தொடரில் உள்ளது. இதன் உயரம் 6961 மீட்டராகும்.",
+      "மூன்று இணையான உப தொடர்களைக் கொண்டுள்ள இது ஐந்து நாடுகளில் பரவியுள்ளது.பூடான், இந்தியா, நேபாளம், சீனா மற்றும் பாக்கித்தான் என்பனவான அவற்றில் முதல் மூன்று நாடுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின் வடக்கே திபத்திய பீடபூமியையும், வடமேற்கே காரகோரம் மற்றும் இந்து குஃசு மலைத்தொடரையும் தெற்கே சிந்து-கங்கை சமவெளியையும் எல்லையாகக் கொண்டுள்ளது. உலகின் சில பெரிய நதிகளான சிந்து, கங்கை, மற்றும் பிரமபுத்திரா உற்பத்தியாகிறது. இந்நதிகளின் மொத்த வடிகால் 60 கோடி மக்களின் இருப்பிடமாகும்."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இமயமலை எந்த கண்டத்தில் அமைந்துள்ளது?",
+    "ground_truth": "இமயமலை ஆசியாவில் அமைந்துள்ளது.",
+    "answer": "இமயமலை ஆசியாவில் அமைந்துள்ளது.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது.\nஉலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது. இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு",
+      "ுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின் வடக்கே திபத்திய பீடபூமியையும், வடமேற்கே காரகோரம் மற்றும் இந்து குஃசு மலைத்தொடரையும் தெற்கே சிந்து-கங்கை சமவெளியையும் எல்லையாகக் கொண்டுள்ளது. உலகின் சில பெரிய நதிகளான சிந்து, கங்கை, மற்றும் பிரமபுத்திரா உற்பத்தியாகிறது. இந்நதிகளின் மொத்த வடிகால் 60 கோடி மக்களின் இருப்பிடமாகும். இமயமலை தெற்காசிய மக்களின் கலாச்சாரத்தை வடிவமைத்துள்ளது. இமயமலையில் உள்ள பல சிகரங்கள் இந்து மற்றும் புத்த மதங்களில் புனிதமாகக் கருதப்படுகிறது.\nஇமயமலை மேற்கு-வடமேற்கு பகுதியி",
+      "கக் கருதப்படுகிறது.\nஇமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது. மலைத்தொடரின் அகலம் மேற்கில் 400 கிலோமீட்டரும் கிழக்கில் 150 கிலோமீட்டரும் ஆகும்.\n\n== சுற்றுப்புறம் ==\n\nஇமயமலையின் தாவரங்கள் மற்றும் விலங்கினங்களைக் காலநிலை, மழை, உயரம், மற்றும் மண் கொண்டு மாறு"
+    ]
   }
 ]
