@@ -1944,5 +1944,929 @@
       "ுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின் வடக்கே திபத்திய பீடபூமியையும், வடமேற்கே காரகோரம் மற்றும் இந்து குஃசு மலைத்தொடரையும் தெற்கே சிந்து-கங்கை சமவெளியையும் எல்லையாகக் கொண்டுள்ளது. உலகின் சில பெரிய நதிகளான சிந்து, கங்கை, மற்றும் பிரமபுத்திரா உற்பத்தியாகிறது. இந்நதிகளின் மொத்த வடிகால் 60 கோடி மக்களின் இருப்பிடமாகும். இமயமலை தெற்காசிய மக்களின் கலாச்சாரத்தை வடிவமைத்துள்ளது. இமயமலையில் உள்ள பல சிகரங்கள் இந்து மற்றும் புத்த மதங்களில் புனிதமாகக் கருதப்படுகிறது.\nஇமயமலை மேற்கு-வடமேற்கு பகுதியி",
       "கக் கருதப்படுகிறது.\nஇமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது. மலைத்தொடரின் அகலம் மேற்கில் 400 கிலோமீட்டரும் கிழக்கில் 150 கிலோமீட்டரும் ஆகும்.\n\n== சுற்றுப்புறம் ==\n\nஇமயமலையின் தாவரங்கள் மற்றும் விலங்கினங்களைக் காலநிலை, மழை, உயரம், மற்றும் மண் கொண்டு மாறு"
     ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இமயமலை எந்த கண்டத்தில் அமைந்துள்ளது?",
+    "ground_truth": "இமயமலை ஆசியாவில் அமைந்துள்ளது.",
+    "answer": "இமயமலை ஆசியாவில் அமைந்துள்ளது.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது.",
+      "இமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது. மலைத்தொடரின் அகலம் மேற்கில் 400 கிலோமீட்டரும் கிழக்கில் 150 கிலோமீட்டரும் ஆகும். == சுற்றுப்புறம் ==\n\nஇமயமலையின் தாவரங்கள் மற்றும் விலங்கினங்களைக் காலநிலை, மழை, உயரம், மற்றும் மண் கொண்டு மாறுபடும்.",
+      "உலகின் சில பெரிய நதிகளான சிந்து, கங்கை, மற்றும் பிரமபுத்திரா உற்பத்தியாகிறது. இந்நதிகளின் மொத்த வடிகால் 60 கோடி மக்களின் இருப்பிடமாகும். இமயமலை தெற்காசிய மக்களின் கலாச்சாரத்தை வடிவமைத்துள்ளது. இமயமலையில் உள்ள பல சிகரங்கள் இந்து மற்றும் புத்த மதங்களில் புனிதமாகக் கருதப்படுகிறது. இமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இமயமலை எந்த கண்டத்தில் அமைந்துள்ளது?",
+    "ground_truth": "இமயமலை ஆசியாவில் அமைந்துள்ளது.",
+    "answer": "இமயமலை ஆசியக் கண்டத்தில் அமைந்துள்ளது.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது.",
+      "இமயமலை தெற்காசிய மக்களின் கலாச்சாரத்தை வடிவமைத்துள்ளது. இமயமலையில் உள்ள பல சிகரங்கள் இந்து மற்றும் புத்த மதங்களில் புனிதமாகக் கருதப்படுகிறது. இமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது.",
+      "நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இது தான் மடிப்பு மலை என்று கூறுகிறோம்."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இந்திய-ஆஸ்திரேலிய தகடு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் இமயமலை உருவானது. சரியானதா?",
+    "ground_truth": "ஆம், நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவானது.",
+    "answer": "ஆம், சரியானது. இமயமலை இந்திய-ஆஸ்திரேலிய தகடு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இந்த மோதல் கிட்டத்தட்ட 7 கோடி ஆண்டுகளுக்கு முன்பு தொடங்கியது, மேலும் இன்னும் தொடர்ந்து நடந்து வருகிறது. இந்த மோதலால் இமயமலை உருவாகியது, அதே நேரத்தில் இந்திய-ஆஸ்திரேலிய தகடு ஆசியாவினுள் நகர்ந்து வருகிறது.",
+    "contexts": [
+      "ுறைந்த காலத்திலேயே பூத்தலும் பழுத்தாலும் நிகழ்கின்றன, குறிப்பாக ர்ஹோடோதேண்ட்ரோன், ஆப்பிள் மற்றும் மைரிக்கா ஈஸ்கிலேண்டா.\n\n== நிலவியல் ==\n\nஇமயமலை இக்கிரகத்தில் உள்ள இளம் மலைத் தொடர்களில் ஒன்றாகும். இது பெரும்பாலுமாக வலுவூட்டப்பட்ட படிவுக்கலன்கள் மற்றும் உருமாறி பாறைகளைக் கொண்டுள்ளன. நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இது தான் மடிப்பு மலை என்று கூறுகிறோம்.\nவடக்கு நோக்கி நகர்ந்த இந்திய-ஆஸ்திரேலிய தகடுக்கும் யுரேச",
+      "நோக்கி நகர்ந்த இந்திய-ஆஸ்திரேலிய தகடுக்கும் யுரேசியன் தகடுக்கும் 7 கோடி ஆண்டுகள் முன்பு இந்த மோதல் தொடங்கியது. 5 கோடி ஆண்டுகளுக்கு முன்பு, இந்த வேகமாக நகரும் இந்திய ஆஸ்திரேலிய தகடு முழுமையாகத் தெதைஸ் பெருங்கடலை மூடிவிட்டது, இதன் இருப்பு அங்குள்ள படிவ பாறைகள் மற்றும் எரிமலைகள் மூலம் அறியப்படுகின்றது. இந்தப் படிவுகள் அடர்த்தி குறைவாக இருந்ததால் அவை கடலின் கீழே போகாமல் ஒன்று சேர்ந்து மலையை உருவாக்கின. இந்திய ஆஸ்திரேலிய தட்டு கிடைமட்டமாக நகர்வதால் திபெத்திய பீடபூமி உயர்ந்து வருகிறது. மியான்மரில் உள",
+      "ிபெத்திய பீடபூமி உயர்ந்து வருகிறது. மியான்மரில் உள்ள அரகான் யோமா உயர்நிலங்கள் மற்றும் வங்காள விரிகுடா பகுதியில் உள்ள அந்தமான் மற்றும் நிக்கோபார் தீவுகள் இந்த மோதலால் உருவாகியது.\nஇன்னும் இந்திய ஆஸ்திரேலிய தட்டு வருடத்திற்கு 67 மிமீ நகர்ந்து வருகிறது, மற்றும் அடுத்த 10 மில்லியன் ஆண்டுகளில் இது ஆசியாவினுள் 1,500 கி.மீ. நகரும். இந்திய-ஆசிய குவிதல் ஆண்டிற்கு 20 மிமீ தெற்கு இமாலய முகப்பின் அழுத்தத்தால் உறிஞ்சப்படுகிறது. இதனால் இமயமலை ஆண்டிற்கு 5 மிமீ உயர்கிறது. இந்தியத் தகடு ஆசியத் தகடுகள் நுழைவதால் இ"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்திய-ஆஸ்திரேலிய தகடு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் இமயமலை உருவானது. சரியானதா?",
+    "ground_truth": "ஆம், நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவானது.",
+    "answer": "சரி, இந்திய-ஆஸ்திரேலிய தகடு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் இமயமலை உருவானது. இமயமலை இக்கிரகத்தில் உள்ள இளம் மலைத் தொடர்களில் ஒன்றாகும். இது பெரும்பாலுமாக வலுவூட்டப்பட்ட படிவுக்கலன்கள் மற்றும் உருமாறி பாறைகளைக் கொண்டுள்ளன. நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இது தான் மடிப்பு மலை என்று கூறுகிறோம்.",
+    "contexts": [
+      "இது தான் மடிப்பு மலை என்று கூறுகிறோம். வடக்கு நோக்கி நகர்ந்த இந்திய-ஆஸ்திரேலிய தகடுக்கும் யுரேசியன் தகடுக்கும் 7 கோடி ஆண்டுகள் முன்பு இந்த மோதல் தொடங்கியது. 5 கோடி ஆண்டுகளுக்கு முன்பு, இந்த வேகமாக நகரும் இந்திய ஆஸ்திரேலிய தகடு முழுமையாகத் தெதைஸ் பெருங்கடலை மூடிவிட்டது, இதன் இருப்பு அங்குள்ள படிவ பாறைகள் மற்றும் எரிமலைகள் மூலம் அறியப்படுகின்றது. இந்தப் படிவுகள் அடர்த்தி குறைவாக இருந்ததால் அவை கடலின் கீழே போகாமல் ஒன்று சேர்ந்து மலையை உருவாக்கின.",
+      "சில மர இனங்களில் குறைந்த காலத்திலேயே பூத்தலும் பழுத்தாலும் நிகழ்கின்றன, குறிப்பாக ர்ஹோடோதேண்ட்ரோன், ஆப்பிள் மற்றும் மைரிக்கா ஈஸ்கிலேண்டா. == நிலவியல் ==\n\nஇமயமலை இக்கிரகத்தில் உள்ள இளம் மலைத் தொடர்களில் ஒன்றாகும். இது பெரும்பாலுமாக வலுவூட்டப்பட்ட படிவுக்கலன்கள் மற்றும் உருமாறி பாறைகளைக் கொண்டுள்ளன. நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இது தான் மடிப்பு மலை என்று கூறுகிறோம்.",
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்திய-ஆஸ்திரேலிய தகடு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் இமயமலை உருவானது. சரியானதா?",
+    "ground_truth": "ஆம், நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யுரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவானது.",
+    "answer": "சரியானது. நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது.",
+    "contexts": [
+      "நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இது தான் மடிப்பு மலை என்று கூறுகிறோம்.",
+      "வடக்கு நோக்கி நகர்ந்த இந்திய-ஆஸ்திரேலிய தகடுக்கும் யுரேசியன் தகடுக்கும் 7 கோடி ஆண்டுகள் முன்பு இந்த மோதல் தொடங்கியது. 5 கோடி ஆண்டுகளுக்கு முன்பு, இந்த வேகமாக நகரும் இந்திய ஆஸ்திரேலிய தகடு முழுமையாகத் தெதைஸ் பெருங்கடலை மூடிவிட்டது, இதன் இருப்பு அங்குள்ள படிவ பாறைகள் மற்றும் எரிமலைகள் மூலம் அறியப்படுகின்றது. இந்தப் படிவுகள் அடர்த்தி குறைவாக இருந்ததால் அவை கடலின் கீழே போகாமல் ஒன்று சேர்ந்து மலையை உருவாக்கின.",
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was Mohandas Karamchand Gandhi's profession before leading India's independence campaign?",
+    "ground_truth": "Mohandas Karamchand Gandhi was an Indian lawyer.",
+    "answer": "Mohandas Karamchand Gandhi was an Indian lawyer before leading India's independence campaign.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.\nBorn and raised in a H",
+      "and king Harishchandra, had a great impact on Gandhi in his childhood. In his autobiography, Gandhi states that they left an indelible impression on his mind. Gandhi writes: \"It haunted me and I must have acted Harishchandra to myself times without number.\" Gandhi's early self-identification with truth and love as supreme values is traceable to these epic characters.\nThe family's religious background was eclectic. Mohandas was born into a Gujarati Hindu Modh Bania family. Gandhi's father, Karam",
+      "to the colonial government to the Quit India Movement (1942) that categorically demanded the end of British colonial presence in India, the independence movement gathered momentum steadily and ultimately resulted in the transfer of power in 1947.\nThe stages of the independence struggle in the 1920s were characterised by the leadership of Mahatma Gandhi and Congress's adoption of Gandhi's policy of non-violence and civil disobedience. Some of the leading followers of Gandhi's ideology were Jawah"
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was Mohandas Karamchand Gandhi's profession before leading India's independence campaign?",
+    "ground_truth": "Mohandas Karamchand Gandhi was an Indian lawyer.",
+    "answer": "He was an Indian lawyer.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.",
+      "1866–1913), and a third son, Mohandas Karamchand Gandhi, who was born on 2 October 1869 in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the British Raj. In 1874, Gandhi's father, Karamchand, left Porbandar for the smaller state of Rajkot, where he became a counsellor to its ruler, the Thakur Sahib; though Rajkot was a less prestigious state than Porbandar, the British regional political agency was located there, which gave the state's diwan a measure of security.",
+      "During India's nationalist movement and in several decades immediately after, he was also commonly called Bapu, an endearment roughly meaning \"father\". == Early life and background ==\n\n=== Parents ===\nGandhi's father, Karamchand Uttamchand Gandhi (1822–1885), served as the dewan (chief minister) of Porbandar state. His family originated from the then village of Kutiana in what was then Junagadh State."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was Mohandas Karamchand Gandhi's profession before leading India's independence campaign?",
+    "ground_truth": "Mohandas Karamchand Gandhi was an Indian lawyer.",
+    "answer": "He was an Indian lawyer.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world.",
+      "Karamchand and Putlibai had four children: a son, Laxmidas (c. 1860–1914), a daughter, Raliatbehn (1862–1960), a second son, Karsandas (c. 1866–1913), and a third son, Mohandas Karamchand Gandhi, who was born on 2 October 1869 in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the small princely state of Porbandar in the Kathiawar Agency of the British Raj.",
+      "The family's religious background was eclectic. Mohandas was born into a Gujarati Hindu Modh Bania family. Gandhi's father, Karamchand, was Hindu and his mother Putlibai was from a Pranami Vaishnava Hindu family. Gandhi's father was of Modh Baniya caste in the varna of Vaishya."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "When and where was the honorific Mahātmā first applied to Gandhi?",
+    "ground_truth": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa.",
+    "answer": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.\nBorn and raised in a H",
+      "was begun in Delhi on 12 January 1948, when Gandhi was 78. The belief that Gandhi had been too resolute in his defence of both Pakistan and Indian Muslims spread among some Hindus in India. Among these was Nathuram Godse, a militant Hindu nationalist from Pune, western India, who assassinated Gandhi by firing three bullets into his chest at an interfaith prayer meeting in Delhi on 30 January 1948.\nGandhi's birthday, 2 October, is commemorated in India as Gandhi Jayanti, a national holiday, and",
+      "to the planters at a fixed price. Unhappy with this, the peasantry appealed to Gandhi at his ashram in Ahmedabad. Pursuing a strategy of nonviolent protest, Gandhi took the administration by surprise and won concessions from the authorities.\n\n=== Kheda agitations ===\n\nIn 1918, Kheda was hit by floods and famine and the peasantry was demanding relief from taxes. Gandhi moved his headquarters to Nadiad, organising scores of supporters and fresh volunteers from the region, the most notable being Va"
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "When and where was the honorific Mahātmā first applied to Gandhi?",
+    "ground_truth": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa.",
+    "answer": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa.",
+    "contexts": [
+      "The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world. Born and raised in a Hindu family in coastal Gujarat, Gandhi was trained in the law at the Inner Temple in London and was called to the bar at the age of 22. After two uncertain years in India, where he was unable to start a successful law practice, Gandhi moved to South Africa in 1893 to represent an Indian merchant in a lawsuit.",
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.",
+      "Putlibai gave Gandhi her permission and blessing. On 10 August 1888, Gandhi, aged 18, left Porbandar for Mumbai, then known as Bombay. A local newspaper covering the farewell function by his old high school in Rajkot noted that Gandhi was the first Bania from Kathiawar to proceed to England for his Barrister Examination. As Mohandas Gandhi waited for a berth on a ship to London he found that he had attracted the ire of the Modh Banias of Bombay."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "When and where was the honorific Mahātmā first applied to Gandhi?",
+    "ground_truth": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa.",
+    "answer": "The honorific Mahātmā was first applied to Gandhi in 1914 in South Africa.",
+    "contexts": [
+      "The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.",
+      "Gandhi and 37 other Indians received the Queen's South Africa Medal.",
+      "The last of these was begun in Delhi on 12 January 1948, when Gandhi was 78."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Who assassinated Mohandas Karamchand Gandhi and when?",
+    "ground_truth": "Nathuram Godse assassinated Gandhi on January 30, 1948.",
+    "answer": "Nathuram Godse, a militant Hindu nationalist from Pune, western India, assassinated Mohandas Karamchand Gandhi by firing three bullets into his chest at an interfaith prayer meeting in Delhi on 30 January 1948.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.\nBorn and raised in a H",
+      "was begun in Delhi on 12 January 1948, when Gandhi was 78. The belief that Gandhi had been too resolute in his defence of both Pakistan and Indian Muslims spread among some Hindus in India. Among these was Nathuram Godse, a militant Hindu nationalist from Pune, western India, who assassinated Gandhi by firing three bullets into his chest at an interfaith prayer meeting in Delhi on 30 January 1948.\nGandhi's birthday, 2 October, is commemorated in India as Gandhi Jayanti, a national holiday, and",
+      "and sought his third wife's permission to remarry; that year, he married Putlibai (1844–1891), who also came from Junagadh, and was from a Pranami Vaishnava family. Karamchand and Putlibai had four children: a son, Laxmidas (c. 1860–1914), a daughter, Raliatbehn (1862–1960), a second son, Karsandas (c. 1866–1913), and a third son, Mohandas Karamchand Gandhi, who was born on 2 October 1869 in Porbandar (also known as Sudamapuri), a coastal town on the Kathiawar Peninsula and then part of the smal"
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Who assassinated Mohandas Karamchand Gandhi and when?",
+    "ground_truth": "Nathuram Godse assassinated Gandhi on January 30, 1948.",
+    "answer": "Nathuram Godse, a militant Hindu nationalist, assassinated Mohandas Karamchand Gandhi. The assassination occurred on 30 January 1948, at 5:17 p.m., when Godse fired three bullets into Gandhi's chest at an interfaith prayer meeting in Delhi.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: \"great-souled\", \"venerable\"), first applied to him in 1914 in South Africa, is now used throughout the world.",
+      "The belief that Gandhi had been too resolute in his defence of both Pakistan and Indian Muslims spread among some Hindus in India. Among these was Nathuram Godse, a militant Hindu nationalist from Pune, western India, who assassinated Gandhi by firing three bullets into his chest at an interfaith prayer meeting in Delhi on 30 January 1948. Gandhi's birthday, 2 October, is commemorated in India as Gandhi Jayanti, a national holiday, and worldwide as the International Day of Nonviolence.",
+      "His final fast took place from 13–18 January 1948, just days before his assassination. == Death ==\n\nAt 5:17 p.m. on 30 January 1948, Gandhi was with his grandnieces in the garden of Birla House (now Gandhi Smriti), on his way to address a prayer meeting, when Nathuram Godse, a Hindu nationalist, fired three bullets into Gandhi's chest from a pistol at close range. According to some accounts, Gandhi died instantly."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Who assassinated Mohandas Karamchand Gandhi and when?",
+    "ground_truth": "Nathuram Godse assassinated Gandhi on January 30, 1948.",
+    "answer": "Nathuram Godse, a militant Hindu nationalist, assassinated Mohandas Karamchand Gandhi by firing three bullets into his chest on 30 January 1948.",
+    "contexts": [
+      "Mohandas Karamchand Gandhi ( GA(H)N-dee; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world.",
+      "The belief that Gandhi had been too resolute in his defence of both Pakistan and Indian Muslims spread among some Hindus in India. Among these was Nathuram Godse, a militant Hindu nationalist from Pune, western India, who assassinated Gandhi by firing three bullets into his chest at an interfaith prayer meeting in Delhi on 30 January 1948. Gandhi's birthday, 2 October, is commemorated in India as Gandhi Jayanti, a national holiday, and worldwide as the International Day of Nonviolence.",
+      "While Ramachandran was hospitalised, Indian prime minister Indira Gandhi was assassinated on 31 October 1984, and her son Rajiv Gandhi succeeded her. Rajiv called for fresh elections, and the Ramachandran-led AIADMK allied with Rajiv's Congress for the 1984 Indian general election."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "மோகன்தாஸ் கரம்சந்த் காந்தி எவ்வாறு அன்புடன் அழைக்கப்படுகிறார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்.",
+    "answer": "மோகன்தாஸ் கரம்சந்த் காந்தி மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்.",
+    "contexts": [
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார். சத்தியாக்கிரகம் என்றழைக்கப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுத",
+      "ப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுதலைக்கு வழி வகுத்ததுடன் மற்ற சில நாட்டு விடுதலை இயக்கங்களுக்கும் ஒரு வழிகாட்டியாக அமைந்தது.\nஇவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது.\n\n== வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் த",
+      "ெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார்.  பின்னாளில் இருவரும் நான்கு ஆண் மகன்களைப் பெற்றெடுத்தனர்: ஹரிலால் (1888), மணிலால் (1892), இராம்தாஸ் (1897), தேவதாஸ் (1890). மோகன்தாஸ் கரம்சந்த் காந்தி, தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.\n\nபள்ளிப்படிப்பில் ஒரு சுமாரான மாணவனாகவே காணப்பட்டார் காந்தி. தனது 18-ஆம் வயதில் பள்ளிப்படிப்பு முடிந்த பிறகு பாரிஸ்டர் (barrister, வழக்கறிஞர்) படிப்பிற்காக காந்தி இங்கிலாந்து சென்றார். தனது படிப்பை வெற்றிகரமாக முடித்து தாயகம் த"
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "மோகன்தாஸ் கரம்சந்த் காந்தி எவ்வாறு அன்புடன் அழைக்கப்படுகிறார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்.",
+    "answer": "மோகன்தாஸ் கரம்சந்த் காந்தி மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்.",
+    "contexts": [
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்.",
+      "இவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது. == வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார்.",
+      "காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார். பின்னாளில் இருவரும் நான்கு ஆண் மகன்களைப் பெற்றெடுத்தனர்: ஹரிலால் (1888), மணிலால் (1892), இராம்தாஸ் (1897), தேவதாஸ் (1890). மோகன்தாஸ் கரம்சந்த் காந்தி, தனது 16-ஆவது வயதில் தந்தையை இழந்தார். பள்ளிப்படிப்பில் ஒரு சுமாரான மாணவனாகவே காணப்பட்டார் காந்தி. தனது 18-ஆம் வயதில் பள்ளிப்படிப்பு முடிந்த பிறகு பாரிஸ்டர் (barrister, வழக்கறிஞர்) படிப்பிற்காக காந்தி இங்கிலாந்து சென்றார்."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "மோகன்தாஸ் கரம்சந்த் காந்தி எவ்வாறு அன்புடன் அழைக்கப்படுகிறார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்.",
+    "answer": "மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார்.",
+    "contexts": [
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்.",
+      "சத்தியாக்கிரகம் என்றழைக்கப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுதலைக்கு வழி வகுத்ததுடன் மற்ற சில நாட்டு விடுதலை இயக்கங்களுக்கும் ஒரு வழிகாட்டியாக அமைந்தது. இவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது. == வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும்.",
+      "காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார். பின்னாளில் இருவரும் நான்கு ஆண் மகன்களைப் பெற்றெடுத்தனர்: ஹரிலால் (1888), மணிலால் (1892), இராம்தாஸ் (1897), தேவதாஸ் (1890). மோகன்தாஸ் கரம்சந்த் காந்தி, தனது 16-ஆவது வயதில் தந்தையை இழந்தார். பள்ளிப்படிப்பில் ஒரு சுமாரான மாணவனாகவே காணப்பட்டார் காந்தி. தனது 18-ஆம் வயதில் பள்ளிப்படிப்பு முடிந்த பிறகு பாரிஸ்டர் (barrister, வழக்கறிஞர்) படிப்பிற்காக காந்தி இங்கிலாந்து சென்றார்."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "காந்தி தனது தந்தையை எந்த வயதில் இழந்தார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.",
+    "answer": "காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.",
+    "contexts": [
+      "ெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார்.  பின்னாளில் இருவரும் நான்கு ஆண் மகன்களைப் பெற்றெடுத்தனர்: ஹரிலால் (1888), மணிலால் (1892), இராம்தாஸ் (1897), தேவதாஸ் (1890). மோகன்தாஸ் கரம்சந்த் காந்தி, தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.\n\nபள்ளிப்படிப்பில் ஒரு சுமாரான மாணவனாகவே காணப்பட்டார் காந்தி. தனது 18-ஆம் வயதில் பள்ளிப்படிப்பு முடிந்த பிறகு பாரிஸ்டர் (barrister, வழக்கறிஞர்) படிப்பிற்காக காந்தி இங்கிலாந்து சென்றார். தனது படிப்பை வெற்றிகரமாக முடித்து தாயகம் த",
+      "ப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுதலைக்கு வழி வகுத்ததுடன் மற்ற சில நாட்டு விடுதலை இயக்கங்களுக்கும் ஒரு வழிகாட்டியாக அமைந்தது.\nஇவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது.\n\n== வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் த",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார். சத்தியாக்கிரகம் என்றழைக்கப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுத"
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "காந்தி தனது தந்தையை எந்த வயதில் இழந்தார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.",
+    "answer": "காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.",
+    "contexts": [
+      "காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார். பின்னாளில் இருவரும் நான்கு ஆண் மகன்களைப் பெற்றெடுத்தனர்: ஹரிலால் (1888), மணிலால் (1892), இராம்தாஸ் (1897), தேவதாஸ் (1890). மோகன்தாஸ் கரம்சந்த் காந்தி, தனது 16-ஆவது வயதில் தந்தையை இழந்தார். பள்ளிப்படிப்பில் ஒரு சுமாரான மாணவனாகவே காணப்பட்டார் காந்தி. தனது 18-ஆம் வயதில் பள்ளிப்படிப்பு முடிந்த பிறகு பாரிஸ்டர் (barrister, வழக்கறிஞர்) படிப்பிற்காக காந்தி இங்கிலாந்து சென்றார்.",
+      "இவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது. == வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "காந்தி தனது தந்தையை எந்த வயதில் இழந்தார்?",
+    "ground_truth": "மோகன்தாஸ் கரம்சந்த் காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.",
+    "answer": "காந்தி தனது 16-ஆவது வயதில் தந்தையை இழந்தார்.",
+    "contexts": [
+      "காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார். பின்னாளில் இருவரும் நான்கு ஆண் மகன்களைப் பெற்றெடுத்தனர்: ஹரிலால் (1888), மணிலால் (1892), இராம்தாஸ் (1897), தேவதாஸ் (1890). மோகன்தாஸ் கரம்சந்த் காந்தி, தனது 16-ஆவது வயதில் தந்தையை இழந்தார். பள்ளிப்படிப்பில் ஒரு சுமாரான மாணவனாகவே காணப்பட்டார் காந்தி. தனது 18-ஆம் வயதில் பள்ளிப்படிப்பு முடிந்த பிறகு பாரிஸ்டர் (barrister, வழக்கறிஞர்) படிப்பிற்காக காந்தி இங்கிலாந்து சென்றார்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்.",
+      "இதுவரை அரசியல் ஈடுபாடில்லாது தன்னையும் தன் குடும்பத்தையும் மட்டுமே கவனித்து வந்த இளைஞராயிருந்தார் காந்தி."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "காந்தி முதன்முறையாக எந்த நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார்?",
+    "ground_truth": "காந்தி 1906 ஆம் ஆண்டு ஜோகார்னஸ்பேக் நகரில் நடந்த ஒரு போராட்டத்தில் முதன்முறையாக சத்தியாகிரகத்தை பயன்படுத்தினார்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் காந்தி முதன்முறையாக எந்த நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார் என்பது தெரியவில்லை. அகமதாபாத்தில் இருந்து சத்தியாகிரகிகளுடன் தண்டி நோக்கி நடைப் பயணத்தைத் தொடங்கினார் என்பது மட்டுமே தெரியும்.",
+    "contexts": [
+      "தொடங்கினார். 1920 செப்டம்பரில் நடைபெற்ற காங்கிரசு கட்சியின் கொல்கத்தா மாநாட்டில், கிலாபத் மற்றும் ஆதிக்க அந்தஸ்துக்கு ஆதரவாக ஒரு ஒத்துழையாமை இயக்கத்தைத் தொடங்க வேண்டியதன் அவசியத்தை காந்தி மற்ற தலைவர்களிடம் உணர்த்தினார். முதல் சத்தியாகிரக இயக்கம் பிரிட்டனிலிருந்து அனுப்பப்பட்டவற்றுக்கு மாற்றாக காதி மற்றும் இந்தியப் பொருட்களைப் பயன்படுத்த வேண்டும் என்று வலியுறுத்தியது. பிரித்தானிய கல்வி நிறுவனங்கள் மற்றும் சட்ட நீதிமன்றங்களை புறக்கணிக்கவும், அரசாங்க வேலையை ராஜினாமா செய்யவும், வரி செலுத்த மறுப்பது",
+      "ம் விடுத்த கோரிக்கை நிராகரிக்கப்பட்டது. சத்தியாகிரக முறையில் இதை எதிர்க்க முடிவெடுத்த காந்தி மார்ச் 2, 1930 அன்று 78 சத்தியாகிரகிகளுடன் அகமதாபாத்திலிருந்து  குஜராத் கடலோரத்தில் இருந்த தண்டி நோக்கி 240 மைல் நடைப் பயணத்தை துவக்கினார். 23 நாட்கள் நடைப் பயணத்திற்குப் பிறகு, தன் சகாக்களுடன் தண்டி கடற்கரை வந்து சேர்ந்த காந்தி, அங்கிருந்த கடல் நீரை காய்ச்சி உப்பு தயாரித்து பிரித்தானிய சட்டத்திற்கு எதிராக பகிரங்கமாக பொதுமக்களுக்கு விநியோகித்தார். மேலும் இந்தியாவில் கடலோரத்தில் இருந்த அனைத்து இந்தியர்களை",
+      "ர்.\n\n== சுயசரிதை ==\nகாந்தி குஜராத்தி மொழியில் எழுதிய சுயசரிதை, சத்திய சோதனை என்ற பெயரில் தமிழ் மொழியிலும் An Autobiography: The Story of My Experiments with Truth என்ற பெயரில் ஆங்கிலத்திலும் மொழிபெயர்க்கப் பட்டுள்ளன.\n\n== தமிழ்நாட்டில் காந்தியின் நினைவுச் சின்னங்கள் ==\n\nதமிழ்நாடு அரசு காந்திக்கு அவரது தியாகத்தைப் போற்றிச் சிறப்பிக்கும் வகையில் சென்னை கிண்டியில் காந்தி மண்டபம் மற்றும் அருங்காட்சியகம் அமைத்துள்ளது.  மதுரையில்   இராணி மங்கம்மாள் காலத்தில் அமைக்கப்பட்ட கட்டடத்தில் 1959 முதல் காந்தி அ"
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "காந்தி முதன்முறையாக எந்த நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார்?",
+    "ground_truth": "காந்தி 1906 ஆம் ஆண்டு ஜோகார்னஸ்பேக் நகரில் நடந்த ஒரு போராட்டத்தில் முதன்முறையாக சத்தியாகிரகத்தை பயன்படுத்தினார்.",
+    "answer": "காந்தி முதன்முறையாக ஜோகார்னஸ்பேக் நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார்.",
+    "contexts": [
+      "இதை விலக்கிக் கொள்ளுமாறு காந்தி பிரிட்டிஷாரிடம் விடுத்த கோரிக்கை நிராகரிக்கப்பட்டது. சத்தியாகிரக முறையில் இதை எதிர்க்க முடிவெடுத்த காந்தி மார்ச் 2, 1930 அன்று 78 சத்தியாகிரகிகளுடன் அகமதாபாத்திலிருந்து  குஜராத் கடலோரத்தில் இருந்த தண்டி நோக்கி 240 மைல் நடைப் பயணத்தை துவக்கினார். 23 நாட்கள் நடைப் பயணத்திற்குப் பிறகு, தன் சகாக்களுடன் தண்டி கடற்கரை வந்து சேர்ந்த காந்தி, அங்கிருந்த கடல் நீரை காய்ச்சி உப்பு தயாரித்து பிரித்தானிய சட்டத்திற்கு எதிராக பகிரங்கமாக பொதுமக்களுக்கு விநியோகித்தார்.",
+      "1920 செப்டம்பரில் நடைபெற்ற காங்கிரசு கட்சியின் கொல்கத்தா மாநாட்டில், கிலாபத் மற்றும் ஆதிக்க அந்தஸ்துக்கு ஆதரவாக ஒரு ஒத்துழையாமை இயக்கத்தைத் தொடங்க வேண்டியதன் அவசியத்தை காந்தி மற்ற தலைவர்களிடம் உணர்த்தினார். முதல் சத்தியாகிரக இயக்கம் பிரிட்டனிலிருந்து அனுப்பப்பட்டவற்றுக்கு மாற்றாக காதி மற்றும் இந்தியப் பொருட்களைப் பயன்படுத்த வேண்டும் என்று வலியுறுத்தியது.",
+      "பிறகு 1894ம் ஆண்டு நாட்டல் இந்திய காங்கிரஸ் என்ற பெயரில் கட்சி தொடங்கி அதற்கு அவரே பொறுப்பாளரானார். இதன் மூலம் நாட்டல் மாகாணத்திலிருந்த இந்தியர் அனைவரையும் ஒன்று திரட்டி, அவர்களை தங்கள் உரிமைக்காக குரலெழுப்ப ஊக்கப்படுத்தினார். 1906ஆம் ஆண்டு ஜோகார்னஸ்பேக் நகரில் நடந்த ஒரு போராட்டத்தில் முதன்முறையாக சத்தியாகிரகம் எனப்படும் அறவழிப்போராட்டத்தை  பயன்படுத்தினார். அகிம்சை, ஒத்துழையாமை, கொடுக்கப்படும் தண்டனையை ஏற்றல் ஆகிய கொள்கைகள் இவ்வறவழிப் போராட்டத்தின் பண்புகளாகும்."
+    ]
+  },
+  {
+    "slug": "mahatma_gandhi",
+    "topic": "Mahatma Gandhi",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "காந்தி முதன்முறையாக எந்த நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார்?",
+    "ground_truth": "காந்தி 1906 ஆம் ஆண்டு ஜோகார்னஸ்பேக் நகரில் நடந்த ஒரு போராட்டத்தில் முதன்முறையாக சத்தியாகிரகத்தை பயன்படுத்தினார்.",
+    "answer": "காந்தி முதன்முறையாக ஜோகார்னஸ்பேக் நகரில் சத்தியாகிரகத்தை பயன்படுத்தினார்.",
+    "contexts": [
+      "சத்தியாகிரக முறையில் இதை எதிர்க்க முடிவெடுத்த காந்தி மார்ச் 2, 1930 அன்று 78 சத்தியாகிரகிகளுடன் அகமதாபாத்திலிருந்து  குஜராத் கடலோரத்தில் இருந்த தண்டி நோக்கி 240 மைல் நடைப் பயணத்தை துவக்கினார். 23 நாட்கள் நடைப் பயணத்திற்குப் பிறகு, தன் சகாக்களுடன் தண்டி கடற்கரை வந்து சேர்ந்த காந்தி, அங்கிருந்த கடல் நீரை காய்ச்சி உப்பு தயாரித்து பிரித்தானிய சட்டத்திற்கு எதிராக பகிரங்கமாக பொதுமக்களுக்கு விநியோகித்தார்.",
+      "=== ஒத்துழையாமை இயக்கங்கள் ===\n\n=== முதல் ஒத்துழையாமை இயக்கம் ===\n1920 முதல் 1922 வரை, காந்தி ஒத்துழையாமை இயக்கத்தைத் தொடங்கினார். 1920 செப்டம்பரில் நடைபெற்ற காங்கிரசு கட்சியின் கொல்கத்தா மாநாட்டில், கிலாபத் மற்றும் ஆதிக்க அந்தஸ்துக்கு ஆதரவாக ஒரு ஒத்துழையாமை இயக்கத்தைத் தொடங்க வேண்டியதன் அவசியத்தை காந்தி மற்ற தலைவர்களிடம் உணர்த்தினார். முதல் சத்தியாகிரக இயக்கம் பிரிட்டனிலிருந்து அனுப்பப்பட்டவற்றுக்கு மாற்றாக காதி மற்றும் இந்தியப் பொருட்களைப் பயன்படுத்த வேண்டும் என்று வலியுறுத்தியது.",
+      "இதில் அவர் வெற்றி பெறாவிட்டாலும் அங்குள்ள இந்தியர்களிடம் ஒரு விழிப்புணர்வை ஏற்படுத்தினார். பிறகு 1894ம் ஆண்டு நாட்டல் இந்திய காங்கிரஸ் என்ற பெயரில் கட்சி தொடங்கி அதற்கு அவரே பொறுப்பாளரானார். இதன் மூலம் நாட்டல் மாகாணத்திலிருந்த இந்தியர் அனைவரையும் ஒன்று திரட்டி, அவர்களை தங்கள் உரிமைக்காக குரலெழுப்ப ஊக்கப்படுத்தினார். 1906ஆம் ஆண்டு ஜோகார்னஸ்பேக் நகரில் நடந்த ஒரு போராட்டத்தில் முதன்முறையாக சத்தியாகிரகம் எனப்படும் அறவழிப்போராட்டத்தை  பயன்படுத்தினார்."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "For what work was Avul Pakir Jainulabdeen Abdul Kalam known as the \"Missile Man of India\"?",
+    "ground_truth": "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology.",
+    "answer": "For his work on the development of ballistic missile and launch vehicle technology.",
+    "contexts": [
+      "Avul Pakir Jainulabdeen Abdul Kalam (  UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace engineer and statesman who served as the  president of India from 2002 to 2007.\nBorn and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was int",
+      "ge ballistic missile and Prithvi, the tactical surface-to-surface missile, despite inflated costs and time overruns. He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology.\nKalam served as the chief scientific adviser to the prime minister and secretary of the DRDO from July 1992 to December 1999. He played a key organisational, political and technical role in the Pokhran-II nuclear tests conducted in May 1998. Along with Raj",
+      "ian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts. He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998, India's second such test after the first test in 1974.\nKalam was elected as the president of India in 2002 with the supp"
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "For what work was Avul Pakir Jainulabdeen Abdul Kalam known as the \"Missile Man of India\"?",
+    "ground_truth": "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology.",
+    "answer": "For his work on the development of ballistic missile and launch vehicle technology.",
+    "contexts": [
+      "Kalam played a major role in the development of missiles including Agni, an intermediate range ballistic missile and Prithvi, the tactical surface-to-surface missile, despite inflated costs and time overruns. He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology. Kalam served as the chief scientific adviser to the prime minister and secretary of the DRDO from July 1992 to December 1999.",
+      "Avul Pakir Jainulabdeen Abdul Kalam (  UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace engineer and statesman who served as the  president of India from 2002 to 2007. Born and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering.",
+      "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998, India's second such test after the first test in 1974. Kalam was elected as the president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "For what work was Avul Pakir Jainulabdeen Abdul Kalam known as the \"Missile Man of India\"?",
+    "ground_truth": "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology.",
+    "answer": "For his work on the development of ballistic missile and launch vehicle technology.",
+    "contexts": [
+      "Avul Pakir Jainulabdeen Abdul Kalam (  UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace engineer and statesman who served as the  president of India from 2002 to 2007. Born and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering.",
+      "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology. Kalam served as the chief scientific adviser to the prime minister and secretary of the DRDO from July 1992 to December 1999. He played a key organisational, political and technical role in the Pokhran-II nuclear tests conducted in May 1998. Along with Rajagopala Chidambaram, he served as the chief project coordinator for the tests.",
+      "He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts. He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which two political parties supported Kalam's election as the president of India in 2002?",
+    "ground_truth": "Kalam was elected president with the support of the Bharatiya Janata Party and the Indian National Congress.",
+    "answer": "The two political parties that supported Kalam's election as the president of India in 2002 were the Bharatiya Janata Party and the Indian National Congress.",
+    "contexts": [
+      "1998, Kalam worked with cardiologist Bhupathiraju Somaraju and developed a low cost coronary stent, named the \"Kalam-Raju stent\". In 2012, the duo designed a tablet computer named the \"Kalam-Raju tablet\" for usage by healthcare workers in rural areas.\n\n== Presidency ==\n\n=== Presidential election ===\nOn 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed its intention to nominate Kalam for the post of the President of India. His candidature was backed by",
+      "ed as the president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress. He was widely referred to as the \"People's President\". He engaged in teaching, writing and public service after his presidency. He was a recipient of several awards, including the Bharat Ratna, India's highest civilian honour.\nWhile delivering a lecture at IIM Shillong, Kalam collapsed and died from an apparent cardiac arrest on 27 July 2015, aged 83.",
+      "dential election was held on 15 July 2002, in the Indian parliament and the state assemblies, with the media predicting a win for Kalam. The counting was held on 18 July, and Kalam won the elections after securing 922,884 electoral votes as against the 107,366 votes won by Sahgal. He was sworn in as the 11th president of India on 25 July 2002. He was the first scientist and the first bachelor to occupy the top chair at Rashtrapati Bhawan.\n\nDuring his term as president, he was affectionately know"
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which two political parties supported Kalam's election as the president of India in 2002?",
+    "ground_truth": "Kalam was elected president with the support of the Bharatiya Janata Party and the Indian National Congress.",
+    "answer": "The Bharatiya Janata Party and the Indian National Congress.",
+    "contexts": [
+      "In 2012, the duo designed a tablet computer named the \"Kalam-Raju tablet\" for usage by healthcare workers in rural areas. == Presidency ==\n\n=== Presidential election ===\nOn 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed its intention to nominate Kalam for the post of the President of India. His candidature was backed by the opposition parties including the Samajwadi Party and the Nationalist Congress Party.",
+      "He was known as the \"Missile Man of India\" for his work on the development of ballistic missile and launch vehicle technology. He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998, India's second such test after the first test in 1974. Kalam was elected as the president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress.",
+      "Kalam was elected as the president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress. He was widely referred to as the \"People's President\". He engaged in teaching, writing and public service after his presidency. He was a recipient of several awards, including the Bharat Ratna, India's highest civilian honour."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which two political parties supported Kalam's election as the president of India in 2002?",
+    "ground_truth": "Kalam was elected president with the support of the Bharatiya Janata Party and the Indian National Congress.",
+    "answer": "The Bharatiya Janata Party and the Indian National Congress.",
+    "contexts": [
+      "== Presidency ==\n\n=== Presidential election ===\nOn 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed its intention to nominate Kalam for the post of the President of India. His candidature was backed by the opposition parties including the Samajwadi Party and the Nationalist Congress Party. After the support for Kalam, incumbent president K.",
+      "He also played a pivotal organisational, technical, and political role in Pokhran-II nuclear tests in 1998, India's second such test after the first test in 1974. Kalam was elected as the president of India in 2002 with the support of both the ruling Bharatiya Janata Party and the then-opposition Indian National Congress. He was widely referred to as the \"People's President\". He engaged in teaching, writing and public service after his presidency.",
+      "The counting was held on 18 July, and Kalam won the elections after securing 922,884 electoral votes as against the 107,366 votes won by Sahgal. He was sworn in as the 11th president of India on 25 July 2002. He was the first scientist and the first bachelor to occupy the top chair at Rashtrapati Bhawan. During his term as president, he was affectionately known as the \"People's President\"."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "In which year did Avul Pakir Jainulabdeen Abdul Kalam graduate in Physics from St. Joseph's College, Tiruchirappalli?",
+    "ground_truth": "He graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954.",
+    "answer": "1954.",
+    "contexts": [
+      "Avul Pakir Jainulabdeen Abdul Kalam (  UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace engineer and statesman who served as the  president of India from 2002 to 2007.\nBorn and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was int",
+      "by the 1920s, and the family was poverty-stricken by the time Kalam was born. As a young boy, he delivered newspapers to support the family's meager income.\nIn his school years, Kalam got average grades but was described by his teachers as a bright and hardworking student with a strong desire to learn. He spent hours learning Mathematics. He did his schooling at Schwartz Higher Secondary School in Ramanathapuram. He then graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954.\nK",
+      "St. Joseph's College, Tiruchirappalli, in 1954.\nKalam moved to Madras in 1955 to study aerospace engineering at the Madras Institute of Technology. While he was working on a class project, the Dean of the institution was dissatisfied with his lack of progress and threatened to revoke his scholarship unless the project was finished within the next three days. Kalam met the deadline, impressing the Dean, who later said to him, \"I was putting you under stress and asking you to meet a difficult dea"
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "In which year did Avul Pakir Jainulabdeen Abdul Kalam graduate in Physics from St. Joseph's College, Tiruchirappalli?",
+    "ground_truth": "He graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954.",
+    "answer": "1954.",
+    "contexts": [
+      "Avul Pakir Jainulabdeen Abdul Kalam (  UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace engineer and statesman who served as the  president of India from 2002 to 2007. Born and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering.",
+      "He spent hours learning Mathematics. He did his schooling at Schwartz Higher Secondary School in Ramanathapuram. He then graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954. Kalam moved to Madras in 1955 to study aerospace engineering at the Madras Institute of Technology.",
+      "A memorial was inaugurated near his home town in 2017. == Early life and education ==\nAvul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931 to a Tamil Muslim family in the pilgrimage center of Rameswaram on Pamban Island, Madras Presidency (now in the Indian state of Tamil Nadu). His father, Jainulabdeen Marakayar, was a boat owner and imam of a local mosque, and his mother, Ashiamma, was a housewife."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "In which year did Avul Pakir Jainulabdeen Abdul Kalam graduate in Physics from St. Joseph's College, Tiruchirappalli?",
+    "ground_truth": "He graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954.",
+    "answer": "1954.",
+    "contexts": [
+      "Avul Pakir Jainulabdeen Abdul Kalam (  UB-duul kə-LAHM; 15 October 1931 – 27 July 2015) was an Indian aerospace engineer and statesman who served as the  president of India from 2002 to 2007. Born and raised in a Muslim family in Rameswaram, Tamil Nadu, Kalam studied physics and aerospace engineering.",
+      "He did his schooling at Schwartz Higher Secondary School in Ramanathapuram. He then graduated in Physics from St. Joseph's College, Tiruchirappalli, in 1954. Kalam moved to Madras in 1955 to study aerospace engineering at the Madras Institute of Technology.",
+      "Thousands attended the funeral ceremony held in his hometown of Rameswaram, where he was buried with full state honours. A memorial was inaugurated near his home town in 2017. == Early life and education ==\nAvul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931 to a Tamil Muslim family in the pilgrimage center of Rameswaram on Pamban Island, Madras Presidency (now in the Indian state of Tamil Nadu)."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார்.",
+    "answer": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார்.",
+    "contexts": [
+      "ஆவுல் பக்கிர் ஜெய்னுலாபுதீன் அப்துல் கலாம் (A. P. J. Abdul Kalam, 15 அக்டோபர் 1931 – 27 சூலை 2015) பொதுவாக ஆ. ப. ஜெ. அப்துல் கலாம் என்று குறிப்பிடப்படுகின்ற இவர் ஓர்  அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் சென்னைத் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.\nஇவர் பாதுகாப்பு ஆராய்ச்சி மற்றும் மேம்பாட்",
+      "தலைவர் பதவிக்கு பரிந்துரைப்போம் என்று அறிவித்தது. இவர் 2002இல் நடந்த குடியரசுத்தலைவர் தேர்தலில் 9,22,884 வாக்குகள் பெற்று 1,07,366 வாக்குகளைப் பெற்ற இலட்சுமி சாகலை தோற்கடித்து வெற்றி பெற்றார். இவர் 25 சூலை 2002 முதல் 25 சூலை 2007 வரை பணியாற்றினார்.  கலாம் இந்தியாவின் பதினொன்றாவது குடியரசுத் தலைவராக, கே ஆர் நாராயணனுக்குப் பிறகு பணியாற்றினார். இவர் சூலை 25 அன்று குடியரசுத் தலைவராகப் பதவியேற்றார்.\nகலாம் \"மக்களின்  ஜனாதிபதி\" என்று அன்பாக அழைக்கப்பட்டார். இவர், ஆதாயம் தரும் பதவி மசோதாவை கையெழுத்திடு",
+      "் மக்கள்தொகையைக் கருத்தில் கொண்டு, இந்தியாவில் பொது உரிமையியல் சட்டம் தேவை என்று கலாம் தெரிவித்தார்.\n\n20 சூன் 2007 ஆம் தேதியில், தனது பதவிக் காலத்தின் இறுதியில், 2007 குடியரசுத் தலைவர் தேர்தலில் தனது வெற்றி நிச்சயமாக இருந்தால் இரண்டாவது முறையாக குடியரசுத் தலைவர் பதவியில் நீடிக்க தனது சம்மதத்தைத்  தெரிவித்தார். எனினும், இரண்டு நாட்கள் கழித்து மறுபடியும்  தேர்தலில் போட்டியிடப் போவதில்லை என்று முடிவு செய்தார். இவருக்கு ஜெயலலிதா, முலாயம் சிங் யாதவ் மற்றும் சந்திரபாபு நாயுடு ஆகிய சில தலைவர்கள் ஆதரவு"
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார்.",
+    "answer": "11வது குடியரசுத் தலைவர்.",
+    "contexts": [
+      "ஆவுல் பக்கிர் ஜெய்னுலாபுதீன் அப்துல் கலாம் (A. P. J. Abdul Kalam, 15 அக்டோபர் 1931 – 27 சூலை 2015) பொதுவாக ஆ. ப. ஜெ. அப்துல் கலாம் என்று குறிப்பிடப்படுகின்ற இவர் ஓர்  அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் சென்னைத் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.",
+      "== குடியரசுத் தலைவர் பதவி ==\n\n10 சூன் 2002 அன்று, ஆளும் பாரதிய ஜனதா கட்சி தலைமையிலான தேசிய சனநாயக கூட்டணி, கலாமை குடியரசுத் தலைவர் பதவிக்கு பரிந்துரைப்போம் என்று அறிவித்தது. இவர் 2002இல் நடந்த குடியரசுத்தலைவர் தேர்தலில் 9,22,884 வாக்குகள் பெற்று 1,07,366 வாக்குகளைப் பெற்ற இலட்சுமி சாகலை தோற்கடித்து வெற்றி பெற்றார். இவர் 25 சூலை 2002 முதல் 25 சூலை 2007 வரை பணியாற்றினார். கலாம் இந்தியாவின் பதினொன்றாவது குடியரசுத் தலைவராக, கே ஆர் நாராயணனுக்குப் பிறகு பணியாற்றினார்.",
+      "கலாம் இந்தியாவின் பதினொன்றாவது குடியரசுத் தலைவராக, கே ஆர் நாராயணனுக்குப் பிறகு பணியாற்றினார். இவர் சூலை 25 அன்று குடியரசுத் தலைவராகப் பதவியேற்றார். கலாம் \"மக்களின்  ஜனாதிபதி\" என்று அன்பாக அழைக்கப்பட்டார். இவர், ஆதாயம் தரும் பதவி மசோதாவை கையெழுத்திடுவதே தனது பதவி காலத்தில் எடுத்த கடினமான முடிவு என்று கூறுகிறார். இந்திய அரசியலமைப்பின் 72 வது சட்டத்தின் கீழ் மன்னிப்பு வழங்கல், இறப்பு தண்டனை வழங்கல் மற்றும் நிறுத்தல் ஆகியவற்றை செயல்படுத்த சனாதிபதிக்கு அதிகாரம் அளிக்கப்பட்டுள்ளது."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார்.",
+    "answer": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார்.",
+    "contexts": [
+      "கலாம் இந்தியாவின் பதினொன்றாவது குடியரசுத் தலைவராக, கே ஆர் நாராயணனுக்குப் பிறகு பணியாற்றினார். இவர் சூலை 25 அன்று குடியரசுத் தலைவராகப் பதவியேற்றார். கலாம் \"மக்களின்  ஜனாதிபதி\" என்று அன்பாக அழைக்கப்பட்டார். இவர், ஆதாயம் தரும் பதவி மசோதாவை கையெழுத்திடுவதே தனது பதவி காலத்தில் எடுத்த கடினமான முடிவு என்று கூறுகிறார்.",
+      "அப்துல் கலாம் என்று குறிப்பிடப்படுகின்ற இவர் ஓர்  அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் சென்னைத் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.",
+      "கலாம் தனது பதவிக் காலத்தில், தன்னிடம் வந்த 21 கருணை மனுக்களில் ஒன்றை மட்டுமே நிராகரித்தார், மற்ற மனுக்களின் மீது முடிவெடுக்காமல் இருந்தார். செப்டம்பர் 2003 இல், நாட்டின் மக்கள்தொகையைக் கருத்தில் கொண்டு, இந்தியாவில் பொது உரிமையியல் சட்டம் தேவை என்று கலாம் தெரிவித்தார். 20 சூன் 2007 ஆம் தேதியில், தனது பதவிக் காலத்தின் இறுதியில், 2007 குடியரசுத் தலைவர் தேர்தலில் தனது வெற்றி நிச்சயமாக இருந்தால் இரண்டாவது முறையாக குடியரசுத் தலைவர் பதவியில் நீடிக்க தனது சம்மதத்தைத்  தெரிவித்தார்."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில் தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்.",
+    "answer": "ஆ. ப. ஜெ. அப்துல் கலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில் தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்.",
+    "contexts": [
+      "ஆவுல் பக்கிர் ஜெய்னுலாபுதீன் அப்துல் கலாம் (A. P. J. Abdul Kalam, 15 அக்டோபர் 1931 – 27 சூலை 2015) பொதுவாக ஆ. ப. ஜெ. அப்துல் கலாம் என்று குறிப்பிடப்படுகின்ற இவர் ஓர்  அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் சென்னைத் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.\nஇவர் பாதுகாப்பு ஆராய்ச்சி மற்றும் மேம்பாட்",
+      "\"  என்ற இயக்கத்தை ஆரம்பித்தார்.\n\n== தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார். இவரின் தந்தை ராமேசுவரம் மற்றும் தனுஷ்கோடி இடையே மக்களைப் படகில் அழைத்துச் செல்லும் பணியில் ஈடுபட்டிருந்தார். இவருக்கு நான்கு சகோதரர்கள் மற்றும் ஒரு சகோதரி இருந்தனர். இவரது மூதாதையர்கள் வணிகர்கள் மற்ற",
+      "்றும் நவீனமயமாக்கலுக்கு இவர் ஆற்றிய பங்களிப்பிற்காக, இவருக்கு இந்தியாவின் உயரிய விருதான பாரத ரத்னா வழங்கப்பட்டது. 2008 இல் இவருக்கு ஊவர் பதக்கம் வழங்கப்பட்டது.\n\nதமிழ்நாடு அரசு இவரது பிறந்த நாளான அக்டோபர் 15, \"இளைஞர் மறுமலர்ச்சி நாளாக\" மாநிலம் முழுவதும் அனுசரிக்கப்படும் என்று அறிவித்தது மற்றும் 'டாக்டர் ஏ.பி.ஜே. அப்துல் கலாம் விருதை\" நிறுவியது. 2015 ஆம் ஆண்டு தொடங்கி, ஆண்டுதோறும் சுதந்திர தினத்தன்று, அறிவியல் வளர்ச்சியை மேம்படுத்துவதில் சாதனை படைத்த மாநிலத்தில் வசிப்பவர்களுக்கு இந்த விருது வழங்கப"
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில் தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்.",
+    "answer": "1931",
+    "contexts": [
+      "ஆவுல் பக்கிர் ஜெய்னுலாபுதீன் அப்துல் கலாம் (A. P. J. Abdul Kalam, 15 அக்டோபர் 1931 – 27 சூலை 2015) பொதுவாக ஆ. ப. ஜெ. அப்துல் கலாம் என்று குறிப்பிடப்படுகின்ற இவர் ஓர்  அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் சென்னைத் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.",
+      "== தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார். இவரின் தந்தை ராமேசுவரம் மற்றும் தனுஷ்கோடி இடையே மக்களைப் படகில் அழைத்துச் செல்லும் பணியில் ஈடுபட்டிருந்தார். இவருக்கு நான்கு சகோதரர்கள் மற்றும் ஒரு சகோதரி இருந்தனர்.",
+      "இவர் 2011-ஆம் ஆண்டில் தேச இளைஞர்களுக்காக, இந்தியாவில் ஊழலை ஒழிப்பதை மையக் கருவாகக் கொண்டு, \"நான் என்ன தர முடியும்\"  என்ற இயக்கத்தை ஆரம்பித்தார். == தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார்."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "ground_truth": "ஆ. ப. ஜெ. அப்துல் கலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில் தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்.",
+    "answer": "1931.",
+    "contexts": [
+      "அப்துல் கலாம் என்று குறிப்பிடப்படுகின்ற இவர் ஓர்  அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் இந்தியாவின் 11-ஆவது குடியரசு தலைவராக பணியாற்றினார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் சென்னைத் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.",
+      "== தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார். இவரின் தந்தை ராமேசுவரம் மற்றும் தனுஷ்கோடி இடையே மக்களைப் படகில் அழைத்துச் செல்லும் பணியில் ஈடுபட்டிருந்தார். இவருக்கு நான்கு சகோதரர்கள் மற்றும் ஒரு சகோதரி இருந்தனர்.",
+      "இந்தியாவின் முதல் மருத்துவ தொழில்நுட்ப நிறுவனம் கலாம் பெயரில் விசாகப்பட்டினத்தில் நிறுவப்பட்டது. அப்துல் கலாம் பிறந்த தினமான அக்டோபர் 15 ஆம் தேதி வாசிப்பு நாளாக கொண்டாடப்படும் என்று மகாராட்டிர அரசு அறிவித்தது. உத்தரபிரதேச மாநில தொழில் நுட்ப பல்கலைக்கழகத்திற்கு அப்துல் கலாம் பெயர் சூட்டப்படும் என்று அம்மாநில முதலமைச்சர் அறிவித்தார்."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "ground_truth": "1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்.",
+    "answer": "1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்.",
+    "contexts": [
+      "்னர் இந்திய விண்வெளி ஆய்வு நிறுவனத்தின் (ISRO) தும்பா ஏவுதளத்தின் முதல் இயக்குநரான மூர்த்தியால் பணியமர்த்தப்பட்டார். 1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார். இந்த ஏவூர்தி வெற்றிகரமாக ரோகினி என்ற செயற்கைக்கோளை சூலை 1980 -இல் பூமிக்கு அருகில் இருந்த சுற்றுப்பாதையில் நிலைநிறுத்தியது. 1965-ஆம் ஆண்டு, பாதுகாப்பு ஆராய்ச்சி மற்றும் மேம்பாட்டு அமைப்பில் ஒரு புதிய ஏவூர்தி வடிமைக்கும் திட்டத்தைக் க",
+      "ப்பில் ஒரு புதிய ஏவூர்தி வடிமைக்கும் திட்டத்தைக் கலாம் தொடங்கினார். 1969-ஆம் ஆண்டில், திட்டத்தை விரிவுபடுத்த அரசாங்கத்தின் ஒப்புதலைப் பெற்றார்.\n1963–64 இல், இவர் நாசாவின் வர்ஜீனியாவில் லாங்க்லி ஆராய்ச்சி மையம், மேரிலாந்து கிரீன்பெல்டில் உள்ள கோடார்ட் விண்வெளி மையம் மற்றும் வாலோபசு வானூர்தி மையம் ஆகிய இடங்களுக்குச் சென்று வந்தார். 1970-இலிருந்து 1990 வரை உள்ள இடைப்பட்ட காலத்தில் கலாம் முனைய துணைக்கோள் ஏவுகலம் மற்றும் எஸ்.எல்.வி-III திட்டங்களுக்காக முயற்சி மேற்கொண்டார். இரண்டு திட்டங்களும் வெற்றிக",
+      "ுகணைகளை உருவாகும் பணியில் ஈடுபட்டார். இந்தத் திட்டத்திற்காக இந்திய அரசு 388 கோடி ரூபாய் ஒதுக்கீடு செய்தது. இதன் தலைவராகக் கலாம் நியமிக்கப்பட்டார். அக்னி மற்றும் பிரித்வி உட்பட பல ஏவுகணைகளை இந்தத் திட்டத்தின் கீழ் உருவாக்குவதில் கலாம் முக்கியப் பங்கு வகித்தார். இவரின் நிர்வாகம் அத்துமீறிய செலவு மற்றும் கால அவகாசத்தை மீறுதல் ஆகியவற்றிற்காக விமர்சிக்கப்பட்டது.\nசூலை 1992 முதல் டிசம்பர் 1999 வரை அவர் பிரதமரின் தலைமை அறிவியல் ஆலோசகராகவும் பாதுகாப்பு ஆராய்ச்சி மற்றும் மேம்பாட்டு அமைப்பின் செயலாளராகவும்"
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "ground_truth": "1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்.",
+    "answer": "1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்.",
+    "contexts": [
+      "இதன் காரணமாக, இவர் விண்வெளி ஆராய்ச்சிக்கான இந்திய தேசியக் குழுவில் (INCOSPAR) சேர்ந்தார். அங்குப் புகழ்பெற்ற விண்வெளி விஞ்ஞானியான விக்ரம் சாராபாயின் கீழ் பணிபுரிந்தார். இவர் பின்னர் இந்திய விண்வெளி ஆய்வு நிறுவனத்தின் (ISRO) தும்பா ஏவுதளத்தின் முதல் இயக்குநரான மூர்த்தியால் பணியமர்த்தப்பட்டார். 1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்.",
+      "வி-III) திட்ட இயக்குநராக இருந்தார். இந்த ஏவூர்தி வெற்றிகரமாக ரோகினி என்ற செயற்கைக்கோளை சூலை 1980 -இல் பூமிக்கு அருகில் இருந்த சுற்றுப்பாதையில் நிலைநிறுத்தியது. 1965-ஆம் ஆண்டு, பாதுகாப்பு ஆராய்ச்சி மற்றும் மேம்பாட்டு அமைப்பில் ஒரு புதிய ஏவூர்தி வடிமைக்கும் திட்டத்தைக் கலாம் தொடங்கினார். 1969-ஆம் ஆண்டில், திட்டத்தை விரிவுபடுத்த அரசாங்கத்தின் ஒப்புதலைப் பெற்றார்.",
+      "கலாம் 1955 இல் சென்னைத் தொழில்நுட்ப நிறுவனத்தில் விண்வெளி பொறியியல் படிக்கச் சென்றார். இவர் ஒரு மூத்த வகுப்பு திட்டத்தில் பணிபுரிந்தபோது, இவரது பங்களிப்பில் அதிருப்தி அடைந்த ​​கல்லூரியின் தலைவர், அடுத்த மூன்று நாட்களுக்குள் திட்டத்தை முடிக்காவிட்டால் இவரது உதவித்தொகையை இரத்து செய்வதாக அச்சுறுத்தினார். இந்தக் காலக்கெடுவிற்குள் இதனை முடித்த கலாம், கல்லூரி தலைவரின் நன்மதிப்பை பெற்றார். அங்கு அவர் முதுகலை பட்டம் பெற்றார்."
+    ]
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "ground_truth": "1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக இருந்தார்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "அங்குப் புகழ்பெற்ற விண்வெளி விஞ்ஞானியான விக்ரம் சாராபாயின் கீழ் பணிபுரிந்தார். இவர் பின்னர் இந்திய விண்வெளி ஆய்வு நிறுவனத்தின் (ISRO) தும்பா ஏவுதளத்தின் முதல் இயக்குநரான மூர்த்தியால் பணியமர்த்தப்பட்டார். 1969-ஆம் ஆண்டில், கலாம் இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ்.",
+      "== அறிவியல் பணித்துறை ==\nசென்னைத் தொழில்நுட்ப நிறுவனத்தில் 1960-ஆம் ஆண்டு பட்டப்படிப்பை முடித்த கலாம், பாதுகாப்பு ஆராய்ச்சி மற்றும் வளர்ச்சி அமைப்பின் (DRDO) வானூர்தி அபிவிருத்திப் பிரிவில் அறிவியலாளராகச் சேர்ந்தார். இவர் ஒரு சிறிய காற்றுமெத்தை உந்தை வடிவமைப்பதன் மூலம் தனது வாழ்க்கையைத் தொடங்கினார், ஆனால் இவரின் பனி மீது தொடர்ந்து நம்பிக்கையில்லாமல் இருந்தார். இதன் காரணமாக, இவர் விண்வெளி ஆராய்ச்சிக்கான இந்திய தேசியக் குழுவில் (INCOSPAR) சேர்ந்தார்.",
+      "இவர் தனது படிப்பில், குறிப்பாகக் கணிதம் கற்பதில் நேரத்தைச் செலவிட்டார். இராமநாதபுரம் மேல்நிலைப் பள்ளியில், பள்ளிக் கல்வியை முடித்த கலாம், 1954 -ஆம் ஆண்டு திருச்சிராப்பள்ளி தூய வளனார் கல்லூரியில் இயற்பியல் பட்டம் பெற்றார். கலாம் 1955 இல் சென்னைத் தொழில்நுட்ப நிறுவனத்தில் விண்வெளி பொறியியல் படிக்கச் சென்றார்."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was Subramania Bharati's birth name?",
+    "ground_truth": "Subramania Bharati's birth name was Chinnaswami Subramaniyan.",
+    "answer": "Chinnaswami Subramaniyan.",
+    "contexts": [
+      "Subramania Bharati (Born Chinnaswami Subramaniyan; 11 December 1882 – 11 September 1921) was an Indian writer, poet, composer, journalist, teacher, Indian independence activist, social reformer and polyglot. He was bestowed the title Bharati for his poetry and was a pioneer of modern Tamil poetry. He is popularly known by his title Bharati or Bharatiyar and also by the other title \"Mahakavi Bharati\" (\"the great poet Bharati\"). His works included patriotic songs composed during the Indian Indepen",
+      "d Bhagavat Gita. Bharati was the first poet whose literature was nationalized in 1949.\n\n== Early life ==\n\nSubramaniyan was born on 11 December 1882 in a Tamil Brahmin Iyer family in the town of Ettayapuram in Tirunelveli district, Madras Presidency (present day Thoothukudi district, Tamil Nadu) to Chinnaswami Iyer and Lakshmi Ammal. He was called as Subbaiah by his parents. His mother died in 1887 when he was five years old and he was brought up by his father and his grandmother. \nSubramaniyan's",
+      "by his father and his grandmother. \nSubramaniyan's father wanted him to learn English and Maths and become an engineer. From a young age, Subramaniyan was inclined towards music and poetry. At the age of 11, he was given the title of \"Bharati\" (meaning blessed by the goddess of learning Saraswati) for his excellence in poetry. In 1897, at the age of 15, he married Chellamma, who was then seven years old. His father died when he was sixteen. After the death of his father, he wrote a letter to the"
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was Subramania Bharati's birth name?",
+    "ground_truth": "Subramania Bharati's birth name was Chinnaswami Subramaniyan.",
+    "answer": "Chinnaswami Subramaniyan.",
+    "contexts": [
+      "Subramania Bharati (Born Chinnaswami Subramaniyan; 11 December 1882 – 11 September 1921) was an Indian writer, poet, composer, journalist, teacher, Indian independence activist, social reformer and polyglot. He was bestowed the title Bharati for his poetry and was a pioneer of modern Tamil poetry. He is popularly known by his title Bharati or Bharatiyar and also by the other title \"Mahakavi Bharati\" (\"the great poet Bharati\").",
+      "Bharati was the first poet whose literature was nationalized in 1949. == Early life ==\n\nSubramaniyan was born on 11 December 1882 in a Tamil Brahmin Iyer family in the town of Ettayapuram in Tirunelveli district, Madras Presidency (present day Thoothukudi district, Tamil Nadu) to Chinnaswami Iyer and Lakshmi Ammal. He was called as Subbaiah by his parents. His mother died in 1887 when he was five years old and he was brought up by his father and his grandmother.",
+      "His mother died in 1887 when he was five years old and he was brought up by his father and his grandmother. Subramaniyan's father wanted him to learn English and Maths and become an engineer. From a young age, Subramaniyan was inclined towards music and poetry. At the age of 11, he was given the title of \"Bharati\" (meaning blessed by the goddess of learning Saraswati) for his excellence in poetry. In 1897, at the age of 15, he married Chellamma, who was then seven years old."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was Subramania Bharati's birth name?",
+    "ground_truth": "Subramania Bharati's birth name was Chinnaswami Subramaniyan.",
+    "answer": "Chinnaswami Subramaniyan.",
+    "contexts": [
+      "Subramania Bharati (Born Chinnaswami Subramaniyan; 11 December 1882 – 11 September 1921) was an Indian writer, poet, composer, journalist, teacher, Indian independence activist, social reformer and polyglot. He was bestowed the title Bharati for his poetry and was a pioneer of modern Tamil poetry. He is popularly known by his title Bharati or Bharatiyar and also by the other title \"Mahakavi Bharati\" (\"the great poet Bharati\").",
+      "From a young age, Subramaniyan was inclined towards music and poetry. At the age of 11, he was given the title of \"Bharati\" (meaning blessed by the goddess of learning Saraswati) for his excellence in poetry. In 1897, at the age of 15, he married Chellamma, who was then seven years old. His father died when he was sixteen. After the death of his father, he wrote a letter to the Raja of Ettayapuram, requesting for financial assistance.",
+      "== Early life ==\n\nSubramaniyan was born on 11 December 1882 in a Tamil Brahmin Iyer family in the town of Ettayapuram in Tirunelveli district, Madras Presidency (present day Thoothukudi district, Tamil Nadu) to Chinnaswami Iyer and Lakshmi Ammal. He was called as Subbaiah by his parents. His mother died in 1887 when he was five years old and he was brought up by his father and his grandmother. Subramaniyan's father wanted him to learn English and Maths and become an engineer."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "ground_truth": "Bharati lived in exile in Pondicherry for about ten years.",
+    "answer": "About ten years, until 1918.",
+    "contexts": [
+      "uted a case against Chidambaram Pillai. In the same year, the proprietor of the journal India in which Bharati was writing, was arrested in Madras. Faced with the prospect of an imminent arrest, Bharati escaped to Pondicherry, which was under the French rule. \n\nIn Pondicherry, Bharati edited and published the weekly journal India, a Tamil daily Vijaya, an English monthly Bala Bharatham and a local weekly Suryodayam. The British tried to ban Bharati's publications and the newspapers India and Vij",
+      "urnalist with many newspapers, including Swadesamitran, The Hindu, Bala Bharata, Vijaya, Chakravarthini and India. He considered Sister Nivedita, a disciple of Swami Vivekananda, as his guru.\nIn 1908, the British Government issued an arrest warrant for Bharati which pushed him to live in exile in the French-controlled Pondicherry for about ten years until 1918. He was attacked by an Indian elephant at Thiruvallikeni Parthasarathy Temple whom he fed daily and died a few months later on 11 Septemb",
+      "were spent in a house in Thiruvallikeni in Chennai. The house was bought and renovated by the Government of Tamil Nadu in 1993 and named \"Bharati Illam\" (Home of Bharati). The house in which he was born in Ettayapuram and the house where he lived in Puducherry are maintained as memorial houses. A statue of Bharati, a memorial complex and a photo exhibition related to his life history are on display at Etayapuram, his birthplace.\nIn 1960, India Post issued a commemorative stamp on Bharati. The Su"
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "ground_truth": "Bharati lived in exile in Pondicherry for about ten years.",
+    "answer": "About ten years, from 1908 until 1918.",
+    "contexts": [
+      "He considered Sister Nivedita, a disciple of Swami Vivekananda, as his guru. In 1908, the British Government issued an arrest warrant for Bharati which pushed him to live in exile in the French-controlled Pondicherry for about ten years until 1918. He was attacked by an Indian elephant at Thiruvallikeni Parthasarathy Temple whom he fed daily and died a few months later on 11 September 1921. Bharati was well-versed in several languages and had a passion for Tamil.",
+      "In the same year, the proprietor of the journal India in which Bharati was writing, was arrested in Madras. Faced with the prospect of an imminent arrest, Bharati escaped to Pondicherry, which was under the French rule. In Pondicherry, Bharati edited and published the weekly journal India, a Tamil daily Vijaya, an English monthly Bala Bharatham and a local weekly Suryodayam. The British tried to ban Bharati's publications and the newspapers India and Vijaya were banned in British India in 1909.",
+      "During his stay in Varanasi, he was exposed to Hindu spirituality and nationalism and learned new languages such as Sanskrit, Hindi and English. He also changed his outward appearance, growing a beard and started wearing a turban. == Literary life and independence activism ==\n\nBharati returned to Ettayapuram during 1901 and served as the chief court poet of the Raja of Ettayapuram. He served as a Tamil teacher from August to November 1904 in Sethupathy High School in Madurai."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "ground_truth": "Bharati lived in exile in Pondicherry for about ten years.",
+    "answer": "About ten years, until 1918.",
+    "contexts": [
+      "In 1908, the British Government issued an arrest warrant for Bharati which pushed him to live in exile in the French-controlled Pondicherry for about ten years until 1918. He was attacked by an Indian elephant at Thiruvallikeni Parthasarathy Temple whom he fed daily and died a few months later on 11 September 1921. Bharati was well-versed in several languages and had a passion for Tamil. His works covered political, social and spiritual themes.",
+      "Faced with the prospect of an imminent arrest, Bharati escaped to Pondicherry, which was under the French rule. In Pondicherry, Bharati edited and published the weekly journal India, a Tamil daily Vijaya, an English monthly Bala Bharatham and a local weekly Suryodayam. The British tried to ban Bharati's publications and the newspapers India and Vijaya were banned in British India in 1909.",
+      "He was imprisoned in the Central prison in Cuddalore for three weeks from 20 November to 14 December. He was released after the intervention of Annie Besant and C.P. Ramaswamy Aiyar. He was stricken by poverty and ill health during this period. In the following year, Bharati met Gandhi for the first time."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What two works by Bharati were translated from Sanskrit texts?",
+    "ground_truth": "Bharati translated Patanjali's Yoga Sutra and Bhagavat Gita.",
+    "answer": "Based on the given context, the two works by Bharati that were translated from Sanskrit texts are: \n\n1. Patanjali's Yoga Sutra \n2. Bhagavat Gita",
+    "contexts": [
+      "ed daily and died a few months later on 11 September 1921.\nBharati was well-versed in several languages and had a passion for Tamil. His works covered political, social and spiritual themes. Songs and poems composed by Bharati are used in Tamil literature, music and daily life. His works include Panjali Sabatham, Kannan Paatu, Kuyil Paatu, Paapa Paatu, Chinnanchriu Kiliye, Vinayagar Nanmanimalai and Tamil translations of Patanjali's Yoga Sutra and Bhagavat Gita. Bharati was the first poet whose",
+      "ti's publications and the newspapers India and Vijaya were banned in British India in 1909. During his exile, Bharati had the opportunity to meet other revolutionary leaders of the Indian Independence movement like Aurobindo, Lajpat Rai and V. V. Subrahmanya Iyer, who had also sought asylum under the French. Bharati assisted Aurobindo in publishing the journals Arya and Karma Yogi. He also started learning Vedic literature. Three of his greatest works namely, Kuyil Pattu, Panjali Sabatham and Ka",
+      "works namely, Kuyil Pattu, Panjali Sabatham and Kannan Pattu were composed during 1912. He also translated Vedic hymns, Patanjali's Yoga Sutra and Bhagavat Gita to Tamil language. \nWhen Bharati entered the British India near Cuddalore in November 1918, he was arrested. He was imprisoned in the Central prison in Cuddalore for three weeks from 20 November to 14 December. He was released after the intervention of Annie Besant and C.P. Ramaswamy Aiyar. He was stricken by poverty and ill health durin"
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What two works by Bharati were translated from Sanskrit texts?",
+    "ground_truth": "Bharati translated Patanjali's Yoga Sutra and Bhagavat Gita.",
+    "answer": "Patanjali's Yoga Sutra and Bhagavat Gita.",
+    "contexts": [
+      "Bharati was well-versed in several languages and had a passion for Tamil. His works covered political, social and spiritual themes. Songs and poems composed by Bharati are used in Tamil literature, music and daily life. His works include Panjali Sabatham, Kannan Paatu, Kuyil Paatu, Paapa Paatu, Chinnanchriu Kiliye, Vinayagar Nanmanimalai and Tamil translations of Patanjali's Yoga Sutra and Bhagavat Gita. Bharati was the first poet whose literature was nationalized in 1949.",
+      "He also started learning Vedic literature. Three of his greatest works namely, Kuyil Pattu, Panjali Sabatham and Kannan Pattu were composed during 1912. He also translated Vedic hymns, Patanjali's Yoga Sutra and Bhagavat Gita to Tamil language. When Bharati entered the British India near Cuddalore in November 1918, he was arrested. He was imprisoned in the Central prison in Cuddalore for three weeks from 20 November to 14 December. He was released after the intervention of Annie Besant and C.P.",
+      "He fought for the emancipation of women, against child marriage, vehemently opposed the caste system, and stood for reforming society and religion. His poems were the first to be nationalized in India in 1949. His works include Panjali Sabatham, Kannan Paatu, Kuyil Paatu, Paapa Paatu, Chinnanchriu Kiliye and Vinayagar Nanmanimalai. He also translated Patanjali's Yoga Sutra and Bhagavat Gita to Tamil."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What two works by Bharati were translated from Sanskrit texts?",
+    "ground_truth": "Bharati translated Patanjali's Yoga Sutra and Bhagavat Gita.",
+    "answer": "Bhagavat Gita and Patanjali's Yoga Sutra were the two works translated by Bharati from Sanskrit texts to Tamil language.",
+    "contexts": [
+      "Songs and poems composed by Bharati are used in Tamil literature, music and daily life. His works include Panjali Sabatham, Kannan Paatu, Kuyil Paatu, Paapa Paatu, Chinnanchriu Kiliye, Vinayagar Nanmanimalai and Tamil translations of Patanjali's Yoga Sutra and Bhagavat Gita. Bharati was the first poet whose literature was nationalized in 1949.",
+      "Subrahmanya Iyer, who had also sought asylum under the French. Bharati assisted Aurobindo in publishing the journals Arya and Karma Yogi. He also started learning Vedic literature. Three of his greatest works namely, Kuyil Pattu, Panjali Sabatham and Kannan Pattu were composed during 1912. He also translated Vedic hymns, Patanjali's Yoga Sutra and Bhagavat Gita to Tamil language. When Bharati entered the British India near Cuddalore in November 1918, he was arrested.",
+      "In 1908, the British Government issued an arrest warrant for Bharati which pushed him to live in exile in the French-controlled Pondicherry for about ten years until 1918. He was attacked by an Indian elephant at Thiruvallikeni Parthasarathy Temple whom he fed daily and died a few months later on 11 September 1921. Bharati was well-versed in several languages and had a passion for Tamil. His works covered political, social and spiritual themes."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "பாரதியார் எந்த ஆண்டு எட்டயபுரத்தில் பிறந்தார்?",
+    "ground_truth": "பாரதியார் 1882 ஆம் ஆண்டு எட்டயபுரத்தில் பிறந்தார்.",
+    "answer": "பாரதியார் 1882 ஆம் ஆண்டு எட்டயபுரத்தில் பிறந்தார்.",
+    "contexts": [
+      "்செய்குவோம்\" என நதிநீர் இணைப்பிற்கு முன்பே கனவுகண்டவர்.\n\n== புகழ் மற்றும் நினைவு சின்னங்கள் ==\n\nபாரதி தனது வாழ்க்கையின் கடைசி ஆண்டுகளை திருவல்லிக்கேணியில் உள்ள ஒரு வீட்டில் கழித்தார். 1993 ஆம் ஆண்டு தமிழ்நாடு அரசால் வாங்கப்பட்டு புதுப்பிக்கப்பட்ட இந்த வீடு \"பாரதி இல்லம்\" (பாரதியின் இல்லம்) எனப் பெயரிடப்பட்டது. எட்டயபுரத்தில் இவர் பிறந்த இல்லம் மற்றும் புதுச்சேரியில் இவர் வாழ்ந்த இல்லம் ஆகியவை நினைவு இல்லங்களாகப் பேணப்பட்டு வருகிறது. இவர் பிறந்த எட்டயபுரத்தில் பாரதியின் ஏழு அடி உயரச் சிலை, மணிமண்",
+      "ிறார். இந்திய சுதந்திரப் போராட்டத்தின் போது தேசபக்தியைத் தூண்டும் பாடல்கள் இவரது படைப்புகளில் அடங்கும். பெண் விடுதலைக்காகவும், சாதி மறுப்பு, குழந்தைத் திருமணத்திற்கு எதிராகவும் போராடினார்.\n1882 இல் திருநெல்வேலி மாவட்டம் (இன்றைய தூத்துக்குடி) எட்டயபுரத்தில் பிறந்த பாரதி, தனது ஆரம்பக் கல்வியை திருநெல்வேலி, வாரணாசி ஆகிய இடங்களில் பயின்றார். இவர் சுதேசமித்திரன், தி இந்து, பால பாரதா, விஜயா, சக்ரவர்த்தினி, இந்தியா உள்ளிட்ட பல இதழ்களிலும், செய்தித்தாள்களிலும் எழுதி வந்தார். பாஞ்சாலி சபதம், கண்ணன் பாட்ட",
+      "ட்டயபுரத்தில் பாரதியின் ஏழு அடி உயரச் சிலை, மணிமண்டபம் மற்றும் இவரின் வாழ்க்கை வரலாறு தொடர்பான புகைப்படக் கண்காட்சியும் வைக்கப்பட்டுள்ளது.\n1987 ஆம் ஆண்டு எழுத்தாளர்களுக்கான உயர்ந்த தேசிய விருதான சுப்ரமணிய பாரதி விருது நிறுவப்பட்டது. இந்திய அரசாங்கத்தின் மனித வள மேம்பாட்டு அமைச்சகத்தால் இலக்கியத்தில் சிறந்த படைப்புகளை எழுதுபவர்களுக்கு ஆண்டுதோறும் இந்த விருது வழங்கப்படுகின்றது. பாரதியார் பல்கலைக்கழகம் 1982 இல் கோயம்புத்தூரில் நிறுவப்பட்டது. தில்லி இந்திய நாடாளுமன்றம், சென்னை மெரினா கடற்கரை உட்பட ப"
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "பாரதியார் எந்த ஆண்டு எட்டயபுரத்தில் பிறந்தார்?",
+    "ground_truth": "பாரதியார் 1882 ஆம் ஆண்டு எட்டயபுரத்தில் பிறந்தார்.",
+    "answer": "பாரதியார் 1882 ஆம் ஆண்டு திருநெல்வேலி மாவட்டம் (இன்றைய தூத்துக்குடி) எட்டயபுரத்தில் பிறந்தார்.",
+    "contexts": [
+      "1882 இல் திருநெல்வேலி மாவட்டம் (இன்றைய தூத்துக்குடி) எட்டயபுரத்தில் பிறந்த பாரதி, தனது ஆரம்பக் கல்வியை திருநெல்வேலி, வாரணாசி ஆகிய இடங்களில் பயின்றார். இவர் சுதேசமித்திரன், தி இந்து, பால பாரதா, விஜயா, சக்ரவர்த்தினி, இந்தியா உள்ளிட்ட பல இதழ்களிலும், செய்தித்தாள்களிலும் எழுதி வந்தார்.",
+      "எட்டயபுரத்தில் இவர் பிறந்த இல்லம் மற்றும் புதுச்சேரியில் இவர் வாழ்ந்த இல்லம் ஆகியவை நினைவு இல்லங்களாகப் பேணப்பட்டு வருகிறது. இவர் பிறந்த எட்டயபுரத்தில் பாரதியின் ஏழு அடி உயரச் சிலை, மணிமண்டபம் மற்றும் இவரின் வாழ்க்கை வரலாறு தொடர்பான புகைப்படக் கண்காட்சியும் வைக்கப்பட்டுள்ளது. 1987 ஆம் ஆண்டு எழுத்தாளர்களுக்கான உயர்ந்த தேசிய விருதான சுப்ரமணிய பாரதி விருது நிறுவப்பட்டது.",
+      "இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார். இந்திய சுதந்திரப் போராட்டத்தின் போது தேசபக்தியைத் தூண்டும் பாடல்கள் இவரது படைப்புகளில் அடங்கும். பெண் விடுதலைக்காகவும், சாதி மறுப்பு, குழந்தைத் திருமணத்திற்கு எதிராகவும் போராடினார். 1882 இல் திருநெல்வேலி மாவட்டம் (இன்றைய தூத்துக்குடி) எட்டயபுரத்தில் பிறந்த பாரதி, தனது ஆரம்பக் கல்வியை திருநெல்வேலி, வாரணாசி ஆகிய இடங்களில் பயின்றார்."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "பாரதியார் எந்த ஆண்டு எட்டயபுரத்தில் பிறந்தார்?",
+    "ground_truth": "பாரதியார் 1882 ஆம் ஆண்டு எட்டயபுரத்தில் பிறந்தார்.",
+    "answer": "பாரதியார் 1882 ஆம் ஆண்டு எட்டயபுரத்தில் பிறந்தார்.",
+    "contexts": [
+      "1882 இல் திருநெல்வேலி மாவட்டம் (இன்றைய தூத்துக்குடி) எட்டயபுரத்தில் பிறந்த பாரதி, தனது ஆரம்பக் கல்வியை திருநெல்வேலி, வாரணாசி ஆகிய இடங்களில் பயின்றார். இவர் சுதேசமித்திரன், தி இந்து, பால பாரதா, விஜயா, சக்ரவர்த்தினி, இந்தியா உள்ளிட்ட பல இதழ்களிலும், செய்தித்தாள்களிலும் எழுதி வந்தார்.",
+      "இவர் பிறந்த எட்டயபுரத்தில் பாரதியின் ஏழு அடி உயரச் சிலை, மணிமண்டபம் மற்றும் இவரின் வாழ்க்கை வரலாறு தொடர்பான புகைப்படக் கண்காட்சியும் வைக்கப்பட்டுள்ளது. 1987 ஆம் ஆண்டு எழுத்தாளர்களுக்கான உயர்ந்த தேசிய விருதான சுப்ரமணிய பாரதி விருது நிறுவப்பட்டது. இந்திய அரசாங்கத்தின் மனித வள மேம்பாட்டு அமைச்சகத்தால் இலக்கியத்தில் சிறந்த படைப்புகளை எழுதுபவர்களுக்கு ஆண்டுதோறும் இந்த விருது வழங்கப்படுகின்றது.",
+      "== புகழ் மற்றும் நினைவு சின்னங்கள் ==\n\nபாரதி தனது வாழ்க்கையின் கடைசி ஆண்டுகளை திருவல்லிக்கேணியில் உள்ள ஒரு வீட்டில் கழித்தார். 1993 ஆம் ஆண்டு தமிழ்நாடு அரசால் வாங்கப்பட்டு புதுப்பிக்கப்பட்ட இந்த வீடு \"பாரதி இல்லம்\" (பாரதியின் இல்லம்) எனப் பெயரிடப்பட்டது. எட்டயபுரத்தில் இவர் பிறந்த இல்லம் மற்றும் புதுச்சேரியில் இவர் வாழ்ந்த இல்லம் ஆகியவை நினைவு இல்லங்களாகப் பேணப்பட்டு வருகிறது."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "பாரதியாருக்கு 'பாரதி' என்ற பட்டம் ஏன் வழங்கப்பட்டது?",
+    "ground_truth": "கவிதையில் சிறந்து விளங்கியதற்காக பாரதியாருக்கு 'பாரதி' என்ற பட்டம் வழங்கப்பட்டது.",
+    "answer": "அவர் 'கவிதையில் சிறந்து விளங்கியதற்காக' 'பாரதி' என்ற பட்டம் வழங்கப்பட்டது.",
+    "contexts": [
+      "சின்னசுவாமி சுப்பிரமணிய பாரதி (Subramania Bharati, 11 திசம்பர் 1882 – 11 செப்டம்பர் 1921) கவிஞரும், எழுத்தாளரும், இதழாசிரியரும், விடுதலைப் போராட்ட வீரரும், சமூக சீர்திருத்தவாதியுமாவார். கவிதையில் சிறந்து விளங்கியதற்காக இவருக்கு \"பாரதி\" என்ற பட்டம் வழங்கப்பட்டது. நவீன தமிழ்க் கவிஞர்களின் முன்னோடியாகத் திகழ்ந்த இவர், தமிழ் மொழியில் சிறந்த இலக்கியவாதிகளில் ஒருவராகக் கருதப்படுகிறார். இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார். இந்திய சுதந்திரப் போராட்டத்தின் போது தேசபக்",
+      "ட்டயபுரத்தில் பாரதியின் ஏழு அடி உயரச் சிலை, மணிமண்டபம் மற்றும் இவரின் வாழ்க்கை வரலாறு தொடர்பான புகைப்படக் கண்காட்சியும் வைக்கப்பட்டுள்ளது.\n1987 ஆம் ஆண்டு எழுத்தாளர்களுக்கான உயர்ந்த தேசிய விருதான சுப்ரமணிய பாரதி விருது நிறுவப்பட்டது. இந்திய அரசாங்கத்தின் மனித வள மேம்பாட்டு அமைச்சகத்தால் இலக்கியத்தில் சிறந்த படைப்புகளை எழுதுபவர்களுக்கு ஆண்டுதோறும் இந்த விருது வழங்கப்படுகின்றது. பாரதியார் பல்கலைக்கழகம் 1982 இல் கோயம்புத்தூரில் நிறுவப்பட்டது. தில்லி இந்திய நாடாளுமன்றம், சென்னை மெரினா கடற்கரை உட்பட ப",
+      "பங்கேற்ற விரிவான விவாதம் 1928-ஆம் ஆண்டு அக்டோபர் 8, 9 தேதிகளில் நடந்தது.\n\n== இலக்கியப் படைப்புகள் ==\nபாரதி நவீன தமிழ் இலக்கியத்தின் முன்னோடிகளில் ஒருவராகக் கருதப்படுகிறார். இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார். முந்தைய நூற்றாண்டுப் படைப்புகளைப் போலல்லாமல் பாரதி பெரும்பாலும் எளிமையான சொற்களைப் பயன்படுத்தினார். இலக்கணச் சட்டங்களைத் தகர்த்தெறிந்த பாரதி, புதுக்கவிதை எனப் புகழப்படும், பாமரரும் கேட்டுணரும் வசனக்கவிதையைத் தமிழுக்குத் தந்தார். இவர் தனது கவிதைகளில் பு"
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "பாரதியாருக்கு 'பாரதி' என்ற பட்டம் ஏன் வழங்கப்பட்டது?",
+    "ground_truth": "கவிதையில் சிறந்து விளங்கியதற்காக பாரதியாருக்கு 'பாரதி' என்ற பட்டம் வழங்கப்பட்டது.",
+    "answer": "பாரதியாருக்கு 'பாரதி' என்ற பட்டம் கவிதையில் சிறந்து விளங்கியதற்காக வழங்கப்பட்டது.",
+    "contexts": [
+      "சின்னசுவாமி சுப்பிரமணிய பாரதி (Subramania Bharati, 11 திசம்பர் 1882 – 11 செப்டம்பர் 1921) கவிஞரும், எழுத்தாளரும், இதழாசிரியரும், விடுதலைப் போராட்ட வீரரும், சமூக சீர்திருத்தவாதியுமாவார். கவிதையில் சிறந்து விளங்கியதற்காக இவருக்கு \"பாரதி\" என்ற பட்டம் வழங்கப்பட்டது. நவீன தமிழ்க் கவிஞர்களின் முன்னோடியாகத் திகழ்ந்த இவர், தமிழ் மொழியில் சிறந்த இலக்கியவாதிகளில் ஒருவராகக் கருதப்படுகிறார். இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார்.",
+      "இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார். இந்திய சுதந்திரப் போராட்டத்தின் போது தேசபக்தியைத் தூண்டும் பாடல்கள் இவரது படைப்புகளில் அடங்கும். பெண் விடுதலைக்காகவும், சாதி மறுப்பு, குழந்தைத் திருமணத்திற்கு எதிராகவும் போராடினார். 1882 இல் திருநெல்வேலி மாவட்டம் (இன்றைய தூத்துக்குடி) எட்டயபுரத்தில் பிறந்த பாரதி, தனது ஆரம்பக் கல்வியை திருநெல்வேலி, வாரணாசி ஆகிய இடங்களில் பயின்றார்.",
+      "1987 ஆம் ஆண்டு எழுத்தாளர்களுக்கான உயர்ந்த தேசிய விருதான சுப்ரமணிய பாரதி விருது நிறுவப்பட்டது. இந்திய அரசாங்கத்தின் மனித வள மேம்பாட்டு அமைச்சகத்தால் இலக்கியத்தில் சிறந்த படைப்புகளை எழுதுபவர்களுக்கு ஆண்டுதோறும் இந்த விருது வழங்கப்படுகின்றது. பாரதியார் பல்கலைக்கழகம் 1982 இல் கோயம்புத்தூரில் நிறுவப்பட்டது. தில்லி இந்திய நாடாளுமன்றம், சென்னை மெரினா கடற்கரை உட்பட பல இடங்களில் இவரின் சிலைகள் நிறுவப்பட்டுள்ளன."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "பாரதியாருக்கு 'பாரதி' என்ற பட்டம் ஏன் வழங்கப்பட்டது?",
+    "ground_truth": "கவிதையில் சிறந்து விளங்கியதற்காக பாரதியாருக்கு 'பாரதி' என்ற பட்டம் வழங்கப்பட்டது.",
+    "answer": "பாரதியாருக்கு 'பாரதி' என்ற பட்டம் கவிதையில் சிறந்து விளங்கியதற்காக வழங்கப்பட்டது.",
+    "contexts": [
+      "சின்னசுவாமி சுப்பிரமணிய பாரதி (Subramania Bharati, 11 திசம்பர் 1882 – 11 செப்டம்பர் 1921) கவிஞரும், எழுத்தாளரும், இதழாசிரியரும், விடுதலைப் போராட்ட வீரரும், சமூக சீர்திருத்தவாதியுமாவார். கவிதையில் சிறந்து விளங்கியதற்காக இவருக்கு \"பாரதி\" என்ற பட்டம் வழங்கப்பட்டது. நவீன தமிழ்க் கவிஞர்களின் முன்னோடியாகத் திகழ்ந்த இவர், தமிழ் மொழியில் சிறந்த இலக்கியவாதிகளில் ஒருவராகக் கருதப்படுகிறார். இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார்.",
+      "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும். இந்திய விடுதலைப் போராட்டத்தையே பாரதப் போராகவும், பாஞ்சாலியைப் பாரத மாதாவாகவும் உருவகப்படுத்தி மகாகவி படைத்த படைப்புதான் பாஞ்சாலி சபதம். வியாசரின் மகாபாரதத்தைத் தழுவி எழுதப் பெற்ற இந்நூலானது ஐந்து சருக்கங்களையும், 412 பாடல்களையும் கொண்டது. இவரது பிரபலமான படைப்புகளில் குயில் பாட்டு, பாப்பா‌ பாட்டு, சின்னஞ்சிறு கிளியே, புதிய ஆத்திசூடி, விநாயகர் நான்மணிமாலை மற்றும் கண்ணன் பாட்டு ஆகியவை அடங்கும்.",
+      "== இலக்கியப் படைப்புகள் ==\nபாரதி நவீன தமிழ் இலக்கியத்தின் முன்னோடிகளில் ஒருவராகக் கருதப்படுகிறார். இவர் \"மகாகவி\" (\"மகத்தான கவிஞர்\") என்ற புனைபெயரைக் கொண்டு அறியப்படுகிறார். முந்தைய நூற்றாண்டுப் படைப்புகளைப் போலல்லாமல் பாரதி பெரும்பாலும் எளிமையான சொற்களைப் பயன்படுத்தினார். இலக்கணச் சட்டங்களைத் தகர்த்தெறிந்த பாரதி, புதுக்கவிதை எனப் புகழப்படும், பாமரரும் கேட்டுணரும் வசனக்கவிதையைத் தமிழுக்குத் தந்தார். இவர் தனது கவிதைகளில் புதுமையான யோசனைகளையும் நுட்பங்களையும் வெளிப்படுத்தினார்."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் யாருடையது?",
+    "ground_truth": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+    "answer": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+    "contexts": [
+      "ளிலும் எழுதி வந்தார். பாஞ்சாலி சபதம், கண்ணன் பாட்டு, குயில் பாட்டு, பாப்பா பாட்டு,  பதஞ்சலி யோகசூத்திரம் (தமிழ் மொழிபெயர்ப்பு), பகவத் கீதை (தமிழ் மொழிபெயர்ப்பு), சின்னஞ்சிறு கிளியே, விநாயகர் நான்மணிமாலை, விடுதலை பாடல்கள், புதிய ஆத்திசூடி உள்ளிட்ட பல நூல்களையும், பாடல்களையும் இயற்றியுள்ளார். இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.\n1908-ஆம் ஆண்டில், பிரித்தானிய அரசாங்கம் பாரதியைக் கைது செய்ய ஆணை பிறப்பித்ததால், இவர் பிரெஞ்சு கட்டுப்பாட்டில் இருந்த பாண்டிச்சேரி",
+      "வும், சாதி மறுப்பு மற்றும் குழந்தை திருமணத்திற்கு எதிராகவும் போராடினார். இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.\n\n \nஇந்திய விடுதலைப் போராட்டத்தையே பாரதப் போராகவும், பாஞ்சாலியைப் பாரத மாதாவாகவும் உருவகப்படுத்தி மகாகவி படைத்த படைப்புதான் பாஞ்சாலி சபதம். வியாசரின் மகாபாரதத்தைத் தழுவி எழுதப் பெற்ற இந்நூலானது ஐந்து சருக்கங்களையும், 412 பாடல்களையும் கொண்டது. இவரது பிரபலமான படைப்புகளில் குயில் பாட்டு, பாப்பா‌ பாட்டு, சின்னஞ்சிறு கிளியே, புதிய ஆத்திசூடி, விநாயகர் நா",
+      "ுதப்பட்ட ராமாவதாரம் உட்பட குறிப்பிடத்தக்க படைப்புகளுடன் செழித்த வளர்ந்தது.\n 14 ஆம் நூற்றாண்டில் இயற்றப்பட்ட இலக்கியங்களில் அருணகிரிநாதரின் திருப்புகழ் குறிப்பிடத்தக்கது. 1578 இல், போர்த்துகீசியர்கள் தம்பிரான் வணக்கம் என்ற ஒரு தமிழ் புத்தகத்தை வெளியிட்டனர், இதன் மூலம் தமிழ் அச்சிடப்பட்டு வெளியிடப்பட்ட முதல் இந்திய மொழியாக திகழ்ந்தது. மீனாட்சி சுந்தரம் பிள்ளை, சுவாமிநாத ஐயர், இராமலிங்க அடிகள் மற்றும் மறைமலை அடிகள் போன்ற எழுத்தாளர்களின் எழுத்துக்கள் மற்றும் கவிதைகள் 19 ஆம் நூற்றாண்டு தமிழ் மறுமலர்ச"
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் யாருடையது?",
+    "ground_truth": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+    "answer": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+    "contexts": [
+      "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும். 1908-ஆம் ஆண்டில், பிரித்தானிய அரசாங்கம் பாரதியைக் கைது செய்ய ஆணை பிறப்பித்ததால், இவர் பிரெஞ்சு கட்டுப்பாட்டில் இருந்த பாண்டிச்சேரியில் 1918 வரை ஏறத்தாழ பத்து ஆண்டுகள் வாழ்ந்தார். இவர் நாளும் உணவளிக்கும் திருவல்லிக்கேணி பார்த்தசாரதி கோயில் யானையால் தாக்கப்பட்ட பிறகு உடல் நலம் குன்றிய இவர், சில மாதங்களுக்குப் பிறகு 1921 செப்டம்பர் 11 அன்று அதிகாலை இறந்தார்.",
+      "இவர் சுதேசமித்திரன், தி இந்து, பால பாரதா, விஜயா, சக்ரவர்த்தினி, இந்தியா உள்ளிட்ட பல இதழ்களிலும், செய்தித்தாள்களிலும் எழுதி வந்தார். பாஞ்சாலி சபதம், கண்ணன் பாட்டு, குயில் பாட்டு, பாப்பா பாட்டு,  பதஞ்சலி யோகசூத்திரம் (தமிழ் மொழிபெயர்ப்பு), பகவத் கீதை (தமிழ் மொழிபெயர்ப்பு), சின்னஞ்சிறு கிளியே, விநாயகர் நான்மணிமாலை, விடுதலை பாடல்கள், புதிய ஆத்திசூடி உள்ளிட்ட பல நூல்களையும், பாடல்களையும் இயற்றியுள்ளார். இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+      "விடுதலைப் போராட்ட காலத்தில் தேசிய உணர்வுள்ள பல்வேறு கவிதைகளைப் படைத்து மக்களை ஒருங்கிணைத்த காரணத்தால் பாரதி \"தேசியக் கவி\" எனப் போற்றப்படுகிறார். பெண் விடுதலைக்காகவும், சாதி மறுப்பு மற்றும் குழந்தை திருமணத்திற்கு எதிராகவும் போராடினார். இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும். இந்திய விடுதலைப் போராட்டத்தையே பாரதப் போராகவும், பாஞ்சாலியைப் பாரத மாதாவாகவும் உருவகப்படுத்தி மகாகவி படைத்த படைப்புதான் பாஞ்சாலி சபதம்."
+    ]
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் யாருடையது?",
+    "ground_truth": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+    "answer": "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+    "contexts": [
+      "பாஞ்சாலி சபதம், கண்ணன் பாட்டு, குயில் பாட்டு, பாப்பா பாட்டு,  பதஞ்சலி யோகசூத்திரம் (தமிழ் மொழிபெயர்ப்பு), பகவத் கீதை (தமிழ் மொழிபெயர்ப்பு), சின்னஞ்சிறு கிளியே, விநாயகர் நான்மணிமாலை, விடுதலை பாடல்கள், புதிய ஆத்திசூடி உள்ளிட்ட பல நூல்களையும், பாடல்களையும் இயற்றியுள்ளார். இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும்.",
+      "இந்தியாவிலேயே முதன்முதலாக நாட்டுடைமை ஆக்கப்பட்ட இலக்கியம் பாரதியாருடையதாகும். இந்திய விடுதலைப் போராட்டத்தையே பாரதப் போராகவும், பாஞ்சாலியைப் பாரத மாதாவாகவும் உருவகப்படுத்தி மகாகவி படைத்த படைப்புதான் பாஞ்சாலி சபதம். வியாசரின் மகாபாரதத்தைத் தழுவி எழுதப் பெற்ற இந்நூலானது ஐந்து சருக்கங்களையும், 412 பாடல்களையும் கொண்டது. இவரது பிரபலமான படைப்புகளில் குயில் பாட்டு, பாப்பா‌ பாட்டு, சின்னஞ்சிறு கிளியே, புதிய ஆத்திசூடி, விநாயகர் நான்மணிமாலை மற்றும் கண்ணன் பாட்டு ஆகியவை அடங்கும்.",
+      "மீண்டும் 11ஆம் நூற்றாண்டிற்கு பிறகு கம்பரால் எழுதப்பட்ட ராமாவதாரம் உட்பட குறிப்பிடத்தக்க படைப்புகளுடன் செழித்த வளர்ந்தது. 14 ஆம் நூற்றாண்டில் இயற்றப்பட்ட இலக்கியங்களில் அருணகிரிநாதரின் திருப்புகழ் குறிப்பிடத்தக்கது. 1578 இல், போர்த்துகீசியர்கள் தம்பிரான் வணக்கம் என்ற ஒரு தமிழ் புத்தகத்தை வெளியிட்டனர், இதன் மூலம் தமிழ் அச்சிடப்பட்டு வெளியிடப்பட்ட முதல் இந்திய மொழியாக திகழ்ந்தது."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்தப் புரட்சித் தலைவராகவும், நடிகராகவும், அரசியல்வாதியாகவும் அறியப்படுகிறார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் எம். ஜி. ஆர். மற்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்படுகிறார்.",
+    "answer": "எம். ஜி. இராமச்சந்திரன் (எம். ஜி. ஆர். ) புரட்சித் தலைவர், தமிழ்த் திரைப்பட நடிகர், மற்றும் அரசியல்வாதி ஆவார்.",
+    "contexts": [
+      "மருதூர் கோபாலன் இராமச்சந்திரன் (எம். ஜி. இராமச்சந்திரன், 17 சனவரி 1917 – 24 திசம்பர் 1987) என்பவர் எம். ஜி. ஆர். என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர்.\nஎம். ஜி. சக்கரபாணிக்குத் தம்பியான இவர், தொடக்க காலத்தில் நாடகங்களில் நடித்தார். காந்தியடிகளின் கருத்துகளால் ஈர்க்கப்பெற்று இந்திய தேசிய காங்கிரசில் இணைந்தார். 1936 இல் சதிலீலாவதி என்ற திரைப்படம் மூலம் தமிழ",
+      "னால் சுடப்பட்டுத் தெளிவாகப் பேசும் திறனை இழந்தபோதும் அவருடைய நட்சத்திர வலிமை குறையவேயில்லை.\nஇச்சம்பவத்திற்குப் பின்னார் முதன் முதலாக வெளிவந்த காவல்காரன் திரைப்படமானது மாபெரும் வெற்றிப் படமாகவும், திரையுலகில் அவரது ஆளுமையை மீண்டும் நிலை நிறுத்தும் நிகழ்வாகவும் அமைந்தது. 1971 ஆம் ஆண்டின் அகில இந்திய சிறந்த நடிகராக, எம்.ஜி. ஆரை மத்திய அரசு தேர்வு செய்து, “பாரத்” விருதை வழங்கியது. இது சத்யா மூவிஸ் தயாரிப்பான ரிக்சாக்காரன் படத்தில் நடித்ததற்காகக் கிடைத்தது. தமிழ்நாட்டில் மொத்தம் 12 தியேட்டர்களில் 100",
+      "த்தது. தமிழ்நாட்டில் மொத்தம் 12 தியேட்டர்களில் 100 நாட்கள் முதல் 150 நாட்கள் வரை ஓடி, வசூலைக் குவித்தது.\nஅவர் நடித்துக் கடைசியாக வெளி வந்த திரைப்படம் மதுரையை மீட்ட சுந்தரபாண்டியன் ஆகும். தனது திரைப்பட நிறுவனத்தின் கீழ் எம்.ஜி.ஆர். மூன்று படங்களைத் தயாரித்தார்: நாடோடி மன்னன், அடிமைப் பெண் மற்றும் உலகம் சுற்றும் வாலிபன். நாடோடி மன்னன், மதுரையை மீட்ட சுந்தரபாண்டியன் மற்றும் உலகம் சுற்றும் வாலிபன் ஆகிய திரைப்படங்களை அவரே இயக்கினார்.\n\n== அரசியல் வாழ்க்கை ==\n\nஒரு முன்னணித் தமிழ்த் தேசியவாதியாகவும், தி"
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்தப் புரட்சித் தலைவராகவும், நடிகராகவும், அரசியல்வாதியாகவும் அறியப்படுகிறார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் எம். ஜி. ஆர். மற்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்படுகிறார்.",
+    "answer": "புரட்சித் தலைவர், நடிகர், முதல்வர் என்று அவர் அறியப்படுகிறார்.",
+    "contexts": [
+      "மருதூர் கோபாலன் இராமச்சந்திரன் (எம். ஜி. இராமச்சந்திரன், 17 சனவரி 1917 – 24 திசம்பர் 1987) என்பவர் எம். ஜி. ஆர். என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர். எம். ஜி. சக்கரபாணிக்குத் தம்பியான இவர், தொடக்க காலத்தில் நாடகங்களில் நடித்தார். காந்தியடிகளின் கருத்துகளால் ஈர்க்கப்பெற்று இந்திய தேசிய காங்கிரசில் இணைந்தார்.",
+      "திரைப்படத்துறையில் தனது அயரா உழைப்புக் காரணமாக முன்னேறி முதன்மை நடிகரானார். இவரது நடிப்பு பெரும் எண்ணிக்கையிலான மக்களைக் கவர்ந்தது. எம்.ஜி.ஆர். திரைப்பட இயக்குநரும், தயாரிப்பாளருமாவார். காந்திய கொள்கைகளால் உந்தப்பட்டு, இவர் இந்திய தேசிய காங்கிரசில் சேர்ந்தார். === இல்லறம் ===\n\n==== முதல் திருமணம் ====\nஎம்.ஜி.ஆர் முதலில் தங்கமணியை மணந்தார். பிரசவத்திற்காகத் தாய் ஊருக்குச் சென்ற தங்கமணிக்கு குழந்தை இறந்தே பிறந்தது. அதன் பின் தங்கமணியும் உடல்நலக் குறைவினால் இறந்தார்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்தப் புரட்சித் தலைவராகவும், நடிகராகவும், அரசியல்வாதியாகவும் அறியப்படுகிறார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் எம். ஜி. ஆர். மற்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்படுகிறார்.",
+    "answer": "என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர்.",
+    "contexts": [
+      "என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர்.",
+      "எம்.ஜி.ஆர். திரைப்பட இயக்குநரும், தயாரிப்பாளருமாவார். காந்திய கொள்கைகளால் உந்தப்பட்டு, இவர் இந்திய தேசிய காங்கிரசில் சேர்ந்தார். === இல்லறம் ===\n\n==== முதல் திருமணம் ====\nஎம்.ஜி.ஆர் முதலில் தங்கமணியை மணந்தார். பிரசவத்திற்காகத் தாய் ஊருக்குச் சென்ற தங்கமணிக்கு குழந்தை இறந்தே பிறந்தது. அதன் பின் தங்கமணியும் உடல்நலக் குறைவினால் இறந்தார். ==== இரண்டாவது திருமணம் ====\nஅதன் பிறகு சதானந்தவதியை மணந்தார் எம்.ஜி.ஆர்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்த அரசியல் கட்சியில் முதலில் இணைந்தார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் அறிஞர் அண்ணாவின் அரசியல் கருத்துகளால் ஈர்க்கப்பெற்று திராவிட முன்னேற்றக் கழகத்தில் இணைந்தார்.",
+    "answer": "இந்திய தேசிய காங்கிரசு",
+    "contexts": [
+      "மருதூர் கோபாலன் இராமச்சந்திரன் (எம். ஜி. இராமச்சந்திரன், 17 சனவரி 1917 – 24 திசம்பர் 1987) என்பவர் எம். ஜி. ஆர். என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர்.\nஎம். ஜி. சக்கரபாணிக்குத் தம்பியான இவர், தொடக்க காலத்தில் நாடகங்களில் நடித்தார். காந்தியடிகளின் கருத்துகளால் ஈர்க்கப்பெற்று இந்திய தேசிய காங்கிரசில் இணைந்தார். 1936 இல் சதிலீலாவதி என்ற திரைப்படம் மூலம் தமிழ",
+      "ைக்குச் சென்றார். திரைப்படத்துறையில் தனது அயரா உழைப்புக் காரணமாக முன்னேறி முதன்மை நடிகரானார். இவரது நடிப்பு பெரும் எண்ணிக்கையிலான மக்களைக் கவர்ந்தது. எம்.ஜி.ஆர். திரைப்பட இயக்குநரும், தயாரிப்பாளருமாவார். காந்திய கொள்கைகளால் உந்தப்பட்டு, இவர் இந்திய தேசிய காங்கிரசில் சேர்ந்தார்.\n\n=== இல்லறம் ===\n\n==== முதல் திருமணம் ====\nஎம்.ஜி.ஆர் முதலில் தங்கமணியை மணந்தார். பிரசவத்திற்காகத் தாய் ஊருக்குச் சென்ற தங்கமணிக்கு குழந்தை இறந்தே பிறந்தது. அதன் பின் தங்கமணியும் உடல்நலக் குறைவினால் இறந்தார்.\n\n==== இரண்டா",
+      "ரியார் ஆகியோரால் வழிநடத்தப்பட்ட சுயமரியாதை இயக்கம், சென்னை மாகாணத்தில் நீதிக்கட்சியை உருவாக்க வழிவகுத்தது. இறுதியில் நீதிக்கட்சி 1937 தேர்தல்களில் இந்திய தேசிய காங்கிரசிடம் தோல்வியடைந்தது மற்றும் இராசகோபாலாச்சாரி முதலமைச்சரானார். 1944 இல், பெரியார் நீதிக்கட்சியை ஒரு சமூக அமைப்பாக மாற்றினார், கட்சியின் பெயரை திராவிடர் கழகம் என்று மாற்றி, தேர்தல் அரசியலில் இருந்து விலகினார். சுதந்திரத்திற்குப் பிறகு, காமராசர் தலைமையில் 1950கள் மற்றும் 1960 களில் இந்திய தேசிய காங்கிரசு தமிழ்நாட்டின் அரசியல் காட்சிய"
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்த அரசியல் கட்சியில் முதலில் இணைந்தார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் அறிஞர் அண்ணாவின் அரசியல் கருத்துகளால் ஈர்க்கப்பெற்று திராவிட முன்னேற்றக் கழகத்தில் இணைந்தார்.",
+    "answer": "எம். ஜி. ராமச்சந்திரன் இந்திய தேசிய காங்கிரசு கட்சியில் முதலில் இணைந்தார்.",
+    "contexts": [
+      "மருதூர் கோபாலன் இராமச்சந்திரன் (எம். ஜி. இராமச்சந்திரன், 17 சனவரி 1917 – 24 திசம்பர் 1987) என்பவர் எம். ஜி. ஆர். என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர். எம். ஜி. சக்கரபாணிக்குத் தம்பியான இவர், தொடக்க காலத்தில் நாடகங்களில் நடித்தார். காந்தியடிகளின் கருத்துகளால் ஈர்க்கப்பெற்று இந்திய தேசிய காங்கிரசில் இணைந்தார்.",
+      "1916இல் முகம்மது அலி ஜின்னா இந்தியாவின் மிகப்பெரிய அரசியல் அமைப்பாக இருந்த இந்திய தேசிய காங்கிரசில் சேர்ந்தார். கல்வி, சட்டம், கலாச்சாரம் மற்றும் தொழில்துறை ஆகியவற்றில் பிரித்தானியத் தாக்கங்கள் இந்தியாவுக்கு நன்மை பயக்கும் என்று கருதி, அந்த நேரத்தில் பெரும்பாலான காங்கிரசாரைப் போலவே, ஜின்னாவும் முழுமையான சுயாட்சியை ஆதரிக்கவில்லை. ஜின்னா அறுபது உறுப்பினர்களைக் கொண்ட பேரரசின் சட்டமன்றக் குழுவில் உறுப்பினரானார்.",
+      "திரைப்படத்துறையில் தனது அயரா உழைப்புக் காரணமாக முன்னேறி முதன்மை நடிகரானார். இவரது நடிப்பு பெரும் எண்ணிக்கையிலான மக்களைக் கவர்ந்தது. எம்.ஜி.ஆர். திரைப்பட இயக்குநரும், தயாரிப்பாளருமாவார். காந்திய கொள்கைகளால் உந்தப்பட்டு, இவர் இந்திய தேசிய காங்கிரசில் சேர்ந்தார். === இல்லறம் ===\n\n==== முதல் திருமணம் ====\nஎம்.ஜி.ஆர் முதலில் தங்கமணியை மணந்தார். பிரசவத்திற்காகத் தாய் ஊருக்குச் சென்ற தங்கமணிக்கு குழந்தை இறந்தே பிறந்தது. அதன் பின் தங்கமணியும் உடல்நலக் குறைவினால் இறந்தார்."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "எம். ஜி. ராமச்சந்திரன் எந்த அரசியல் கட்சியில் முதலில் இணைந்தார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரன் அறிஞர் அண்ணாவின் அரசியல் கருத்துகளால் ஈர்க்கப்பெற்று திராவிட முன்னேற்றக் கழகத்தில் இணைந்தார்.",
+    "answer": "இந்திய தேசிய காங்கிரசு",
+    "contexts": [
+      "எம்.ஜி.ஆர். திரைப்பட இயக்குநரும், தயாரிப்பாளருமாவார். காந்திய கொள்கைகளால் உந்தப்பட்டு, இவர் இந்திய தேசிய காங்கிரசில் சேர்ந்தார். === இல்லறம் ===\n\n==== முதல் திருமணம் ====\nஎம்.ஜி.ஆர் முதலில் தங்கமணியை மணந்தார். பிரசவத்திற்காகத் தாய் ஊருக்குச் சென்ற தங்கமணிக்கு குழந்தை இறந்தே பிறந்தது. அதன் பின் தங்கமணியும் உடல்நலக் குறைவினால் இறந்தார். ==== இரண்டாவது திருமணம் ====\nஅதன் பிறகு சதானந்தவதியை மணந்தார் எம்.ஜி.ஆர்.",
+      "அதன் பின் அண்ணா திராவிட முன்னேற்றக் கழகம் என்ற அரசியல் கட்சியைத் தொடங்கி, அதன் பாெதுச்செயலாளாராகி, சட்டமன்றத் தேர்தலில் நின்று தொடர்ந்து மூன்று முறை தமிழகத்தில் வெற்றிபெற்று முதலமைச்சரானார். இவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர். == தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார்.",
+      "இறுதியில் நீதிக்கட்சி 1937 தேர்தல்களில் இந்திய தேசிய காங்கிரசிடம் தோல்வியடைந்தது மற்றும் இராசகோபாலாச்சாரி முதலமைச்சரானார். 1944 இல், பெரியார் நீதிக்கட்சியை ஒரு சமூக அமைப்பாக மாற்றினார், கட்சியின் பெயரை திராவிடர் கழகம் என்று மாற்றி, தேர்தல் அரசியலில் இருந்து விலகினார். சுதந்திரத்திற்குப் பிறகு, காமராசர் தலைமையில் 1950கள் மற்றும் 1960 களில் இந்திய தேசிய காங்கிரசு தமிழ்நாட்டின் அரசியல் காட்சியில் ஆதிக்கம் செலுத்தியது."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "எம். ஜி. ராமச்சந்திரனின் மூன்றாவது மனைவி யார்?",
+    "ground_truth": "எம். ஜி. ராமச்சந்திரனின் மூன்றாவது மனைவி வைக்கம் நாராயணி ஜானகி (வி. என். ஜானகி) ஆவார்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை",
+    "contexts": [
+      "மணியும் உடல்நலக் குறைவினால் இறந்தார்.\n\n==== இரண்டாவது திருமணம் ====\nஅதன் பிறகு சதானந்தவதியை மணந்தார் எம்.ஜி.ஆர். இருவருக்கும் குழந்தைகள் இல்லை. பின்னர் சதானந்தவதி நோய்க் காரணமாக இறந்தார்.\n\n==== மூன்றாவது திருமணம் ====\n\nம. கோ. இரா. இரண்டாவது கதாநாயகனாகத் தியாகராஜ பாகவதர் தயாரித்த ராஜ முக்தி படத்தில் நடித்தார். அப்படத்தில் வைக்கம் நாராயணி ஜானகி என்னும் வி. என். ஜானகி கதாநாயகியாக நடித்தார். அவர் ம. கோ. இரா.வின் முதல் மனைவியான தங்கமணி சாயலில் இருந்தார். இதனால் ஜானகியின் மீது ம. கோ. இரா.விற்கு ஈர்ப்ப",
+      "மருதூர் கோபாலன் இராமச்சந்திரன் (எம். ஜி. இராமச்சந்திரன், 17 சனவரி 1917 – 24 திசம்பர் 1987) என்பவர் எம். ஜி. ஆர். என்றும் புரட்சித் தலைவர் என்றும் பிரபலமாக அறியப்பட்டவர், தமிழ்த் திரைப்பட நடிகராகவும், 1977 முதல் இறக்கும் (1987) வரை தமிழ்நாட்டின் தொடர்ந்து மூன்று முறை முதலமைச்சராகவும் இருந்தவர்.\nஎம். ஜி. சக்கரபாணிக்குத் தம்பியான இவர், தொடக்க காலத்தில் நாடகங்களில் நடித்தார். காந்தியடிகளின் கருத்துகளால் ஈர்க்கப்பெற்று இந்திய தேசிய காங்கிரசில் இணைந்தார். 1936 இல் சதிலீலாவதி என்ற திரைப்படம் மூலம் தமிழ",
+      "ைக்குச் சென்றார். திரைப்படத்துறையில் தனது அயரா உழைப்புக் காரணமாக முன்னேறி முதன்மை நடிகரானார். இவரது நடிப்பு பெரும் எண்ணிக்கையிலான மக்களைக் கவர்ந்தது. எம்.ஜி.ஆர். திரைப்பட இயக்குநரும், தயாரிப்பாளருமாவார். காந்திய கொள்கைகளால் உந்தப்பட்டு, இவர் இந்திய தேசிய காங்கிரசில் சேர்ந்தார்.\n\n=== இல்லறம் ===\n\n==== முதல் திருமணம் ====\nஎம்.ஜி.ஆர் முதலில் தங்கமணியை மணந்தார். பிரசவத்திற்காகத் தாய் ஊருக்குச் சென்ற தங்கமணிக்கு குழந்தை இறந்தே பிறந்தது. அதன் பின் தங்கமணியும் உடல்நலக் குறைவினால் இறந்தார்.\n\n==== இரண்டா"
+    ]
   }
 ]
