@@ -1,0 +1,532 @@
+[
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.7486118078231812,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7486118078231812,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7486118078231812,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.4141557216644287,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.6378898620605469,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.34258192777633667,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.7411285638809204,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7275389432907104,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7758724689483643,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.7906934022903442,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8157960772514343,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7906934022903442,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.8078287243843079,
+    "faithfulness": 1.0,
+    "context_precision": 0.5,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7865592241287231,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.5862218141555786,
+    "faithfulness": 1.0,
+    "context_precision": 0.5,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.3460749685764313,
+    "faithfulness": 1.0,
+    "context_precision": 0.2,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.3460749685764313,
+    "faithfulness": 1.0,
+    "context_precision": 0.5,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.6591759324073792,
+    "faithfulness": 1.0,
+    "context_precision": 0.2,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.7256633043289185,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7413923740386963,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.6223850250244141,
+    "faithfulness": 1.0,
+    "context_precision": 0.0,
+    "context_recall": 0.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.6893534660339355,
+    "faithfulness": 0.8,
+    "context_precision": 0.67,
+    "context_recall": 0.6
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7658462524414062,
+    "faithfulness": 0.8,
+    "context_precision": 0.67,
+    "context_recall": 0.4
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7737706899642944,
+    "faithfulness": 0.8,
+    "context_precision": 1.0,
+    "context_recall": 0.5
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.5568189024925232,
+    "faithfulness": 0.8,
+    "context_precision": 0.67,
+    "context_recall": 0.8
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7279432415962219,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.67598956823349,
+    "faithfulness": 0.9,
+    "context_precision": 0.67,
+    "context_recall": 0.9
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.8010979294776917,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8030710220336914,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.8010979294776917,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.8026649355888367,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8026649355888367,
+    "faithfulness": 1.0,
+    "context_precision": 0.2,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7978335618972778,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.7685810327529907,
+    "faithfulness": 0.8,
+    "context_precision": 0.7,
+    "context_recall": 0.9
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8621405363082886,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "vijayanagara_empire",
+    "topic": "Vijayanagara Empire",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.2682279944419861,
+    "faithfulness": 0.5,
+    "context_precision": 0.33,
+    "context_recall": 0.5
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.8504488468170166,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8504488468170166,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.8504488468170166,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.8209429979324341,
+    "faithfulness": 1.0,
+    "context_precision": 0.3333333333333333,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8209429979324341,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.8209429979324341,
+    "faithfulness": 1.0,
+    "context_precision": 0.3333333333333333,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.7638535499572754,
+    "faithfulness": 0.5,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.8486932516098022,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7457320094108582,
+    "faithfulness": 1.0,
+    "context_precision": 0.3333333333333333,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.40198516845703125,
+    "faithfulness": 1.0,
+    "context_precision": 0.5,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "ta",
+    "strategy": "recursive",
+    "answer_relevancy": 0.7385501861572266,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "ta",
+    "strategy": "semantic",
+    "answer_relevancy": 0.7385501861572266,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "ta",
+    "strategy": "fixed",
+    "answer_relevancy": 0.18975672125816345,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.5794500112533569,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 0.8
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "recursive",
+    "answer_relevancy": 0.823716402053833,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 0.8
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "semantic",
+    "answer_relevancy": 0.5794500112533569,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "fixed",
+    "answer_relevancy": 0.2812417149543762,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  }
+]
