@@ -693,5 +693,60 @@
     "faithfulness": 1.0,
     "context_precision": 0.33,
     "context_recall": 1.0
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What states and union territory are encompassed by the Kaveri basin?",
+    "answer_relevancy": 0.7285318970680237,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "kaveri_river",
+    "topic": "Kaveri River",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Where does the Kaveri river join its main right bank tributary Bhavani after flowing through the Hogenakkal Falls?",
+    "answer_relevancy": 0.852286159992218,
+    "faithfulness": 1.0,
+    "context_precision": 0.3333333333333333,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "western_ghats",
+    "topic": "Western Ghats",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What is the approximate length of the Western Ghats mountain range?",
+    "answer_relevancy": 0.8318183422088623,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What is the official status of Chennai within Tamil Nadu?",
+    "answer_relevancy": 0.7469538450241089,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What mountain range lies to the northwest of the Himalayas?",
+    "answer_relevancy": 0.2417604923248291,
+    "faithfulness": 1.0,
+    "context_precision": 0.0,
+    "context_recall": 0.0
   }
 ]
