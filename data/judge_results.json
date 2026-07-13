@@ -528,5 +528,170 @@
     "faithfulness": 1.0,
     "context_precision": 0.33,
     "context_recall": 1.0
+  },
+  {
+    "slug": "indian_independence_movement",
+    "topic": "Indian independence movement",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "தமிழ்நாட்டில் ஆங்கிலேயர்களின் இருப்புக்கு எதிரான ஆரம்பகால புரட்சியாளர் யார்?",
+    "answer_relevancy": 0.5955087542533875,
+    "faithfulness": 1.0,
+    "context_precision": 0.25,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which Indian states politically border Tamil Nadu?",
+    "answer_relevancy": 0.5794500112533569,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 0.8
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which Indian states politically border Tamil Nadu?",
+    "answer_relevancy": 0.823716402053833,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 0.8
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which Indian states politically border Tamil Nadu?",
+    "answer_relevancy": 0.5794500112533569,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "When was the state formerly known as Madras State renamed Tamil Nadu?",
+    "answer_relevancy": 0.2812417149543762,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "When was the state formerly known as Madras State renamed Tamil Nadu?",
+    "answer_relevancy": 0.2812417149543762,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "When was the state formerly known as Madras State renamed Tamil Nadu?",
+    "answer_relevancy": 0.2812417149543762,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was Tamil Nadu's economic ranking among Indian states by GSDP as of December 2023?",
+    "answer_relevancy": 0.7810454368591309,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was Tamil Nadu's economic ranking among Indian states by GSDP as of December 2023?",
+    "answer_relevancy": 0.7884280681610107,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was Tamil Nadu's economic ranking among Indian states by GSDP as of December 2023?",
+    "answer_relevancy": 0.738564670085907,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "answer_relevancy": 0.4208921194076538,
+    "faithfulness": 1.0,
+    "context_precision": 0.2,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "answer_relevancy": 0.7833853363990784,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "answer_relevancy": 0.4208921194076538,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "\"தமிழ்நாடு\" என்ற பெயரின் பொருள் என்ன?",
+    "answer_relevancy": 0.7880181670188904,
+    "faithfulness": 1.0,
+    "context_precision": 0.5,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "tamil_nadu",
+    "topic": "Tamil Nadu",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "\"தமிழ்நாடு\" என்ற பெயரின் பொருள் என்ன?",
+    "answer_relevancy": 0.7417835593223572,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
   }
 ]
