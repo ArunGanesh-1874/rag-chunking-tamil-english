@@ -1287,5 +1287,82 @@
     "faithfulness": 1.0,
     "context_precision": 0.5,
     "context_recall": 1.0
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எப்போது நிறுவப்பட்டது?",
+    "answer_relevancy": 0.8288877606391907,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எப்போது நிறுவப்பட்டது?",
+    "answer_relevancy": 0.8338671326637268,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை ஏன் 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது?",
+    "answer_relevancy": 0.7689952850341797,
+    "faithfulness": 1.0,
+    "context_precision": 0.5,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை ஏன் 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுகிறது?",
+    "answer_relevancy": 0.7426785826683044,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What mountain range lies to the northwest of the Himalayas?",
+    "answer_relevancy": 0.7071168422698975,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What mountain range lies to the northwest of the Himalayas?",
+    "answer_relevancy": 0.2417604923248291,
+    "faithfulness": 1.0,
+    "context_precision": 0.0,
+    "context_recall": 0.0
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which parallel mountain range is considered the highest and central range within the Himalayas?",
+    "answer_relevancy": 0.48082464933395386,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
   }
 ]
