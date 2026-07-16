@@ -1826,5 +1826,71 @@
     "faithfulness": 1.0,
     "context_precision": 1.0,
     "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "answer_relevancy": 0.7653460502624512,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "answer_relevancy": 0.5542972087860107,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் இந்தியாவில் எத்தனையாவது குடியரசு தலைவராக பணியாற்றினார்?",
+    "answer_relevancy": 0.7653460502624512,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "answer_relevancy": 0.8214675188064575,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "answer_relevancy": 0.2884451746940613,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ஆ. ப. ஜெ. அப்துல் கலாம் எந்த ஆண்டு தமிழ்நாட்டில் உள்ள இராமேஸ்வரத்தில் பிறந்தார்?",
+    "answer_relevancy": 0.3459184467792511,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
   }
 ]
