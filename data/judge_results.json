@@ -1892,5 +1892,126 @@
     "faithfulness": 1.0,
     "context_precision": 1.0,
     "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "answer_relevancy": 0.8688949346542358,
+    "faithfulness": 1.0,
+    "context_precision": 0.2,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "answer_relevancy": 0.8929389119148254,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "a_p_j_abdul_kalam",
+    "topic": "A. P. J. Abdul Kalam",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனத்தின் (ISRO) இந்தியாவின் முதல் செயற்கைக்கோள் ஏவூர்தி (எஸ். எல். வி-III) திட்ட இயக்குநராக கலாம் எந்த ஆண்டு இருந்தார்?",
+    "answer_relevancy": 0.3101003170013428,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was Subramania Bharati's birth name?",
+    "answer_relevancy": 0.4577311873435974,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was Subramania Bharati's birth name?",
+    "answer_relevancy": 0.4577311873435974,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was Subramania Bharati's birth name?",
+    "answer_relevancy": 0.4577311873435974,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "answer_relevancy": 0.3408161699771881,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "answer_relevancy": 0.3192240595817566,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "For how long did Bharati live in exile in Pondicherry?",
+    "answer_relevancy": 0.3408161699771881,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What two works by Bharati were translated from Sanskrit texts?",
+    "answer_relevancy": 0.7359760999679565,
+    "faithfulness": 1.0,
+    "context_precision": 0.3333333333333333,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "subramania_bharati",
+    "topic": "Subramania Bharati",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What two works by Bharati were translated from Sanskrit texts?",
+    "answer_relevancy": 0.4947817921638489,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
   }
 ]
