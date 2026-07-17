@@ -1,0 +1,19 @@
+\begin{table}
+\caption{RAGAS-style evaluation metrics by language and chunking strategy}
+\label{tab:results}
+\begin{tabular}{llrrrr}
+\toprule
+ &  & Faithfulness & Answer Relevancy & Context Precision & Context Recall \\
+language & strategy &  &  &  &  \\
+\midrule
+\multirow[t]{3}{*}{English} & Fixed-size & 0.969 & 0.636 & 0.688 & 0.900 \\
+ & Recursive & 0.973 & 0.682 & 0.818 & 0.948 \\
+ & Semantic & 0.976 & 0.652 & 0.709 & 0.894 \\
+\cline{1-6}
+\multirow[t]{3}{*}{Tamil} & Fixed-size & 0.939 & 0.690 & 0.550 & 0.914 \\
+ & Recursive & 0.941 & 0.752 & 0.685 & 0.926 \\
+ & Semantic & 0.956 & 0.669 & 0.627 & 0.926 \\
+\cline{1-6}
+\bottomrule
+\end{tabular}
+\end{table}
