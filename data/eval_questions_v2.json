@@ -1,0 +1,1906 @@
+[
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?",
+    "ground_truth": "They are from inscriptions dated to the 3rd century BCE during the reign of Ashoka of the Maurya Empire."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "What river's fertile valley was the heartland of the Chola dynasty?",
+    "ground_truth": "The Kaveri River valley."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?",
+    "ground_truth": "Between 907 and 1215 CE."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "Which two prominent Chola kings are mentioned in Sangam literature?",
+    "ground_truth": "Karikala and Kocengannan."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",
+    "ground_truth": "Prince Ellalan conquered it in 235 BCE."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "Which alternative name for the Cholas is derived from the Tamil word meaning “dig or cleave”?",
+    "ground_truth": "Killi."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "During the interregnum, which dynasty displaced the Cholas and other Tamil kingdoms in the 6th century?",
+    "ground_truth": "The Pallava dynasty (along with the Pandyan dynasty) displaced them."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "en",
+    "question": "Which medieval Chola ruler’s successors turned the empire into a military, economic, and cultural powerhouse in South and Southeast Asia?",
+    "ground_truth": "The successors of Rajaraja I, including Rajendra I, Rajadhiraja I, Rajendra II, Virarajendra, and Kulothunga Chola I."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "சோழர், சேரர், பாண்டியர் ஆகிய மூவர் எதனை பிரதிநிதித்துவப்படுத்துகின்றனர்?",
+    "ground_truth": "அவர்கள் பழந்தமிழ்நாட்டை ஆட்சி செய்த மூன்று குலங்கள்."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "\"சோழ நாடு சோறுடைத்து\" என்ற சொற்றொடர் எதைக் குறிக்கிறது?",
+    "ground_truth": "இது சோழ நாடை சோறு (மண்) மூலம் உருவாக்கப்பட்டதாகக் கூறும் பழமொழி."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "சோழர் குலத்தின் தோற்றம் எங்கு இருந்தது?",
+    "ground_truth": "காவிரி ஆற்றுப் பைதியப் பகுதியில்."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "பொ.ஊ. இரண்டாம் நூற்றாண்டுக்குப் பிறகு சோழ மன்னர்களின் நிலை என்ன ஆனது?",
+    "ground_truth": "அவர்கள் சிற்றரசர் நிலைக்குத் தாழ்ந்தனர்."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "சோழர்கள் எந்த நூற்றாண்டில் மீண்டும் வலிமை பெற்றனர்?",
+    "ground_truth": "பொ.ஊ. ஒன்பதாம் நூற்றாண்டின் நடுப்பகுதியில்."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "10-12 ஆம் நூற்றாண்டுகளில் சோழரின் நிலை எப்படியிருந்தது?",
+    "ground_truth": "அது சோழர் குலத்தின் பொற்காலமாகக் கருதப்படுகிறது."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "இராசராசன் எந்த பகுதிகளை கைப்பற்றினார்?",
+    "ground_truth": "தென்னிந்தியா முழுவதையும், இலங்கையின் வடப்பகுதியையும், மாலத் தீவையும்."
+  },
+  {
+    "topic": "Chola dynasty",
+    "slug": "chola_dynasty",
+    "language": "ta",
+    "question": "கல்லணை என்ன மற்றும் அது எதற்காக பிரசித்தி பெற்றது?",
+    "ground_truth": "கல்லணை உலகின் மிகப் பழமையான அணைக்கட்டாகும்."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "In what year was the Vijayanagara Empire founded and who were its founders?",
+    "ground_truth": "It was founded in 1336 by brothers Harihara I and Bukka Raya I of the Sangama dynasty."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "Under which ruler did the empire reach its peak in the early 16th century, and what major territories did it annex?",
+    "ground_truth": "The empire peaked under Krishnadevaraya, annexing the Gajapati Empire up to the Krishna River and subjugating most Southern Indian dynasties."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "Which modern Indian states were largely encompassed by the Vijayanagara Empire’s territory?",
+    "ground_truth": "It covered most of Karnataka, Andhra Pradesh, Tamil Tamil Nadu, Goa, southern Kerala, and parts of Telangana and Maharashtra."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "What battle in 1565 marked a major decline in the empire’s power, and when did the empire finally cease to exist?",
+    "ground_truth": "The Battle of Talikota in 1565 marked a major decline, and the empire lasted until 1646."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "What is the modern name of the empire’s capital city, and what UNESCO designation does it hold?",
+    "ground_truth": "The capital, formerly Vijayanagara, is now modern‑day Hampi and is a UNESCO World Heritage Site in Karnataka."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "Name three European travelers whose writings provide information about the Vijayanagara Empire.",
+    "ground_truth": "The travelers are Domingo Paes, Fernão Nunes, and Niccolò de' Conti."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "What architectural innovation resulted from merging different temple building traditions during the Vijayanagara period?",
+    "ground_truth": "The merger created the distinctive Vijayanagara architectural style that inspired innovations in Hindu temple construction."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "en",
+    "question": "According to the article, what role did Vidyaranya play in the founding of the empire?",
+    "ground_truth": "Tradition holds that Vidyaranya, a saint at the Sringeri monastery, inspired the founders to fight Muslim invasions, though his exact role is uncertain."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "In which year was the Vijayanagara Empire founded, and who were its founders?",
+    "ground_truth": "It was founded in 1336 by the brothers Aridar and Bukka Raya of the Sangama lineage."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "What is another name by which the Vijayanagara Empire was known?",
+    "ground_truth": "It was also called the Karnata Rajyam (கருநடா இராச்சியம்)."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "What does the name \"Vijayanagara\" translate to in English?",
+    "ground_truth": "It means \"victorious city\"."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "Under which ruler did the Vijayanagara Empire reach its zenith in the early 16th century?",
+    "ground_truth": "The empire reached its peak under Krishnadevaraya."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "Which battle in 1565 marked a major military defeat for the empire?",
+    "ground_truth": "The Battle of Talikota in 1565 was a significant defeat."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "What is the modern name of the empire’s capital, and what UNESCO designation does it hold?",
+    "ground_truth": "The capital is modern Hampi (Ambaṭi) and its ruins are a UNESCO World Heritage Site in Karnataka."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "Name three European travelers who visited the Vijayanagara Empire.",
+    "ground_truth": "Domingo Paes, Bernavoni Nunes, and Niccolò de' Conti visited the empire."
+  },
+  {
+    "topic": "Vijayanagara Empire",
+    "slug": "vijayanagara_empire",
+    "language": "ta",
+    "question": "Which four languages did the empire promote in its literature and arts?",
+    "ground_truth": "It promoted Kannada, Telugu, Tamil, and Sanskrit."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "In what year was the Indian National Congress founded?",
+    "ground_truth": "The Indian National Congress was founded in 1885."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "Which movement, occurring from 1929 to 1931, called for active disobedience to the colonial government?",
+    "ground_truth": "The Civil Disobedience Movement called for active disobedience during 1929–1931."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "Name two prominent leaders who followed Mahatma Gandhi’s non‑violent philosophy as mentioned in the article.",
+    "ground_truth": "Jawaharlal Nehru and Vallabhbhai Patel were prominent followers of Gandhi’s non‑violent philosophy."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "What legislation allowed indefinite detention and triggered protests that culminated in the Jallianwala Bagh massacre?",
+    "ground_truth": "The Rowlatt Act permitted indefinite detention and sparked the protests."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "Who was the first European to reach India via the Atlantic Ocean and in which year did this occur?",
+    "ground_truth": "Portuguese explorer Vasco da Gama reached India via the Atlantic in 1498."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "Which battle in 1757 marked the East India Company’s rise as a major player in Indian affairs?",
+    "ground_truth": "The Battle of Plassey in 1757 marked the Company’s rise."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "Which region was annexed by the British in 1849 following the Second Anglo‑Sikh War?",
+    "ground_truth": "Punjab was annexed in 1849 after the Second Anglo‑Sikh War."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "en",
+    "question": "On what date did the Constitution of India establish the Republic of India?",
+    "ground_truth": "The Republic of India was established on 26 January 1950."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "When did the Indian Independence Act come into effect, marking the end of the Indian independence movement?",
+    "ground_truth": "It was enacted in 1947."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "Which region was the birthplace of the first Indian nationalist movement?",
+    "ground_truth": "It originated in the Bengal province."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "Which law, passed before the Jallianwala Bagh massacre, intensified violent resistance and sparked protests especially in Punjab?",
+    "ground_truth": "The Rowlatt Act."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "Who was the Portuguese explorer that reached India in 1498 seeking spices?",
+    "ground_truth": "Vasco da Gama."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "In which year was the first English trading factory established in Surat?",
+    "ground_truth": "1613."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "Which battle in 1764 allowed the East India Company to gain administrative rights over Bengal, Bihar, and Midnapore?",
+    "ground_truth": "The Battle of Buxar."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "On what date was the Constitution of India adopted, establishing the Republic of India?",
+    "ground_truth": "January 26, 1950."
+  },
+  {
+    "topic": "Indian independence movement",
+    "slug": "indian_independence_movement",
+    "language": "ta",
+    "question": "Which female leader mentioned in the article encouraged women's participation in the Indian freedom struggle?",
+    "ground_truth": "Sarojini Naidu."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "What is Tamil Nadu's rank in size among Indian states by area?",
+    "ground_truth": "It is the tenth largest Indian state by area."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "Which language serves as Tamil Nadu's official language and what unique recognition does it hold?",
+    "ground_truth": "Tamil is the official language and it was the first Indian language recognized as a classical language."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "What is the capital and largest city of Tamil Nadu?",
+    "ground_truth": "Chennai is both the capital and the largest city of Tamil Nadu."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "Which Sri Lankan province does Tamil Nadu share an international maritime border with, and at which island?",
+    "ground_truth": "It shares a maritime border with Sri Lanka's Northern Province at Pamban Island."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "According to archaeological evidence, how long ago could the Tamil Nadu region have been inhabited?",
+    "ground_truth": "The region could have been inhabited more than 385,000 years ago."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "In which year was the state renamed Tamil Nadu?",
+    "ground_truth": "The state was renamed Tamil Nadu in 1969."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "What was Tamil Nadu's gross state domestic product in December 2023 and how does it rank among Indian states?",
+    "ground_truth": "Its GSDP was ₹27.22 trillion (US$290 billion), making it the second‑largest economy among the 28 states."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "en",
+    "question": "How many World Heritage Sites are located in Tamil Nadu?",
+    "ground_truth": "Tamil Nadu has four World Heritage Sites."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "What is the capital city of Tamil Nadu?",
+    "ground_truth": "The capital city is Chennai."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "How does Tamil Nadu rank among Indian states by area?",
+    "ground_truth": "It is the tenth largest state by area."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "What is Tamil Nadu's rank by population among Indian states?",
+    "ground_truth": "It is the sixth largest state by population."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "Which neighboring country shares a maritime border with Tamil Nadu?",
+    "ground_truth": "Sri Lanka shares a maritime border with Tamil Nadu."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "How many UNESCO World Heritage Sites are located in Tamil Nadu?",
+    "ground_truth": "Tamil Nadu has three UNESCO World Heritage Sites."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "In terms of contribution to India's Gross Domestic Product, what position does Tamil Nadu hold?",
+    "ground_truth": "It contributes the second highest to India's GDP."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "Approximately what percentage of Tamil Nadu's area is covered by forests?",
+    "ground_truth": "About 17.4 % of its area is forested."
+  },
+  {
+    "topic": "Tamil Nadu",
+    "slug": "tamil_nadu",
+    "language": "ta",
+    "question": "What does the name \"Tamil Nadu\" mean in Tamil?",
+    "ground_truth": "It means \"land of the Tamils\"."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "Which states and union territory are included in the Kaveri basin's catchment area?",
+    "ground_truth": "Tamil Nadu, Karnataka, Kerala, and the union territory of Puducherry."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "At what elevation does the Kaveri river originate at Talakaveri?",
+    "ground_truth": "1,341 meters (4,400 feet)."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "What is the total length of the Kaveri river and how is this length distributed between Karnataka and Tamil Nadu?",
+    "ground_truth": "About 800 km in total, with roughly 320 km flowing through Karnataka and 416 km through Tamil Nadu."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "Which major tributary joins the Kaveri at Krishna Raja Sagara?",
+    "ground_truth": "The Hemavati tributary."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "What purposes do the dams on the Kaveri river serve?",
+    "ground_truth": "They form part of an extensive irrigation system and generate hydroelectric power."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "How is the Kaveri river regarded in Southern Indian culture and religion?",
+    "ground_truth": "It is considered sacred, counted among the seven holy rivers of India, and worshiped as the goddess Kaveri."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "According to the Skanda Purana, which Tamil words compose the etymology of the name \"Kaveri\" and what do they mean?",
+    "ground_truth": "The words kā meaning \"crow\" and viri meaning \"spread\", together meaning \"spread by a crow\"."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "en",
+    "question": "What alternative name for the Kaveri river signifies its comparison to the Ganges, and what does it translate to?",
+    "ground_truth": "It is called Daksina gaṅgā, meaning \"the Ganges of the South\"."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "Where does the Cauvery river originate?",
+    "ground_truth": "It originates at Thalaikaveri in the Western Ghats of Karnataka's Kodagu district at an elevation of 4400 feet."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "What is the total length of the Cauvery river?",
+    "ground_truth": "The river is 800 km long."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "Name two states through which the Cauvery river flows.",
+    "ground_truth": "It flows through Karnataka and Tamil Nadu."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "List three tributaries that flow in Karnataka.",
+    "ground_truth": "Kabini, Hemavati, and Arkavathi are tributaries in Karnataka."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "Which dams are built on the Cauvery river?",
+    "ground_truth": "The dams on the Cauvery include Mettur Dam, Krishnarajasagar Dam, Kallanai, and Upper Anicut."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "What are the names of the two waterfalls mentioned in the article?",
+    "ground_truth": "The two waterfalls are Shivanasamudra Falls in Karnataka and Okanakal Falls in Tamil Nadu."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "Which island created by the Cauvery in Karnataka is noted as the largest?",
+    "ground_truth": "The largest island in Karnataka is Sirirangapattana."
+  },
+  {
+    "topic": "Kaveri River",
+    "slug": "kaveri_river",
+    "language": "ta",
+    "question": "On what date is the annual \"Aadipperukku\" festival celebrated?",
+    "ground_truth": "It is celebrated on the 18th day of the Tamil month Aadi."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "How long is the Western Ghats mountain range?",
+    "ground_truth": "It stretches approximately 1,600 km (1,000 mi) along India's west coast."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "Which Indian states does the Western Ghats traverse?",
+    "ground_truth": "Gujarat, Maharashtra, Goa, Karnataka, Kerala, and Tamil Nadu."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "What is the highest peak in the Western Ghats and its elevation?",
+    "ground_truth": "Anamudi, at 2,695 m (8,842 ft), is the highest peak."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "During which geological periods did the Western Ghats form?",
+    "ground_truth": "They formed in the late Jurassic and early Cretaceous periods."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "In what year was the Western Ghats declared a UNESCO World Heritage Site?",
+    "ground_truth": "It was declared in 2012."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "Approximately how many globally threatened species are found in the Western Ghats?",
+    "ground_truth": "At least 325 globally threatened species occur there."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "What proportion of India's land area is drained by the rivers originating in the Western Ghats?",
+    "ground_truth": "The rivers drain almost 40% of the country's land area."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "en",
+    "question": "Name three major river systems that originate in the Western Ghats.",
+    "ground_truth": "The Godavari, Kaveri, and Krishna rivers originate there."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "Which sea does the Western Ghats run parallel to?",
+    "ground_truth": "The Western Ghats run parallel to the Arabian Sea."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "Approximately how many plant species are found in the Western Ghats?",
+    "ground_truth": "About 5,000 plant species are found in the Western Ghats."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "What is the length of the Western Ghats mountain range?",
+    "ground_truth": "The Western Ghats extend for approximately 1,600 kilometres."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "Which peak is the highest in the Western Ghats and what is its elevation?",
+    "ground_truth": "Anamudi in Kerala is the highest peak at 2,695 metres."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "Name the major rivers that originate in the Western Ghats and flow eastward to the Bay of Bengal.",
+    "ground_truth": "The Godavari, Krishna, Kaveri and Tamiraparani rivers originate in the Western Ghats and flow eastward."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "Which dam in Maharashtra is mentioned as a notable dam in the Western Ghats region?",
+    "ground_truth": "The Koyna Dam in Maharashtra is mentioned as a notable dam."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "When was the Madav Kadhkila group formed and how many members did it have?",
+    "ground_truth": "The Madav Kadhkila group was formed on 4 March 2010 with 14 members."
+  },
+  {
+    "topic": "Western Ghats",
+    "slug": "western_ghats",
+    "language": "ta",
+    "question": "What percentage of the area did the central government declare as protected based on the Katturirangan group's report?",
+    "ground_truth": "The central government declared 37 % of the area as protected."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "What is the capital and largest city of Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "On which coast and sea is Chennai situated?",
+    "ground_truth": "Chennai lies on the Coromandel Coast of the Bay of Bengal."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",
+    "ground_truth": "Chennai is the sixth‑most‑populous city in India."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "Which municipal corporation administers Chennai and in what year was it incorporated?",
+    "ground_truth": "The Greater Chennai Corporation administers the city and was incorporated in 1688."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "What was the name of the first British fortress built in India that is located in Chennai?",
+    "ground_truth": "Fort St. George was the first British fortress built in India."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "In which year was the city officially renamed from Madras to Chennai?",
+    "ground_truth": "The city was officially renamed Chennai in 1996."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "What was Chennai's estimated gross domestic product in 2023?",
+    "ground_truth": "Chennai's estimated GDP in 2023 was $143.9 billion."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "en",
+    "question": "Which language is most widely spoken by the residents of Chennai?",
+    "ground_truth": "Tamil is the most widely spoken language in Chennai."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",
+    "ground_truth": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரம்."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?",
+    "ground_truth": "1688 செப்டம்பர் 29 அன்று நிறுவப்பட்டது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?",
+    "ground_truth": "மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்று அழைக்கப்பட்டது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?",
+    "ground_truth": "மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்றாகும்."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?",
+    "ground_truth": "சென்னை ஆண்டுக்கு 1.4 மில்லியன் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது, அதாவது ஒரு நிமிடத்திற்கு சுமார் 3 கார்களை தயாரிக்கிறது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "2014 ஆம் ஆண்டில் நியூயார்க் டைம்ஸ் வெளியிட்ட 'செல்ல வேண்டிய 52 இடங்கள்' பட்டியலில் சென்னை எத்தனை இடத்தைப் பெற்றது?",
+    "ground_truth": "சென்னை 26வது இடத்தைப் பெற்றது."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னை நகரின் பரப்பளவு எவ்வளவு?",
+    "ground_truth": "சென்னை நகரின் பரப்பளவு 426 சதுர கி.மீ."
+  },
+  {
+    "topic": "Chennai",
+    "slug": "chennai",
+    "language": "ta",
+    "question": "சென்னை இந்தியாவின் எந்த கடற்கரையில் அமைந்துள்ளது, மற்றும் அதன் கிழக்கில் என்ன உள்ளது?",
+    "ground_truth": "சென்னை இந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ளது, அதன் கிழக்கில் வங்காள விரிகுடா உள்ளது."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "How many peaks in the Himalayas exceed an elevation of 7,200 metres?",
+    "ground_truth": "More than 100 peaks exceed 7,200 metres."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "Which five countries does the Himalayan range span?",
+    "ground_truth": "It spans Nepal, India, China, Bhutan, and Pakistan."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "Name the major rivers that rise in the vicinity of the Himalayas.",
+    "ground_truth": "The Indus, the Ganges, and the Tsangpo–Brahmaputra rise near the Himalayas."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "What is the length of the Himalayan mountain range arc?",
+    "ground_truth": "The range runs in an arc 2,400 km (1,500 mi) long."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "What are the western and eastern anchor peaks of the Himalayas?",
+    "ground_truth": "The western anchor is Nanga Parbat and the eastern anchor is Namcha Barwa."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "How does the width of the Himalayas vary from west to east?",
+    "ground_truth": "It varies from 350 km in the west to 151 km in the east."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "What are the four parallel mountain ranges that make up the Himalayas from south to north?",
+    "ground_truth": "They are the Sivalik Hills, the Lower Himalayan Range, the Great Himalayas, and the Tibetan Himalayas."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "en",
+    "question": "Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",
+    "ground_truth": "Kangchenjunga is the highest point of India and the most easterly 8,000‑metre summit."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "What two geographical regions does the Himalayas separate?",
+    "ground_truth": "The Himalayas separate the Indian subcontinent plains and the Tibetan plateau."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "How are the Himalayas described in terms of size and height worldwide?",
+    "ground_truth": "They are the world's largest and highest mountain range."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "What is the minimum elevation of some of the highest peaks in the Himalayas?",
+    "ground_truth": "Some peaks in the Himalayas rise above 7200 meters."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "Between which western and eastern regions does the Himalayas extend?",
+    "ground_truth": "The range stretches from the Kashmir‑Srinagar area in the west to the Tibet‑Arunachal region in the east."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "Which five countries contain parts of the Himalayas?",
+    "ground_truth": "Bhutan, India, Nepal, China, and Pakistan all contain sections of the Himalayas."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "Approximately how many people live in the drainage basin of the Himalayan rivers?",
+    "ground_truth": "Around 600 million people reside in the drainage basin of the rivers that originate in the Himalayas."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "At what altitude is the snow line of the Himalayas located?",
+    "ground_truth": "The snow line in the Himalayas is about 5500 meters above sea level."
+  },
+  {
+    "topic": "Himalayas",
+    "slug": "himalayas",
+    "language": "ta",
+    "question": "At what rate does the Indian‑Australian tectonic plate move, and how far is it expected to travel in the next ten million years?",
+    "ground_truth": "It moves northward at roughly 67 mm per year and is projected to travel about 1500 km over the next ten million years."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "When was Mohandas Karamchand Gandhi born?",
+    "ground_truth": "He was born on 2 October 1869."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "At what age was Gandhi called to the bar in London?",
+    "ground_truth": "He was called to the bar at the age of 22."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "Which country did Gandhi move to in 1893 to represent an Indian merchant in a lawsuit?",
+    "ground_truth": "He moved to South Africa."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "For how many years did Gandhi reside in South Africa?",
+    "ground_truth": "He lived there for 21 years."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "In which year did Gandhi return to India, and how old was he at that time?",
+    "ground_truth": "He returned in 1915 when he was 45 years old."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "What was the name of the 1930 protest in which Gandhi and followers marched 400 km to the sea?",
+    "ground_truth": "It was the Dandi Salt March."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "Who assassinated Gandhi, and where did the assassination take place?",
+    "ground_truth": "Nathuram Godse assassinated Gandhi at an interfaith prayer meeting in Delhi."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "en",
+    "question": "What national holiday in India commemorates Gandhi's birthday?",
+    "ground_truth": "Gandhi Jayanti."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "What is Mahatma Gandhi's full name and his birth and death dates?",
+    "ground_truth": "His full name is Mohandas Karamchand Gandhi, born on 2 October 1869 and died on 30 January 1948."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "How is Mohandas Karamchand Gandhi affectionately addressed?",
+    "ground_truth": "He is affectionately called Mahatma Gandhi."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "What title is given to Gandhi for his role in India's independence?",
+    "ground_truth": "He is called the \"Father of the Nation\" of independent India."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "Where was Gandhi born and what was his mother tongue?",
+    "ground_truth": "He was born in Porbandar, Gujarat, and his mother tongue was Gujarati."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "At what age did Gandhi lose his father?",
+    "ground_truth": "He lost his father when he was 16 years old."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "What organization did Gandhi help found in South Africa in 1894?",
+    "ground_truth": "He helped found the Natal Indian Congress in 1894."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "In which South African city did Gandhi first employ satyagraha in 1906?",
+    "ground_truth": "He first employed satyagraha in Johannesburg in 1906."
+  },
+  {
+    "topic": "Mahatma Gandhi",
+    "slug": "mahatma_gandhi",
+    "language": "ta",
+    "question": "When did Gandhi arrive at Mumbai port and how was he dressed?",
+    "ground_truth": "He arrived on 9 January 1915, dressed in a simple farmer’s attire with a woolen shawl, a thick cap, a white dhoti, and a large turban."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "What title was Abdul Kalam popularly known by for his contributions to missile technology?",
+    "ground_truth": "He was known as the \"Missile Man of India\"."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "Which two major Indian political parties supported Kalam's election as president in 2002?",
+    "ground_truth": "The ruling Bharatiya Janata Party and the opposition Indian National Congress supported his election."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "In which year did Kalam's project director role lead to the successful deployment of the Rohini satellite?",
+    "ground_truth": "The Rohini satellite was successfully deployed in July 1980."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "What was Kalam's father's occupation and religious role in Rameswaram?",
+    "ground_truth": "His father, Jainulabdeen Marakayar, was a boat owner and imam of a local mosque."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "Which institution did Kalam attend to study aerospace engineering, and what challenge did he face there?",
+    "ground_truth": "He studied aerospace engineering at the Madras Institute of Technology, where the dean threatened to revoke his scholarship unless he finished a class project within three days."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "At which Indian institute was Kalam delivering a lecture when he collapsed and died?",
+    "ground_truth": "He collapsed while delivering a lecture at IIM Shillong."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "What was Kalam's role in India's first nuclear test, Smiling Buddha, in 1974?",
+    "ground_truth": "He was invited by Raja Ramanna to witness the test as the representative of the Terminal Ballistics Research Laboratory."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "en",
+    "question": "Which two missile development projects did Kalam direct in the 1970s?",
+    "ground_truth": "He directed Project Devil and Project Valiant."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "When was A. P. J. Abdul Kalam born and when did he die?",
+    "ground_truth": "He was born on 15 October 1931 and died on 27 July 2015."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "Which number President of India did Abdul Kalam serve as?",
+    "ground_truth": "He served as the 11th President of India."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "Where was Abdul Kalam born?",
+    "ground_truth": "He was born in Ramanathapuram, Tamil Nadu."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "Which college did he attend for his physics degree?",
+    "ground_truth": "He earned a physics degree from St. Joseph's College, Trichirappalli."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "What was Abdul Kalam’s role in the 1998 Pokhran-II nuclear test?",
+    "ground_truth": "He played a major institutional, technical and political role in the Pokhran-II nuclear test."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "Which political parties supported his election as President in 2002?",
+    "ground_truth": "The Bharatiya Janata Party and the Indian National Congress supported his election."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "What movement did Abdul Kalam launch in 2011 aimed at youth and anti‑corruption?",
+    "ground_truth": "He launched the “What I Can Do?” movement in 2011."
+  },
+  {
+    "topic": "A. P. J. Abdul Kalam",
+    "slug": "a_p_j_abdul_kalam",
+    "language": "ta",
+    "question": "Which prestigious Indian civilian award did Abdul Kalam receive?",
+    "ground_truth": "He received the Bharat Ratna, India’s highest civilian award."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "When was Subramania Bharati born and when did he die?",
+    "ground_truth": "He was born on 11 December 1882 and died on 11 September 1921."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "Which title was given to Subramania Bharati in recognition of his poetry, and at what age did he receive it?",
+    "ground_truth": "He was bestowed the title \"Bharati\" at the age of eleven for his excellence in poetry."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "Which Indian activist and disciple of Swami Vivekananda did Bharati consider his guru?",
+    "ground_truth": "He considered Sister Nivedita, a disciple of Swami Vivekananda, as his guru."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "What event in 1908 forced Bharati to live in exile in Pondicherry, and how long did his exile last?",
+    "ground_truth": "An arrest warrant issued by the British Government in 1908 forced him into exile in French-controlled Pondicherry for about ten years until 1918."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "Name three of Bharati's literary works that were composed around 1912.",
+    "ground_truth": "Kuyil Pattu, Panjali Sabatham, and Kannan Pattu were composed around 1912."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "Which newspapers did Bharati edit while in Pondicherry, and which of his publications were banned in British India in 1909?",
+    "ground_truth": "In Pondicherry he edited the weekly journal India, the Tamil daily Vijaya, the English monthly Bala Bharatham, and the weekly Suryodayam; the newspapers India and Vijaya were banned in British India in 1909."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "What social reforms did Bharati advocate for during his lifetime?",
+    "ground_truth": "He fought for women's emancipation, opposed child marriage and the caste system, and advocated societal and religious reforms."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "en",
+    "question": "What incident involving an Indian elephant occurred shortly before Bharati's death?",
+    "ground_truth": "He was attacked by an Indian elephant at Thiruvallikeni Parthasarathy Temple, an animal he fed daily, and died a few months later."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "When was Subramania Bharati born and when did he die?",
+    "ground_truth": "He was born on 11 December 1882 and died on 11 September 1921."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "Why was the title \"Bharathi\" bestowed upon Subramania Bharati?",
+    "ground_truth": "He received the title \"Bharathi\" for his excellence in poetry."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "What pseudonym is Subramania Bharati known by?",
+    "ground_truth": "He is known by the pseudonym \"Mekavi\" (\"Mekathana Kaviyar\")."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "Name two literary works authored by Subramania Bharati.",
+    "ground_truth": "He authored works such as \"Panchaali Sabadam\" and \"Kannaan Paattu\"."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "Why did Subramania Bharati move to Pondicherry in 1908?",
+    "ground_truth": "He fled to Pondicherry after the British ordered his arrest."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "At what age did Subramania Bharati get married and what was his wife's name?",
+    "ground_truth": "He married at age fifteen to Sellammal."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "Who did Subramania Bharati regard as his guru?",
+    "ground_truth": "He regarded Swami Vivekananda's sister, Nivedita, as his guru."
+  },
+  {
+    "topic": "Subramania Bharati",
+    "slug": "subramania_bharati",
+    "language": "ta",
+    "question": "List three periodicals Subramania Bharati contributed to.",
+    "ground_truth": "He contributed to \"சுதேசமித்திரன்\", \"தி இந்து\", and \"பால பாரதா\"."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "What political office did M. G. Ramachandran hold from 1977 until his death in 1987?",
+    "ground_truth": "He served as the chief minister of Tamil Nadu."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "Which political party did he found and serve as its first general secretary?",
+    "ground_truth": "He founded and was the first general secretary of the All India Anna Dravida Munnetra Kazhagam (AIADMK)."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "In which year was M. G. Ramachandran posthumously awarded the Bharat Ratna?",
+    "ground_truth": "He was posthumously awarded the Bharat Ratna in March 1988."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "Where was M. G. Ramachandran born and what was his family's ethnic background?",
+    "ground_truth": "He was born in Nawalapitiya, Kandy District, British Ceylon, to a Malayali Nair family."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "Which drama troupe did he join during his school days, and what type of roles did he perform overseas?",
+    "ground_truth": "He joined the Boys Company and performed female roles in Rangoon and Singapore."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "What was the title of his debut Tamil film in 1936, and who directed it?",
+    "ground_truth": "His debut film was \"Sathi Leelavathi,\" directed by Ellis R. Dungan."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "Which 1955 film of his was the Tamil film industry's first full‑length Gevacolor film?",
+    "ground_truth": "\"Alibabavum 40 Thirudargalum\" was the industry's first full‑length Gevacolor film."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "en",
+    "question": "After being shot in 1967, how was M. G. Ramachandran's voice affected in his subsequent films?",
+    "ground_truth": "The shooting permanently changed his voice, so later films featured both his original and altered voices."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "What are the birth and death dates of M. G. Ramachandran?",
+    "ground_truth": "He was born on 17 January 1917 and died on 24 December 1987."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "How many times did M. G. Ramachandran serve as Chief Minister of Tamil Nadu?",
+    "ground_truth": "He served three consecutive terms as Chief Minister."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "Which prestigious civilian award did M. G. Ramachandran receive?",
+    "ground_truth": "He received the Bharat Ratna award."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "What was the title of M. G. Ramachandran's debut film in 1936?",
+    "ground_truth": "His debut film was \"Sathileelavathi\"."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "Who was M. G. Ramachandran's first wife and what happened to her?",
+    "ground_truth": "His first wife was Thangamani, who died after giving birth to a child that also died."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "From which political party did M. G. Ramachandran first enter politics?",
+    "ground_truth": "He first joined the Indian National Congress."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "What relation was M. G. Sakthapani to M. G. Ramachandran?",
+    "ground_truth": "M. G. Sakthapani was his brother."
+  },
+  {
+    "topic": "M. G. Ramachandran",
+    "slug": "m_g_ramachandran",
+    "language": "ta",
+    "question": "In which Sri Lankan locality was M. G. Ramachandran born?",
+    "ground_truth": "He was born in Navalpatti near Kandy, Sri Lanka."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "On what date was the Raman effect discovered?",
+    "ground_truth": "It was discovered on 28 February 1928."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "Which Indian holiday commemorates the discovery of the Raman effect?",
+    "ground_truth": "The day is celebrated annually as National Science Day."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?",
+    "ground_truth": "He became the first Asian and non-White person to receive a Nobel Prize in Physics."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "Where was C. V. Raman born and on what date?",
+    "ground_truth": "He was born on 7 November 1888 in Tiruchirappalli, India."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "At what ages did Raman complete his secondary and higher secondary education, and at which school?",
+    "ground_truth": "He completed secondary education at age 11 and higher secondary at age 13 at St Aloysius' Anglo-Indian High School."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "Which journal did Raman found in 1926?",
+    "ground_truth": "He founded the Indian Journal of Physics."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",
+    "ground_truth": "He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "en",
+    "question": "Who was Raman's famous Nobel laureate nephew?",
+    "ground_truth": "He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?",
+    "ground_truth": "அவர் நவம்பர் 7, 1888 அன்று பிறந்தார்."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?",
+    "ground_truth": "ராமன் 1930 ஆம் ஆண்டில் நோபல் பரிசை பெற்றார்."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "இது ராமன் விளைவு (Raman Effect) என்று பெயரிடப்பட்டுள்ளது."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?",
+    "ground_truth": "அவர் தமிழ்நாட்டின் திருச்சிராபள்ளிக்கருகில் உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?",
+    "ground_truth": "அவர் 1904 ஆம் ஆண்டு சென்னையின் மாநிலக் கல்லூரியில் சிறப்பு தகுதியுடன் முடித்தார்."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?",
+    "ground_truth": "அவர் அந்தக் கழகத்தில் 15 ஆண்டுகள் பணியாற்றினார்."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?",
+    "ground_truth": "அவர் இந்திய இயற்பியல் ஆய்விதழை (Indian Journal of Physics) நிறுவினார்."
+  },
+  {
+    "topic": "C. V. Raman",
+    "slug": "c_v_raman",
+    "language": "ta",
+    "question": "ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?",
+    "ground_truth": "அவர் 1954 இல் பாரத் ரத்னா (Bharat Ratna) விருதைப் பெற்றார்."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "What percentage of the Solar System's total mass is contributed by the Sun?",
+    "ground_truth": "The Sun accounts for 99.86% of the Solar System's total mass."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "Which two planets are the only ones that orbit within the Sun's habitable zone?",
+    "ground_truth": "Earth and Mars are the only planets that orbit within the Sun's habitable zone."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "At approximately what distance from the Sun does the solar wind encounter the interstellar medium, forming the heliopause?",
+    "ground_truth": "The solar wind is halted by the interstellar medium at about 70–90 AU from the Sun, creating the heliopause."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "Which two moons are larger than the smallest planet Mercury, and which planets do they orbit?",
+    "ground_truth": "Ganymede of Jupiter and Titan of Saturn are larger than Mercury."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "Name the five dwarf planets listed by the International Astronomical Union's Minor Planet Center.",
+    "ground_truth": "Ceres, Pluto, Eris, Makemake, and Haumea are the five dwarf planets listed."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "Where is the dwarf planet Ceres located within the Solar System?",
+    "ground_truth": "Ceres is located in the asteroid belt between Mars's and Jupiter's orbits."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "How far is the closest star, Proxima Centauri, from the Solar System in astronomical units?",
+    "ground_truth": "Proxima Centauri is 269,000 AU (4.25 ly) away from the Solar System."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "en",
+    "question": "What was the approximate diameter of the protoplanetary disc that formed during the Solar System's formation?",
+    "ground_truth": "The protoplanetary disc had a diameter of roughly 200 AU."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "According to the International Astronomical Union, what does the Solar System include?",
+    "ground_truth": "It includes the Sun, eight planets, and five dwarf planets."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "How many years ago did the Solar System form, and what caused its formation?",
+    "ground_truth": "About 460 crore years ago, it formed due to the gravitational collapse of a massive molecular cloud."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "Which planet has the greatest mass after the Sun?",
+    "ground_truth": "Jupiter has the greatest mass after the Sun."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "What are the four inner planets called, and what are they primarily composed of?",
+    "ground_truth": "They are called terrestrial planets and are mainly composed of rocks and metals."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "Which dwarf planet is located in the asteroid belt between Mars and Jupiter?",
+    "ground_truth": "Ceres is the dwarf planet located in the asteroid belt."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "What are the names of Mars’s two natural moons?",
+    "ground_truth": "The two natural moons of Mars are Deimos and Phobos."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "How many moons does Jupiter have, and which is the largest?",
+    "ground_truth": "Jupiter has 65 moons, and its largest moon is Ganymede."
+  },
+  {
+    "topic": "Solar System",
+    "slug": "solar_system",
+    "language": "ta",
+    "question": "What unique characteristic does Neptune’s moon Triton have regarding its orbit?",
+    "ground_truth": "Triton orbits in the opposite direction to Neptune’s rotation."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "From which Indian state does Bharatanatyam originate?",
+    "ground_truth": "Tamil Nadu, India."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "Which organization officially recognizes Bharatanatyam as a classical dance form?",
+    "ground_truth": "The Sangeet Natak Akademi."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "What are the three components represented in the backronym interpretation of the word \"Bharatam\"?",
+    "ground_truth": "Bhavam (feelings), ragam (melody), and talam (rhythm)."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "In what year was Sadiraattam officially renamed Bharatanatyam?",
+    "ground_truth": "1932."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "What term describes the specific dance technique and style associated with a guru or school in Bharatanatyam?",
+    "ground_truth": "Bani."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "What are the three categories of repertoire included in a Bharatanatyam performance?",
+    "ground_truth": "Nrita (pure dance), nritya (expressive dance), and natya (drama)."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "How long does a typical Bharatanatyam program last, and does the dancer change costume during it?",
+    "ground_truth": "It lasts about two hours without interruption, and the dancer does not change costume."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "en",
+    "question": "Which quartet is credited with formalizing the basic structure of modern Bharatanatyam?",
+    "ground_truth": "The Thanjavur Quartet."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "பரத நாட்டியம் எந்த பிரதேசம் மற்றும் மாநிலத்துக்கு சிறப்பாகச் சொந்தமானது?",
+    "ground_truth": "பரத நாட்டியம் தென்னிந்தியாவின், குறிப்பாக தமிழ்நாட்டின் பாரம்பரிய நடனமாகும்."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "‘ப’, ‘ர’, ‘த’ என்ற எழுத்துகளின் பொருள் என்ன?",
+    "ground_truth": "‘ப’ பாவம் (உணர்ச்சி), ‘ர’ ராகம் (இசை), ‘த’ தாளம் (தாளம்) என்பதை குறிக்கிறது."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "ஆரம்பகாலத்தில் பரத நாட்டியத்திற்கு என்னென்ன பெயர்கள் பயன்படுத்தப்பட்டன?",
+    "ground_truth": "கூத்து, ஆடல், நாட்டியம், தாசி ஆட்டம், சின்னமேளம், சதிர் ஆகிய பெயர்கள் அந்தக் காலத்தில் பயன்பட்டன."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "அடவு என்ற நடன அங்கத்தின் மொத்த எண்ணிக்கை மற்றும் தற்போதைய பயன்படுத்தும் எண்ணிக்கை என்ன?",
+    "ground_truth": "அடவுகள் சுமார் 120 உள்ளன, அதில் تقریباً 80 தற்போது பயன்பாட்டில் உள்ளன."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "பரத நாட்டியத்திற்கு இசை துணையாக பயன்படுத்தப்படும் சில கருவிகள் எவை?",
+    "ground_truth": "வீணை, புல்லாங்குழல், வயலின், மிருதங்கம் ஆகியவை பரத நாட்டியத்தின் இசை கருவிகளில் அடங்கும்."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "பரத நாட்டியத்தின் பாணிகளில் ‘பந்தநல்லூர்’ பாணியைத் தவிர மற்ற பெயர்கள் எவை?",
+    "ground_truth": "வழுவூர், தஞ்சாவூர், மைசூர், காஞ்சிபுரம் பாணிகள் மற்ற முக்கிய பாணிகளாகும்."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "1932 ஆம் ஆண்டு பரத நாட்டியத்தின் புதிய பெயரை முன்மொழிந்தோர் யார்?",
+    "ground_truth": "ஈ. கிருஷ்ண ஐயர் மற்றும் ருக்மிணி தேவி அருண்டேல் 1932 ஆம் ஆண்டு பெயரை முன்மொழிந்தனர்."
+  },
+  {
+    "topic": "Bharatanatyam",
+    "slug": "bharatanatyam",
+    "language": "ta",
+    "question": "பரத நாட்டியம் குறித்து நேரடி வரலாற்று குறிப்புகள் உள்ள தமிழ்க் காப்பியங்கள் எவை?",
+    "ground_truth": "சிலப்பதிகாரம் (கி.பி. 2ஆம் நூற்றாண்டு) மற்றும் மணிமேகலை (சு. 6ஆம் நூற்றாண்டு) பரத நாட்டியத்தை குறிப்பிடுகின்றன."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "In which Indian state and union territory is Tamil primarily concentrated?",
+    "ground_truth": "Tamil is primarily concentrated in the state of Tamil Nadu and the union territory of Puducherry."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "Around what year has Tamil been attested, making it one of the longest‑surviving classical languages?",
+    "ground_truth": "Tamil has been attested since approximately 300 BCE."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "Name three countries outside the Indian subcontinent where Tamil inscriptions have been found.",
+    "ground_truth": "Tamil inscriptions have been discovered in Indonesia, Thailand, and Egypt."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "Approximately how many poems are included in the Sangam literary works?",
+    "ground_truth": "Sangam literature consists of over 2,000 poems."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "Which script was used for Tamil before the current standardized script was adopted?",
+    "ground_truth": "The vatteluttu script was used before the current standardized Tamil script."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "Besides India, list two other nations where Tamil is an official language.",
+    "ground_truth": "Tamil is an official language in Sri Lanka and Singapore."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "In what year did the Central Government of India first recognize Tamil as a classical language?",
+    "ground_truth": "Tamil was first recognized as a classical language of India in 2004."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "en",
+    "question": "Which language is Tamil’s closest major relative, and around which century did they begin diverging?",
+    "ground_truth": "Tamil’s closest major relative is Malayalam, and they began diverging around the 9th century CE."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "According to the 1997 data, how many people worldwide spoke Tamil as a first language?",
+    "ground_truth": "80 million people spoke Tamil as their mother tongue."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "In the 2017 Google survey, which Indian language was found to be used most on the internet?",
+    "ground_truth": "Tamil was identified as the most used Indian language online."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "Name two countries where Tamil is spoken by a large population.",
+    "ground_truth": "India and Sri Lanka have the largest Tamil‑speaking populations."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "Which ancient Tamil work, composed around 1000 years ago, is taught to schoolchildren as an alphabetic text?",
+    "ground_truth": "Aathichudi, created about a thousand years ago, is taught to children as an alphabetic primer."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "What is the estimated age of the Tamil classic Thirukkural?",
+    "ground_truth": "The Thirukkural is estimated to be nearly 2,000 years old."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "How many of the roughly 100,000 Indian inscriptions are found in Tamil Nadu, and what percentage of them are in Tamil?",
+    "ground_truth": "Around 60,000 inscriptions are in Tamil Nadu, and about 95% of those are written in Tamil."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "List the five historical periods of Tamil language as classified by scholars.",
+    "ground_truth": "The periods are Sangam (400–300 BCE), Post‑Sangam (300–700 BCE), Bhakti (700–1200 CE), Middle (1200–1800 CE), and Modern (1800 CE to present)."
+  },
+  {
+    "topic": "Tamil language",
+    "slug": "tamil_language",
+    "language": "ta",
+    "question": "To which language family does Tamil belong, and what is one of its sub‑families?",
+    "ground_truth": "Tamil belongs to the Dravidian language family, and one of its sub‑families is Tamil‑Malayalam."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "On which river's southern bank is Meenakshi Temple located?",
+    "ground_truth": "It is situated on the southern bank of the Vaigai River."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "Which two deities are the primary focus of the temple's dedication?",
+    "ground_truth": "The temple is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva)."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "Which three Hindu denominations does the temple represent a confluence of?",
+    "ground_truth": "It represents a confluence of Shaivism, Shaktism, and Vaishnavism."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "Which empire rebuilt the temple in the 14th century after its destruction by the Delhi Sultanate?",
+    "ground_truth": "The Vijayanagara Empire rebuilt the temple in the 14th century."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "How tall is the southern tower, the tallest gopuram, and when was it constructed?",
+    "ground_truth": "The southern tower rises to 170 ft (52 m) and was built in the 16th century CE."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "What is the name of the main temple tank within the Meenakshi Temple complex?",
+    "ground_truth": "The main temple tank is the golden lotus pond, called potramarai kulam."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "Which government department is responsible for managing Meenakshi Temple?",
+    "ground_truth": "It is managed by the Hindu Religious and Charitable Endowments Department of the Government of Tamil Nadu."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "en",
+    "question": "In which year was the temple adjudged the best 'Swachh Iconic Place' in India?",
+    "ground_truth": "The temple received the award in October 2017."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "What is the name of the Shiva temple located in the centre of Madurai?",
+    "ground_truth": "It is called the Madurai Meenakshi Sundareswarar Temple."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "Which two deities are the main presiding figures of this temple?",
+    "ground_truth": "The main deities are Sundareswarar and Ambika Meenakshi Amma."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "How many acres does the Madurai Meenakshi Sundareswarar Temple occupy?",
+    "ground_truth": "The temple covers an area of 15 acres."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "How many vimanas does the temple have and what are they called?",
+    "ground_truth": "It has two vimanas, known as the Indra vimanas."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "Which pooja is performed first each day at the temple?",
+    "ground_truth": "The first pooja of the day is performed for Ambika Meenakshi."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "The temple is the primary shrine among how many Meenakshi Sundareswarar temples in Tamil Nadu?",
+    "ground_truth": "It is the primary temple among 366 Meenakshi Sundareswarar temples."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "What is the famous prasadam offered at this temple?",
+    "ground_truth": "The celebrated prasadam is thazhaambu (basil) kumkum."
+  },
+  {
+    "topic": "Meenakshi Amman Temple",
+    "slug": "meenakshi_amman_temple",
+    "language": "ta",
+    "question": "Which historical period saw the construction of the east (Raja) gopuram between 1216 and 1238 CE?",
+    "ground_truth": "The east gopuram was built by later Pandya rulers between 1216 and 1238 CE."
+  }
+]
