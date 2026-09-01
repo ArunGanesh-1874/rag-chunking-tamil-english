@@ -4030,5 +4030,1041 @@
       "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal.",
       "The city has a 24.87 km (15.45 mi) coastline, of which 3.08 km (1.91 mi) experiences erosion, with sand accretion along the shoreline at the Marina beach and the area between the Ennore Port and Kosasthalaiyar. === Geology ===\nChennai is situated in Seismic Zone III, indicating a moderate risk of damage from earthquakes. Owing to the tectonic zone the city falls in, the city is considered a potential geothermal energy site."
     ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What is the capital and largest city of Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu.",
+    "answer": "Chennai.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is adminis",
+      "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.\nLocated on the south-eastern coast of the Indian peninsula, Tamil Nadu is straddled by the Western Ghats and Deccan Plateau in the west, the Eastern Ghats in the north, the",
+      "e abolition of the Legislative Council by the Tamil Nadu Legislative Council (Abolition) act, 1986. The Tamil Nadu Legislative Assembly is housed in the Fort St. George in Chennai. The state elects 39 members to the Lok Sabha and 18 to the Rajya Sabha of the Indian Parliament.\n\n=== Law and order ===\n\nThe Madras High Court was established on 26 June 1862 and is the highest judicial authority of the state with control over all the civil and criminal courts in the state. It is headed by a Chief Jus"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What is the capital and largest city of Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu.",
+    "answer": "Chennai.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India.",
+      "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
+      "Chennai is the state's largest city and capital. Located on the south-eastern coast of the Indian peninsula, Tamil Nadu is straddled by the Western Ghats and Deccan Plateau in the west, the Eastern Ghats in the north, the Eastern Coastal Plains lining the Bay of Bengal in the east, the Gulf of Mannar and the Palk Strait to the south-east, the Laccadive Sea at the southern cape of the peninsula, with the river Kaveri bisecting the state."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What is the capital and largest city of Tamil Nadu?",
+    "ground_truth": "Chennai is the capital and largest city of Tamil Nadu.",
+    "answer": "Chennai.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal.",
+      "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
+      "As the capital of the state of Tamil Nadu, the city houses the state executive and legislative headquarters primarily in the secretariat buildings in Fort St George. Madras High Court is the highest judicial authority in the state, whose jurisdiction extends across Tamil Nadu and Puducherry. === Law and order ===\n\nThe Greater Chennai Police (GCP) is the primary law enforcement agency in the city and is headed by a commissioner of police."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "On which coast and sea is Chennai situated?",
+    "ground_truth": "Chennai lies on the Coromandel Coast of the Bay of Bengal.",
+    "answer": "Chennai is situated on the Coromandel Coast of the Bay of Bengal.",
+    "contexts": [
+      ". The 2015 Chennai Floods submerged major portions of the city, resulting in the deaths of 269 people and damages of ₹86.4 billion (US$905 million).\n\n== Environment ==\n\n=== Geography ===\n\nChennai is located on the southeastern coast of India and northeastern part of Tamil Nadu. It lies on a flat coastal plain known as the Eastern Coastal Plains, with an average elevation of 6.7 m (22 ft) and highest point at 60 m (200 ft). The geology consists of mostly clay soil, with shale and sandstone rocks.",
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is adminis",
+      "t–west stream, runs through north Chennai and meets the Buckingham Canal at Basin Bridge. The groundwater table in Chennai is at 4–5 m (13–16 ft) below ground level on average and is replenished mainly by rainwater. The city has a 24.87 km (15.45 mi) coastline, of which 3.08 km (1.91 mi) experiences erosion, with sand accretion along the shoreline at the Marina beach and the area between the Ennore Port and Kosasthalaiyar.\n\n=== Geology ===\nChennai is situated in Seismic Zone III, indicating a mo"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "On which coast and sea is Chennai situated?",
+    "ground_truth": "Chennai lies on the Coromandel Coast of the Bay of Bengal.",
+    "answer": "Chennai is situated on the Coromandel Coast of the Bay of Bengal.",
+    "contexts": [
+      "The 2015 Chennai Floods submerged major portions of the city, resulting in the deaths of 269 people and damages of ₹86.4 billion (US$905 million). == Environment ==\n\n=== Geography ===\n\nChennai is located on the southeastern coast of India and northeastern part of Tamil Nadu. It lies on a flat coastal plain known as the Eastern Coastal Plains, with an average elevation of 6.7 m (22 ft) and highest point at 60 m (200 ft). The geology consists of mostly clay soil, with shale and sandstone rocks.",
+      "Chennai is the state's largest city and capital. Located on the south-eastern coast of the Indian peninsula, Tamil Nadu is straddled by the Western Ghats and Deccan Plateau in the west, the Eastern Ghats in the north, the Eastern Coastal Plains lining the Bay of Bengal in the east, the Gulf of Mannar and the Palk Strait to the south-east, the Laccadive Sea at the southern cape of the peninsula, with the river Kaveri bisecting the state.",
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "On which coast and sea is Chennai situated?",
+    "ground_truth": "Chennai lies on the Coromandel Coast of the Bay of Bengal.",
+    "answer": "Chennai is situated on the Coromandel Coast of the Bay of Bengal.",
+    "contexts": [
+      "On 26 December 2004, a tsunami lashed the shores of Chennai, killing 206 people and permanently altering the city's coastline. The 2015 Chennai Floods submerged major portions of the city, resulting in the deaths of 269 people and damages of ₹86.4 billion (US$905 million). == Environment ==\n\n=== Geography ===\n\nChennai is located on the southeastern coast of India and northeastern part of Tamil Nadu.",
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal.",
+      "The city has a 24.87 km (15.45 mi) coastline, of which 3.08 km (1.91 mi) experiences erosion, with sand accretion along the shoreline at the Marina beach and the area between the Ennore Port and Kosasthalaiyar. === Geology ===\nChennai is situated in Seismic Zone III, indicating a moderate risk of damage from earthquakes. Owing to the tectonic zone the city falls in, the city is considered a potential geothermal energy site."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",
+    "ground_truth": "Chennai is the sixth‑most‑populous city in India.",
+    "answer": "According to the 2011 Indian census, Chennai is the **sixth‑most‑populous city in India**.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is adminis",
+      "in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub. It is a major centre for medical tourism and is termed \"India's health capital\". It is ranked as the second-safest city in India by National Crime Records Bureau in 2023.\nChennai is home to a diverse population of ethno-religious communit",
+      "2011, Chennai's population was majority Hindu (80.73%) with 9.45% Muslim, 7.72% Christian, 1.27% others and 0.83% with no religion or not indicating any religious preference. Tamils form majority of the population with minorities including Telugus, Marwaris, Gujaratis, Parsis, Sindhis, Odias, Goans, Kannadigas, Anglo-Indians, Bengalis, Punjabis, and Malayalees. The city also has a significant expatriate population. As of 2001, out of the 2,937,000 migrants in the city, 61.5% were from other part"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",
+    "ground_truth": "Chennai is the sixth‑most‑populous city in India.",
+    "answer": "According to the 2011 Indian census, Chennai is the sixth‑most‑populous city in India.",
+    "contexts": [
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India.",
+      "According to 2011 census, the city had a population of 4,646,732, within an area of 174 km2 (67 sq mi). Post expansion of the city to 426 km2 (164 sq mi), the Chennai Municipal Corporation was renamed as Greater Chennai Corporation and the population including the new city limits as per the 2011 census was 6,748,026. As of 2019, 40 per cent of the 1.788 million families in the city live below the poverty line.",
+      "The city has a well developed infrastructure, and is a major transportation hub. It is a major centre for medical tourism and is termed \"India's health capital\". It is ranked as the second-safest city in India by National Crime Records Bureau in 2023. Chennai is home to a diverse population of ethno-religious communities, with a majority Hindu population (80.7%). The city houses nearly three million migrant population and has the third-largest expatriate population in India."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",
+    "ground_truth": "Chennai is the sixth‑most‑populous city in India.",
+    "answer": "Chennai is the sixth‑most‑populous city in India according to the 2011 Indian census.",
+    "contexts": [
+      "As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation.",
+      "It is a major centre for medical tourism and is termed \"India's health capital\". It is ranked as the second-safest city in India by National Crime Records Bureau in 2023. Chennai is home to a diverse population of ethno-religious communities, with a majority Hindu population (80.7%). The city houses nearly three million migrant population and has the third-largest expatriate population in India.",
+      "== Demographics ==\n\nA resident of Chennai is called a Chennaite. According to 2011 census, the city had a population of 4,646,732, within an area of 174 km2 (67 sq mi). Post expansion of the city to 426 km2 (164 sq mi), the Chennai Municipal Corporation was renamed as Greater Chennai Corporation and the population including the new city limits as per the 2011 census was 6,748,026. As of 2019, 40 per cent of the 1.788 million families in the city live below the poverty line."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which municipal corporation administers Chennai and in what year was it incorporated?",
+    "ground_truth": "The Greater Chennai Corporation administers the city and was incorporated in 1688.",
+    "answer": "The Greater Chennai Corporation administers Chennai, and it was incorporated in 1688.",
+    "contexts": [
+      "ater Chennai Corporation (formerly \"Corporation of Madras\"), which was established on 29 September 1688. It is the oldest surviving municipal corporation in India and the second oldest surviving corporation in the world. In 2011, the jurisdiction of the Chennai Corporation was expanded from 174 km2 (67 sq mi) to an area of 426 km2 (164 sq mi), divided into three regions North, South and Central covering 200 wards. The corporation is headed by a mayor, elected by the councillors, who are elected",
+      "largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court.\nArcheological evidence points to human settlements in the region during the Stone Age. Historically, from the 1st century CE, the re",
+      "the population including the new city limits as per the 2011 census was 6,748,026. As of 2019, 40 per cent of the 1.788 million families in the city live below the poverty line. As of 2017, the city had 2.2 million households, with 40 per cent of the residents not owning a house. There are about 1,131 slums in the city housing more than 300,000 households.\n\n== Administration and politics ==\n\n=== Administration ===\n\nThe city is governed by the Greater Chennai Corporation (formerly \"Corporation of"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which municipal corporation administers Chennai and in what year was it incorporated?",
+    "ground_truth": "The Greater Chennai Corporation administers the city and was incorporated in 1688.",
+    "answer": "The Greater Chennai Corporation administers Chennai, and it was incorporated in 1688.",
+    "contexts": [
+      "== Administration and politics ==\n\n=== Administration ===\n\nThe city is governed by the Greater Chennai Corporation (formerly \"Corporation of Madras\"), which was established on 29 September 1688. It is the oldest surviving municipal corporation in India and the second oldest surviving corporation in the world.",
+      "The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation.",
+      "It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court. Archeological evidence points to human settlements in the region during the Stone Age."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which municipal corporation administers Chennai and in what year was it incorporated?",
+    "ground_truth": "The Greater Chennai Corporation administers the city and was incorporated in 1688.",
+    "answer": "The city is administered by the Greater Chennai Corporation, which was incorporated in 1688.",
+    "contexts": [
+      "As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation.",
+      "As of 2017, the city had 2.2 million households, with 40 per cent of the residents not owning a house. There are about 1,131 slums in the city housing more than 300,000 households. == Administration and politics ==\n\n=== Administration ===\n\nThe city is governed by the Greater Chennai Corporation (formerly \"Corporation of Madras\"), which was established on 29 September 1688. It is the oldest surviving municipal corporation in India and the second oldest surviving corporation in the world.",
+      "The Greater Chennai Corporation, established in 1688, is the second oldest in the world and  Tamil Nadu was the first state to establish town panchayats as a new administrative unit. The rural administration consists of a three-tier Panchayati Raj system with the district panchayats at the district level, panchayat unions at the intermediate (block) level, and village panchayats at the village level."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was the name of the first British fortress built in India that is located in Chennai?",
+    "ground_truth": "Fort St. George was the first British fortress built in India.",
+    "answer": "Fort St. George.",
+    "contexts": [
+      "allery are amongst the oldest in the country. The museum inside the premises of Fort St. George maintains a collection of objects of the British era. The museum is managed by the Archaeological Survey of India and has in its possession, the first Flag of India hoisted at Fort St George after the declaration of India's Independence on 15 August 1947.\nChennai is the base for Tamil cinema, nicknamed Kollywood, alluding to the neighbourhood of Kodambakkam where several film studios are located. The",
+      "Age. Historically, from the 1st century CE, the region was part of the Chola, Pallava, Pandya, and Vijayanagara kingdoms during various eras. In 1639 CE, the British East India Company obtained a grant for a strip of coastal land which then contained the fishing village of Madrasapattinam. The British developed the Madras port and built Fort St. George, the first British fortress in India. The British was engaged in conflict with the French for the control of the city in the 18th century. By the",
+      "lished a settlement in Pulicat and the Danes had their establishment in Tharangambadi. On 20 August 1639, Francis Day of the British East India Company met with the Vijayanager emperor Peda Venkata Raya and obtained a grant for land on the Coromandel coast for their trading activities. A year later, the company built Fort St. George, the first major English settlement in India, which became the nucleus of the British Raj in the region. By 1693, the French established trading posts at Pondichéry."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was the name of the first British fortress built in India that is located in Chennai?",
+    "ground_truth": "Fort St. George was the first British fortress built in India.",
+    "answer": "Fort St. George.",
+    "contexts": [
+      "George, the first British fortress in India. The British was engaged in conflict with the French for the control of the city in the 18th century. By the late 18th century, the British had conquered most of the region and established the Madras Presidency with Madras as the capital. After India gained independence in 1947, Madras became the capital city of the Madras State, the predecessor to the present-day state of Tamil Nadu. The city was officially renamed as Chennai in 1996.",
+      "On 22 August 1639, a grant was given for a strip of land about 9.7 km (6 mi) long and 1.6 km (1 mi) inland for an annual sum of fifty million pagodas. The land was then part of a fishing village known as Madraspatnam. A year later, the Company built Fort St. George, the first major English settlement in India, which became the nucleus of the growing colonial city of Madras. In 1746, during the Battle of Madras, the city along with the Fort St.",
+      "The museum is managed by the Archaeological Survey of India and has in its possession, the first Flag of India hoisted at Fort St George after the declaration of India's Independence on 15 August 1947. Chennai is the base for Tamil cinema, nicknamed Kollywood, alluding to the neighbourhood of Kodambakkam where several film studios are located."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was the name of the first British fortress built in India that is located in Chennai?",
+    "ground_truth": "Fort St. George was the first British fortress built in India.",
+    "answer": "Fort St. George.",
+    "contexts": [
+      "George, the first major English settlement in India, which became the nucleus of the growing colonial city of Madras. In 1746, during the Battle of Madras, the city along with the Fort St.",
+      "It is a major film production centre and home to the Tamil-language film industry. In October 2017, Chennai was added to the UNESCO Creative Cities Network (UCCN) list. == Etymology ==\n\nThe name Chennai was derived from the name of Chennappa Nayaka, a Nayak ruler who served as a general under Venkata Raya of the Vijayanagara Empire from whom the British East India Company took the town in lease in 1639.",
+      "Archeological evidence points to human settlements in the region during the Stone Age. Historically, from the 1st century CE, the region was part of the Chola, Pallava, Pandya, and Vijayanagara kingdoms during various eras. In 1639 CE, the British East India Company obtained a grant for a strip of coastal land which then contained the fishing village of Madrasapattinam. The British developed the Madras port and built Fort St. George, the first British fortress in India."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "In which year was the city officially renamed from Madras to Chennai?",
+    "ground_truth": "The city was officially renamed Chennai in 1996.",
+    "answer": "1996",
+    "contexts": [
+      "of communication arose which marked a major shift in the political dynamics of the city and eventually led to English being retained as an official language of India alongside Hindi. On 17 July 1996, the city was officially renamed from Madras to Chennai, in line with then a nationwide trend for replacing anglicised names. On 26 December 2004, a tsunami lashed the shores of Chennai, killing 206 people and permanently altering the city's coastline. The 2015 Chennai Floods submerged major portions",
+      "he control of the city in the 18th century. By the late 18th century, the British had conquered most of the region and established the Madras Presidency with Madras as the capital. After India gained independence in 1947, Madras became the capital city of the Madras State, the predecessor to the present-day state of Tamil Nadu. The city was officially renamed as Chennai in 1996.\nChennai lies on the predominantly flat Eastern Coastal Plains, and experiences a tropical climate with high humidity.",
+      "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is adminis"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "In which year was the city officially renamed from Madras to Chennai?",
+    "ground_truth": "The city was officially renamed Chennai in 1996.",
+    "answer": "1996",
+    "contexts": [
+      "In 1965, agitations against the imposition of Hindi and in support of continuing English as a medium of communication arose which marked a major shift in the political dynamics of the city and eventually led to English being retained as an official language of India alongside Hindi. On 17 July 1996, the city was officially renamed from Madras to Chennai, in line with then a nationwide trend for replacing anglicised names.",
+      "On 17 July 1996, the city was officially renamed from Madras to Chennai, in line with then a nationwide trend for replacing anglicised names. On 26 December 2004, a tsunami lashed the shores of Chennai, killing 206 people and permanently altering the city's coastline. The 2015 Chennai Floods submerged major portions of the city, resulting in the deaths of 269 people and damages of ₹86.4 billion (US$905 million).",
+      "George. In July 1996, the Government of Tamil Nadu officially changed the name from Madras to Chennai. The name \"Madras\" continues to be used occasionally for the city as well as for places or things named after the city in the past. == History ==\n\nStone Age implements have been found near Pallavaram in Chennai, and according to the Archaeological Survey of India, Pallavaram was a megalithic cultural establishment, with evidence of pre-historic settlements."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "In which year was the city officially renamed from Madras to Chennai?",
+    "ground_truth": "The city was officially renamed Chennai in 1996.",
+    "answer": "1996",
+    "contexts": [
+      "In 1965, agitations against the imposition of Hindi and in support of continuing English as a medium of communication arose which marked a major shift in the political dynamics of the city and eventually led to English being retained as an official language of India alongside Hindi. On 17 July 1996, the city was officially renamed from Madras to Chennai, in line with then a nationwide trend for replacing anglicised names.",
+      "The British was engaged in conflict with the French for the control of the city in the 18th century. By the late 18th century, the British had conquered most of the region and established the Madras Presidency with Madras as the capital. After India gained independence in 1947, Madras became the capital city of the Madras State, the predecessor to the present-day state of Tamil Nadu. The city was officially renamed as Chennai in 1996.",
+      "In July 1996, the Government of Tamil Nadu officially changed the name from Madras to Chennai. The name \"Madras\" continues to be used occasionally for the city as well as for places or things named after the city in the past. == History ==\n\nStone Age implements have been found near Pallavaram in Chennai, and according to the Archaeological Survey of India, Pallavaram was a megalithic cultural establishment, with evidence of pre-historic settlements."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What was Chennai's estimated gross domestic product in 2023?",
+    "ground_truth": "Chennai's estimated GDP in 2023 was $143.9 billion.",
+    "answer": "Chennai's estimated gross domestic product in 2023 was **$143.9 billion**.",
+    "contexts": [
+      "zation and World Cities Research Network, Chennai is amongst the cities most integrated with the global economy, classified as a beta-city. As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. Chennai has a diversified industrial base anchored by different sectors including automobiles, software services, hardware, healthcare and financial services. As of 2021, Chennai is amongst the top export districts in the country, w",
+      "in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub. It is a major centre for medical tourism and is termed \"India's health capital\". It is ranked as the second-safest city in India by National Crime Records Bureau in 2023.\nChennai is home to a diverse population of ethno-religious communit",
+      "xperiences a tropical climate with high humidity. It receives most of the rainfall from Northeast monsoon with cyclones being common features during the season, resulting in water inundation and flooding in low-lying areas. As of 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. It has a diversified industrial base anchored by different sectors, and is amongst the top export districts in the country, with more than US$2563 billion in"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What was Chennai's estimated gross domestic product in 2023?",
+    "ground_truth": "Chennai's estimated GDP in 2023 was $143.9 billion.",
+    "answer": "Chennai’s estimated gross domestic product in 2023 was **$143.9 billion**.",
+    "contexts": [
+      "As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. Chennai has a diversified industrial base anchored by different sectors including automobiles, software services, hardware, healthcare and financial services. As of 2021, Chennai is amongst the top export districts in the country, with more than US$2563 billion in exports. The city has a permanent exhibition complex Chennai Trade Centre at Nandambakkam.",
+      "As of 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. It has a diversified industrial base anchored by different sectors, and is amongst the top export districts in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub.",
+      "With the presence of two major ports, an international airport, and a converging road and rail networks, Chennai is often referred to as the \"Gateway to South India\". According to the Globalization and World Cities Research Network, Chennai is amongst the cities most integrated with the global economy, classified as a beta-city. As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What was Chennai's estimated gross domestic product in 2023?",
+    "ground_truth": "Chennai's estimated GDP in 2023 was $143.9 billion.",
+    "answer": "Chennai's estimated gross domestic product in 2023 was **$143.9 billion**.",
+    "contexts": [
+      "As of 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. It has a diversified industrial base anchored by different sectors, and is amongst the top export districts in the country, with more than US$2563 billion in exports. It is ranked as a beta-level city in the Global Cities Index, and houses a major portion of India's automobile industry. The city has a well developed infrastructure, and is a major transportation hub.",
+      "According to the Globalization and World Cities Research Network, Chennai is amongst the cities most integrated with the global economy, classified as a beta-city. As of 31 March 2023, Chennai had an estimated GDP of $143.9 billion, ranking it among the most productive metro areas in India. Chennai has a diversified industrial base anchored by different sectors including automobiles, software services, hardware, healthcare and financial services.",
+      "As per a report by Government of India, Tamil Nadu is the most export competitive state of India in 2023. === Services ===\n\nAs of 2022, the state is amongst the major Information technology (IT) exporters of India with a value of ₹576.87 billion (US$6.0 billion). Established in 2000, Tidel Park in Chennai was amongst the first and largest IT parks in Asia."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which language is most widely spoken by the residents of Chennai?",
+    "ground_truth": "Tamil is the most widely spoken language in Chennai.",
+    "answer": "Tamil.",
+    "contexts": [
+      "ministers, including C. N. Annadurai, M. Karunanidhi, M. G. Ramachandran, Janaki Ramachandran and Jayalalithaa.\n\n== Culture ==\n\n=== Languages ===\nTamil is the language spoken by most of Chennai's population; English is largely spoken by white-collar workers. As per the 2011 census, Tamil is the most spoken language with 3,640,389 (78.3%) of speakers followed by Telugu (432,295), Urdu (198,505), Hindi (159,474) and Malayalam (104,994). Madras Bashai is a variety of the Tamil spoken by people in",
+      "hai is a variety of the Tamil spoken by people in the city. It originated with words introduced from other languages such as English and Telugu on the Tamil originally spoken by the native people of the city. Korean, Japanese, French, Mandarin Chinese, German and Spanish are spoken by foreign expatriates residing in the city.\n\n=== Religion and ethnicity ===\n\nChennai is home to a diverse population of ethno-religious communities. As per census of 2011, Chennai's population was majority Hindu (80.",
+      "of communication arose which marked a major shift in the political dynamics of the city and eventually led to English being retained as an official language of India alongside Hindi. On 17 July 1996, the city was officially renamed from Madras to Chennai, in line with then a nationwide trend for replacing anglicised names. On 26 December 2004, a tsunami lashed the shores of Chennai, killing 206 people and permanently altering the city's coastline. The 2015 Chennai Floods submerged major portions"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which language is most widely spoken by the residents of Chennai?",
+    "ground_truth": "Tamil is the most widely spoken language in Chennai.",
+    "answer": "Tamil is the most widely spoken language among Chennai’s residents.",
+    "contexts": [
+      "== Culture ==\n\n=== Languages ===\nTamil is the language spoken by most of Chennai's population; English is largely spoken by white-collar workers. As per the 2011 census, Tamil is the most spoken language with 3,640,389 (78.3%) of speakers followed by Telugu (432,295), Urdu (198,505), Hindi (159,474) and Malayalam (104,994). Madras Bashai is a variety of the Tamil spoken by people in the city.",
+      "Tamil is the most widely spoken language, with Madras Bashai being a unique linguistic variation of Tamil spoken by people in the city. Chennai is a major centre for music, art and dance and is called the Cultural Capital of South India. The oldest buildings in the city date from the 6th to 8th centuries CE, and the city has buildings encompassing diverse styles of architecture developed during different time periods in history.",
+      "Madras Bashai is a variety of the Tamil spoken by people in the city. It originated with words introduced from other languages such as English and Telugu on the Tamil originally spoken by the native people of the city. Korean, Japanese, French, Mandarin Chinese, German and Spanish are spoken by foreign expatriates residing in the city. === Religion and ethnicity ===\n\nChennai is home to a diverse population of ethno-religious communities."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which language is most widely spoken by the residents of Chennai?",
+    "ground_truth": "Tamil is the most widely spoken language in Chennai.",
+    "answer": "Tamil is the most widely spoken language by the residents of Chennai.",
+    "contexts": [
+      "== Culture ==\n\n=== Languages ===\nTamil is the language spoken by most of Chennai's population; English is largely spoken by white-collar workers. As per the 2011 census, Tamil is the most spoken language with 3,640,389 (78.3%) of speakers followed by Telugu (432,295), Urdu (198,505), Hindi (159,474) and Malayalam (104,994). Madras Bashai is a variety of the Tamil spoken by people in the city.",
+      "Known as the gateway to South India, it is amongst the most-visited Indian cities by international tourists and was ranked 36th among the most-visited cities in the world in 2019 by Euromonitor. Tamil is the most widely spoken language, with Madras Bashai being a unique linguistic variation of Tamil spoken by people in the city. Chennai is a major centre for music, art and dance and is called the Cultural Capital of South India.",
+      "It originated with words introduced from other languages such as English and Telugu on the Tamil originally spoken by the native people of the city. Korean, Japanese, French, Mandarin Chinese, German and Spanish are spoken by foreign expatriates residing in the city. === Religion and ethnicity ===\n\nChennai is home to a diverse population of ethno-religious communities."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",
+    "ground_truth": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரம்.",
+    "answer": "சென்னை தமிழ்நாட்டின் தலைநகரம், மேலும் அது இந்தியாவின் நான்காவது பெரிய நகரம்.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்",
+      "தமிழ்நாடு (Tamil Nadu) என்பது இந்தியாவின் தென் முனையில் அமைந்துள்ள மாநிலங்களில் ஒன்றாகும். தமிழகம் என்றும் பரவலாக அழைக்கப்படும் இம்மாநிலமானது, பரப்பளவில் இந்தியாவின் பத்தாவது பெரிய மாநிலமாக மற்றும் மக்கள்தொகை அடிப்படையில் இந்தியாவின் ஆறாவது பெரிய மாநிலமாகத் திகழ்கிறது. உலகின் பழம்பெரும் மொழிகளில் ஒன்றான தமிழ் மொழி பேசும் தமிழர் வாழும் பகுதியே தமிழ்நாடு என அழைக்கப்படுகிறது. இதன் தலைநகரமாக சென்னை உள்ளது.\nஇந்தியத் துணைக்கண்டத்தின் தென்கிழக்கு கரையில் அமைந்துள்ள தமிழ்நாடு, மேற்கில் மேற்குத் தொடர்ச்ச",
+      "ஆங்கிலம் போன்ற பிற மொழிகளிலிருந்து கடன் வார்த்தைகளைப் பயன்படுத்துகின்றனர். மாநிலத்தில் வெளிநாட்டவர்களால் வெவ்வேறு மொழிகள் பேசப்படுகின்றன.\n\n=== பெரிய நகரங்கள் ===\n\nஇம்மாநிலத்தின் தலைநகரமான சென்னை, அதிக மக்கள் தொகை கொண்ட நகரமாகும். இங்கு 80 இலட்சத்திற்கும் அதிகமான மக்கள் வசிக்கின்றனர். தமிழ்நாட்டின் இரண்டாவது மிகப்பெரிய நகரம் கோயம்புத்தூர் ஆகும். அதைத் தொடர்ந்து முறையே மதுரை, திருச்சிராப்பள்ளி, திருப்பூர் மற்றும் சேலம் ஆகிய நகரங்கள் உள்ளன.\n\n== பண்பாடு மற்றும் பாரம்பரியம் ==\n\n=== உடை ===\n\nதமிழ் பெ"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",
+    "ground_truth": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரம்.",
+    "answer": "சென்னை தமிழ்நாட்டின் தலைநகரம்이며, இந்தியாவின் நான்காவது பெரிய நகரம்.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "தமிழ்நாடு (Tamil Nadu) என்பது இந்தியாவின் தென் முனையில் அமைந்துள்ள மாநிலங்களில் ஒன்றாகும். தமிழகம் என்றும் பரவலாக அழைக்கப்படும் இம்மாநிலமானது, பரப்பளவில் இந்தியாவின் பத்தாவது பெரிய மாநிலமாக மற்றும் மக்கள்தொகை அடிப்படையில் இந்தியாவின் ஆறாவது பெரிய மாநிலமாகத் திகழ்கிறது. உலகின் பழம்பெரும் மொழிகளில் ஒன்றான தமிழ் மொழி பேசும் தமிழர் வாழும் பகுதியே தமிழ்நாடு என அழைக்கப்படுகிறது. இதன் தலைநகரமாக சென்னை உள்ளது.",
+      "மாநிலத்தில் வெளிநாட்டவர்களால் வெவ்வேறு மொழிகள் பேசப்படுகின்றன. === பெரிய நகரங்கள் ===\n\nஇம்மாநிலத்தின் தலைநகரமான சென்னை, அதிக மக்கள் தொகை கொண்ட நகரமாகும். இங்கு 80 இலட்சத்திற்கும் அதிகமான மக்கள் வசிக்கின்றனர். தமிழ்நாட்டின் இரண்டாவது மிகப்பெரிய நகரம் கோயம்புத்தூர் ஆகும். அதைத் தொடர்ந்து முறையே மதுரை, திருச்சிராப்பள்ளி, திருப்பூர் மற்றும் சேலம் ஆகிய நகரங்கள் உள்ளன. == பண்பாடு மற்றும் பாரம்பரியம் ==\n\n=== உடை ===\n\nதமிழ் பெண்கள் பாரம்பரியமாக புடவை அணிவார்கள்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",
+    "ground_truth": "சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரம்.",
+    "answer": "சென்னை, தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் **நான்காவது** பெரிய நகரம்.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "தமிழ்நாடு (Tamil Nadu) என்பது இந்தியாவின் தென் முனையில் அமைந்துள்ள மாநிலங்களில் ஒன்றாகும். தமிழகம் என்றும் பரவலாக அழைக்கப்படும் இம்மாநிலமானது, பரப்பளவில் இந்தியாவின் பத்தாவது பெரிய மாநிலமாக மற்றும் மக்கள்தொகை அடிப்படையில் இந்தியாவின் ஆறாவது பெரிய மாநிலமாகத் திகழ்கிறது. உலகின் பழம்பெரும் மொழிகளில் ஒன்றான தமிழ் மொழி பேசும் தமிழர் வாழும் பகுதியே தமிழ்நாடு என அழைக்கப்படுகிறது. இதன் தலைநகரமாக சென்னை உள்ளது.",
+      "=== பெரிய நகரங்கள் ===\n\nஇம்மாநிலத்தின் தலைநகரமான சென்னை, அதிக மக்கள் தொகை கொண்ட நகரமாகும். இங்கு 80 இலட்சத்திற்கும் அதிகமான மக்கள் வசிக்கின்றனர். தமிழ்நாட்டின் இரண்டாவது மிகப்பெரிய நகரம் கோயம்புத்தூர் ஆகும். அதைத் தொடர்ந்து முறையே மதுரை, திருச்சிராப்பள்ளி, திருப்பூர் மற்றும் சேலம் ஆகிய நகரங்கள் உள்ளன. == பண்பாடு மற்றும் பாரம்பரியம் ==\n\n=== உடை ===\n\nதமிழ் பெண்கள் பாரம்பரியமாக புடவை அணிவார்கள். இது பொதுவாக 4.6 முதல் 8.2 மீ நீளம் கொண்ட ஒரு துணியாகும்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?",
+    "ground_truth": "1688 செப்டம்பர் 29 அன்று நிறுவப்பட்டது.",
+    "answer": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்",
+      "ைத் தொடர்ந்து அந்தப் பகுதி, போர்த்துக்கீசியர் வசம் வந்தது. தற்போதைய சென்னைக்கு வடக்கே புலிக்காடு என்ற பகுதியில் 1612-ஆம் ஆண்டில் அவர்களது குடியிருப்பு உருவானது. 1688-ஆம் ஆண்டில், சென்னை, முதல் நகர அவையாக இரண்டாம் ஜேம்ஸ் மன்னரால் அறிவிக்கப்பட்டது. இதன் மூலம் இந்தியாவின் முதல் நகராட்சி என்ற பெருமையைச் சென்னை பெற்றது. கிழக்கிந்தியக் கம்பெனியின் ராபர்ட் கிளைவ் தனது படை நடவடிக்கைகளுக்கான தளமாக இதைப் பயன்படுத்தினார். பின்னர் இது பிரித்தானிய அரசின் இந்தியக் குடியிருப்புப் பகுதியில் இருந்த 4 மாகாணங்களில",
+      "மற்றும் 12,618 ஊராட்சி மன்றங்கள் ஆகியனவாக பிரிக்கப்பட்டுள்ளன. 1688 இல் நிறுவப்பட்ட சென்னை மாநகராட்சி உலகின் இரண்டாவது பழமையானதாகும். புதிய நிர்வாக அலகாக நகர பஞ்சாயத்துக்களை நிறுவிய முதல் மாநிலம் தமிழ்நாடு ஆகும்.\n\n=== சட்டமன்றம் ===\n\nஇந்திய அரசியலமைப்பின் படி, ஆளுநர் மாநிலத்தின் அரசியலமைப்புத் தலைவராகவும், முதலமைச்சர் அரசாங்கத்தின் தலைவராகவும், அமைச்சர்கள் குழுவின் தலைவராகவும் உள்ளார். 1861 ஆம் ஆண்டின் இந்திய பேரவைகள் சட்டம் நான்கு முதல் எட்டு உறுப்பினர்களைக் கொண்ட சென்னை மாகாண சட்டமன்றக் ஆலோசனைக"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?",
+    "ground_truth": "1688 செப்டம்பர் 29 அன்று நிறுவப்பட்டது.",
+    "answer": "இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 தேதியன்று நிறுவப்பட்டது.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "தற்போதைய சென்னைக்கு வடக்கே புலிக்காடு என்ற பகுதியில் 1612-ஆம் ஆண்டில் அவர்களது குடியிருப்பு உருவானது. 1688-ஆம் ஆண்டில், சென்னை, முதல் நகர அவையாக இரண்டாம் ஜேம்ஸ் மன்னரால் அறிவிக்கப்பட்டது. இதன் மூலம் இந்தியாவின் முதல் நகராட்சி என்ற பெருமையைச் சென்னை பெற்றது. கிழக்கிந்தியக் கம்பெனியின் ராபர்ட் கிளைவ் தனது படை நடவடிக்கைகளுக்கான தளமாக இதைப் பயன்படுத்தினார். பின்னர் இது பிரித்தானிய அரசின் இந்தியக் குடியிருப்புப் பகுதியில் இருந்த 4 மாகாணங்களில் ஒன்றான \"சென்னை மாகாணம்\" என்ற பெயர் பெற்றது.",
+      "1688 இல் நிறுவப்பட்ட சென்னை மாநகராட்சி உலகின் இரண்டாவது பழமையானதாகும். புதிய நிர்வாக அலகாக நகர பஞ்சாயத்துக்களை நிறுவிய முதல் மாநிலம் தமிழ்நாடு ஆகும். === சட்டமன்றம் ===\n\nஇந்திய அரசியலமைப்பின் படி, ஆளுநர் மாநிலத்தின் அரசியலமைப்புத் தலைவராகவும், முதலமைச்சர் அரசாங்கத்தின் தலைவராகவும், அமைச்சர்கள் குழுவின் தலைவராகவும் உள்ளார். 1861 ஆம் ஆண்டின் இந்திய பேரவைகள் சட்டம் நான்கு முதல் எட்டு உறுப்பினர்களைக் கொண்ட சென்னை மாகாண சட்டமன்றக் ஆலோசனைக் குழுவை நிறுவியது."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?",
+    "ground_truth": "1688 செப்டம்பர் 29 அன்று நிறுவப்பட்டது.",
+    "answer": "1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி.",
+    "contexts": [
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "1522-ஆம் ஆண்டில் இங்கு வந்த போர்த்துகீசியர்கள் செயின்ட் தாமஸ் கோட்டையைக் கட்டினர். அதைத் தொடர்ந்து அந்தப் பகுதி, போர்த்துக்கீசியர் வசம் வந்தது. தற்போதைய சென்னைக்கு வடக்கே புலிக்காடு என்ற பகுதியில் 1612-ஆம் ஆண்டில் அவர்களது குடியிருப்பு உருவானது. 1688-ஆம் ஆண்டில், சென்னை, முதல் நகர அவையாக இரண்டாம் ஜேம்ஸ் மன்னரால் அறிவிக்கப்பட்டது. இதன் மூலம் இந்தியாவின் முதல் நகராட்சி என்ற பெருமையைச் சென்னை பெற்றது.",
+      "உள்ளூர் நிர்வாகதிற்காக 25 மாநகராட்சிகள், 117 நகராட்சிகள், 487 பேரூராட்சிகள், 528 நகர பஞ்சாயத்துக்கள், 385 ஊராட்சி ஒன்றியங்கள் மற்றும் 12,618 ஊராட்சி மன்றங்கள் ஆகியனவாக பிரிக்கப்பட்டுள்ளன. 1688 இல் நிறுவப்பட்ட சென்னை மாநகராட்சி உலகின் இரண்டாவது பழமையானதாகும். புதிய நிர்வாக அலகாக நகர பஞ்சாயத்துக்களை நிறுவிய முதல் மாநிலம் தமிழ்நாடு ஆகும்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?",
+    "ground_truth": "மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்று அழைக்கப்பட்டது.",
+    "answer": "1996‑க்கு முன்னர் சென்னை **மதராசு பட்டினம்**, **மெட்ராஸ் (Madras)** மற்றும் **சென்னப்பட்டினம்** என்று அழைக்கப்பட்டது.",
+    "contexts": [
+      "னது. சென்னை மாகாணம் 1967-ஆம் ஆண்டு 'தமிழ்நாடு' என்று பெயர் மாற்றம் செய்யப்பட்டது. இந்நகரின் பெயரான மதராஸ் என்பது, 1996-ஆம் ஆண்டு 'சென்னை' எனப் பெயர்மாற்றம் செய்யப்பட்டது.\nஇந்திய விடுதலைக்குப் பிறகு சில வருடங்கள் கழித்து 1956-ஆம் ஆண்டு மொழி வாரியாக மாநிலங்களைப் பிரித்த போது, தமிழ்நாட்டின் ஒரு பகுதியாகி, மாநிலத்தின் தலைநகரானது சென்னை. மதராஸ் என்ற பெயர் போர்த்துகீசியர்களால் வைக்கப்பட்டது என்று கருதியதால் தமிழக அரசு 1996-இல் சென்னை என மாற்றம் செய்தது. வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்",
+      ". வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்டை நிலத்தை பிரித்தானியர் வாங்கியதால், தங்கள் தந்தை 'சென்னப்ப நாயக்கர்' பெயரால் 'சென்னப்பட்டணம்' என இந்நகரம் அழைக்கப்பட வேண்டும் என வெங்கடபதி சகோதரர்கள் கோரிக்கை விடுத்தனர். ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது.\nடிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும். 2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமா",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?",
+    "ground_truth": "மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்று அழைக்கப்பட்டது.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில், 1996‑க்கு முன்னர் சென்னை பெரும்பாலும் **“மதராஸ்”** என்று அழைக்கப்பட்டு வந்தது. (இது தவிர, சிலர் “சென்னப்பட்டணம்” என்ற பெயரை முன்மொழிந்தார்கள், ஆனால் அதைப் பயன்படுத்தியதாக தகவலில் குறிப்பிடப்படவில்லை.)",
+    "contexts": [
+      "மதராஸ் என்ற பெயர் போர்த்துகீசியர்களால் வைக்கப்பட்டது என்று கருதியதால் தமிழக அரசு 1996-இல் சென்னை என மாற்றம் செய்தது. வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்டை நிலத்தை பிரித்தானியர் வாங்கியதால், தங்கள் தந்தை 'சென்னப்ப நாயக்கர்' பெயரால் 'சென்னப்பட்டணம்' என இந்நகரம் அழைக்கப்பட வேண்டும் என வெங்கடபதி சகோதரர்கள் கோரிக்கை விடுத்தனர். ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது.",
+      "இந்திய விடுதலைக்குப் பிறகு சில வருடங்கள் கழித்து 1956-ஆம் ஆண்டு மொழி வாரியாக மாநிலங்களைப் பிரித்த போது, தமிழ்நாட்டின் ஒரு பகுதியாகி, மாநிலத்தின் தலைநகரானது சென்னை. மதராஸ் என்ற பெயர் போர்த்துகீசியர்களால் வைக்கப்பட்டது என்று கருதியதால் தமிழக அரசு 1996-இல் சென்னை என மாற்றம் செய்தது.",
+      "1947-ஆம் ஆண்டு இந்தியா விடுதலை அடைந்த பிறகு, மதராஸ் மாகாணத்தின் தலைநகராக 'மதராஸ்' ஆனது. சென்னை மாகாணம் 1967-ஆம் ஆண்டு 'தமிழ்நாடு' என்று பெயர் மாற்றம் செய்யப்பட்டது. இந்நகரின் பெயரான மதராஸ் என்பது, 1996-ஆம் ஆண்டு 'சென்னை' எனப் பெயர்மாற்றம் செய்யப்பட்டது. இந்திய விடுதலைக்குப் பிறகு சில வருடங்கள் கழித்து 1956-ஆம் ஆண்டு மொழி வாரியாக மாநிலங்களைப் பிரித்த போது, தமிழ்நாட்டின் ஒரு பகுதியாகி, மாநிலத்தின் தலைநகரானது சென்னை."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?",
+    "ground_truth": "மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்று அழைக்கப்பட்டது.",
+    "answer": "1996 கற்கு முன், சென்னை பின்வரும் பெயர்களில் அழைக்கப்பட்டது:\n\n- **மதராஸ்** (Madras) – பூர்வீகமாகப் பயன்பட்ட பெயர்.  \n- **சென்னப்பட்டணம்** – வெங்கடபதி சகோதரர்கள் “சென்னப்ப நாயக்கர்” பெயரால் நகரை இவ்வாறு அழைக்க வேண்டும் என்று கோரிய பெயர்.  \n\n(1996 ஆம் ஆண்டில் அதிகாரப்பூர்வமாக “சென்னை” என்ற பெயருக்கு மாற்றப்பட்டது.)",
+    "contexts": [
+      "இந்திய விடுதலைக்குப் பிறகு சில வருடங்கள் கழித்து 1956-ஆம் ஆண்டு மொழி வாரியாக மாநிலங்களைப் பிரித்த போது, தமிழ்நாட்டின் ஒரு பகுதியாகி, மாநிலத்தின் தலைநகரானது சென்னை. மதராஸ் என்ற பெயர் போர்த்துகீசியர்களால் வைக்கப்பட்டது என்று கருதியதால் தமிழக அரசு 1996-இல் சென்னை என மாற்றம் செய்தது.",
+      "அதற்குப் பின் சென்னை நகரம் பெரிதும் வளர்ச்சி அடைந்தது. இந்தியாவில் இருந்த முக்கிய நகரங்கள் இரயில் மூலம் சென்னையுடன் இணைக்கப்பட்டன. 1947-ஆம் ஆண்டு இந்தியா விடுதலை அடைந்த பிறகு, மதராஸ் மாகாணத்தின் தலைநகராக 'மதராஸ்' ஆனது. சென்னை மாகாணம் 1967-ஆம் ஆண்டு 'தமிழ்நாடு' என்று பெயர் மாற்றம் செய்யப்பட்டது. இந்நகரின் பெயரான மதராஸ் என்பது, 1996-ஆம் ஆண்டு 'சென்னை' எனப் பெயர்மாற்றம் செய்யப்பட்டது.",
+      "வெங்கடபதி சகோதரர்களிடமிருந்து சென்னை ஜார்ஜ் கோட்டை நிலத்தை பிரித்தானியர் வாங்கியதால், தங்கள் தந்தை 'சென்னப்ப நாயக்கர்' பெயரால் 'சென்னப்பட்டணம்' என இந்நகரம் அழைக்கப்பட வேண்டும் என வெங்கடபதி சகோதரர்கள் கோரிக்கை விடுத்தனர். ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது. டிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?",
+    "ground_truth": "மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்றாகும்.",
+    "answer": "மெரினா கடற்கரை **உலகின் இரண்டாவது மிக நீளமான நகர்ப்புற கடற்கரையாக** குறிப்பிடப்படுகிறது.",
+    "contexts": [
+      "புழல் ஏரி, சோழவரம் ஏரி, செம்பரம்பாக்கம் ஏரி ஆகிய ஏரிகளிலிருந்து நகருக்கு தண்ணீர் கொண்டு வரப்படுகிறது.\nசென்னையில் உள்ள மெரினா கடற்கரை உலகின் இரண்டாவது பெரிய கடற்கரை ஆகும். 13 கி.மீ. நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது.\n\nமெரினா கடற்கரையின் வடகோடியில் கூவம் கடலில் கலக்கும் இடத்திற்கு தெற்கில் உள்ள பகுதி மெரினா கடற்கரை என்றும்,\nஅதன் தெற்கில் அடையாறு கடலில் கலக்கும் பகுதிக்கு வடக்கில் உள்ள பகுதி சாந்தோம் கடற்கரை என்றும்,\nஅடையாற்றின் தெற்கில் உள்ள பகுதி எலியட் அல்லது பெசன்ட்",
+      "ு. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால் பதித்தது முதல், சென்னை நகரம் ஒரு முக்கிய நகரமாக வளர்ந்து வந்திருக்கிறது. சென்னை தென்னிந்தியாவின் வாசலாகக் கருதப்படுகிறது. சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்று. சென்னை கோலிவுட் (Kollywood) என அறியப்படும் தமிழ்த் திரைப்படத் துறையின் தாயகம் ஆகும். பல விளையாட்டு அரங்கங்கள் உள்ள சென்னையில் பல விளையாட்டுப் போட்டிகளும் நடைபெறுகின்றன.\nசென்னையின் பொருளாதாரம் பலதரப்பட்ட தொழில்களைச் சார்ந்தது. ஊர்தி, தகவல் தொழில்நுட்பம், வன்பொர",
+      "ள மெரினா கடற்கரை உலகின் இரண்டாவது மிக நீளமான நகர்ப்புற கடற்கரையாகும். மாநிலம் மேற்கு மற்றும் கிழக்கு தொடர்ச்சி மலைகளால் சூழப்பட்டிருப்பதால், இது பல மலை வாழிடங்களின் தாயகமாக உள்ளது. அவற்றில் நீலகிரி மலையில் அமைந்துள்ள உதகமண்டலம் மற்றும் பழனி மலையில் அமைந்துள்ள கொடைக்கானல் ஆகியவை மிக பிரபலமானவை. பல்வேறு காலகட்டங்களில் கட்டப்பட்டுள்ள பாறையில் வெட்டப்பட்ட குகைக் கோயில்கள் மற்றும் 34,000க்கும் மேற்பட்ட கோயில்கள் தமிழ்நாட்டில் உள்ளன. அவற்றில் சில கோயில்கள் பல நூற்றாண்டுகள் பழமையானவை.. பல ஆறுகள் மற்றும"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?",
+    "ground_truth": "மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்றாகும்.",
+    "answer": "சென்னையில் உள்ள மெரினா கடற்கரை **உலகின் இரண்டாவது பெரிய கடற்கரை** ஆகக் குறிப்பிடப்படுகிறது.",
+    "contexts": [
+      "கூவம், மற்றும் அடையாறு ஆகிய நதிகள் சென்னை நகரின் வழியாகப் பாய்கின்றன. புழல் ஏரி, சோழவரம் ஏரி, செம்பரம்பாக்கம் ஏரி ஆகிய ஏரிகளிலிருந்து நகருக்கு தண்ணீர் கொண்டு வரப்படுகிறது. சென்னையில் உள்ள மெரினா கடற்கரை உலகின் இரண்டாவது பெரிய கடற்கரை ஆகும். 13 கி.மீ. நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது.",
+      "சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால் பதித்தது முதல், சென்னை நகரம் ஒரு முக்கிய நகரமாக வளர்ந்து வந்திருக்கிறது. சென்னை தென்னிந்தியாவின் வாசலாகக் கருதப்படுகிறது. சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்று. சென்னை கோலிவுட் (Kollywood) என அறியப்படும் தமிழ்த் திரைப்படத் துறையின் தாயகம் ஆகும். பல விளையாட்டு அரங்கங்கள் உள்ள சென்னையில் பல விளையாட்டுப் போட்டிகளும் நடைபெறுகின்றன.",
+      "நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது. மெரினா கடற்கரையின் வடகோடியில் கூவம் கடலில் கலக்கும் இடத்திற்கு தெற்கில் உள்ள பகுதி மெரினா கடற்கரை என்றும்,\nஅதன் தெற்கில் அடையாறு கடலில் கலக்கும் பகுதிக்கு வடக்கில் உள்ள பகுதி சாந்தோம் கடற்கரை என்றும்,\nஅடையாற்றின் தெற்கில் உள்ள பகுதி எலியட் அல்லது பெசன்ட் நகர் கடற்கரை என்றும் அழைக்கப்படுகிறது. சென்னை நகரின் தொழிற்சாலைகளில் பெரும்பாலானவை வட சென்னையில் உள்ளன. மத்திய சென்னை, சென்னையின் முக்கியப் பகுதியாகும்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?",
+    "ground_truth": "மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்றாகும்.",
+    "answer": "மெரினா கடற்கரை உலகின் **இரண்டாவது நீளமான கடற்கரையாக** குறிப்பிடப்படுகிறது.",
+    "contexts": [
+      "13 கி.மீ. நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது. மெரினா கடற்கரையின் வடகோடியில் கூவம் கடலில் கலக்கும் இடத்திற்கு தெற்கில் உள்ள பகுதி மெரினா கடற்கரை என்றும்,\nஅதன் தெற்கில் அடையாறு கடலில் கலக்கும் பகுதிக்கு வடக்கில் உள்ள பகுதி சாந்தோம் கடற்கரை என்றும்,\nஅடையாற்றின் தெற்கில் உள்ள பகுதி எலியட் அல்லது பெசன்ட் நகர் கடற்கரை என்றும் அழைக்கப்படுகிறது. சென்னை நகரின் தொழிற்சாலைகளில் பெரும்பாலானவை வட சென்னையில் உள்ளன. மத்திய சென்னை, சென்னையின் முக்கியப் பகுதியாகும்.",
+      "17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால் பதித்தது முதல், சென்னை நகரம் ஒரு முக்கிய நகரமாக வளர்ந்து வந்திருக்கிறது. சென்னை தென்னிந்தியாவின் வாசலாகக் கருதப்படுகிறது. சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்று. சென்னை கோலிவுட் (Kollywood) என அறியப்படும் தமிழ்த் திரைப்படத் துறையின் தாயகம் ஆகும். பல விளையாட்டு அரங்கங்கள் உள்ள சென்னையில் பல விளையாட்டுப் போட்டிகளும் நடைபெறுகின்றன. சென்னையின் பொருளாதாரம் பலதரப்பட்ட தொழில்களைச் சார்ந்தது.",
+      "== பொழுதுபோக்கு ==\nஉலகின் இரண்டாவது நீளமான மெரினா கடற்கரை,  எழில்மிகு பெசன்ட்நகர் எலியட்ஸ் கடற்கரை ஆகியவை புகழ்பெற்ற இடங்களாகும். வள்ளுவர் கோட்டம், அரசு அருங்காட்சியகம், முட்டுக்காடு படகுக் குழாம், பிர்லா கோளரங்கம் மற்றும் தனியார் பொழுதுபோக்கு பூங்காக்கள் கிஷ்கிந்தா, குயின்ஸ் லேன்ட், விஜிபி கோல்டன் பீச், மாயாஜால், எம்.ஜி.எம். டிட்ஜி வர்ல்டு உள்ளிட்டவைகள் சுற்றுலாத் தலங்களாகும்."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?",
+    "ground_truth": "சென்னை ஆண்டுக்கு 1.4 மில்லியன் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது, அதாவது ஒரு நிமிடத்திற்கு சுமார் 3 கார்களை தயாரிக்கிறது.",
+    "answer": "சென்னையை “ஆசியாவின் டெட்ராய்ட்” என்று அழைக்கப்படுவதற்கான காரணம், நகரம் இந்தியாவின் வாகன உற்பத்தி மற்றும் வாகன உதிரி பாகங்கள் தயாரிப்பில் மிகப்பெரிய மையமாக இருப்பதாலாகும். இங்கு நாட்டின் சுமார் 35 %‑க்கும் அதிகமான வாகன உதிரி பாகங்களும், ஆண்டுக்கு 1.4 மில்லியன் (14 லட்சம்) கார்கள் உற்பத்தி செய்யும் திறனும் உள்ளது. இதனால் சென்னை, அமெரிக்காவின் ஆட்டோமொபைல் தலைநகரமான டெட்ராய்டின் மாதிரியாக, ஆசியாவின் முக்கிய ஆட்டோமொபைல் மையமாக திகழ்கிறது.",
+    "contexts": [
+      "ளைச் சார்ந்தது. ஊர்தி, தகவல் தொழில்நுட்பம், வன்பொருள் தயாரிப்பு, மருத்துவம் போன்ற பல துறைகளைக் கொண்டது. ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது. அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்கும் சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது. சென்னை ஆண்டுக்கு 1.4 மில்லியன் அதாவது 14 லட்சம் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது. இங்கு ஒரு நிமிடத்திற்கு சராச",
+      "்பத்தித் தளங்களைக் கொண்டுள்ளன. மேலும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் சென்னை \"இந்தியாவின் டெட்ராய்ட்\" என்ற புனைப்பெயரைப் பெற்றுள்ளது. சென்னையில் உள்ள ஒருங்கிணைந்த இணைப்புப் பெட்டித் தொழிற்சாலை இந்திய இரயில்வேக்கான தொடருந்து பெட்டிகள் மற்றும் பாகங்களைத் தயாரிக்கிறது.\n\nமாநிலத்தின் மற்றுமொரு பெரிய தொழில்துறை துணி நெசவு மற்றும் தயாரிப்பாகும். இந்தியாவில் செயல்படும் நூற்பாலைகளில் பாதிக்கும் மேற்பட்ட ஆலைகள் தமிழகத்தில் உள்ளன. பருத",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?",
+    "ground_truth": "சென்னை ஆண்டுக்கு 1.4 மில்லியன் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது, அதாவது ஒரு நிமிடத்திற்கு சுமார் 3 கார்களை தயாரிக்கிறது.",
+    "answer": "சென்னை ‘ஆசியாவின் டெட்ராய்ட்’ என்று அழைக்கப்படுவதற்குக் காரணம், இந்தியாவின் வாகன (ஆட்டோமொபைல்) மற்றும் வாகன உதிரி பாகங்கள் உற்பத்தியில் இதன் மிகப் பெரிய பங்கு மற்றும் உற்பத்தி திறன் ஆகும். சென்னை மொத்த வாகன உதிரி மற்றும் எஞ்சின் உற்பத்தியின் 35 விழுக்காடு அளவை அடிப்படையாகக் கொண்டுள்ளது; இங்கு ஒரு நிமிடத்திற்கு சராசரியாக 3 கார்கள் உருவாக்கப்படுகின்றன, ஆண்டு 1.4 மில்லியன் கார்கள் உற்பத்தி செய்யும் திறன் உள்ளது. இந்தக் காரணங்களால், அமெரிக்காவின் டெட்ராய்டின் போல வாகன துறையின் முன்னணி நகரமாக சென்னை ‘ஆசியாவின் டெட்ராய்ட்’ என்று அழைக்கப்படுகிறது.",
+    "contexts": [
+      "ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது. அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்கும் சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது. சென்னை ஆண்டுக்கு 1.4 மில்லியன் அதாவது 14 லட்சம் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது. இங்கு ஒரு நிமிடத்திற்கு சராசரியாக 3 கார்கள் தயாரிக்கப்படுகின்றன.",
+      "ஏராளமான தானுந்து தயாரிப்பு நிறுவனங்கள் மாநிலத்தில் தங்கள் உற்பத்தித் தளங்களைக் கொண்டுள்ளன. மேலும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் சென்னை \"இந்தியாவின் டெட்ராய்ட்\" என்ற புனைப்பெயரைப் பெற்றுள்ளது. சென்னையில் உள்ள ஒருங்கிணைந்த இணைப்புப் பெட்டித் தொழிற்சாலை இந்திய இரயில்வேக்கான தொடருந்து பெட்டிகள் மற்றும் பாகங்களைத் தயாரிக்கிறது. மாநிலத்தின் மற்றுமொரு பெரிய தொழில்துறை துணி நெசவு மற்றும் தயாரிப்பாகும்.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?",
+    "ground_truth": "சென்னை ஆண்டுக்கு 1.4 மில்லியன் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது, அதாவது ஒரு நிமிடத்திற்கு சுமார் 3 கார்களை தயாரிக்கிறது.",
+    "answer": "சென்னையை “ஆசியாவின் டெட்ராய்ட்” என்று அழைக்கப்படுவதற்கு காரணம், இந்நகரின் வாகன (ஆட்டோமொபைல்) துறையில் கொண்டிருக்கும் மிகப்பெரிய மற்றும் மையமயமான பங்குதான்.  சென்னையில் வாகன உற்பத்தி மற்றும் வாகன உதிரிப் பகுதிகளின் (spare‑parts) உற்பத்தி நாட்டின் 35 விழுக்காடு (35 %) வாகனத் தயாரிப்பில் பங்களிக்கிறது; மேலும் நகரின் தொழிற்சாலைகள் வருடத்திற்கு 1.4 மில்லியன் (14 லட்சம்) கார்களை உற்பத்தி செய்யும் திறன் கொண்டவை. இந்த அளவிலான உற்பத்தி திறனும், வாகனத் துறையின் மையமாக உள்ளதுமால், அமெரிக்காவின் டெட்ராய்டிற்கு ஒப்பாக, சென்னைக்கு “ஆசியாவின் டெட்ராய்ட்” என்ற புனைப்பெயர் வழங்கப்பட்டுள்ளது.",
+    "contexts": [
+      "ஊர்தி, தகவல் தொழில்நுட்பம், வன்பொருள் தயாரிப்பு, மருத்துவம் போன்ற பல துறைகளைக் கொண்டது. ஊர்தி மற்றும் ஊர்திகளின் உதிரி பாகங்கள் உற்பத்தியில் நாட்டின் 35 விழுக்காடு சென்னையை அடிப்படையாகக் கொண்டுள்ளது. அமெரிக்க ஆட்டோமொபைல் துறையின் தலைநகரான டெட்ராய்ட் போல இந்தியாவின் ஆட்டோமொபைல் துறையின் முன்னோடி நகரமாக விளங்கும் சென்னை \"ஆசியாவின் டெட்ராய்ட்\" என்று அழைக்கப்படுகிறது. சென்னை ஆண்டுக்கு 1.4 மில்லியன் அதாவது 14 லட்சம் கார்களை உற்பத்தி செய்யும் திறன் கொண்டது.",
+      "மேலும் இந்தியாவின் ஒட்டுமொத்த வாகன உதிரிபாகங்கள் மற்றும் தானுந்து உற்பத்தியில் 35% க்கும் அதிகமாக பங்களிக்கும் சென்னை \"இந்தியாவின் டெட்ராய்ட்\" என்ற புனைப்பெயரைப் பெற்றுள்ளது. சென்னையில் உள்ள ஒருங்கிணைந்த இணைப்புப் பெட்டித் தொழிற்சாலை இந்திய இரயில்வேக்கான தொடருந்து பெட்டிகள் மற்றும் பாகங்களைத் தயாரிக்கிறது. மாநிலத்தின் மற்றுமொரு பெரிய தொழில்துறை துணி நெசவு மற்றும் தயாரிப்பாகும். இந்தியாவில் செயல்படும் நூற்பாலைகளில் பாதிக்கும் மேற்பட்ட ஆலைகள் தமிழகத்தில் உள்ளன.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "2014 ஆம் ஆண்டில் நியூயார்க் டைம்ஸ் வெளியிட்ட 'செல்ல வேண்டிய 52 இடங்கள்' பட்டியலில் சென்னை எத்தனை இடத்தைப் பெற்றது?",
+    "ground_truth": "சென்னை 26வது இடத்தைப் பெற்றது.",
+    "answer": "சென்னை 2014 ஆம் ஆண்டில் நியூயார்க் டைம்ஸ் வெளியிட்ட ‘செல்ல வேண்டிய 52 இடங்கள்’ பட்டியலில் 26‑வது இடத்தைப் பெற்றது.",
+    "contexts": [
+      "ய்யும் திறன் கொண்டது. இங்கு ஒரு நிமிடத்திற்கு சராசரியாக 3 கார்கள் தயாரிக்கப்படுகின்றன. மேலும் தகவல் தொழில்நுட்பத் துறையில் நாட்டில் இரண்டாம் இடத்தில் உள்ளது.\nநியூயார்க் டைம்ஸ் இதழின் 2014-இல் செல்ல வேண்டிய உலகின் 52 இடங்களின் பட்டியலில் சென்னை 26-வது இடத்தைப் பெற்றுள்ளது.\n\n== வரலாறு ==\n\nசென்னை நகருக்கு அப்பெயரைப் பெரும் முன்பே நீண்ட வரலாறு உள்ளது. பொ.ஊ. 1-ஆம் நூற்றாண்டு முதல் பல்லவ, சோழ மற்றும் விஜயநகரப் பேரரசுகளில் சென்னை ஒரு முக்கிய இடமாக விளங்கியதாகக் கருதப்படுகிறது. வெளிநாடுகளிலிருந்து வர்த்",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்",
+      "சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது.\n\n== புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது.\nசென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ. ஆகும். சென்னை மாவட்டமும், திருவள்ளூர், மற்றும் காஞ்சிபுரம் மாவட்டங்களின் சில பகுதிகளும் சென்னை மாநகரப் பகுதிகளாகக் கருதப்படுகின்றன. சென்னை நகரின் அருகாமையில் மாமல்லபுரம், செங்கல்பட்டு, காஞ்சி"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "2014 ஆம் ஆண்டில் நியூயார்க் டைம்ஸ் வெளியிட்ட 'செல்ல வேண்டிய 52 இடங்கள்' பட்டியலில் சென்னை எத்தனை இடத்தைப் பெற்றது?",
+    "ground_truth": "சென்னை 26வது இடத்தைப் பெற்றது.",
+    "answer": "சென்னை 2014 ஆம் ஆண்டு நியூயார்க் டைம்­s இதழின் “செல்ல வேண்டிய 52 இடங்கள்” பட்டியலில் 26‑வது இடத்தைப் பெற்றது.",
+    "contexts": [
+      "இங்கு ஒரு நிமிடத்திற்கு சராசரியாக 3 கார்கள் தயாரிக்கப்படுகின்றன. மேலும் தகவல் தொழில்நுட்பத் துறையில் நாட்டில் இரண்டாம் இடத்தில் உள்ளது. நியூயார்க் டைம்ஸ் இதழின் 2014-இல் செல்ல வேண்டிய உலகின் 52 இடங்களின் பட்டியலில் சென்னை 26-வது இடத்தைப் பெற்றுள்ளது. == வரலாறு ==\n\nசென்னை நகருக்கு அப்பெயரைப் பெரும் முன்பே நீண்ட வரலாறு உள்ளது. பொ.ஊ. 1-ஆம் நூற்றாண்டு முதல் பல்லவ, சோழ மற்றும் விஜயநகரப் பேரரசுகளில் சென்னை ஒரு முக்கிய இடமாக விளங்கியதாகக் கருதப்படுகிறது.",
+      "ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது. டிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும். 2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "2014 ஆம் ஆண்டில் நியூயார்க் டைம்ஸ் வெளியிட்ட 'செல்ல வேண்டிய 52 இடங்கள்' பட்டியலில் சென்னை எத்தனை இடத்தைப் பெற்றது?",
+    "ground_truth": "சென்னை 26வது இடத்தைப் பெற்றது.",
+    "answer": "2014 ஆம் ஆண்டு நியூயார்க் டைம் வெளியிட்ட \"செல்ல வேண்டிய 52 இடங்கள்\" பட்டியலில் சென்னை 26‑வது இடத்தைப் பெற்றது.",
+    "contexts": [
+      "இங்கு ஒரு நிமிடத்திற்கு சராசரியாக 3 கார்கள் தயாரிக்கப்படுகின்றன. மேலும் தகவல் தொழில்நுட்பத் துறையில் நாட்டில் இரண்டாம் இடத்தில் உள்ளது. நியூயார்க் டைம்ஸ் இதழின் 2014-இல் செல்ல வேண்டிய உலகின் 52 இடங்களின் பட்டியலில் சென்னை 26-வது இடத்தைப் பெற்றுள்ளது. == வரலாறு ==\n\nசென்னை நகருக்கு அப்பெயரைப் பெரும் முன்பே நீண்ட வரலாறு உள்ளது.",
+      "2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது. சென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை நகரின் பரப்பளவு எவ்வளவு?",
+    "ground_truth": "சென்னை நகரின் பரப்பளவு 426 சதுர கி.மீ.",
+    "answer": "சென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ. ஆகும்.",
+    "contexts": [
+      "சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது.\n\n== புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது.\nசென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ. ஆகும். சென்னை மாவட்டமும், திருவள்ளூர், மற்றும் காஞ்சிபுரம் மாவட்டங்களின் சில பகுதிகளும் சென்னை மாநகரப் பகுதிகளாகக் கருதப்படுகின்றன. சென்னை நகரின் அருகாமையில் மாமல்லபுரம், செங்கல்பட்டு, காஞ்சி",
+      "டு செயல்படத் துவங்கியது.\n\n== மக்கள் தொகை ==\n\nசென்னையின் மக்கள் தொகை சுமார் 7.45 மில்லியன் ஆகும். இங்கு ஒரு சதுர கிலோ மீட்டருக்கு 24,418 மக்கள் வசிக்கின்றனர். ஆயிரம் ஆண்களுக்கு 948 பெண்கள் உள்ளனர். கல்வியறிவு விகிதம் 80.14%. நகரின் 25 விழுக்காடு மக்கள் குடிசைப் பகுதிகளில் வசிக்கின்றனர்.\nசென்னையில் தமிழ் மொழி பேசுவோரே பெரும்பான்மை, இதைத்தவிர ஆங்கிலம், தெலுங்கு, உருது, கன்னடம், மலையாளம், இந்தி, போன்ற மொழிகளும் பயன்பாட்டில் உள்ளன. ஆனால் தமிழிற்கு அடுத்த படியாக, இந்திய மொழிகளில், தெலுங்கே அதிக அளவில்",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால்"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை நகரின் பரப்பளவு எவ்வளவு?",
+    "ground_truth": "சென்னை நகரின் பரப்பளவு 426 சதுர கி.மீ.",
+    "answer": "சென்னை நகரின் பரப்பளவு **426 சதுர கி.மீ** ஆகும்.",
+    "contexts": [
+      "சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது. சென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ. ஆகும். சென்னை மாவட்டமும், திருவள்ளூர், மற்றும் காஞ்சிபுரம் மாவட்டங்களின் சில பகுதிகளும் சென்னை மாநகரப் பகுதிகளாகக் கருதப்படுகின்றன. சென்னை நகரின் அருகாமையில் மாமல்லபுரம், செங்கல்பட்டு, காஞ்சிபுரம், ஸ்ரீபெரும்புதூர், அரக்கோணம், ஸ்ரீஹரிக்கோட்டா ஆகிய ஊர்கள் உள்ளன. சென்னையில் வெப்பமும் ஈரப்பதமும் வருடம் முழுவதும் மிகுந்து காணப்படுகிறது.",
+      "ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது. டிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும். 2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னை நகரின் பரப்பளவு எவ்வளவு?",
+    "ground_truth": "சென்னை நகரின் பரப்பளவு 426 சதுர கி.மீ.",
+    "answer": "சென்னை நகரத்தின் பரப்பளவு **426 சதுர கிலோமீட்டர்** ஆகும்.",
+    "contexts": [
+      "2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது. சென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ.",
+      "சென்னை (Chennai) தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் நான்காவது பெரிய நகரமும் ஆகும். இந்தியாவின் முதல் மாநகராட்சி 1688 ஆம் ஆண்டு செப்டம்பர் 29 ஆம் தேதி நிறுவப்பட்டது இந்நகரம், 1996-ஆம் ஆண்டுக்கு முன்னர் மதராசு பட்டினம், மெட்ராஸ் (Madras) மற்றும் சென்னப்பட்டினம் என்றும் அழைக்கப்பட்டு வந்தது. சென்னை, வங்காள விரிகுடாவின் கரையில் அமைந்த துறைமுக நகரங்களுள் ஒன்று. சுமார் 10 மில்லியன் (ஒரு கோடி) மக்கள் வாழும் இந்நகரம், உலகின் 35 பெரிய மாநகரங்களுள் ஒன்று.",
+      "(BMW), ரெனோ நிசான் போன்ற நிறுவனங்களின் தொழிற்சாலைகள் சென்னை மற்றும் அதன் அருகாமையில் உள்ளன. சென்னையை அடுத்த ஆவடியில் கன ஊர்தி தொழிற்சாலை உள்ளது. இந்தியாவின் முக்கிய போர் பீரங்கியான அர்ஜுன் இங்கு தயாரிக்கப்படுகிறது. 2021-இல் சென்னை உலக வர்த்தக மையம் கட்டிமுடிக்கப்பட்டு செயல்படத் துவங்கியது. == மக்கள் தொகை ==\n\nசென்னையின் மக்கள் தொகை சுமார் 7.45 மில்லியன் ஆகும். இங்கு ஒரு சதுர கிலோ மீட்டருக்கு 24,418 மக்கள் வசிக்கின்றனர். ஆயிரம் ஆண்களுக்கு 948 பெண்கள் உள்ளனர். கல்வியறிவு விகிதம் 80.14%."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சென்னை இந்தியாவின் எந்த கடற்கரையில் அமைந்துள்ளது, மற்றும் அதன் கிழக்கில் என்ன உள்ளது?",
+    "ground_truth": "சென்னை இந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ளது, அதன் கிழக்கில் வங்காள விரிகுடா உள்ளது.",
+    "answer": "சென்னை இந்தியாவின் **தென்கிழக்கு கடற்கரையில்** அமைந்துள்ளது, மேலும் அதன் **கிழக்கில் வங்காள விரிகுடா** (Bay of Bengal) உள்ளது.",
+    "contexts": [
+      "சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது.\n\n== புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது.\nசென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ. ஆகும். சென்னை மாவட்டமும், திருவள்ளூர், மற்றும் காஞ்சிபுரம் மாவட்டங்களின் சில பகுதிகளும் சென்னை மாநகரப் பகுதிகளாகக் கருதப்படுகின்றன. சென்னை நகரின் அருகாமையில் மாமல்லபுரம், செங்கல்பட்டு, காஞ்சி",
+      "புழல் ஏரி, சோழவரம் ஏரி, செம்பரம்பாக்கம் ஏரி ஆகிய ஏரிகளிலிருந்து நகருக்கு தண்ணீர் கொண்டு வரப்படுகிறது.\nசென்னையில் உள்ள மெரினா கடற்கரை உலகின் இரண்டாவது பெரிய கடற்கரை ஆகும். 13 கி.மீ. நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது.\n\nமெரினா கடற்கரையின் வடகோடியில் கூவம் கடலில் கலக்கும் இடத்திற்கு தெற்கில் உள்ள பகுதி மெரினா கடற்கரை என்றும்,\nஅதன் தெற்கில் அடையாறு கடலில் கலக்கும் பகுதிக்கு வடக்கில் உள்ள பகுதி சாந்தோம் கடற்கரை என்றும்,\nஅடையாற்றின் தெற்கில் உள்ள பகுதி எலியட் அல்லது பெசன்ட்",
+      "ு. 17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால் பதித்தது முதல், சென்னை நகரம் ஒரு முக்கிய நகரமாக வளர்ந்து வந்திருக்கிறது. சென்னை தென்னிந்தியாவின் வாசலாகக் கருதப்படுகிறது. சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்று. சென்னை கோலிவுட் (Kollywood) என அறியப்படும் தமிழ்த் திரைப்படத் துறையின் தாயகம் ஆகும். பல விளையாட்டு அரங்கங்கள் உள்ள சென்னையில் பல விளையாட்டுப் போட்டிகளும் நடைபெறுகின்றன.\nசென்னையின் பொருளாதாரம் பலதரப்பட்ட தொழில்களைச் சார்ந்தது. ஊர்தி, தகவல் தொழில்நுட்பம், வன்பொர"
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சென்னை இந்தியாவின் எந்த கடற்கரையில் அமைந்துள்ளது, மற்றும் அதன் கிழக்கில் என்ன உள்ளது?",
+    "ground_truth": "சென்னை இந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ளது, அதன் கிழக்கில் வங்காள விரிகுடா உள்ளது.",
+    "answer": "சென்னை இந்தியாவின் **தென்கிழக்கு கடற்கரையில்** அமைந்துள்ளது; அதன் **கிழக்கில் வங்காள விரிகுடா** (Bay of Bengal) உள்ளது.",
+    "contexts": [
+      "ஆகவே சென்னை ஜார்ஜ் கோட்டை நிலமும், அதனைச் சுற்றிய பகுதிகளும் 'சென்னை' என அழைக்கப்படுகிறது. டிசம்பர் 2004 ஆழிப்பேரலை தாக்குதலில் பெரும் பாதிப்புக்குள்ளான இடங்களில், சென்னையும் ஒன்றாகும். 2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது.",
+      "நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது. மெரினா கடற்கரையின் வடகோடியில் கூவம் கடலில் கலக்கும் இடத்திற்கு தெற்கில் உள்ள பகுதி மெரினா கடற்கரை என்றும்,\nஅதன் தெற்கில் அடையாறு கடலில் கலக்கும் பகுதிக்கு வடக்கில் உள்ள பகுதி சாந்தோம் கடற்கரை என்றும்,\nஅடையாற்றின் தெற்கில் உள்ள பகுதி எலியட் அல்லது பெசன்ட் நகர் கடற்கரை என்றும் அழைக்கப்படுகிறது. சென்னை நகரின் தொழிற்சாலைகளில் பெரும்பாலானவை வட சென்னையில் உள்ளன. மத்திய சென்னை, சென்னையின் முக்கியப் பகுதியாகும்.",
+      "இதன் தலைநகரமாக சென்னை உள்ளது. இந்தியத் துணைக்கண்டத்தின் தென்கிழக்கு கரையில் அமைந்துள்ள தமிழ்நாடு, மேற்கில் மேற்குத் தொடர்ச்சி மலைகள் மற்றும் தக்காணப் பீடபூமி, வடக்கில் கிழக்குத் தொடர்ச்சி மலைகள் ஆகியவற்றை புவியியல் எல்லைகளாகக் கொண்டுள்ளது. கிழக்கில் வங்காள விரிகுடா, தென்கிழக்கில் மன்னார் வளைகுடா மற்றும் பாக்கு நீரிணை மற்றும் தென் முனையில் இலட்சத்தீவுக் கடல் ஆகிய நீர்நிலைகளால் சூழப்பட்டுள்ளது. இலங்கை நாட்டுடன் கடல்வழி எல்லையைக் கொண்டுள்ளது."
+    ]
+  },
+  {
+    "slug": "chennai",
+    "topic": "Chennai",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சென்னை இந்தியாவின் எந்த கடற்கரையில் அமைந்துள்ளது, மற்றும் அதன் கிழக்கில் என்ன உள்ளது?",
+    "ground_truth": "சென்னை இந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ளது, அதன் கிழக்கில் வங்காள விரிகுடா உள்ளது.",
+    "answer": "சென்னை, இந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ளது; அதன் கிழக்கில் வங்காள விரிகுடா (Bay of Bengal) உள்ளது.",
+    "contexts": [
+      "2014-ஆம் ஆண்டு, ஆகத்து மாதம், 22-ஆம் நாள் சென்னை நகரம் உருவாகி 375 ஆண்டுகள் நிறைவுற்ற தினமாகக் கொண்டாடப்பட்டது. == புவியியல் ==\n\nஇந்தியாவின் தென்கிழக்கு கடற்கரையில் அமைந்துள்ள சென்னை, தமிழகத்தின் வடகிழக்கு கோடியில் ஆந்திரப் பிரதேச மாநிலத்தின் அருகில் உள்ளது. சென்னை நகரின் கிழக்கில் வங்காள விரிகுடா உள்ளது. சென்னை நகரத்தின் பரப்பளவு 426 சதுர கி.மீ.",
+      "13 கி.மீ. நீளம் உள்ள இக்கடற்கரை, மூன்று பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது. மெரினா கடற்கரையின் வடகோடியில் கூவம் கடலில் கலக்கும் இடத்திற்கு தெற்கில் உள்ள பகுதி மெரினா கடற்கரை என்றும்,\nஅதன் தெற்கில் அடையாறு கடலில் கலக்கும் பகுதிக்கு வடக்கில் உள்ள பகுதி சாந்தோம் கடற்கரை என்றும்,\nஅடையாற்றின் தெற்கில் உள்ள பகுதி எலியட் அல்லது பெசன்ட் நகர் கடற்கரை என்றும் அழைக்கப்படுகிறது. சென்னை நகரின் தொழிற்சாலைகளில் பெரும்பாலானவை வட சென்னையில் உள்ளன. மத்திய சென்னை, சென்னையின் முக்கியப் பகுதியாகும்.",
+      "17-ஆம் நூற்றாண்டில் ஆங்கிலேயர் சென்னையில் கால் பதித்தது முதல், சென்னை நகரம் ஒரு முக்கிய நகரமாக வளர்ந்து வந்திருக்கிறது. சென்னை தென்னிந்தியாவின் வாசலாகக் கருதப்படுகிறது. சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் நீளமான கடற்கரைகளுள் ஒன்று. சென்னை கோலிவுட் (Kollywood) என அறியப்படும் தமிழ்த் திரைப்படத் துறையின் தாயகம் ஆகும். பல விளையாட்டு அரங்கங்கள் உள்ள சென்னையில் பல விளையாட்டுப் போட்டிகளும் நடைபெறுகின்றன. சென்னையின் பொருளாதாரம் பலதரப்பட்ட தொழில்களைச் சார்ந்தது."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "How many peaks in the Himalayas exceed an elevation of 7,200 metres?",
+    "ground_truth": "More than 100 peaks exceed 7,200 metres.",
+    "answer": "More than 100 peaks in the Himalayas exceed an elevation of 7,200 metres.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
+      "ding the Himalayas, contain the third-largest deposit of ice and snow in the world, after Antarctica and the Arctic. Some even refer to this region as the \"Third Pole\". The Himalayan range encompasses about 15,000 glaciers, which store about 12,000 cubic kilometres (2,900 cubic miles), or 3600–4400 Gt (1012 kg) of fresh water. Its glaciers include the Gangotri and Yamunotri (Uttarakhand) and Khumbu glaciers (Mount Everest region), Langtang glacier (Langtang region), and Zemu (Sikkim).\nOwing to t"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "How many peaks in the Himalayas exceed an elevation of 7,200 metres?",
+    "ground_truth": "More than 100 peaks exceed 7,200 metres.",
+    "answer": "More than 100 peaks in the Himalayas exceed an elevation of 7,200 metres.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The Himalayas form most of the south-west portion of the disputed Indian-administered union territory of Ladakh. The twin peaks of Nun Kun are the only mountains over 7,000 metres (23,000 ft; 4.3 miles) in this part of the Himalayas. Finally, the Himalayas reach their western end in the dramatic 8000-metre peak of Nanga Parbat, which rises over 8,000 m (26,000 ft) above the Indus valley and is the most westerly of the 8000-metre summits.",
+      "The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "How many peaks in the Himalayas exceed an elevation of 7,200 metres?",
+    "ground_truth": "More than 100 peaks exceed 7,200 metres.",
+    "answer": "More than 100 peaks exceed an elevation of 7,200 metres in the Himalayas.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The twin peaks of Nun Kun are the only mountains over 7,000 metres (23,000 ft; 4.3 miles) in this part of the Himalayas. Finally, the Himalayas reach their western end in the dramatic 8000-metre peak of Nanga Parbat, which rises over 8,000 m (26,000 ft) above the Indus valley and is the most westerly of the 8000-metre summits.",
+      "The Himalayan range encompasses about 15,000 glaciers, which store about 12,000 cubic kilometres (2,900 cubic miles), or 3600–4400 Gt (1012 kg) of fresh water. Its glaciers include the Gangotri and Yamunotri (Uttarakhand) and Khumbu glaciers (Mount Everest region), Langtang glacier (Langtang region), and Zemu (Sikkim). Owing to the mountains' latitude near the Tropic of Cancer, the permanent snow line is among the highest in the world, at typically around 5,500 m (18,000 ft)."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which five countries does the Himalayan range span?",
+    "ground_truth": "It spans Nepal, India, China, Bhutan, and Pakistan.",
+    "answer": "The Himalayas span **Nepal, India, China, Bhutan, and Pakistan**.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
+      "egion is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain. Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, rise in the vicinity of the Himalayas, and their combined drainage basin is home to some 600 million people; 53 million people live in the Himalayas. The Himalayas have profoundly shaped the"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which five countries does the Himalayan range span?",
+    "ground_truth": "It spans Nepal, India, China, Bhutan, and Pakistan.",
+    "answer": "The Himalayan range spans **Nepal, India, China, Bhutan, and Pakistan**.",
+    "contexts": [
+      "The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains'). == Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which five countries does the Himalayan range span?",
+    "ground_truth": "It spans Nepal, India, China, Bhutan, and Pakistan.",
+    "answer": "The Himalayan range spans five countries: Nepal, India, China, Bhutan, and Pakistan.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.",
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Name the major rivers that rise in the vicinity of the Himalayas.",
+    "ground_truth": "The Indus, the Ganges, and the Tsangpo–Brahmaputra rise near the Himalayas.",
+    "answer": "The major rivers that rise in the vicinity of the Himalayas are the **Indus**, the **Ganges**, and the **Tsangpo–Brahmaputra**.",
+    "contexts": [
+      "and a number of rivers cut through the range, particularly in the eastern part of the range. As a result, the main ridge of the Himalayas is not clearly defined, and mountain passes are not as significant for traversing the range as with other mountain ranges. Himalayas' rivers drain into two large systems:\n\nThe western rivers combine into the Indus Basin. The Indus itself forms the northern and western boundaries of the Himalayas. It begins in Tibet, at the confluence of Sengge and Gar rivers,",
+      "egion is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain. Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, rise in the vicinity of the Himalayas, and their combined drainage basin is home to some 600 million people; 53 million people live in the Himalayas. The Himalayas have profoundly shaped the",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Name the major rivers that rise in the vicinity of the Himalayas.",
+    "ground_truth": "The Indus, the Ganges, and the Tsangpo–Brahmaputra rise near the Himalayas.",
+    "answer": "The major rivers that rise in the vicinity of the Himalayas are the Indus, the Ganges, and the Tsangpo‑Brahmaputra.",
+    "contexts": [
+      "The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain. Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, rise in the vicinity of the Himalayas, and their combined drainage basin is home to some 600 million people; 53 million people live in the Himalayas. The Himalayas have profoundly shaped the cultures of South Asia and Tibet.",
+      "As a result, the main ridge of the Himalayas is not clearly defined, and mountain passes are not as significant for traversing the range as with other mountain ranges. Himalayas' rivers drain into two large systems:\n\nThe western rivers combine into the Indus Basin. The Indus itself forms the northern and western boundaries of the Himalayas.",
+      "The other Himalayan rivers drain the Ganges-Brahmaputra Basin. Its main rivers are the Ganges, the Brahmaputra, and the Yamuna, as well as other tributaries. The Brahmaputra originates as the Yarlung Tsangpo River in western Tibet, and flows east through Tibet and west through the plains of Assam. The Ganges and the Brahmaputra meet in Bangladesh and drain into the Bay of Bengal through the world's largest river delta, the Sunderbans."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Name the major rivers that rise in the vicinity of the Himalayas.",
+    "ground_truth": "The Indus, the Ganges, and the Tsangpo–Brahmaputra rise near the Himalayas.",
+    "answer": "The major rivers are the Indus, the Ganges, and the Tsangpo–Brahmaputra.",
+    "contexts": [
+      "Some of the world's major rivers, the Indus, the Ganges, and the Tsangpo–Brahmaputra, rise in the vicinity of the Himalayas, and their combined drainage basin is home to some 600 million people; 53 million people live in the Himalayas. The Himalayas have profoundly shaped the cultures of South Asia and Tibet. Many Himalayan peaks are sacred in Hinduism and Buddhism. The summits of several are off-limits to climbers.",
+      "As a result, the main ridge of the Himalayas is not clearly defined, and mountain passes are not as significant for traversing the range as with other mountain ranges. Himalayas' rivers drain into two large systems:\n\nThe western rivers combine into the Indus Basin. The Indus itself forms the northern and western boundaries of the Himalayas.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What is the length of the Himalayan mountain range arc?",
+    "ground_truth": "The range runs in an arc 2,400 km (1,500 mi) long.",
+    "answer": "The Himalayan mountain range forms an arc approximately 2,400 km (about 1,500 mi) long.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
+      "h the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What is the length of the Himalayan mountain range arc?",
+    "ground_truth": "The range runs in an arc 2,400 km (1,500 mi) long.",
+    "answer": "The Himalayan mountain range runs in an arc about **2,400 km (1,500 mi) long**.",
+    "contexts": [
+      "The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River.",
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What is the length of the Himalayan mountain range arc?",
+    "ground_truth": "The range runs in an arc 2,400 km (1,500 mi) long.",
+    "answer": "The Himalayan mountain range forms an arc about **2,400 km (1,500 mi) long**.",
+    "contexts": [
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The range varies in width from 350 kilometres (220 miles) in the west to 151 km (94 mi) in the east. == Etymology ==\nThe name of the range hails from the Sanskrit Himālaya (हिमालय 'abode of snow'), from hima (हिम 'frost/cold') and ālaya (आलय 'dwelling/house'). The cognates include:\n\nThis name was also previously transcribed as Himmaleh, as in Emily Dickinson's poetry and Henry David Thoreau's essays."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What are the western and eastern anchor peaks of the Himalayas?",
+    "ground_truth": "The western anchor is Nanga Parbat and the eastern anchor is Namcha Barwa.",
+    "answer": "The western anchor peak is **Nanga Parbat**, and the eastern anchor peak is **Namcha Barwa**.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
+      "h the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What are the western and eastern anchor peaks of the Himalayas?",
+    "ground_truth": "The western anchor is Nanga Parbat and the eastern anchor is Namcha Barwa.",
+    "answer": "The western anchor peak is **Nanga Parbat**, and the eastern anchor peak is **Namcha Barwa**.",
+    "contexts": [
+      "The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of the Kali Gandaki, the Kora La, is the lowest point on the ridgeline between Everest and K2 (the highest peak of the Karakoram range). To the east of Annapurna are the 8,000-metre (26,000-foot; 5.0-mile) peaks of Manaslu and across the border in Tibet, Shishapangma. To the south of these lies Kathmandu, the capital of Nepal and the largest city in the Himalayas."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What are the western and eastern anchor peaks of the Himalayas?",
+    "ground_truth": "The western anchor is Nanga Parbat and the eastern anchor is Namcha Barwa.",
+    "answer": "The western anchor peak is **Nanga Parbat**, and the eastern anchor peak is **Namcha Barwa**.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "In the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of the Kali Gandaki, the Kora La, is the lowest point on the ridgeline between Everest and K2 (the highest peak of the Karakoram range).",
+      "Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River. The Indus-Yarlung suture zone, along which the headwaters of these two rivers flow, separates the Himalayas from the Tibetan plateau; the rivers also separate the Himalayas from the Karakorams, the Hindu Kush, and the Transhimalaya."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "How does the width of the Himalayas vary from west to east?",
+    "ground_truth": "It varies from 350 km in the west to 151 km in the east.",
+    "answer": "I don't know based on the given context.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "h the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "How does the width of the Himalayas vary from west to east?",
+    "ground_truth": "It varies from 350 km in the west to 151 km in the east.",
+    "answer": "I don't know based on the given context.",
+    "contexts": [
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long.",
+      "The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long. Its western anchor, Nanga Parbat, lies just south of the northernmost bend of the Indus river. Its eastern anchor, Namcha Barwa, lies immediately west of the great bend of the Yarlung Tsangpo River.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "How does the width of the Himalayas vary from west to east?",
+    "ground_truth": "It varies from 350 km in the west to 151 km in the east.",
+    "answer": "The Himalayas are widest in the west at about 350 kilometres (≈220 mi) and narrow to roughly 151 kilometres (≈94 mi) in the east.",
+    "contexts": [
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The range varies in width from 350 kilometres (220 miles) in the west to 151 km (94 mi) in the east. == Etymology ==\nThe name of the range hails from the Sanskrit Himālaya (हिमालय 'abode of snow'), from hima (हिम 'frost/cold') and ālaya (आलय 'dwelling/house'). The cognates include:\n\nThis name was also previously transcribed as Himmaleh, as in Emily Dickinson's poetry and Henry David Thoreau's essays."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What are the four parallel mountain ranges that make up the Himalayas from south to north?",
+    "ground_truth": "They are the Sivalik Hills, the Lower Himalayan Range, the Great Himalayas, and the Tibetan Himalayas.",
+    "answer": "The four parallel mountain ranges that make up the Himalayas from south to north are:\n\n1. **Sivalik Hills** (the southernmost range)  \n2. **Lower Himalayan Range**  \n3. **Great Himalayas** (the highest and central range)  \n4. **Tibetan Himalayas** (the northernmost range)",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.\nIn the middle of the great curve of the Himalayan mountains lie the 8,000 m (26,000-foot) peaks of Dhaulagiri and Annapurna in Nepal, separated by the Kali Gandaki Gorge. The gorge splits the Himalayas into Western and Eastern sections, both ecologically and orographically – the pass at the head of th",
+      "मवत्) or Himavan Himavān (Sanskrit: हिमवान्) is a Hindu deity who is the personification of the Himalayan Mountain Range. Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains').\n\n== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas,"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What are the four parallel mountain ranges that make up the Himalayas from south to north?",
+    "ground_truth": "They are the Sivalik Hills, the Lower Himalayan Range, the Great Himalayas, and the Tibetan Himalayas.",
+    "answer": "The four parallel mountain ranges, listed from south to north, are:\n\n1. **Sivalik Hills** (the southernmost range)  \n2. **Lower Himalayan Range**  \n3. **Great Himalayas** (the highest and central range)  \n4. **Tibetan Himalayas** (the northernmost range)",
+    "contexts": [
+      "== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.",
+      "Other epithets include Himaraja (Sanskrit: हिमराज, lit. 'king of snow') 'The Land of Snow' (གངས་ཅན་ལྗོངས་) in Tibetan, or Parvateshwara (Sanskrit: पर्वतेश्वर, lit. 'lord of mountains'). == Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north.",
+      "The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China. The Himalayan range is bordered on the northwest by the Karakoram and Hindu Kush ranges, on the north by the Tibetan Plateau, and on the south by the Indo-Gangetic Plain."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What are the four parallel mountain ranges that make up the Himalayas from south to north?",
+    "ground_truth": "They are the Sivalik Hills, the Lower Himalayan Range, the Great Himalayas, and the Tibetan Himalayas.",
+    "answer": "The four parallel ranges, listed from south to north, are:\n\n1. **Sivalik Hills**  \n2. **Lower Himalayan Range**  \n3. **Great Himalayas**  \n4. **Tibetan Himalayas**",
+    "contexts": [
+      "== Geography and key features ==\n\nThe Himalayas consists of four parallel mountain ranges from south to north: the Sivalik Hills on the south; the Lower Himalayan Range; the Great Himalayas, which is the highest and central range; and the Tibetan Himalayas on the north. The Karakoram are generally considered separate from the Himalayas.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The Himalayas were uplifted after the collision of the Indian tectonic plate with the Eurasian plate, specifically, by the folding, or nappe-formation of the uppermost Indian crust, even as a lower layer continued to push on into Tibet and add thickness to its plateau; the still lower crust, along with the mantle, however, subducted under Eurasia. The Himalayan mountain range runs west-northwest to east-southeast in an arc 2,400 km (1,500 mi) long."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",
+    "ground_truth": "Kangchenjunga is the highest point of India and the most easterly 8,000‑metre summit.",
+    "answer": "Kangchenjunga.",
+    "contexts": [
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas.\nThe Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan. The sovereignty of the range in the Kashmir region is disputed among India, Pakistan, and China",
+      "pes of these mountains, before turning south and flowing to the range to the east of Makalu.\nIn the far east of Nepal, the Himalayas rise to the Kangchenjunga massif on the border with India, the third-highest mountain in the world, the most easterly 8,000-metre (26,000-foot) summit and the highest point of India. The eastern side of Kangchenjunga is in the Indian state of Sikkim. Formerly an independent Kingdom, it lies on the main route from India to Lhasa, Tibet, which passes over the Nathu L",
+      "re peak of Nanga Parbat, which rises over 8,000 m (26,000 ft) above the Indus valley and is the most westerly of the 8000-metre summits. The western end terminates at a magnificent point near Nanga Parbat where the Himalayas intersect with the Karakoram and Hindu Kush ranges, in the disputed Pakistani-administered territory of Gilgit-Baltistan. Some portion of the Himalayas, such as the Kaghan Valley, Margalla Hills, and Galyat tract, extend into the Pakistani provinces of Khyber Pakhtunkhwa and"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",
+    "ground_truth": "Kangchenjunga is the highest point of India and the most easterly 8,000‑metre summit.",
+    "answer": "I don't know based on the given context.",
+    "contexts": [
+      "The Himalayas form most of the south-west portion of the disputed Indian-administered union territory of Ladakh. The twin peaks of Nun Kun are the only mountains over 7,000 metres (23,000 ft; 4.3 miles) in this part of the Himalayas. Finally, the Himalayas reach their western end in the dramatic 8000-metre peak of Nanga Parbat, which rises over 8,000 m (26,000 ft) above the Indus valley and is the most westerly of the 8000-metre summits.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "Finally, the Himalayas reach their western end in the dramatic 8000-metre peak of Nanga Parbat, which rises over 8,000 m (26,000 ft) above the Indus valley and is the most westerly of the 8000-metre summits. The western end terminates at a magnificent point near Nanga Parbat where the Himalayas intersect with the Karakoram and Hindu Kush ranges, in the disputed Pakistani-administered territory of Gilgit-Baltistan."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",
+    "ground_truth": "Kangchenjunga is the highest point of India and the most easterly 8,000‑metre summit.",
+    "answer": "Kangchenjunga.",
+    "contexts": [
+      "In the far east of Nepal, the Himalayas rise to the Kangchenjunga massif on the border with India, the third-highest mountain in the world, the most easterly 8,000-metre (26,000-foot) summit and the highest point of India. The eastern side of Kangchenjunga is in the Indian state of Sikkim. Formerly an independent Kingdom, it lies on the main route from India to Lhasa, Tibet, which passes over the Nathu La pass into Tibet. East of Sikkim lies the ancient Buddhist Kingdom of Bhutan.",
+      "The Himalayas, or Himalaya, is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range has some of the Earth's highest peaks, including the highest, Mount Everest. More than 100 peaks exceeding elevations of 7,200 metres (23,600 feet) above sea level lie in the Himalayas. The Himalayas span five countries: Nepal, India, China, Bhutan, and Pakistan.",
+      "The twin peaks of Nun Kun are the only mountains over 7,000 metres (23,000 ft; 4.3 miles) in this part of the Himalayas. Finally, the Himalayas reach their western end in the dramatic 8000-metre peak of Nanga Parbat, which rises over 8,000 m (26,000 ft) above the Indus valley and is the most westerly of the 8000-metre summits."
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "What two geographical regions does the Himalayas separate?",
+    "ground_truth": "The Himalayas separate the Indian subcontinent plains and the Tibetan plateau.",
+    "answer": "The Himalayas separate the plains of the Indian subcontinent from the Tibetan plateau.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது.\nஉலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது. இது மேற்கே காசுமீர்-சிங்காங் பகுதி முதல் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு",
+      "ுறைந்த காலத்திலேயே பூத்தலும் பழுத்தாலும் நிகழ்கின்றன, குறிப்பாக ர்ஹோடோதேண்ட்ரோன், ஆப்பிள் மற்றும் மைரிக்கா ஈஸ்கிலேண்டா.\n\n== நிலவியல் ==\n\nஇமயமலை இக்கிரகத்தில் உள்ள இளம் மலைத் தொடர்களில் ஒன்றாகும். இது பெரும்பாலுமாக வலுவூட்டப்பட்ட படிவுக்கலன்கள் மற்றும் உருமாறி பாறைகளைக் கொண்டுள்ளன. நவீன டெக்டோனிக் கொள்கையின் படி இமயமலை இந்திய ஆஸ்திரேலிய தட்டு மற்றும் யூரேசியன் கண்டங்களிடையே நிகழ்ந்த மோதலால் உருவாகியது. இது தான் மடிப்பு மலை என்று கூறுகிறோம்.\nவடக்கு நோக்கி நகர்ந்த இந்திய-ஆஸ்திரேலிய தகடுக்கும் யுரேச",
+      "் கிழக்கே திபெத்-அருணாசல பிரதேசம் பகுதி வரை நீண்டு இருக்கிறது. இமயமலைத்தொடரில் நூற்றுக்கு மேற்பட்ட சிகரங்கள் உள்ளன. இதில் சிலவற்றின் உயரம் 7200 மீட்டருக்கு மேலாகும். இதற்கு மாறாக, ஆசியாவுக்கு வெளியே உள்ள மிகப்பெரிய சிகரம் அக்கோன்காகுவா அன்டேசு மலைத்தொடரில் உள்ளது. இதன் உயரம் 6961 மீட்டராகும்.\nமூன்று இணையான உப தொடர்களைக் கொண்டுள்ள இது ஐந்து நாடுகளில் பரவியுள்ளது.பூடான், இந்தியா, நேபாளம், சீனா மற்றும் பாக்கித்தான் என்பனவான அவற்றில் முதல் மூன்று நாடுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின்"
+    ]
+  },
+  {
+    "slug": "himalayas",
+    "topic": "Himalayas",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "Between which western and eastern regions does the Himalayas extend?",
+    "ground_truth": "The range stretches from the Kashmir‑Srinagar area in the west to the Tibet‑Arunachal region in the east.",
+    "answer": "இமயமலை மேற்கு‑வடமேற்கு பகுதியிலிருந்து கிழக்கு‑வடகிழக்கு பகுதிவரை (2400 கிமீ) பரவியுள்ளது.",
+    "contexts": [
+      "இமயமலை (Himalayas) என்பது இந்தியத் துணைக்கண்டத்தின் சமவெளியையும் திபெத்திய மேட்டு நிலத்தையும் பிரிக்கும் ஒரு மலைத்தொடர் ஆன இது ஆசியாவில் அமைந்துள்ளது. உலகிலேயே மிகப்பெரியதும், மிகவுயர்ந்ததுமான மலைத்தொடர் இமயமலைத் தொடர்தான். இமயமலைத்தொடர் உலகின் சில மிக உயர்ந்த சிகரங்களின் இருப்பிடமாகும். இதில் எவரெசுட்டு சிகரமும் ஒன்றாகும். எப்பொழுதும் உறைபனி மூடி இருக்கும். இந்திய துணைக்கண்டத்தின் வட எல்லையாக அமைந்துள்ளது.",
+      "மூன்று இணையான உப தொடர்களைக் கொண்டுள்ள இது ஐந்து நாடுகளில் பரவியுள்ளது.பூடான், இந்தியா, நேபாளம், சீனா மற்றும் பாக்கித்தான் என்பனவான அவற்றில் முதல் மூன்று நாடுகளில் அதிகமான மலைத்தொடர் பரவியுள்ளது. இமயமலையின் வடக்கே திபத்திய பீடபூமியையும், வடமேற்கே காரகோரம் மற்றும் இந்து குஃசு மலைத்தொடரையும் தெற்கே சிந்து-கங்கை சமவெளியையும் எல்லையாகக் கொண்டுள்ளது. உலகின் சில பெரிய நதிகளான சிந்து, கங்கை, மற்றும் பிரமபுத்திரா உற்பத்தியாகிறது. இந்நதிகளின் மொத்த வடிகால் 60 கோடி மக்களின் இருப்பிடமாகும்.",
+      "இமயமலை தெற்காசிய மக்களின் கலாச்சாரத்தை வடிவமைத்துள்ளது. இமயமலையில் உள்ள பல சிகரங்கள் இந்து மற்றும் புத்த மதங்களில் புனிதமாகக் கருதப்படுகிறது. இமயமலை மேற்கு-வடமேற்கு பகுதியிலிருந்து கிழக்கு-வடகிழக்கு பகுதிவரை 2400 கிலோமீட்டர் வட்டவில்லாக அமைந்துள்ளது. இதன் மேற்கில் உயர்ந்த சிகரம் நங்கா பர்பத் சிந்து நதியின் வடக்கு வளைவில் அமைந்துள்ளது, இதன் கிழக்கில் உயர்ந்த சிகரம் நமுசா பருவா பரமபுத்திராவின் பெரிய வளைவில் மேற்கே அமைந்துள்ளது."
+    ]
   }
 ]
