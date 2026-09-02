@@ -8006,5 +8006,817 @@
       "மூன்று படங்களைத் தயாரித்தார்: நாடோடி மன்னன், அடிமைப் பெண் மற்றும் உலகம் சுற்றும் வாலிபன். நாடோடி மன்னன், மதுரையை மீட்ட சுந்தரபாண்டியன் மற்றும் உலகம் சுற்றும் வாலிபன் ஆகிய திரைப்படங்களை அவரே இயக்கினார். == அரசியல் வாழ்க்கை ==\n\nஒரு முன்னணித் தமிழ்த் தேசியவாதியாகவும், திராவிட முன்னேற்றக் கழகத்தின் முக்கிய உறுப்பினராகவும் திகழ்ந்தார். அக்கட்சியின் பொருளாளராகவும் நீண்ட காலம் பணியாற்றினார். கருணாநிதியுடன் நட்பாக இருந்தார். சி. என். அண்ணாதுரையின் மறைவுக்குப் பின், மு.",
       "எனவே ஜானகி- கணபதிபட் ஆகிய இருவருக்கும் பிறந்த அப்பு என்ற சுரேந்திரனையும் ஜானகியின் தம்பியாகிய மணி என்னும் நாராயணன் குழந்தைகளாகிய லதா (ராஜேந்திரன்), கீதா (மதுமோகன்), சுதா (கோபாலகிருஷ்ணன்). ஜானகி (சிவராமன்), தீபன் ஆகிய ஐவரையும் தன் வளர்ப்புப் பிள்ளைகளாகத் தத்தெடுத்துக் கொண்டார். === கல்வி உதவி ===\nஎம்.ஜி.ஆர் எத்தனையோ குழந்தைகளுக்குப் பாதுகாவலராக இருந்து படிக்கவைத்தார்."
     ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "What relation was M. G. Sakthapani to M. G. Ramachandran?",
+    "ground_truth": "M. G. Sakthapani was his brother.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "மருதூர் கோபாலன் இராமச்சந்திரன் (எம். ஜி.",
+      "=== வளர்ப்பு குழந்தைகள் ===\nமூன்று திருமணங்கள் என்றாலும் எம்.ஜி.ஆருக்கு குழந்தைகள் இல்லை. எனவே ஜானகி- கணபதிபட் ஆகிய இருவருக்கும் பிறந்த அப்பு என்ற சுரேந்திரனையும் ஜானகியின் தம்பியாகிய மணி என்னும் நாராயணன் குழந்தைகளாகிய லதா (ராஜேந்திரன்), கீதா (மதுமோகன்), சுதா (கோபாலகிருஷ்ணன்). ஜானகி (சிவராமன்), தீபன் ஆகிய ஐவரையும் தன் வளர்ப்புப் பிள்ளைகளாகத் தத்தெடுத்துக் கொண்டார். === கல்வி உதவி ===\nஎம்.ஜி.ஆர் எத்தனையோ குழந்தைகளுக்குப் பாதுகாவலராக இருந்து படிக்கவைத்தார்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "In which Sri Lankan locality was M. G. Ramachandran born?",
+    "ground_truth": "He was born in Navalpatti near Kandy, Sri Lanka.",
+    "answer": "M. G. Ramachandran was born in the Sri Lankan locality of **நாவலப்பிட்டி (Nawalapiti), near Kandy**.",
+    "contexts": [
+      "றிபெற்று முதலமைச்சரானார்.\nஇவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர்.\n\n== தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார்.\nஅவருடைய தந்தை மருதூர் கோபாலன் மேனன் வழக்கறிஞராக கேரளாவில் பணியாற்றி வந்தார், அதன் பிறகு அந்தமான்தீவிலுள்ள சிறையில் குற்றவியல் நீதிமன்ற நீதிபதியாகப் பணிபுரிந்து வந்தார். அப்போது ஆங்கிலயர்களின் அடக்கு முறை ஆட்",
+      "ப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுதலைக்கு வழி வகுத்ததுடன் மற்ற சில நாட்டு விடுதலை இயக்கங்களுக்கும் ஒரு வழிகாட்டியாக அமைந்தது.\nஇவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது.\n\n== வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் த",
+      "வெடி வைத்ததாகக் கூறி பொய்யான புகாரில் சிறிது காலம் கோபாலன் மேனனை சிறையில் அடைத்தனர். பிறகு அவர் குடும்பத்துடன் இலங்கையில் உள்ள கண்டிக்கு அருகே நாவலப்பிட்டியில் குடியேறினார். பின்பு காவல் துறையில் பணியாற்றிவந்த அவரது நண்பர் வேலுபிள்ளை என் பவரின் உதவியுடன் அங்குள்ள ஒரு சிங்கள பள்ளியில் தலைமை ஆசிரியராக பணிபுரிந்து வந்தார்.\nஎம். ஜி. ஆர்க்கு ராமச்சந்திரன் என்று பெயர் ஏற்படக் காரணம், அவரின் தந்தை கோபாலன் மேனன் தந்தை பெயர் சந்திரசேகரன் மேனன் அதில் \"சந்திரன்\" என்றும் தாயார் சத்யபாமாவின், தந்தை பெயர் சீத"
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "In which Sri Lankan locality was M. G. Ramachandran born?",
+    "ground_truth": "He was born in Navalpatti near Kandy, Sri Lanka.",
+    "answer": "நாவலப்பிட்டி (Kandy‑க்கு அருகில் உள்ள இடம்)",
+    "contexts": [
+      "இவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர். == தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார். அவருடைய தந்தை மருதூர் கோபாலன் மேனன் வழக்கறிஞராக கேரளாவில் பணியாற்றி வந்தார், அதன் பிறகு அந்தமான்தீவிலுள்ள சிறையில் குற்றவியல் நீதிமன்ற நீதிபதியாகப் பணிபுரிந்து வந்தார்.",
+      "இவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது. == வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும். காந்தி தனது 13-ஆம் வயதில் தம் வயதேயான கஸ்தூரிபாயை மணந்தார்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்."
+    ]
+  },
+  {
+    "slug": "m_g_ramachandran",
+    "topic": "M. G. Ramachandran",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "In which Sri Lankan locality was M. G. Ramachandran born?",
+    "ground_truth": "He was born in Navalpatti near Kandy, Sri Lanka.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "சத்தியாக்கிரகம் என்றழைக்கப்பட்ட இவரது அறவழிப் போராட்டம் இந்திய நாட்டு விடுதலைக்கு வழி வகுத்ததுடன் மற்ற சில நாட்டு விடுதலை இயக்கங்களுக்கும் ஒரு வழிகாட்டியாக அமைந்தது. இவரது பிறந்த நாள் இந்தியாவில் காந்தி ஜெயந்தி என்று கொண்டாடப்படுகிறது. == வாழ்க்கை ==\n\n=== இளமை ===\nமோகன்தாஸ் காந்தி 1869 2 அக்டோபர்-இல் இந்திய நாட்டின் குஜராத் மாநிலத்திலுள்ள போர்பந்தர் எனும் ஊரில் பிறந்தார். இவரது தாய்மொழி குஜராத்தி. மகாத்மா காந்தியின் தந்தையின் பெயர் கரம்சந்த் உத்தம்சந்த் காந்தி; தாயார் பெயர் புத்லிபாய் ஆகும்.",
+      "மோகன்தாசு கரம்சந்த் காந்தி (ஆங்கிலம்: Mohandas Karamchand Gandhi, குசராத்தி: મોહનદાસ કરમચંદ ગાંધી, அக்டோபர் 2, 1869 – ஜனவரி 30, 1948) என்பவர் ஒரு இந்திய வழக்குரைஞரும், அன்னிய ஆட்சியை எதிர்த்த தேசியவாதியும், அரசியல் அறனாளரும் ஆவார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்திய விடுதலைப் போராட்டத்தை வெற்றிகரமாகத் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\"  என்று அழைக்கப்படுகிறார்.",
+      "அதன் பின் அண்ணா திராவிட முன்னேற்றக் கழகம் என்ற அரசியல் கட்சியைத் தொடங்கி, அதன் பாெதுச்செயலாளாராகி, சட்டமன்றத் தேர்தலில் நின்று தொடர்ந்து மூன்று முறை தமிழகத்தில் வெற்றிபெற்று முதலமைச்சரானார். இவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர். == தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "On what date was the Raman effect discovered?",
+    "ground_truth": "It was discovered on 28 February 1928.",
+    "answer": "28 February 1928.",
+    "contexts": [
+      ", which he studied and explained. His life's work consisted in throwing light upon the nature of lights, and the world honoured him in many ways for the new knowledge which he won for science.\n\n== Controversies ==\n\n=== The Nobel Prize ===\n\n==== Independent discovery ====\nIn 1928, Grigory Landsberg and Leonid Mandelstam at the Moscow State University independently discovered the Raman effect. They published their findings in July issue of Naturwissenschaften, and presented their findings at the S",
+      "his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. \nThe Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. \n\n== Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India.  His parents were R. Chandrasekhar Iyer and Parvathi Ammal.  He was the second of eight of their children.  His father was a teacher at a local high school, and ea",
+      "institute, Sir C. V. Raman discovered in 1928 that when a beam of coloured light entered a liquid, a fraction of the light scattered by that liquid was of a different color. Raman showed that the nature of this scattered light was dependent on the type of sample present. Other scientists quickly understood the significance of this phenomenon as an analytical and research tool and called it the Raman Effect. This method became even more valuable with the advent of modern computers and lasers. It"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "On what date was the Raman effect discovered?",
+    "ground_truth": "It was discovered on 28 February 1928.",
+    "answer": "28 February 1928.",
+    "contexts": [
+      "He founded the Indian Journal of Physics in 1926. He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science. He founded the Indian Academy of Sciences the year. In 1948, he established the Raman Research Institute, where he worked to his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day.",
+      "Raman discovered in 1928 that when a beam of coloured light entered a liquid, a fraction of the light scattered by that liquid was of a different color. Raman showed that the nature of this scattered light was dependent on the type of sample present. Other scientists quickly understood the significance of this phenomenon as an analytical and research tool and called it the Raman Effect. This method became even more valuable with the advent of modern computers and lasers.",
+      "== Controversies ==\n\n=== The Nobel Prize ===\n\n==== Independent discovery ====\nIn 1928, Grigory Landsberg and Leonid Mandelstam at the Moscow State University independently discovered the Raman effect. They published their findings in July issue of Naturwissenschaften, and presented their findings at the Sixth Congress of the Russian Association of Physicists held at Saratov between 5 and 16 August. In 1930, they were nominated for the Nobel Prize alongside Raman."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "On what date was the Raman effect discovered?",
+    "ground_truth": "It was discovered on 28 February 1928.",
+    "answer": "28 February 1928.",
+    "contexts": [
+      "The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. == Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India. His parents were R. Chandrasekhar Iyer and Parvathi Ammal.",
+      "Raman discovered in 1928 that when a beam of coloured light entered a liquid, a fraction of the light scattered by that liquid was of a different color. Raman showed that the nature of this scattered light was dependent on the type of sample present. Other scientists quickly understood the significance of this phenomenon as an analytical and research tool and called it the Raman Effect. This method became even more valuable with the advent of modern computers and lasers.",
+      "=== Posthumous recognition and contemporary references ===\n\nIndia celebrates National Science Day on 28 February of every year to commemorate the discovery of the Raman effect in 1928. Postal stamps featuring Raman were issued in 1971 and 2009."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which Indian holiday commemorates the discovery of the Raman effect?",
+    "ground_truth": "The day is celebrated annually as National Science Day.",
+    "answer": "National Science Day.",
+    "contexts": [
+      "his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. \nThe Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. \n\n== Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India.  His parents were R. Chandrasekhar Iyer and Parvathi Ammal.  He was the second of eight of their children.  His father was a teacher at a local high school, and ea",
+      "he Bharat Ratna (along with politician and former Governor-General of India C. Rajagopalachari and philosopher Sir Sarvepalli Radhakrishnan).\nIn 1957, he was awarded the Lenin Peace Prize.\n\n=== Posthumous recognition and contemporary references ===\n\nIndia celebrates National Science Day on 28 February of every year to commemorate the discovery of the Raman effect in 1928.\nPostal stamps featuring Raman were issued in 1971 and 2009.\nA road in India's capital, New Delhi, is named C. V. Raman Marg.",
+      "Chandrasekhara Venkata Raman ( RAH-muhn; IAST: Candraśēkhara Veṅkaṭarāmaṉ; 7 November 1888 – 21 November 1970) was an Indian physicist known for his work in the field of light scattering. Using a spectrograph that he developed, he and his student K. S. Krishnan discovered that when light traverses a transparent material, the deflected light changes its wavelength. This phenomenon, a hitherto unknown type of scattering of light they called modified scattering, was subsequently termed the Raman ef"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which Indian holiday commemorates the discovery of the Raman effect?",
+    "ground_truth": "The day is celebrated annually as National Science Day.",
+    "answer": "National Science Day.",
+    "contexts": [
+      "He founded the Indian Journal of Physics in 1926. He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science. He founded the Indian Academy of Sciences the year. In 1948, he established the Raman Research Institute, where he worked to his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day.",
+      "In 1954, he was awarded the Bharat Ratna (along with politician and former Governor-General of India C. Rajagopalachari and philosopher Sir Sarvepalli Radhakrishnan). In 1957, he was awarded the Lenin Peace Prize. === Posthumous recognition and contemporary references ===\n\nIndia celebrates National Science Day on 28 February of every year to commemorate the discovery of the Raman effect in 1928. Postal stamps featuring Raman were issued in 1971 and 2009.",
+      "This method became even more valuable with the advent of modern computers and lasers. Its current uses range from the non-destructive identification of minerals to the early detection of life-threatening diseases. For his discovery, Raman was awarded the Nobel Prize in Physics in 1930. Dr. C. V. Raman University was established in Chhattisgarh in 2006. On 7 November 2013, a Google Doodle honoured Raman on the 125th anniversary of his birthday."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which Indian holiday commemorates the discovery of the Raman effect?",
+    "ground_truth": "The day is celebrated annually as National Science Day.",
+    "answer": "National Science Day.",
+    "contexts": [
+      "=== Posthumous recognition and contemporary references ===\n\nIndia celebrates National Science Day on 28 February of every year to commemorate the discovery of the Raman effect in 1928. Postal stamps featuring Raman were issued in 1971 and 2009.",
+      "The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. == Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India. His parents were R. Chandrasekhar Iyer and Parvathi Ammal.",
+      "In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics. Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?",
+    "ground_truth": "He became the first Asian and non-White person to receive a Nobel Prize in Physics.",
+    "answer": "He became the first Asian and non‑White person to receive a Nobel Prize in Physics.",
+    "contexts": [
+      "d scattering, was subsequently termed the Raman effect or Raman scattering. In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics.\nBorn in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13,",
+      ", which he studied and explained. His life's work consisted in throwing light upon the nature of lights, and the world honoured him in many ways for the new knowledge which he won for science.\n\n== Controversies ==\n\n=== The Nobel Prize ===\n\n==== Independent discovery ====\nIn 1928, Grigory Landsberg and Leonid Mandelstam at the Moscow State University independently discovered the Raman effect. They published their findings in July issue of Naturwissenschaften, and presented their findings at the S",
+      "6): 672. Bibcode:1989Natur.340..672T. doi:10.1038/340672b0. PMID 2770873. S2CID 33415561.\n\n== External links ==\n\nThe Nobel Prize in Physics 1930 at the Nobel Foundation\nC. V. Raman on Nobelprize.org  and his Nobel Lecture, 11 December 1930\nArchive of all scientific papers of C. V. Raman\nScientific Papers of C. V. Raman, Volume 1 Volume 2 Volume 3 Volume 4 Volume 5 Volume 6\nRaman Effect: fingerprinting the universe\nThe Quantum Indians: film on Raman, Bose and Saha on YouTube by Raja Choudhury and"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?",
+    "ground_truth": "He became the first Asian and non-White person to receive a Nobel Prize in Physics.",
+    "answer": "Raman became the first Asian and the first non‑White person ever to receive a Nobel Prize in Physics.",
+    "contexts": [
+      "In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics. Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively.",
+      "This phenomenon, a hitherto unknown type of scattering of light they called modified scattering, was subsequently termed the Raman effect or Raman scattering. In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics.",
+      "In 1930, they were nominated for the Nobel Prize alongside Raman. According to the Nobel Committee, however: (1) the Russians did not come to an independent interpretation of their discovery as they cited Raman's article; (2) they observed the effect only in crystals, whereas Raman and Krishnan observed it in solids, liquids and gases, and therefore proved the universal nature of the effect; (3) the problems concerning the intensity of Raman and infrared lines in the spectra had been explained during the previous year; (4) the Raman method had been applied with great success in different fields of molecular physics; and (5) the Raman effect had effectively helped to check the symmetry properties of molecules, and thus the problems concerning nuclear spin in atomic physics."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?",
+    "ground_truth": "He became the first Asian and non-White person to receive a Nobel Prize in Physics.",
+    "answer": "Raman became the first Asian and the first non‑White person to receive a Nobel Prize in Physics.",
+    "contexts": [
+      "In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics. Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively.",
+      "Its current uses range from the non-destructive identification of minerals to the early detection of life-threatening diseases. For his discovery, Raman was awarded the Nobel Prize in Physics in 1930.",
+      "== Controversies ==\n\n=== The Nobel Prize ===\n\n==== Independent discovery ====\nIn 1928, Grigory Landsberg and Leonid Mandelstam at the Moscow State University independently discovered the Raman effect. They published their findings in July issue of Naturwissenschaften, and presented their findings at the Sixth Congress of the Russian Association of Physicists held at Saratov between 5 and 16 August. In 1930, they were nominated for the Nobel Prize alongside Raman."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Where was C. V. Raman born and on what date?",
+    "ground_truth": "He was born on 7 November 1888 in Tiruchirappalli, India.",
+    "answer": "C. V. Raman was born in Tiruchirappalli, India, on 7 November 1888.",
+    "contexts": [
+      "his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. \nThe Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. \n\n== Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India.  His parents were R. Chandrasekhar Iyer and Parvathi Ammal.  He was the second of eight of their children.  His father was a teacher at a local high school, and ea",
+      "he Bharat Ratna (along with politician and former Governor-General of India C. Rajagopalachari and philosopher Sir Sarvepalli Radhakrishnan).\nIn 1957, he was awarded the Lenin Peace Prize.\n\n=== Posthumous recognition and contemporary references ===\n\nIndia celebrates National Science Day on 28 February of every year to commemorate the discovery of the Raman effect in 1928.\nPostal stamps featuring Raman were issued in 1971 and 2009.\nA road in India's capital, New Delhi, is named C. V. Raman Marg.",
+      "with the advent of modern computers and lasers. Its current uses range from the non-destructive identification of minerals to the early detection of life-threatening diseases. For his discovery, Raman was awarded the Nobel Prize in Physics in 1930.\nDr. C. V. Raman University was established in Chhattisgarh in 2006.\nOn 7 November 2013, a Google Doodle honoured Raman on the 125th anniversary of his birthday.\nRaman Science Centre in Nagpur is named after Sir C. V. Raman.\nDr. C. V. Raman University,"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Where was C. V. Raman born and on what date?",
+    "ground_truth": "He was born on 7 November 1888 in Tiruchirappalli, India.",
+    "answer": "C. V. Raman was born in Tiruchirappalli, India, on 7 November 1888.",
+    "contexts": [
+      "The day is celebrated annually by the Government of India as the National Science Day. == Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India. His parents were R. Chandrasekhar Iyer and Parvathi Ammal. He was the second of eight of their children. His father was a teacher at a local high school, and earned a modest income. He recalled: \"I was born with a copper spoon in my mouth.",
+      "Raman Hospital. There is also CV Raman Nagar in Trichy, his birthplace. Raman, a lunar crater is named after C. V. Raman. C. V. Raman Global University was established in 1997. In 1998, the American Chemical Society and Indian Association for the Cultivation of Science recognised Raman's discovery as an International Historic Chemical Landmark at the Indian Association for the Cultivation of Science in Jadavpur, Calcutta, India.",
+      "He also willed his wife to perform a simple cremation without any rituals upon his death. He died from natural causes early the next morning on 21 November 1970 at the age of 82. With the news of Raman's death, Prime Minister Indira Gandhi publicly announced, saying,The country, the House [of Parliament], and everyone of us will mourn the death of Dr. C. V. Raman. He was the greatest scientist of modern India and one of the greatest intellects our country has produced in its long history."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Where was C. V. Raman born and on what date?",
+    "ground_truth": "He was born on 7 November 1888 in Tiruchirappalli, India.",
+    "answer": "C. V. Raman was born in Tiruchirappalli, India, on 7 November 1888.",
+    "contexts": [
+      "V. Raman. C. V.",
+      "The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. == Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India. His parents were R. Chandrasekhar Iyer and Parvathi Ammal.",
+      "V. Raman. Dr. C. V."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "At what ages did Raman complete his secondary and higher secondary education, and at which school?",
+    "ground_truth": "He completed secondary education at age 11 and higher secondary at age 13 at St Aloysius' Anglo-Indian High School.",
+    "answer": "Raman finished his secondary education at age 11 and his higher‑secondary (intermediate) education at age 13, and he did so at St Aloysius’ Anglo‑Indian High School in Visakhapatnam.",
+    "contexts": [
+      "chool, Visakhapatnam. He passed matriculation at age 11 and the First Examination in Arts examination (equivalent to today's intermediate examination, pre-university course) with a scholarship at age 13, securing first position in both under the Andhra Pradesh school board (now Andhra Pradesh Board of Secondary Education) examination.\nIn 1902, Raman joined Presidency College in Madras (now Chennai) where his father had been transferred to teach mathematics and physics. In 1904, he obtained a B.",
+      "ather was a teacher at a local high school, and earned a modest income. He recalled: \"I was born with a copper spoon in my mouth. At my birth my father was earning the magnificent salary of ten rupees per month!\" In 1892, his family moved to Visakhapatnam (then Vizagapatam or Vizag) in Andhra Pradesh as his father was appointed to the faculty of physics at Mrs A. V. Narasimha Rao College.\nRaman was educated at the St Aloysius' Anglo-Indian High School, Visakhapatnam. He passed matriculation at a",
+      "d scattering, was subsequently termed the Raman effect or Raman scattering. In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics.\nBorn in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13,"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "At what ages did Raman complete his secondary and higher secondary education, and at which school?",
+    "ground_truth": "He completed secondary education at age 11 and higher secondary at age 13 at St Aloysius' Anglo-Indian High School.",
+    "answer": "Raman finished his secondary education at age 11 and his higher‑secondary education at age 13, both at St Aloysius' Anglo‑Indian High School.",
+    "contexts": [
+      "Raman was educated at the St Aloysius' Anglo-Indian High School, Visakhapatnam. He passed matriculation at age 11 and the First Examination in Arts examination (equivalent to today's intermediate examination, pre-university course) with a scholarship at age 13, securing first position in both under the Andhra Pradesh school board (now Andhra Pradesh Board of Secondary Education) examination.",
+      "He passed matriculation at age 11 and the First Examination in Arts examination (equivalent to today's intermediate examination, pre-university course) with a scholarship at age 13, securing first position in both under the Andhra Pradesh school board (now Andhra Pradesh Board of Secondary Education) examination. In 1902, Raman joined Presidency College in Madras (now Chennai) where his father had been transferred to teach mathematics and physics. In 1904, he obtained a B. A.",
+      "Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively. He topped the bachelor's degree examination of the University of Madras with honours in physics from Presidency College at age 16. His first research paper, on diffraction of light, was published in 1906, while he was a graduate student. The next year he obtained a master's degree."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "At what ages did Raman complete his secondary and higher secondary education, and at which school?",
+    "ground_truth": "He completed secondary education at age 11 and higher secondary at age 13 at St Aloysius' Anglo-Indian High School.",
+    "answer": "Raman completed his secondary education at age 11 and his higher‑secondary (intermediate) education at age 13, both at **St Aloysius' Anglo‑Indian High School**.",
+    "contexts": [
+      "V. Narasimha Rao College. Raman was educated at the St Aloysius' Anglo-Indian High School, Visakhapatnam. He passed matriculation at age 11 and the First Examination in Arts examination (equivalent to today's intermediate examination, pre-university course) with a scholarship at age 13, securing first position in both under the Andhra Pradesh school board (now Andhra Pradesh Board of Secondary Education) examination.",
+      "In 1902, Raman joined Presidency College in Madras (now Chennai) where his father had been transferred to teach mathematics and physics. In 1904, he obtained a B. A.",
+      "In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics. Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which journal did Raman found in 1926?",
+    "ground_truth": "He founded the Indian Journal of Physics.",
+    "answer": "I don't know based on the given context.",
+    "contexts": [
+      "pher. He founded the Indian Academy of Sciences in 1934 and started publishing the academy's journal Proceedings of the Indian Academy of Sciences (later split up into Proceedings - Mathematical Sciences, Journal of Chemical Sciences, and Journal of Earth System Science). Around that time the Calcutta Physical Society was established, the concept of which he had initiated early in 1917.\nWith his former student Panchapakesa Krishnamurti, Raman started a company called Travancore Chemical and Manu",
+      "corded reasons, the only Indian FRS ever to do so.\nHe was the President of the 16th session of the Indian Science Congress in 1929. He was the founder and President of the Indian Academy of Sciences from 1933 until his death. He was member of the Pontifical Academy of Sciences in 1961.\n\n=== Awards ===\nIn 1912, Raman received the Curzon Research Award, while still working in the Indian Finance Service.\nIn 1913, he received the Woodburn Research Medal, while still working in the Indian Finance Ser",
+      "ed regular researchers, or produced any research paper.  Raman's article \"Newton's rings in polarised light\" published in Nature in 1907 became the first from the institute. The work inspired IACS to publish a journal, Bulletin of Indian Association for the Cultivation of Science, in 1909 in which Raman was the major contributor.\nIn 1909, Raman was transferred to Rangoon, British Burma (now Myanmar), to take up the position of currency officer. After only a few months, he had to return to Madras"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which journal did Raman found in 1926?",
+    "ground_truth": "He founded the Indian Journal of Physics.",
+    "answer": "Indian Journal of Physics.",
+    "contexts": [
+      "In 1926, he established the Indian Journal of Physics and acted as the first editor. The second volume of the journal published his famous article \"A new radiation\", reporting the discovery of the Raman effect. Raman was succeeded by Debendra Mohan Bose as the Palit Professor in 1932. Following his appointment as Director of the Indian Institute of Science (IISc) in Bangalore, he left Calcutta in 1933.",
+      "He founded the Indian Journal of Physics in 1926. He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science. He founded the Indian Academy of Sciences the year. In 1948, he established the Raman Research Institute, where he worked to his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day.",
+      "Raman's article \"Newton's rings in polarised light\" published in Nature in 1907 became the first from the institute. The work inspired IACS to publish a journal, Bulletin of Indian Association for the Cultivation of Science, in 1909 in which Raman was the major contributor. In 1909, Raman was transferred to Rangoon, British Burma (now Myanmar), to take up the position of currency officer. After only a few months, he had to return to Madras as his father died from an illness."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which journal did Raman found in 1926?",
+    "ground_truth": "He founded the Indian Journal of Physics.",
+    "answer": "The Indian Journal of Physics.",
+    "contexts": [
+      "Upon his election as Fellow of the Royal Society in 1924, Mukherjee asked him of his future plans, which he replied, saying, \"The Nobel Prize of course\". In 1926, he established the Indian Journal of Physics and acted as the first editor. The second volume of the journal published his famous article \"A new radiation\", reporting the discovery of the Raman effect. Raman was succeeded by Debendra Mohan Bose as the Palit Professor in 1932.",
+      "The work inspired IACS to publish a journal, Bulletin of Indian Association for the Cultivation of Science, in 1909 in which Raman was the major contributor. In 1909, Raman was transferred to Rangoon, British Burma (now Myanmar), to take up the position of currency officer.",
+      "With their support, he obtained permission to conduct research at IACS in his own time, even at \"very unusual hours,\" as Raman later reminisced. Up to that time the institute had not yet recruited regular researchers, or produced any research paper. Raman's article \"Newton's rings in polarised light\" published in Nature in 1907 became the first from the institute."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",
+    "ground_truth": "He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science.",
+    "answer": "Raman became the first Indian director of the Indian Institute of Science in **1933**, and he moved to **Bangalore**.",
+    "contexts": [
+      "Physics and acted as the first editor. The second volume of the journal published his famous article \"A new radiation\", reporting the discovery of the Raman effect.\nRaman was succeeded by Debendra Mohan Bose as the Palit Professor in 1932. Following his appointment as Director of the Indian Institute of Science (IISc) in Bangalore, he left Calcutta in 1933. Maharaja Krishnaraja Wadiyar IV, the King of Mysore, Jamsetji Tata and Nawab Sir Mir Osman Ali Khan, the Nizam of Hyderabad, had contributed",
+      "ow Indian Audit and Accounts Service). Raman followed suit and qualified for the Indian Finance Service achieving first position in the entrance examination in February 1907. He was posted in Calcutta (now Kolkata) as Assistant Accountant General in June 1907. \nHe was highly impressed by the Indian Association for the Cultivation of Science (IACS), Calcutta, the first research institute founded in India in 1876. He immediately befriended Asutosh Dey (who would eventually become his lifelong coll",
+      "ed regular researchers, or produced any research paper.  Raman's article \"Newton's rings in polarised light\" published in Nature in 1907 became the first from the institute. The work inspired IACS to publish a journal, Bulletin of Indian Association for the Cultivation of Science, in 1909 in which Raman was the major contributor.\nIn 1909, Raman was transferred to Rangoon, British Burma (now Myanmar), to take up the position of currency officer. After only a few months, he had to return to Madras"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",
+    "ground_truth": "He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science.",
+    "answer": "Raman became the first Indian director of the Indian Institute of Science in **1933**, and he moved to **Bengaluru**.",
+    "contexts": [
+      "In 1947, Raman was appointed the first National Professor by the new government of independent India. Raman retired from IISc in 1948 and established the Raman Research Institute in Bangalore a year later. He served as its director and remained active there until his death in 1970. == Scientific contributions ==\n\n=== Musical sound ===\nOne of Raman's interests was on the scientific basis of musical sounds.",
+      "In 1926, he established the Indian Journal of Physics and acted as the first editor. The second volume of the journal published his famous article \"A new radiation\", reporting the discovery of the Raman effect. Raman was succeeded by Debendra Mohan Bose as the Palit Professor in 1932. Following his appointment as Director of the Indian Institute of Science (IISc) in Bangalore, he left Calcutta in 1933.",
+      "He founded the Indian Journal of Physics in 1926. He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science. He founded the Indian Academy of Sciences the year. In 1948, he established the Raman Research Institute, where he worked to his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. The Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",
+    "ground_truth": "He moved to Bengaluru in 1933 to become the first Indian director of the Indian Institute of Science.",
+    "answer": "I don't know based on the given context.",
+    "contexts": [
+      "Raman became the fourth director and the first Indian director.",
+      "The company, renamed as TCM Limited in 1996, was one of the first organic and inorganic chemical manufacturers in India. In 1947, Raman was appointed the first National Professor by the new government of independent India. Raman retired from IISc in 1948 and established the Raman Research Institute in Bangalore a year later.",
+      "Raman registered the new organisation as the Indian Academy of Sciences on 24 April to the Registrar of Societies. It was a provisional name to be changed to the Royal Society of India after approval from the Royal Charter. The Government of India did not recognise it as an official national scientific body, as such the ICSA created a separate organisation named the National Institute of Sciences of India on 7 January 1935 (but again changed to the Indian National Science Academy in 1970)."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Who was Raman's famous Nobel laureate nephew?",
+    "ground_truth": "He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar.",
+    "answer": "Subrahmanyan Chandrasekhar.",
+    "contexts": [
+      "nd he with the acoustics.\nThey had two sons, Chandrasekhar Raman and Venkatraman Radhakrishnan, a radio astronomer. He later cut his relations with his elder son due to ideological disputes.  Raman's elder brother C. Subrahmanya Ayyar's son Subrahmanyan Chandrasekhar won the 1983 Nobel Prize in Physics.  Raman's sister Sitalakshmi's son is condensed matter physicist Sivaramakrishna Chandrasekhar. \nThroughout his life, Raman developed an extensive personal collection of stones, minerals, and mate",
+      "his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar. \nThe Raman effect was discovered on 28 February 1928. The day is celebrated annually by the Government of India as the National Science Day. \n\n== Early life and education ==\nChandrasekhara Venkata Raman was born on 7 November 1888 in Tiruchirappalli, India.  His parents were R. Chandrasekhar Iyer and Parvathi Ammal.  He was the second of eight of their children.  His father was a teacher at a local high school, and ea",
+      "d scattering, was subsequently termed the Raman effect or Raman scattering. In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics.\nBorn in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13,"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Who was Raman's famous Nobel laureate nephew?",
+    "ground_truth": "He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar.",
+    "answer": "Subrahmanyan Chandrasekhar.",
+    "contexts": [
+      "It was because they frequently visited St. John's Church, Kolkata as Lokasundari was fascinated with the church music (unlike Raman's sisters Meena and Sitalakshmi) and he with the acoustics. They had two sons, Chandrasekhar Raman and Venkatraman Radhakrishnan, a radio astronomer. He later cut his relations with his elder son due to ideological disputes. Raman's elder brother C. Subrahmanya Ayyar's son Subrahmanyan Chandrasekhar won the 1983 Nobel Prize in Physics.",
+      "Subrahmanya Ayyar's son Subrahmanyan Chandrasekhar won the 1983 Nobel Prize in Physics. Raman's sister Sitalakshmi's son is condensed matter physicist Sivaramakrishna Chandrasekhar. Throughout his life, Raman developed an extensive personal collection of stones, minerals, and materials with interesting light-scattering properties, which he obtained from his world travels and as gifts. He often carried a small, handheld spectroscope to study specimens.",
+      "In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics. Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Who was Raman's famous Nobel laureate nephew?",
+    "ground_truth": "He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar.",
+    "answer": "Subrahmanyan Chandrasekhar.",
+    "contexts": [
+      "In 1948, he established the Raman Research Institute, where he worked to his last days. He was the uncle of Nobel laureate Subrahmanyan Chandrasekhar.",
+      "He later cut his relations with his elder son due to ideological disputes. Raman's elder brother C. Subrahmanya Ayyar's son Subrahmanyan Chandrasekhar won the 1983 Nobel Prize in Physics. Raman's sister Sitalakshmi's son is condensed matter physicist Sivaramakrishna Chandrasekhar. Throughout his life, Raman developed an extensive personal collection of stones, minerals, and materials with interesting light-scattering properties, which he obtained from his world travels and as gifts.",
+      "In 1930, Raman received the Nobel Prize in Physics \"for his work on the scattering of light and for the discovery of the effect named after him\" and became the first Asian and non-White person to receive a Nobel Prize in Physics. Born in the Indian state of Tamil Nadu, Raman was a precocious child, completing his secondary and higher secondary education from St Aloysius' Anglo-Indian High School at the ages of 11 and 13, respectively."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?",
+    "ground_truth": "அவர் நவம்பர் 7, 1888 அன்று பிறந்தார்.",
+    "answer": "நவம்பர் 7, 1888.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல",
+      "க்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும்.\nசி.வி.இராமன் அவர்கள் நவம்பர் 7 ஆம் நாள், 1888ஆம் ஆண்டில் இந்தியாவில், தமிழ்நாட்டிலே உள்ள திருச்சிராபள்ளிக்கு அருகில் அமைந்த திருவானைக்காவல் எனும் ஊரில் பிறந்தார். இந்தியாவிலேயே முழுமையாகப் படித்த ஓர் அறிஞருக்கு 1930ல் நோபல் பரிசு கிடைத்தது முதல் முறையாகும்.\n\n== வாழ்க்கை ==\nசந்திரசேகர வெங்கட்ராமன் தந்தையார், இரா. சந்திரசேகர் ஐயர் ஒரு ஆசிர",
+      "ள் பற்றியும் நன்கு ஆய்வு செய்து புதுக் கண்டுபிடிப்புகள் செய்துள்ளார்.\nபகலில் வான் ஏன் நீல நிறமாக இருக்கின்றது என்பது பற்றியும் இவர் விளக்கியிருக்கிறார்.\nஇவருடைய உடன்பிறந்தாரின் மகனான சுப்பிரமணியன் சந்திரசேகரரும் நோபல் பரிசு பெற்றார் என்பது குறிப்பிடத்தக்கது.\n\n== சிறப்புகள் ==\nஇவருக்கு இலண்டனிலுள்ள வேந்தியக் குமுகத்தின் சிறப்புப்பேராளர் (அரச கழகத்தின் சகா ) என்ற பெருமை 1924 ஆம் ஆண்டில் வழங்கப்பட்டது.\nபிரித்தானிய அரசு இவருக்கு 1929 ஆம் ஆண்டில் வீரத்திருத்தகை எனும் பட்டம் வழங்கிச் சிறப்பித்தது.\n192"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?",
+    "ground_truth": "அவர் நவம்பர் 7, 1888 அன்று பிறந்தார்.",
+    "answer": "நவம்பர் 7, 1888.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது.",
+      "இந்தியாவிலேயே முழுமையாகப் படித்த ஓர் அறிஞருக்கு 1930ல் நோபல் பரிசு கிடைத்தது முதல் முறையாகும். == வாழ்க்கை ==\nசந்திரசேகர வெங்கட்ராமன் தந்தையார், இரா. சந்திரசேகர் ஐயர் ஒரு ஆசிரியர். தன் தந்தை விசாகப்பட்டினத்தில் இயற்பியல் விரிவுரையாளராகப் பணியாற்றியதால் வெங்கட்ராமன் அங்கேயே தன் பள்ளி படிப்பை முடித்தார். இவர் 1904ஆம் ஆண்டு சென்னையில் உள்ள மாநிலக் கல்லூரியில் தன்னுடைய இளங்கலைப் பட்டப்படிப்பை சிறப்பு தகுதியுடன் முடித்தார். வெங்கட்ராமன் தன் முதுகலை பட்டப்படிப்பை மாநிலக் கல்லூரியிலே தொடர்ந்தார்.",
+      "இவருடைய உடன்பிறந்தாரின் மகனான சுப்பிரமணியன் சந்திரசேகரரும் நோபல் பரிசு பெற்றார் என்பது குறிப்பிடத்தக்கது. == சிறப்புகள் ==\nஇவருக்கு இலண்டனிலுள்ள வேந்தியக் குமுகத்தின் சிறப்புப்பேராளர் (அரச கழகத்தின் சகா ) என்ற பெருமை 1924 ஆம் ஆண்டில் வழங்கப்பட்டது. பிரித்தானிய அரசு இவருக்கு 1929 ஆம் ஆண்டில் வீரத்திருத்தகை எனும் பட்டம் வழங்கிச் சிறப்பித்தது. 1929ல் ஆண்டில் இங்கிலாந்து அரசியாரால் சர் பட்டம் அளிக்கப் பட்டது. இத்தாலி நாட்டின் உயர்பதக்கமான \"மேட்யூச்சி\" பதக்கம் வழங்கப்பட்டது."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?",
+    "ground_truth": "அவர் நவம்பர் 7, 1888 அன்று பிறந்தார்.",
+    "answer": "சர் சந்திரசேகர வெங்கட்ராமன் 7 நவம்பர் 1888 அன்று பிறந்தார்.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார்.",
+      "== வாழ்க்கை ==\nசந்திரசேகர வெங்கட்ராமன் தந்தையார், இரா. சந்திரசேகர் ஐயர் ஒரு ஆசிரியர். தன் தந்தை விசாகப்பட்டினத்தில் இயற்பியல் விரிவுரையாளராகப் பணியாற்றியதால் வெங்கட்ராமன் அங்கேயே தன் பள்ளி படிப்பை முடித்தார். இவர் 1904ஆம் ஆண்டு சென்னையில் உள்ள மாநிலக் கல்லூரியில் தன்னுடைய இளங்கலைப் பட்டப்படிப்பை சிறப்பு தகுதியுடன் முடித்தார். வெங்கட்ராமன் தன் முதுகலை பட்டப்படிப்பை மாநிலக் கல்லூரியிலே தொடர்ந்தார்.",
+      "இவர் வயலின் (பிடில்) , மிருதங்கம் போன்ற இசைக்கருவிகள் பற்றியும் நன்கு ஆய்வு செய்து புதுக் கண்டுபிடிப்புகள் செய்துள்ளார். பகலில் வான் ஏன் நீல நிறமாக இருக்கின்றது என்பது பற்றியும் இவர் விளக்கியிருக்கிறார். இவருடைய உடன்பிறந்தாரின் மகனான சுப்பிரமணியன் சந்திரசேகரரும் நோபல் பரிசு பெற்றார் என்பது குறிப்பிடத்தக்கது. == சிறப்புகள் ==\nஇவருக்கு இலண்டனிலுள்ள வேந்தியக் குமுகத்தின் சிறப்புப்பேராளர் (அரச கழகத்தின் சகா ) என்ற பெருமை 1924 ஆம் ஆண்டில் வழங்கப்பட்டது."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?",
+    "ground_truth": "ராமன் 1930 ஆம் ஆண்டில் நோபல் பரிசை பெற்றார்.",
+    "answer": "1930.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல",
+      "க்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும்.\nசி.வி.இராமன் அவர்கள் நவம்பர் 7 ஆம் நாள், 1888ஆம் ஆண்டில் இந்தியாவில், தமிழ்நாட்டிலே உள்ள திருச்சிராபள்ளிக்கு அருகில் அமைந்த திருவானைக்காவல் எனும் ஊரில் பிறந்தார். இந்தியாவிலேயே முழுமையாகப் படித்த ஓர் அறிஞருக்கு 1930ல் நோபல் பரிசு கிடைத்தது முதல் முறையாகும்.\n\n== வாழ்க்கை ==\nசந்திரசேகர வெங்கட்ராமன் தந்தையார், இரா. சந்திரசேகர் ஐயர் ஒரு ஆசிர",
+      "ிரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார். பின்னர் 1917ல் கொல்கத்தா பல்கலைக்கழகத்தில் புதிதாக ஏற்படுத்தப்பட்டிருந்த பாலித் பீட இயற்பியல் பேராசிரியராகச் சேர்ந்தார். கொல்கத்தாவிலே 15 ஆண்டுகள் கழித்த பிறகு, இவர் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் (Indian Institute of Science) 15 ஆண்டுகள் கழித்தார். அதன் பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Ram"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?",
+    "ground_truth": "ராமன் 1930 ஆம் ஆண்டில் நோபல் பரிசை பெற்றார்.",
+    "answer": "1930 ஆண்டு.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது.",
+      "இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும். சி.வி.இராமன் அவர்கள் நவம்பர் 7 ஆம் நாள், 1888ஆம் ஆண்டில் இந்தியாவில், தமிழ்நாட்டிலே உள்ள திருச்சிராபள்ளிக்கு அருகில் அமைந்த திருவானைக்காவல் எனும் ஊரில் பிறந்தார். இந்தியாவிலேயே முழுமையாகப் படித்த ஓர் அறிஞருக்கு 1930ல் நோபல் பரிசு கிடைத்தது முதல் முறையாகும்.",
+      "1957 ஆம் ஆண்டில் அகில \"உலக இலெனின் பரிசு\" அளிக்கப்பட்டது. == இவற்றையும் பார்க்க ==\nஇயற்பியலுக்கான நோபல் பரிசு பெற்றவர்கள்\n\n== மேற்கோள்கள் ==\n\n== உசாத்துணைகள் ==\nஇயற்பியல் மேல்நிலை இரண்டாமாண்டு தொகுதி- 1 தமிழ்  நாட்டுப் பாடநூல் கழகம்\nFUNDAMENTALS OF MOLECULAR SPECTROSCOPY, CN Banwell, Tata Mc Grow Hill Publishing Company Limited (1988)\n\n== வெளி இணைப்புகள் ==\n\nNobel Prize Internet Archive\nஇயற்பியலுக்கான நோபல் பரிசு பெற்ற சர் சி.வி.ராமன்! -விகடன்\nசி. வி."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?",
+    "ground_truth": "ராமன் 1930 ஆம் ஆண்டில் நோபல் பரிசை பெற்றார்.",
+    "answer": "ராமன் 1930 ஆம் ஆண்டு இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்.",
+    "contexts": [
+      "இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும்.",
+      "1957 ஆம் ஆண்டில் அகில \"உலக இலெனின் பரிசு\" அளிக்கப்பட்டது. == இவற்றையும் பார்க்க ==\nஇயற்பியலுக்கான நோபல் பரிசு பெற்றவர்கள்\n\n== மேற்கோள்கள் ==\n\n== உசாத்துணைகள் ==\nஇயற்பியல் மேல்நிலை இரண்டாமாண்டு தொகுதி- 1 தமிழ்  நாட்டுப் பாடநூல் கழகம்\nFUNDAMENTALS OF MOLECULAR SPECTROSCOPY, CN Banwell, Tata Mc Grow Hill Publishing Company Limited (1988)\n\n== வெளி இணைப்புகள் ==\n\nNobel Prize Internet Archive\nஇயற்பியலுக்கான நோபல் பரிசு பெற்ற சர் சி.வி.ராமன்! -விகடன்\nசி. வி.",
+      "பின்னர் 1917ல் கொல்கத்தா பல்கலைக்கழகத்தில் புதிதாக ஏற்படுத்தப்பட்டிருந்த பாலித் பீட இயற்பியல் பேராசிரியராகச் சேர்ந்தார். கொல்கத்தாவிலே 15 ஆண்டுகள் கழித்த பிறகு, இவர் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் (Indian Institute of Science) 15 ஆண்டுகள் கழித்தார். அதன் பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Raman Research Insitute) இயக்குநராக கடைசி நாட்கள் வரை பணியாற்றி வந்தார். இவர் நவம்பர் 21, 1970ல் இவ்வுலகில் இருந்து பிரிந்தார். == அறிவியலுக்கு இவருடைய ஆக்கப்பணிகள் ==\nசி. வி."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "இது ராமன் விளைவு (Raman Effect) என்று பெயரிடப்பட்டுள்ளது.",
+    "answer": "ஒளியின் அலைநீள மாற்றத்தை **ராமன் விளைவு (Raman Effect)** என்று அழைக்கப்படுகிறது.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல",
+      "J. Physics) இவர் ‘வெ’ப்ருவரி 28, 1928 ல் ஒரு புதிய ஒளிர்ப்பாடு (கதிர்வீச்சு) A new Radiation என்னும் தலைப்பில் தம் ஆய்வுக்கண்டுபிடிப்புகளின் கரியமாணிக்கம் சீனிவாச கிருட்டிணனுடன் சேர்ந்து அதன் முடிவுகளை வெளியிட்டார். இப்புது அறிவியல் ஒளி விளைவுதான் இவருக்கு நோபல் பரிசு பெறவும் தன் பெயரால் ஒரு அறிவியல் விளைவு பெயர் பெறவும் வழி வகுத்தது. இவர் இந்திய ஆய்விதழில் வெளியிட்டார் என்பது குறிப்பிடத்தக்கது.\nஇவர் வயலின் (பிடில்) , மிருதங்கம் போன்ற இசைக்கருவிகள் பற்றியும் நன்கு ஆய்வு செய்து புதுக் கண்டுபிடிப்",
+      "்டத்தையும் கண்டறிந்தார். 1705ஆம் ஆண்டு எட்மண்டு ஏலி என்பவர் ஒரு வால்வெள்ளி 74-75 வருடங்களுக்கு ஒருமுறை ஒரே பொருளையே மீண்டும் வந்தடைவதை உணர்ந்தார். இதுவே கோள்களைத் தவிர மற்ற பொருட்களும் கதிரவ அமைப்பில் உள்ளது என்பதற்கான முதல் சான்றாக விளங்கியது. 1838ஆம் ஆண்டு பிரீட்ரிக் பெசல் என்பவர் முதன்முறையாக இடமாறு தோற்றப் பிழை வாயிலாக கதிரவனுக்கும் மற்றொரு விண்மீனுக்கும் இடையில் உள்ள நம்பத் தகுந்த தொலைவைக் கண்டறிதார். அதன்பிறகு நோக்கீட்டு வானியல் மற்றும் ஆளில்லா விண்கலங்கள் ஆகியவற்றின் வளர்ச்சி, கதிரவ அமைப்"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "இது ராமன் விளைவு (Raman Effect) என்று பெயரிடப்பட்டுள்ளது.",
+    "answer": "ஒளியின் அலைநீள மாற்றத்தை **ராமன் விளைவு (Raman Effect)** என்று அழைக்கப்படுகிறது.",
+    "contexts": [
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது.",
+      "இவர் இந்திய ஆய்விதழில் வெளியிட்டார் என்பது குறிப்பிடத்தக்கது. இவர் வயலின் (பிடில்) , மிருதங்கம் போன்ற இசைக்கருவிகள் பற்றியும் நன்கு ஆய்வு செய்து புதுக் கண்டுபிடிப்புகள் செய்துள்ளார். பகலில் வான் ஏன் நீல நிறமாக இருக்கின்றது என்பது பற்றியும் இவர் விளக்கியிருக்கிறார். இவருடைய உடன்பிறந்தாரின் மகனான சுப்பிரமணியன் சந்திரசேகரரும் நோபல் பரிசு பெற்றார் என்பது குறிப்பிடத்தக்கது.",
+      "1705ஆம் ஆண்டு எட்மண்டு ஏலி என்பவர் ஒரு வால்வெள்ளி 74-75 வருடங்களுக்கு ஒருமுறை ஒரே பொருளையே மீண்டும் வந்தடைவதை உணர்ந்தார். இதுவே கோள்களைத் தவிர மற்ற பொருட்களும் கதிரவ அமைப்பில் உள்ளது என்பதற்கான முதல் சான்றாக விளங்கியது. 1838ஆம் ஆண்டு பிரீட்ரிக் பெசல் என்பவர் முதன்முறையாக இடமாறு தோற்றப் பிழை வாயிலாக கதிரவனுக்கும் மற்றொரு விண்மீனுக்கும் இடையில் உள்ள நம்பத் தகுந்த தொலைவைக் கண்டறிதார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?",
+    "ground_truth": "இது ராமன் விளைவு (Raman Effect) என்று பெயரிடப்பட்டுள்ளது.",
+    "answer": "ஒளி சிதறும் போது ஏற்படும் அலைநீள மாற்றத்தை **ராமன் விளைவு (Raman Effect)** என்று அழைக்கப்படுகிறது.",
+    "contexts": [
+      "இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும்.",
+      "Physics) இவர் ‘வெ’ப்ருவரி 28, 1928 ல் ஒரு புதிய ஒளிர்ப்பாடு (கதிர்வீச்சு) A new Radiation என்னும் தலைப்பில் தம் ஆய்வுக்கண்டுபிடிப்புகளின் கரியமாணிக்கம் சீனிவாச கிருட்டிணனுடன் சேர்ந்து அதன் முடிவுகளை வெளியிட்டார். இப்புது அறிவியல் ஒளி விளைவுதான் இவருக்கு நோபல் பரிசு பெறவும் தன் பெயரால் ஒரு அறிவியல் விளைவு பெயர் பெறவும் வழி வகுத்தது. இவர் இந்திய ஆய்விதழில் வெளியிட்டார் என்பது குறிப்பிடத்தக்கது.",
+      "பெரிய தொலைநோக்கியின் மூலமாகவே இதைக் காணஇயலும். இது மிகவும் சாய்ந்த சுழல் அச்சைக் கொண்டுள்ளது. அதனால் இது உருண்டோடுவது போல் தெரிகின்றது. இதன் அசாதாரண சாய்வின் காரணமாக இங்கு கோடை காலமும், குளிர்காலமும் மிக நீண்டு இருக்கும், ஒவ்வொன்றும் 42 ஆண்டுகளாக உள்ளன. நெப்டியூன்: இக்கோளானது பச்சை நிற விண் மீன் போன்று காட்சியளிக்கும். சூரியனிலிருந்து எட்டாவதாக உள்ள இந்தக் கோள் மிகவும் காற்று வீசக்கூடிய கோளாகும். 248 ஆண்டுகளுக்கு ஒருமுறை புளூட்டோ இதன் சுற்றுப்பாதையைக் கடக்கிறது."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?",
+    "ground_truth": "அவர் தமிழ்நாட்டின் திருச்சிராபள்ளிக்கருகில் உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்.",
+    "answer": "சி.வி.இராமன் 1888 நவம்பர் 7 ஆம் தேதி, இந்தியாவின் தமிழ்நாடு மாநிலத்தில், திருச்சிராப்பள்ளிக்கு அருகிலுள்ள திருவானைக்காவல் என்ற ஊரில் பிறந்தார்.",
+    "contexts": [
+      "\"  என்ற இயக்கத்தை ஆரம்பித்தார்.\n\n== தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார். இவரின் தந்தை ராமேசுவரம் மற்றும் தனுஷ்கோடி இடையே மக்களைப் படகில் அழைத்துச் செல்லும் பணியில் ஈடுபட்டிருந்தார். இவருக்கு நான்கு சகோதரர்கள் மற்றும் ஒரு சகோதரி இருந்தனர். இவரது மூதாதையர்கள் வணிகர்கள் மற்ற",
+      "றிபெற்று முதலமைச்சரானார்.\nஇவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர்.\n\n== தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார்.\nஅவருடைய தந்தை மருதூர் கோபாலன் மேனன் வழக்கறிஞராக கேரளாவில் பணியாற்றி வந்தார், அதன் பிறகு அந்தமான்தீவிலுள்ள சிறையில் குற்றவியல் நீதிமன்ற நீதிபதியாகப் பணிபுரிந்து வந்தார். அப்போது ஆங்கிலயர்களின் அடக்கு முறை ஆட்",
+      "க்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும்.\nசி.வி.இராமன் அவர்கள் நவம்பர் 7 ஆம் நாள், 1888ஆம் ஆண்டில் இந்தியாவில், தமிழ்நாட்டிலே உள்ள திருச்சிராபள்ளிக்கு அருகில் அமைந்த திருவானைக்காவல் எனும் ஊரில் பிறந்தார். இந்தியாவிலேயே முழுமையாகப் படித்த ஓர் அறிஞருக்கு 1930ல் நோபல் பரிசு கிடைத்தது முதல் முறையாகும்.\n\n== வாழ்க்கை ==\nசந்திரசேகர வெங்கட்ராமன் தந்தையார், இரா. சந்திரசேகர் ஐயர் ஒரு ஆசிர"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?",
+    "ground_truth": "அவர் தமிழ்நாட்டின் திருச்சிராபள்ளிக்கருகில் உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "== தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார். இவரின் தந்தை ராமேசுவரம் மற்றும் தனுஷ்கோடி இடையே மக்களைப் படகில் அழைத்துச் செல்லும் பணியில் ஈடுபட்டிருந்தார். இவருக்கு நான்கு சகோதரர்கள் மற்றும் ஒரு சகோதரி இருந்தனர்.",
+      "இவர் 2011-ஆம் ஆண்டில் தேச இளைஞர்களுக்காக, இந்தியாவில் ஊழலை ஒழிப்பதை மையக் கருவாகக் கொண்டு, \"நான் என்ன தர முடியும்\"  என்ற இயக்கத்தை ஆரம்பித்தார். == தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார்.",
+      "இவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர். == தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார். அவருடைய தந்தை மருதூர் கோபாலன் மேனன் வழக்கறிஞராக கேரளாவில் பணியாற்றி வந்தார், அதன் பிறகு அந்தமான்தீவிலுள்ள சிறையில் குற்றவியல் நீதிமன்ற நீதிபதியாகப் பணிபுரிந்து வந்தார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?",
+    "ground_truth": "அவர் தமிழ்நாட்டின் திருச்சிராபள்ளிக்கருகில் உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்.",
+    "answer": "அவர் தமிழ்நாட்டில், திருச்சிராபள்ளிக்கருகில் அமைந்த **திருவானைக்காவல்** ஊரில் பிறந்தார்.",
+    "contexts": [
+      "== தொடக்க வாழ்க்கையும் கல்வியும் ==\nகலாம் 1931-ஆம் ஆண்டு அக்டோபர் மாதம் 15-ஆம் நாளில், தென்னிந்திய மாநிலமான, தமிழ்நாட்டில் உள்ள இராமேசுவரத்தில் ஒரு படகுச் சொந்தக்காரரும், மரைக்காயரும் ஆன ஜைனுலாப்தீன் மற்றும் இல்லத்தரசி ஆசியம்மா ஆகியோருக்கு ஐந்தாவது மகனாகப் பிறந்தார். இவரின் தந்தை ராமேசுவரம் மற்றும் தனுஷ்கோடி இடையே மக்களைப் படகில் அழைத்துச் செல்லும் பணியில் ஈடுபட்டிருந்தார். இவருக்கு நான்கு சகோதரர்கள் மற்றும் ஒரு சகோதரி இருந்தனர்.",
+      "சி.வி.இராமன் அவர்கள் நவம்பர் 7 ஆம் நாள், 1888ஆம் ஆண்டில் இந்தியாவில், தமிழ்நாட்டிலே உள்ள திருச்சிராபள்ளிக்கு அருகில் அமைந்த திருவானைக்காவல் எனும் ஊரில் பிறந்தார். இந்தியாவிலேயே முழுமையாகப் படித்த ஓர் அறிஞருக்கு 1930ல் நோபல் பரிசு கிடைத்தது முதல் முறையாகும்.",
+      "அதன் பின் அண்ணா திராவிட முன்னேற்றக் கழகம் என்ற அரசியல் கட்சியைத் தொடங்கி, அதன் பாெதுச்செயலாளாராகி, சட்டமன்றத் தேர்தலில் நின்று தொடர்ந்து மூன்று முறை தமிழகத்தில் வெற்றிபெற்று முதலமைச்சரானார். இவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர். == தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?",
+    "ground_truth": "அவர் 1904 ஆம் ஆண்டு சென்னையின் மாநிலக் கல்லூரியில் சிறப்பு தகுதியுடன் முடித்தார்.",
+    "answer": "ராமன் தனது இளங்கலைப் பட்டப்படிப்பை **சென்னையிலுள்ள மாநிலக் கல்லூரியில் 1904 ஆண்டு** முடித்தார்.",
+    "contexts": [
+      "கட்ராமன் தந்தையார், இரா. சந்திரசேகர் ஐயர் ஒரு ஆசிரியர். தன் தந்தை விசாகப்பட்டினத்தில் இயற்பியல் விரிவுரையாளராகப் பணியாற்றியதால் வெங்கட்ராமன் அங்கேயே தன் பள்ளி படிப்பை முடித்தார். இவர் 1904ஆம் ஆண்டு சென்னையில் உள்ள மாநிலக் கல்லூரியில் தன்னுடைய இளங்கலைப் பட்டப்படிப்பை சிறப்பு தகுதியுடன் முடித்தார். வெங்கட்ராமன் தன் முதுகலை பட்டப்படிப்பை மாநிலக் கல்லூரியிலே தொடர்ந்தார். 1907ஆம் ஆண்டு ஜனவரியில் முதுநிலை பட்டப்படிப்பு தேர்வில் எல்லாப் பாடங்களிலும் சாதனை மதிப்பெண்களுடன் முதல் வகுப்பில் தேர்ச்சி பெற்றா",
+      "கப்பட்டார். இவர் தனது படிப்பில், குறிப்பாகக் கணிதம் கற்பதில் நேரத்தைச் செலவிட்டார். இராமநாதபுரம் மேல்நிலைப் பள்ளியில், பள்ளிக் கல்வியை முடித்த கலாம், 1954 -ஆம் ஆண்டு திருச்சிராப்பள்ளி தூய வளனார் கல்லூரியில் இயற்பியல் பட்டம் பெற்றார். கலாம் 1955 இல் சென்னைத் தொழில்நுட்ப நிறுவனத்தில் விண்வெளி பொறியியல் படிக்கச் சென்றார். இவர் ஒரு மூத்த வகுப்பு திட்டத்தில் பணிபுரிந்தபோது, இவரது பங்களிப்பில் அதிருப்தி அடைந்த ​​கல்லூரியின் தலைவர், அடுத்த மூன்று நாட்களுக்குள் திட்டத்தை முடிக்காவிட்டால் இவரது உதவித்தொக",
+      "னை மதிப்பெண்களுடன் முதல் வகுப்பில் தேர்ச்சி பெற்றார். 1907ஆம் ஆண்டு பிப்ரவரியில் நிதித்துறை தேர்வு எழுதி அதில் முதிலிடம் பெற்றார். 1907ஆம் ஆண்டு ஜூன் மாதத்தில் கொல்கத்தாவில் உள்ள கணக்குத்  துறை தலைமை அலுவலராக தனது வாழ்க்கையைத் துவங்கினார்.\nச. வெ. இராமன் பட்டம் பெற்றதும், அறிவியல் துறை சார்ந்த வேலை வாய்ப்புகள் இல்லாததால், இந்திய அரசுப் பணவியல் துறையில் 1907ல் ஒரு கணக்காயராகச் சேர்ந்தார். என்றாலும் பணியின் கூடவே கொல்கத்தாவில் உள்ள மருத்துவர் மகேந்திரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?",
+    "ground_truth": "அவர் 1904 ஆம் ஆண்டு சென்னையின் மாநிலக் கல்லூரியில் சிறப்பு தகுதியுடன் முடித்தார்.",
+    "answer": "கொடுக்கப்பட்ட தகவலின் அடிப்படையில் எனக்குத் தெரியவில்லை.",
+    "contexts": [
+      "கலாம் 1955 இல் சென்னைத் தொழில்நுட்ப நிறுவனத்தில் விண்வெளி பொறியியல் படிக்கச் சென்றார். இவர் ஒரு மூத்த வகுப்பு திட்டத்தில் பணிபுரிந்தபோது, இவரது பங்களிப்பில் அதிருப்தி அடைந்த ​​கல்லூரியின் தலைவர், அடுத்த மூன்று நாட்களுக்குள் திட்டத்தை முடிக்காவிட்டால் இவரது உதவித்தொகையை இரத்து செய்வதாக அச்சுறுத்தினார். இந்தக் காலக்கெடுவிற்குள் இதனை முடித்த கலாம், கல்லூரி தலைவரின் நன்மதிப்பை பெற்றார். அங்கு அவர் முதுகலை பட்டம் பெற்றார்.",
+      "தனது பள்ளிப் பருவத்தில், கலாம் சராசரி மாணவராக இருந்தார். ஆனால் கல்வி கற்க வேண்டும் என்ற விருப்பமுள்ள ஒரு கடின உழைப்பாளியாக விவரிக்கப்பட்டார். இவர் தனது படிப்பில், குறிப்பாகக் கணிதம் கற்பதில் நேரத்தைச் செலவிட்டார். இராமநாதபுரம் மேல்நிலைப் பள்ளியில், பள்ளிக் கல்வியை முடித்த கலாம், 1954 -ஆம் ஆண்டு திருச்சிராப்பள்ளி தூய வளனார் கல்லூரியில் இயற்பியல் பட்டம் பெற்றார். கலாம் 1955 இல் சென்னைத் தொழில்நுட்ப நிறுவனத்தில் விண்வெளி பொறியியல் படிக்கச் சென்றார்.",
+      "அங்கு அவர் முதுகலை பட்டம் பெற்றார். இவர் இந்திய வான்படையில் விமானி ஆவதற்கான தகுதிச் சுற்றில் நூலிழையில் வாய்ப்பைத் தவறவிட்டதனால், போர் விமானி ஆக வேண்டும் என்ற இவரது கனவு நிறைவேறாமல் போனது. == அறிவியல் பணித்துறை ==\nசென்னைத் தொழில்நுட்ப நிறுவனத்தில் 1960-ஆம் ஆண்டு பட்டப்படிப்பை முடித்த கலாம், பாதுகாப்பு ஆராய்ச்சி மற்றும் வளர்ச்சி அமைப்பின் (DRDO) வானூர்தி அபிவிருத்திப் பிரிவில் அறிவியலாளராகச் சேர்ந்தார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?",
+    "ground_truth": "அவர் 1904 ஆம் ஆண்டு சென்னையின் மாநிலக் கல்லூரியில் சிறப்பு தகுதியுடன் முடித்தார்.",
+    "answer": "ராமன் தனது இளங்கலை (இயற்பியல்) பட்டப்படிப்பை 1954 ஆம் ஆண்டு **திருச்சிராப்பள்ளி தூய வளனார் கல்லூரியில்** முடித்தார்.",
+    "contexts": [
+      "ராமன் விவரணப்படம் குறித்த பதிவு",
+      "இராமன் பட்டம் பெற்றதும், அறிவியல் துறை சார்ந்த வேலை வாய்ப்புகள் இல்லாததால், இந்திய அரசுப் பணவியல் துறையில் 1907ல் ஒரு கணக்காயராகச் சேர்ந்தார். என்றாலும் பணியின் கூடவே கொல்கத்தாவில் உள்ள மருத்துவர் மகேந்திரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார்.",
+      "இவர் தனது படிப்பில், குறிப்பாகக் கணிதம் கற்பதில் நேரத்தைச் செலவிட்டார். இராமநாதபுரம் மேல்நிலைப் பள்ளியில், பள்ளிக் கல்வியை முடித்த கலாம், 1954 -ஆம் ஆண்டு திருச்சிராப்பள்ளி தூய வளனார் கல்லூரியில் இயற்பியல் பட்டம் பெற்றார். கலாம் 1955 இல் சென்னைத் தொழில்நுட்ப நிறுவனத்தில் விண்வெளி பொறியியல் படிக்கச் சென்றார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?",
+    "ground_truth": "அவர் அந்தக் கழகத்தில் 15 ஆண்டுகள் பணியாற்றினார்.",
+    "answer": "ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் **15 ஆண்டுகள்** பணியாற்றினார்.",
+    "contexts": [
+      "ிரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார். பின்னர் 1917ல் கொல்கத்தா பல்கலைக்கழகத்தில் புதிதாக ஏற்படுத்தப்பட்டிருந்த பாலித் பீட இயற்பியல் பேராசிரியராகச் சேர்ந்தார். கொல்கத்தாவிலே 15 ஆண்டுகள் கழித்த பிறகு, இவர் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் (Indian Institute of Science) 15 ஆண்டுகள் கழித்தார். அதன் பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Ram",
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல",
+      "பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Raman Research Insitute) இயக்குநராக கடைசி நாட்கள் வரை பணியாற்றி வந்தார். இவர் நவம்பர் 21, 1970ல் இவ்வுலகில் இருந்து பிரிந்தார்.\n\n== அறிவியலுக்கு இவருடைய ஆக்கப்பணிகள் ==\nசி. வி. இராமன் 1926ல் இந்திய இயற்பியல் ஆய்விதழ் (Indian Journal of Physics) என்னும் அறிவியல் இதழை நிறுவி அதன் தொகுப்பாசிரியராகவும் பணிபுரிந்தார். இந்திய அறிவியல் அறிவுக்கழகத்தைத் (Indian Science Academy) ஆரம்பித்து, பின்னர் தானே அதன் தலைவராகவும் தொடக்கம் முதலாக இருந்து பணியாற்றினார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?",
+    "ground_truth": "அவர் அந்தக் கழகத்தில் 15 ஆண்டுகள் பணியாற்றினார்.",
+    "answer": "15 ஆண்டுகள்.",
+    "contexts": [
+      "பின்னர் 1917ல் கொல்கத்தா பல்கலைக்கழகத்தில் புதிதாக ஏற்படுத்தப்பட்டிருந்த பாலித் பீட இயற்பியல் பேராசிரியராகச் சேர்ந்தார். கொல்கத்தாவிலே 15 ஆண்டுகள் கழித்த பிறகு, இவர் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் (Indian Institute of Science) 15 ஆண்டுகள் கழித்தார். அதன் பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Raman Research Insitute) இயக்குநராக கடைசி நாட்கள் வரை பணியாற்றி வந்தார். இவர் நவம்பர் 21, 1970ல் இவ்வுலகில் இருந்து பிரிந்தார். == அறிவியலுக்கு இவருடைய ஆக்கப்பணிகள் ==\nசி. வி.",
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது.",
+      "வெ. இராமன் பட்டம் பெற்றதும், அறிவியல் துறை சார்ந்த வேலை வாய்ப்புகள் இல்லாததால், இந்திய அரசுப் பணவியல் துறையில் 1907ல் ஒரு கணக்காயராகச் சேர்ந்தார். என்றாலும் பணியின் கூடவே கொல்கத்தாவில் உள்ள மருத்துவர் மகேந்திரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?",
+    "ground_truth": "அவர் அந்தக் கழகத்தில் 15 ஆண்டுகள் பணியாற்றினார்.",
+    "answer": "ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் **15 ஆண்டுகள்** பணியாற்றினார்.",
+    "contexts": [
+      "பின்னர் 1917ல் கொல்கத்தா பல்கலைக்கழகத்தில் புதிதாக ஏற்படுத்தப்பட்டிருந்த பாலித் பீட இயற்பியல் பேராசிரியராகச் சேர்ந்தார். கொல்கத்தாவிலே 15 ஆண்டுகள் கழித்த பிறகு, இவர் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் (Indian Institute of Science) 15 ஆண்டுகள் கழித்தார். அதன் பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Raman Research Insitute) இயக்குநராக கடைசி நாட்கள் வரை பணியாற்றி வந்தார். இவர் நவம்பர் 21, 1970ல் இவ்வுலகில் இருந்து பிரிந்தார். == அறிவியலுக்கு இவருடைய ஆக்கப்பணிகள் ==\nசி. வி.",
+      "இராமன் பட்டம் பெற்றதும், அறிவியல் துறை சார்ந்த வேலை வாய்ப்புகள் இல்லாததால், இந்திய அரசுப் பணவியல் துறையில் 1907ல் ஒரு கணக்காயராகச் சேர்ந்தார். என்றாலும் பணியின் கூடவே கொல்கத்தாவில் உள்ள மருத்துவர் மகேந்திரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார்.",
+      "இராமன் 1926ல் இந்திய இயற்பியல் ஆய்விதழ் (Indian Journal of Physics) என்னும் அறிவியல் இதழை நிறுவி அதன் தொகுப்பாசிரியராகவும் பணிபுரிந்தார். இந்திய அறிவியல் அறிவுக்கழகத்தைத் (Indian Science Academy) ஆரம்பித்து, பின்னர் தானே அதன் தலைவராகவும் தொடக்கம் முதலாக இருந்து பணியாற்றினார். அதனுடைய அறிவியல் நடப்புகளை வெளியீடு செய்வதிலும் முன் நின்றார்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?",
+    "ground_truth": "அவர் இந்திய இயற்பியல் ஆய்விதழை (Indian Journal of Physics) நிறுவினார்.",
+    "answer": "1926 ஆண்டு நிறுவப்பட்ட அறிவியல் இதழின் பெயர் **இண்டியன் ஜர்னல் ஆஃப் ஃபிசிக்ஸ் (Indian Journal of Physics)**, தமிழில் **இந்திய இயற்பியல் ஆய்விதழ்**.",
+    "contexts": [
+      "பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Raman Research Insitute) இயக்குநராக கடைசி நாட்கள் வரை பணியாற்றி வந்தார். இவர் நவம்பர் 21, 1970ல் இவ்வுலகில் இருந்து பிரிந்தார்.\n\n== அறிவியலுக்கு இவருடைய ஆக்கப்பணிகள் ==\nசி. வி. இராமன் 1926ல் இந்திய இயற்பியல் ஆய்விதழ் (Indian Journal of Physics) என்னும் அறிவியல் இதழை நிறுவி அதன் தொகுப்பாசிரியராகவும் பணிபுரிந்தார். இந்திய அறிவியல் அறிவுக்கழகத்தைத் (Indian Science Academy) ஆரம்பித்து, பின்னர் தானே அதன் தலைவராகவும் தொடக்கம் முதலாக இருந்து பணியாற்றினார்.",
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல",
+      "ிரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார். பின்னர் 1917ல் கொல்கத்தா பல்கலைக்கழகத்தில் புதிதாக ஏற்படுத்தப்பட்டிருந்த பாலித் பீட இயற்பியல் பேராசிரியராகச் சேர்ந்தார். கொல்கத்தாவிலே 15 ஆண்டுகள் கழித்த பிறகு, இவர் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் (Indian Institute of Science) 15 ஆண்டுகள் கழித்தார். அதன் பின் அவராகவே நிறுவிய இராமன் ஆய்வுக்கழகத்தில் (Ram"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?",
+    "ground_truth": "அவர் இந்திய இயற்பியல் ஆய்விதழை (Indian Journal of Physics) நிறுவினார்.",
+    "answer": "1926‑ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் **இன்றிய இயற்பியல் ஆய்விதழ் (Indian Journal of Physics)** ஆகும்.",
+    "contexts": [
+      "வி. இராமன் 1926ல் இந்திய இயற்பியல் ஆய்விதழ் (Indian Journal of Physics) என்னும் அறிவியல் இதழை நிறுவி அதன் தொகுப்பாசிரியராகவும் பணிபுரிந்தார். இந்திய அறிவியல் அறிவுக்கழகத்தைத் (Indian Science Academy) ஆரம்பித்து, பின்னர் தானே அதன் தலைவராகவும் தொடக்கம் முதலாக இருந்து பணியாற்றினார். அதனுடைய அறிவியல் நடப்புகளை வெளியீடு செய்வதிலும் முன் நின்றார்.",
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது.",
+      "== அறிவியல் ஆராய்ச்சிகளும் கண்டுபிடிப்புகளும் ==\nஇந்திய இயற்பியல் ஆய்விதழில் (Indian J. Physics) இவர் ‘வெ’ப்ருவரி 28, 1928 ல் ஒரு புதிய ஒளிர்ப்பாடு (கதிர்வீச்சு) A new Radiation என்னும் தலைப்பில் தம் ஆய்வுக்கண்டுபிடிப்புகளின் கரியமாணிக்கம் சீனிவாச கிருட்டிணனுடன் சேர்ந்து அதன் முடிவுகளை வெளியிட்டார். இப்புது அறிவியல் ஒளி விளைவுதான் இவருக்கு நோபல் பரிசு பெறவும் தன் பெயரால் ஒரு அறிவியல் விளைவு பெயர் பெறவும் வழி வகுத்தது. இவர் இந்திய ஆய்விதழில் வெளியிட்டார் என்பது குறிப்பிடத்தக்கது."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?",
+    "ground_truth": "அவர் இந்திய இயற்பியல் ஆய்விதழை (Indian Journal of Physics) நிறுவினார்.",
+    "answer": "1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் **இண்டியன் ஜர்னல் ஆஃப் ஃபிசிக்ஸ் (Indian Journal of Physics)**.",
+    "contexts": [
+      "இராமன் 1926ல் இந்திய இயற்பியல் ஆய்விதழ் (Indian Journal of Physics) என்னும் அறிவியல் இதழை நிறுவி அதன் தொகுப்பாசிரியராகவும் பணிபுரிந்தார். இந்திய அறிவியல் அறிவுக்கழகத்தைத் (Indian Science Academy) ஆரம்பித்து, பின்னர் தானே அதன் தலைவராகவும் தொடக்கம் முதலாக இருந்து பணியாற்றினார். அதனுடைய அறிவியல் நடப்புகளை வெளியீடு செய்வதிலும் முன் நின்றார்.",
+      "இராமன் பட்டம் பெற்றதும், அறிவியல் துறை சார்ந்த வேலை வாய்ப்புகள் இல்லாததால், இந்திய அரசுப் பணவியல் துறையில் 1907ல் ஒரு கணக்காயராகச் சேர்ந்தார். என்றாலும் பணியின் கூடவே கொல்கத்தாவில் உள்ள மருத்துவர் மகேந்திரலால் சர்க்காரால் நிறுவப்பட்ட இந்திய அறிவியல் வளர்ச்சிக் கழகத்தில் (Indian Association for the Cultivation of Science), ஒளிச்சிதறல் பற்றி செயல்வழி (செய்முறை) ஆய்வுகள் நடத்தி வந்தார்.",
+      "இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது. இக்கண்டுபிடிப்பு இன்று பொருள்களின் பல விதமான பண்புகளைக் கண்டறிய (பொருளுக்கு கேடு ஏதும் நேராமலும்) மிகவும் பயனுடையதும் உலகில் புகழ் பெற்றதும் ஆகும்."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "fixed",
+    "question": "ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?",
+    "ground_truth": "அவர் 1954 இல் பாரத் ரத்னா (Bharat Ratna) விருதைப் பெற்றார்.",
+    "answer": "ராமன் 1954 ஆம் ஆண்டில் **பாரத ரத்னா** (Bharat Ratna) என்ற இந்தியாவின் உயர்ந்த விருதை பெற்றார்.",
+    "contexts": [
+      "்திருத்தகை எனும் பட்டம் வழங்கிச் சிறப்பித்தது.\n1929ல் ஆண்டில் இங்கிலாந்து அரசியாரால் சர் பட்டம் அளிக்கப் பட்டது.\nஇத்தாலி நாட்டின் உயர்பதக்கமான \"மேட்யூச்சி\" பதக்கம் வழங்கப்பட்டது.\nமைசூர் அரசர் \"இராசபாபூசன்\" பட்டத்தை 1935 ஆம் ஆண்டில் வழங்கினார்.\nபிலிடெல்பியா நிறுவனத்தின் \"பிராங்கிளின்\" பதக்கம் 1941 ஆம் ஆண்டில் வழங்கப்பட்டது.\nஇந்தியாவின் உயர் விருதான  பாரத ரத்னா விருது 1954 ஆம் ஆண்டில் இவருடைய வாழ்நாளிலேயே அளிக்கப்பட்டது.\n1957 ஆம் ஆண்டில் அகில \"உலக இலெனின் பரிசு\" அளிக்கப்பட்டது.\n\n== இவற்றையும் பார்",
+      "றிபெற்று முதலமைச்சரானார்.\nஇவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர்.\n\n== தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார்.\nஅவருடைய தந்தை மருதூர் கோபாலன் மேனன் வழக்கறிஞராக கேரளாவில் பணியாற்றி வந்தார், அதன் பிறகு அந்தமான்தீவிலுள்ள சிறையில் குற்றவியல் நீதிமன்ற நீதிபதியாகப் பணிபுரிந்து வந்தார். அப்போது ஆங்கிலயர்களின் அடக்கு முறை ஆட்",
+      ".\nஇவர் இந்தியாவின் உயரிய விருதான பாரத ரத்னா உட்பட, பல மதிப்புமிக்க விருதுகளைப் பெற்றுள்ளார். கலாம் தனது இந்தியா 2020 என்ற புத்தகத்தில் இந்தியாவை வளர்ந்த நாடாக மாற்ற திட்டங்களை முன்மொழிந்துள்ளார். கலாம் தனது ஊக்குவிக்கும் முறையிலான பேச்சுகளுக்காகவும், இந்திய மாணவர் சமூகத்துடன் நடத்திய கலந்துரையாடல்களுக்காகவும் பெரிதும் அறியப்படுகிறார். இவர் 2011-ஆம் ஆண்டில் தேச இளைஞர்களுக்காக, இந்தியாவில் ஊழலை ஒழிப்பதை மையக் கருவாகக் கொண்டு, \"நான் என்ன தர முடியும்\"  என்ற இயக்கத்தை ஆரம்பித்தார்.\n\n== தொடக்க வாழ்க்க"
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "recursive",
+    "question": "ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?",
+    "ground_truth": "அவர் 1954 இல் பாரத் ரத்னா (Bharat Ratna) விருதைப் பெற்றார்.",
+    "answer": "ராமன் 1954 ஆம் ஆண்டு இந்தியாவின் உயர்ந்த விருது olan **பாரத ரத்னா** விருதை பெற்றார்.",
+    "contexts": [
+      "இத்தாலி நாட்டின் உயர்பதக்கமான \"மேட்யூச்சி\" பதக்கம் வழங்கப்பட்டது. மைசூர் அரசர் \"இராசபாபூசன்\" பட்டத்தை 1935 ஆம் ஆண்டில் வழங்கினார். பிலிடெல்பியா நிறுவனத்தின் \"பிராங்கிளின்\" பதக்கம் 1941 ஆம் ஆண்டில் வழங்கப்பட்டது. இந்தியாவின் உயர் விருதான  பாரத ரத்னா விருது 1954 ஆம் ஆண்டில் இவருடைய வாழ்நாளிலேயே அளிக்கப்பட்டது. 1957 ஆம் ஆண்டில் அகில \"உலக இலெனின் பரிசு\" அளிக்கப்பட்டது.",
+      "இவர் உயரிய இந்திய நாட்டின் உயரிய விருதுகள் ஒன்றான பாரத ரத்னா விருதினை பெற்றவர். == தனிப்பட்ட வாழ்க்கை ==\n\n=== இளமைப் பருவம் ===\nஇராமச்சந்திரன் இலங்கையில், கண்டிக்கு அருகேயுள்ள நாவலப்பிட்டி என்ற இடத்தில் கோபாலன் மேனன் - சத்யபாமா பெற்றோருக்கு 5 வது மகனாகப் பிறந்தார். அவருடைய தந்தை மருதூர் கோபாலன் மேனன் வழக்கறிஞராக கேரளாவில் பணியாற்றி வந்தார், அதன் பிறகு அந்தமான்தீவிலுள்ள சிறையில் குற்றவியல் நீதிமன்ற நீதிபதியாகப் பணிபுரிந்து வந்தார்.",
+      "சர் சந்திரசேகர வெங்கட ராமன் (Chandrasekhara Venkata Raman) (நவம்பர் 7, 1888 - நவம்பர் 21, 1970) பெரும் புகழ் நாட்டிய இந்திய அறிவியல் அறிஞர் ஆவார். இவர் 1930ல் இயற்பியல் துறைக்கான நோபல் பரிசைப் பெற்றார். ஒளி ஒரு பொருளின் ஊடே செல்லும் பொழுது சிதறும் ஒளியலைகளில் ஏற்படும் அலைநீள மாற்றத்தை  இவர் கண்டுபிடித்தார். இப்படிச் சிதறும் ஒளியின் அலைநீள மாற்றத்திற்கு இராமன் விளைவு (Raman Effect) என்று பெயர். இக்கண்டுபிடிப்புக்காக 1930ல் இவருக்கு நோபல் பரிசு அளிக்கப்பட்டது."
+    ]
+  },
+  {
+    "slug": "c_v_raman",
+    "topic": "C. V. Raman",
+    "language": "ta",
+    "strategy": "semantic",
+    "question": "ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?",
+    "ground_truth": "அவர் 1954 இல் பாரத் ரத்னா (Bharat Ratna) விருதைப் பெற்றார்.",
+    "answer": "ராமன் 1954 ஆம் வருடத்தில் இந்தியாவின் உயர்ந்த விருதான **பாரத ரத்னா** விருதை பெற்றார்.",
+    "contexts": [
+      "பிரித்தானிய அரசு இவருக்கு 1929 ஆம் ஆண்டில் வீரத்திருத்தகை எனும் பட்டம் வழங்கிச் சிறப்பித்தது. 1929ல் ஆண்டில் இங்கிலாந்து அரசியாரால் சர் பட்டம் அளிக்கப் பட்டது. இத்தாலி நாட்டின் உயர்பதக்கமான \"மேட்யூச்சி\" பதக்கம் வழங்கப்பட்டது. மைசூர் அரசர் \"இராசபாபூசன்\" பட்டத்தை 1935 ஆம் ஆண்டில் வழங்கினார். பிலிடெல்பியா நிறுவனத்தின் \"பிராங்கிளின்\" பதக்கம் 1941 ஆம் ஆண்டில் வழங்கப்பட்டது. இந்தியாவின் உயர் விருதான  பாரத ரத்னா விருது 1954 ஆம் ஆண்டில் இவருடைய வாழ்நாளிலேயே அளிக்கப்பட்டது.",
+      "ராமன் விவரணப்படம் குறித்த பதிவு",
+      "இவர் \"மக்கள் சனாதிபதி\" என்று பரவலாகக் குறிப்பிடப்படுகின்றார். பிற்கால வாழ்வில் இவர் கல்வி, எழுத்து மற்றும் பொதுச் சேவைக்குத் திரும்பினார். பல கல்வி மற்றும் ஆராய்ச்சி நிறுவனங்களில் வருகைப் பேராசிரியர் ஆகப் பணியாற்றினார். இவர் இந்தியாவின் உயரிய விருதான பாரத ரத்னா உட்பட, பல மதிப்புமிக்க விருதுகளைப் பெற்றுள்ளார். கலாம் தனது இந்தியா 2020 என்ற புத்தகத்தில் இந்தியாவை வளர்ந்த நாடாக மாற்ற திட்டங்களை முன்மொழிந்துள்ளார்."
+    ]
+  },
+  {
+    "slug": "solar_system",
+    "topic": "Solar System",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What percentage of the Solar System's total mass is contributed by the Sun?",
+    "ground_truth": "The Sun accounts for 99.86% of the Solar System's total mass.",
+    "answer": "The Sun contributes **99.86 %** of the Solar System's total mass.",
+    "contexts": [
+      "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The Solar System is an isolated single-star planetary system (not part of a larger star system) within the Milky Way Galaxy. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.\nThe Sun accounts for 99.86% of the Sola",
+      "assembled.\nThe Sun accounts for 99.86% of the Solar System's total mass. Inside the Sun's core, hydrogen is fused into helium, releasing energy that is emitted through the Sun's photosphere. This creates the heliosphere and a decreasing temperature gradient across the Solar System.\nThe next most massive objects of the system are the eight planets, which by definition dominate the orbits they occupy. Closest to the Sun in order of increasing distance are the terrestrial planets – Mercury, Venus,",
+      "known mass and dominates it gravitationally. The Sun's four largest orbiting bodies, the giant planets, account for 99% of the remaining mass, with Jupiter and Saturn together comprising more than 90%. The remaining objects of the Solar System (including the four terrestrial planets, the dwarf planets, moons, asteroids, and comets) together comprise less than 0.002% of the Solar System's total mass.\nThe Sun is composed of roughly 98% hydrogen and helium, as are Jupiter and Saturn. A composition"
+    ]
+  },
+  {
+    "slug": "solar_system",
+    "topic": "Solar System",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What percentage of the Solar System's total mass is contributed by the Sun?",
+    "ground_truth": "The Sun accounts for 99.86% of the Solar System's total mass.",
+    "answer": "99.86% of the Solar System's total mass is contributed by the Sun.",
+    "contexts": [
+      "== Sun ==\n\nThe Sun is the Solar System's star and by far its most massive component. Its large mass (332,900 Earth masses), which comprises 99.86% of all the mass in the Solar System, produces temperatures and densities in its core high enough to sustain nuclear fusion of hydrogen into helium. This releases an enormous amount of energy, mostly radiated into space as electromagnetic radiation peaking in visible light. Because the Sun fuses hydrogen at its core, it is a main-sequence star.",
+      "Since the discovery of the Kuiper belt, the outermost parts of the Solar System are considered a distinct region consisting of the objects beyond Neptune. === Composition ===\n\nThe principal component of the Solar System is the Sun, a G-type main-sequence star that contains 99.86% of the system's known mass and dominates it gravitationally. The Sun's four largest orbiting bodies, the giant planets, account for 99% of the remaining mass, with Jupiter and Saturn together comprising more than 90%.",
+      "The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled. The Sun accounts for 99.86% of the Solar System's total mass. Inside the Sun's core, hydrogen is fused into helium, releasing energy that is emitted through the Sun's photosphere. This creates the heliosphere and a decreasing temperature gradient across the Solar System."
+    ]
+  },
+  {
+    "slug": "solar_system",
+    "topic": "Solar System",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What percentage of the Solar System's total mass is contributed by the Sun?",
+    "ground_truth": "The Sun accounts for 99.86% of the Solar System's total mass.",
+    "answer": "The Sun contributes **99.86 %** of the Solar System's total mass.",
+    "contexts": [
+      "The Sun accounts for 99.86% of the Solar System's total mass. Inside the Sun's core, hydrogen is fused into helium, releasing energy that is emitted through the Sun's photosphere. This creates the heliosphere and a decreasing temperature gradient across the Solar System. The next most massive objects of the system are the eight planets, which by definition dominate the orbits they occupy.",
+      "Since the discovery of the Kuiper belt, the outermost parts of the Solar System are considered a distinct region consisting of the objects beyond Neptune. === Composition ===\n\nThe principal component of the Solar System is the Sun, a G-type main-sequence star that contains 99.86% of the system's known mass and dominates it gravitationally. The Sun's four largest orbiting bodies, the giant planets, account for 99% of the remaining mass, with Jupiter and Saturn together comprising more than 90%.",
+      "The remaining objects of the Solar System (including the four terrestrial planets, the dwarf planets, moons, asteroids, and comets) together comprise less than 0.002% of the Solar System's total mass. The Sun is composed of roughly 98% hydrogen and helium, as are Jupiter and Saturn."
+    ]
+  },
+  {
+    "slug": "solar_system",
+    "topic": "Solar System",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which two planets are the only ones that orbit within the Sun's habitable zone?",
+    "ground_truth": "Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
+    "answer": "Earth and Mars.",
+    "contexts": [
+      "nce are the terrestrial planets – Mercury, Venus, Earth and Mars. These four planets are part of the inner Solar System. Earth and Mars are the only planets that orbit within the Sun's habitable zone, in which sunlight can keep surface water liquid under atmospheric pressure. Beyond the frost line at about five astronomical units (AU), are the planets of the outer Solar System: two gas giants (Jupiter and Saturn) and two ice giants (Uranus and Neptune). Jupiter and Saturn possess nearly 90% of t",
+      "ng the terrestrial planets and the asteroids. Composed mainly of silicates and metals, the objects of the inner Solar System are relatively close to the Sun; the radius of this entire region is less than the distance between the orbits of Jupiter and Saturn. This region is within the frost line, which is a little less than 5 AU from the Sun.\n\n=== Inner planets ===\n\nThe four terrestrial or inner planets have dense, rocky compositions, few or no moons, and no ring systems. They are composed largel",
+      "The Solar System is the gravitationally bound system of the Sun and the masses that orbit it, most prominently its eight planets, of which Earth is one. The Solar System is an isolated single-star planetary system (not part of a larger star system) within the Milky Way Galaxy. The system formed about 4.6 billion years ago when a dense region of a molecular cloud collapsed, creating the Sun and a protoplanetary disc from which the orbiting bodies assembled.\nThe Sun accounts for 99.86% of the Sola"
+    ]
+  },
+  {
+    "slug": "solar_system",
+    "topic": "Solar System",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which two planets are the only ones that orbit within the Sun's habitable zone?",
+    "ground_truth": "Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
+    "answer": "Earth and Mars.",
+    "contexts": [
+      "These four planets are part of the inner Solar System. Earth and Mars are the only planets that orbit within the Sun's habitable zone, in which sunlight can keep surface water liquid under atmospheric pressure. Beyond the frost line at about five astronomical units (AU), are the planets of the outer Solar System: two gas giants (Jupiter and Saturn) and two ice giants (Uranus and Neptune). Jupiter and Saturn possess nearly 90% of the non-stellar mass of the Solar System.",
+      "=== Habitability ===\n\nThe zone of habitability of the Solar System is conventionally located in the inner Solar System around Earth, where water can exist in liquid form on the surfaces of planets. Besides solar energy, other factors that enable habitability are the Sun's interplanetary magnetic field and the planetary magnetic fields (for those planets that have them). These magnetic fields partially shield planets from high-energy interstellar particles called cosmic rays.",
+      "== Inner Solar System ==\nThe inner Solar System is the region comprising the terrestrial planets and the asteroids. Composed mainly of silicates and metals, the objects of the inner Solar System are relatively close to the Sun; the radius of this entire region is less than the distance between the orbits of Jupiter and Saturn. This region is within the frost line, which is a little less than 5 AU from the Sun."
+    ]
+  },
+  {
+    "slug": "solar_system",
+    "topic": "Solar System",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which two planets are the only ones that orbit within the Sun's habitable zone?",
+    "ground_truth": "Earth and Mars are the only planets that orbit within the Sun's habitable zone.",
+    "answer": "Earth and Mars.",
+    "contexts": [
+      "Closest to the Sun in order of increasing distance are the terrestrial planets – Mercury, Venus, Earth and Mars. These four planets are part of the inner Solar System. Earth and Mars are the only planets that orbit within the Sun's habitable zone, in which sunlight can keep surface water liquid under atmospheric pressure.",
+      "=== Habitability ===\n\nThe zone of habitability of the Solar System is conventionally located in the inner Solar System around Earth, where water can exist in liquid form on the surfaces of planets. Besides solar energy, other factors that enable habitability are the Sun's interplanetary magnetic field and the planetary magnetic fields (for those planets that have them). These magnetic fields partially shield planets from high-energy interstellar particles called cosmic rays.",
+      "== Inner Solar System ==\nThe inner Solar System is the region comprising the terrestrial planets and the asteroids. Composed mainly of silicates and metals, the objects of the inner Solar System are relatively close to the Sun; the radius of this entire region is less than the distance between the orbits of Jupiter and Saturn. This region is within the frost line, which is a little less than 5 AU from the Sun."
+    ]
   }
 ]
