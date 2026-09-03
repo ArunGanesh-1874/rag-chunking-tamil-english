@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?",
+    "answer_relevancy": 0.74834144115448,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?",
+    "answer_relevancy": 0.7417201399803162,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?",
+    "answer_relevancy": 0.74834144115448,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "What river's fertile valley was the heartland of the Chola dynasty?",
+    "answer_relevancy": 0.3288341164588928,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "What river's fertile valley was the heartland of the Chola dynasty?",
+    "answer_relevancy": 0.7897394895553589,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "What river's fertile valley was the heartland of the Chola dynasty?",
+    "answer_relevancy": 0.3288341164588928,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?",
+    "answer_relevancy": 0.3310146927833557,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?",
+    "answer_relevancy": 0.8237012624740601,
+    "faithfulness": 1.0,
+    "context_precision": 1.0,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?",
+    "answer_relevancy": 0.3310146927833557,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "Which two prominent Chola kings are mentioned in Sangam literature?",
+    "answer_relevancy": 0.3082915246486664,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "Which two prominent Chola kings are mentioned in Sangam literature?",
+    "answer_relevancy": 0.3082915246486664,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "Which two prominent Chola kings are mentioned in Sangam literature?",
+    "answer_relevancy": 0.3082915246486664,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "fixed",
+    "question": "According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",
+    "answer_relevancy": 0.8192857503890991,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "recursive",
+    "question": "According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",
+    "answer_relevancy": 0.8038173913955688,
+    "faithfulness": 1.0,
+    "context_precision": 0.67,
+    "context_recall": 1.0
+  },
+  {
+    "slug": "chola_dynasty",
+    "topic": "Chola dynasty",
+    "language": "en",
+    "strategy": "semantic",
+    "question": "According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",
+    "answer_relevancy": 0.8192857503890991,
+    "faithfulness": 1.0,
+    "context_precision": 0.33,
+    "context_recall": 1.0
+  }
+]
