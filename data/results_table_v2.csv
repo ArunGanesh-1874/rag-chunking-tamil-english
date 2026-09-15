@@ -1,0 +1,7 @@
+language,strategy,Faithfulness,Answer Relevancy,Context Precision,Context Recall
+English,Fixed-size,0.989,0.599,0.55,0.959
+English,Recursive,0.999,0.61,0.644,0.961
+English,Semantic,0.998,0.578,0.524,0.927
+Tamil,Fixed-size,0.931,0.579,0.456,0.872
+Tamil,Recursive,0.964,0.591,0.524,0.912
+Tamil,Semantic,0.92,0.598,0.46,0.902

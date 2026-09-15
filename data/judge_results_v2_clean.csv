@@ -1,0 +1,775 @@
+question,language,slug,topic,strategy,answer_relevancy,faithfulness,context_precision,context_recall,qid
+"According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",en,chennai,Chennai,fixed,0.7596050500869751,1.0,0.33,1.0,6
+"According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",en,chennai,Chennai,recursive,0.7680389881134033,1.0,0.33,1.0,6
+"According to the 2011 Indian census, what population rank does Chennai hold among Indian cities?",en,chennai,Chennai,semantic,0.776193380355835,1.0,0.33,1.0,6
+"According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",en,chola_dynasty,Chola dynasty,fixed,0.8192857503890991,1.0,0.33,1.0,8
+"According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",en,chola_dynasty,Chola dynasty,recursive,0.8038173913955688,1.0,0.67,1.0,8
+"According to the Mahavamsa, which Chola prince invaded and conquered the Rajarata kingdom of Sri Lanka, and in what year?",en,chola_dynasty,Chola dynasty,semantic,0.8192857503890991,1.0,0.33,1.0,8
+"According to the Skanda Purana, which Tamil words compose the etymology of the name ""Kaveri"" and what do they mean?",en,kaveri_river,Kaveri River,fixed,0.7514336109161377,1.0,0.33,1.0,9
+"According to the Skanda Purana, which Tamil words compose the etymology of the name ""Kaveri"" and what do they mean?",en,kaveri_river,Kaveri River,recursive,0.2498200237751007,1.0,0.6666666667,0.5,9
+"According to the Skanda Purana, which Tamil words compose the etymology of the name ""Kaveri"" and what do they mean?",en,kaveri_river,Kaveri River,semantic,0.2498200237751007,1.0,0.0,0.0,9
+"According to the article, what role did Vidyaranya play in the founding of the empire?",en,vijayanagara_empire,Vijayanagara Empire,fixed,0.7655791640281677,1.0,0.67,1.0,10
+"According to the article, what role did Vidyaranya play in the founding of the empire?",en,vijayanagara_empire,Vijayanagara Empire,recursive,0.6981163024902344,1.0,0.67,1.0,10
+"According to the article, what role did Vidyaranya play in the founding of the empire?",en,vijayanagara_empire,Vijayanagara Empire,semantic,0.7391955852508545,1.0,0.33,1.0,10
+"After being shot in 1967, how was M. G. Ramachandran's voice affected in his subsequent films?",en,m_g_ramachandran,M. G. Ramachandran,fixed,0.792878270149231,1.0,0.33,1.0,11
+"After being shot in 1967, how was M. G. Ramachandran's voice affected in his subsequent films?",en,m_g_ramachandran,M. G. Ramachandran,recursive,0.7578381299972534,1.0,1.0,1.0,11
+"After being shot in 1967, how was M. G. Ramachandran's voice affected in his subsequent films?",en,m_g_ramachandran,M. G. Ramachandran,semantic,0.8065500259399414,1.0,0.67,1.0,11
+Approximately how many globally threatened species are found in the Western Ghats?,en,western_ghats,Western Ghats,fixed,0.5760281085968018,0.9,0.67,1.0,12
+Approximately how many globally threatened species are found in the Western Ghats?,en,western_ghats,Western Ghats,recursive,0.8632267713546753,1.0,1.0,1.0,12
+Approximately how many globally threatened species are found in the Western Ghats?,en,western_ghats,Western Ghats,semantic,0.8632267713546753,0.9,0.67,1.0,12
+Approximately how many poems are included in the Sangam literary works?,en,tamil_language,Tamil language,fixed,0.8348861336708069,1.0,0.33,1.0,15
+Approximately how many poems are included in the Sangam literary works?,en,tamil_language,Tamil language,recursive,0.8348861336708069,1.0,0.33,1.0,15
+Approximately how many poems are included in the Sangam literary works?,en,tamil_language,Tamil language,semantic,0.5326551198959351,0.95,0.67,1.0,15
+"Around what year has Tamil been attested, making it one of the longest‑surviving classical languages?",en,tamil_language,Tamil language,fixed,0.4268916845321655,1.0,0.33,1.0,17
+"Around what year has Tamil been attested, making it one of the longest‑surviving classical languages?",en,tamil_language,Tamil language,recursive,0.4268916845321655,1.0,0.67,1.0,17
+"Around what year has Tamil been attested, making it one of the longest‑surviving classical languages?",en,tamil_language,Tamil language,semantic,0.43767744302749634,1.0,0.67,1.0,17
+"At approximately what distance from the Sun does the solar wind encounter the interstellar medium, forming the heliopause?",en,solar_system,Solar System,fixed,0.5410482883453369,1.0,0.33,1.0,18
+"At approximately what distance from the Sun does the solar wind encounter the interstellar medium, forming the heliopause?",en,solar_system,Solar System,recursive,0.5283672213554382,1.0,0.6667,1.0,18
+"At approximately what distance from the Sun does the solar wind encounter the interstellar medium, forming the heliopause?",en,solar_system,Solar System,semantic,0.5454961061477661,1.0,0.67,1.0,18
+At what age was Gandhi called to the bar in London?,en,mahatma_gandhi,Mahatma Gandhi,fixed,0.6609850525856018,1.0,0.6667,1.0,21
+At what age was Gandhi called to the bar in London?,en,mahatma_gandhi,Mahatma Gandhi,recursive,0.8478692770004272,1.0,0.6667,1.0,21
+At what age was Gandhi called to the bar in London?,en,mahatma_gandhi,Mahatma Gandhi,semantic,0.8356707096099854,1.0,0.6666666667,1.0,21
+"At what ages did Raman complete his secondary and higher secondary education, and at which school?",en,c_v_raman,C. V. Raman,fixed,0.7669363021850586,1.0,0.6667,1.0,22
+"At what ages did Raman complete his secondary and higher secondary education, and at which school?",en,c_v_raman,C. V. Raman,recursive,0.7824128866195679,1.0,1.0,1.0,22
+"At what ages did Raman complete his secondary and higher secondary education, and at which school?",en,c_v_raman,C. V. Raman,semantic,0.7719876170158386,1.0,0.67,1.0,22
+At what elevation does the Kaveri river originate at Talakaveri?,en,kaveri_river,Kaveri River,fixed,0.8340027332305908,1.0,0.67,1.0,24
+At what elevation does the Kaveri river originate at Talakaveri?,en,kaveri_river,Kaveri River,recursive,0.8117440342903137,1.0,0.67,1.0,24
+At what elevation does the Kaveri river originate at Talakaveri?,en,kaveri_river,Kaveri River,semantic,0.8234977722167969,1.0,0.33,1.0,24
+At which Indian institute was Kalam delivering a lecture when he collapsed and died?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.6960757970809937,1.0,0.67,1.0,26
+At which Indian institute was Kalam delivering a lecture when he collapsed and died?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.5293495655059814,1.0,0.6667,1.0,26
+At which Indian institute was Kalam delivering a lecture when he collapsed and died?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.5293495655059814,1.0,0.67,1.0,26
+"Besides India, list two other nations where Tamil is an official language.",en,tamil_language,Tamil language,fixed,0.5169034600257874,1.0,0.67,1.0,27
+"Besides India, list two other nations where Tamil is an official language.",en,tamil_language,Tamil language,recursive,0.4987606704235077,1.0,0.33,1.0,27
+"Besides India, list two other nations where Tamil is an official language.",en,tamil_language,Tamil language,semantic,0.5169034600257874,1.0,0.67,1.0,27
+Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?,en,chola_dynasty,Chola dynasty,fixed,0.3310146927833557,1.0,0.67,1.0,28
+Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?,en,chola_dynasty,Chola dynasty,recursive,0.8237012624740601,1.0,1.0,1.0,28
+Between which years did the Cholas hold a unified state over peninsular India south of the Tungabhadra River?,en,chola_dynasty,Chola dynasty,semantic,0.3310146927833557,1.0,0.33,1.0,28
+"During the interregnum, which dynasty displaced the Cholas and other Tamil kingdoms in the 6th century?",en,chola_dynasty,Chola dynasty,fixed,0.2861469089984894,0.0,0.33,1.0,29
+"During the interregnum, which dynasty displaced the Cholas and other Tamil kingdoms in the 6th century?",en,chola_dynasty,Chola dynasty,recursive,0.6227052807807922,1.0,0.33,1.0,29
+"During the interregnum, which dynasty displaced the Cholas and other Tamil kingdoms in the 6th century?",en,chola_dynasty,Chola dynasty,semantic,0.7403485774993896,1.0,0.67,1.0,29
+During which geological periods did the Western Ghats form?,en,western_ghats,Western Ghats,fixed,0.7947350740432739,1.0,0.6667,1.0,30
+During which geological periods did the Western Ghats form?,en,western_ghats,Western Ghats,recursive,0.800296425819397,1.0,0.33,1.0,30
+During which geological periods did the Western Ghats form?,en,western_ghats,Western Ghats,semantic,0.800296425819397,1.0,0.33,1.0,30
+For how many years did Gandhi reside in South Africa?,en,mahatma_gandhi,Mahatma Gandhi,fixed,0.35628801584243774,1.0,0.67,1.0,31
+For how many years did Gandhi reside in South Africa?,en,mahatma_gandhi,Mahatma Gandhi,recursive,0.35628801584243774,1.0,1.0,1.0,31
+For how many years did Gandhi reside in South Africa?,en,mahatma_gandhi,Mahatma Gandhi,semantic,0.35628801584243774,1.0,0.67,1.0,31
+From which Indian state does Bharatanatyam originate?,en,bharatanatyam,Bharatanatyam,fixed,0.3711286783218384,1.0,0.33,1.0,32
+From which Indian state does Bharatanatyam originate?,en,bharatanatyam,Bharatanatyam,recursive,0.3711286783218384,1.0,1.0,1.0,32
+From which Indian state does Bharatanatyam originate?,en,bharatanatyam,Bharatanatyam,semantic,0.3711286783218384,1.0,0.67,1.0,32
+From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?,en,chola_dynasty,Chola dynasty,fixed,0.74834144115448,1.0,0.33,1.0,33
+From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?,en,chola_dynasty,Chola dynasty,recursive,0.7417201399803162,1.0,0.33,1.0,33
+From which century and during whose reign are the earliest datable references to the Chola dynasty recorded?,en,chola_dynasty,Chola dynasty,semantic,0.74834144115448,1.0,0.33,1.0,33
+"How far is the closest star, Proxima Centauri, from the Solar System in astronomical units?",en,solar_system,Solar System,fixed,0.30300867557525635,1.0,0.33,1.0,37
+"How far is the closest star, Proxima Centauri, from the Solar System in astronomical units?",en,solar_system,Solar System,recursive,0.30300867557525635,1.0,0.33,1.0,37
+"How far is the closest star, Proxima Centauri, from the Solar System in astronomical units?",en,solar_system,Solar System,semantic,0.30300867557525635,1.0,0.33,1.0,37
+How is the Kaveri river regarded in Southern Indian culture and religion?,en,kaveri_river,Kaveri River,fixed,0.760321855545044,1.0,0.67,1.0,39
+How is the Kaveri river regarded in Southern Indian culture and religion?,en,kaveri_river,Kaveri River,recursive,0.7467854022979736,1.0,1.0,1.0,39
+How is the Kaveri river regarded in Southern Indian culture and religion?,en,kaveri_river,Kaveri River,semantic,0.7171846628189087,1.0,0.67,1.0,39
+"How long does a typical Bharatanatyam program last, and does the dancer change costume during it?",en,bharatanatyam,Bharatanatyam,fixed,0.8263189792633057,1.0,0.33,1.0,40
+"How long does a typical Bharatanatyam program last, and does the dancer change costume during it?",en,bharatanatyam,Bharatanatyam,recursive,0.8383046388626099,1.0,0.67,1.0,40
+"How long does a typical Bharatanatyam program last, and does the dancer change costume during it?",en,bharatanatyam,Bharatanatyam,semantic,0.8377556800842285,1.0,0.33,1.0,40
+How long is the Western Ghats mountain range?,en,western_ghats,Western Ghats,fixed,0.7862542867660522,1.0,1.0,1.0,41
+How long is the Western Ghats mountain range?,en,western_ghats,Western Ghats,recursive,0.8167003989219666,1.0,0.67,1.0,41
+How long is the Western Ghats mountain range?,en,western_ghats,Western Ghats,semantic,0.8156536817550659,1.0,0.67,1.0,41
+How many World Heritage Sites are located in Tamil Nadu?,en,tamil_nadu,Tamil Nadu,fixed,0.8855413198471069,1.0,0.67,1.0,43
+How many World Heritage Sites are located in Tamil Nadu?,en,tamil_nadu,Tamil Nadu,recursive,0.8855413198471069,1.0,0.6667,1.0,43
+How many World Heritage Sites are located in Tamil Nadu?,en,tamil_nadu,Tamil Nadu,semantic,0.8855413198471069,1.0,0.33,1.0,43
+"How many peaks in the Himalayas exceed an elevation of 7,200 metres?",en,himalayas,Himalayas,fixed,0.8233430981636047,1.0,0.33,1.0,47
+"How many peaks in the Himalayas exceed an elevation of 7,200 metres?",en,himalayas,Himalayas,recursive,0.8233430981636047,1.0,0.33,1.0,47
+"How many peaks in the Himalayas exceed an elevation of 7,200 metres?",en,himalayas,Himalayas,semantic,0.8299182653427124,1.0,0.33,1.0,47
+"How tall is the southern tower, the tallest gopuram, and when was it constructed?",en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.8032976388931274,1.0,1.0,1.0,51
+"How tall is the southern tower, the tallest gopuram, and when was it constructed?",en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.8032976388931274,1.0,1.0,1.0,51
+"How tall is the southern tower, the tallest gopuram, and when was it constructed?",en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.8245521187782288,1.0,1.0,1.0,51
+In what year did the Central Government of India first recognize Tamil as a classical language?,en,tamil_language,Tamil language,fixed,0.2527652382850647,1.0,0.67,1.0,54
+In what year did the Central Government of India first recognize Tamil as a classical language?,en,tamil_language,Tamil language,recursive,0.8262903690338135,1.0,1.0,1.0,54
+In what year did the Central Government of India first recognize Tamil as a classical language?,en,tamil_language,Tamil language,semantic,0.2527652382850647,1.0,0.67,1.0,54
+In what year was Sadiraattam officially renamed Bharatanatyam?,en,bharatanatyam,Bharatanatyam,fixed,0.22919942438602448,1.0,0.67,1.0,55
+In what year was Sadiraattam officially renamed Bharatanatyam?,en,bharatanatyam,Bharatanatyam,recursive,0.22919942438602448,1.0,0.67,1.0,55
+In what year was Sadiraattam officially renamed Bharatanatyam?,en,bharatanatyam,Bharatanatyam,semantic,0.22919942438602448,1.0,0.67,1.0,55
+In what year was the Indian National Congress founded?,en,indian_independence_movement,Indian independence movement,fixed,0.32680219411849976,1.0,0.67,1.0,56
+In what year was the Indian National Congress founded?,en,indian_independence_movement,Indian independence movement,recursive,0.32680219411849976,1.0,0.6667,1.0,56
+In what year was the Indian National Congress founded?,en,indian_independence_movement,Indian independence movement,semantic,0.32680219411849976,1.0,0.67,1.0,56
+In what year was the Vijayanagara Empire founded and who were its founders?,en,vijayanagara_empire,Vijayanagara Empire,fixed,0.7353150844573975,1.0,0.6667,1.0,57
+In what year was the Vijayanagara Empire founded and who were its founders?,en,vijayanagara_empire,Vijayanagara Empire,recursive,0.7353150844573975,1.0,1.0,1.0,57
+In what year was the Vijayanagara Empire founded and who were its founders?,en,vijayanagara_empire,Vijayanagara Empire,semantic,0.6750036478042603,1.0,0.67,0.5,57
+In what year was the Western Ghats declared a UNESCO World Heritage Site?,en,western_ghats,Western Ghats,fixed,0.28751513361930847,1.0,0.6666666667,1.0,58
+In what year was the Western Ghats declared a UNESCO World Heritage Site?,en,western_ghats,Western Ghats,recursive,0.28751513361930847,1.0,0.67,1.0,58
+In what year was the Western Ghats declared a UNESCO World Heritage Site?,en,western_ghats,Western Ghats,semantic,0.268187016248703,1.0,0.33,1.0,58
+In which Indian state and union territory is Tamil primarily concentrated?,en,tamil_language,Tamil language,fixed,0.7527230978012085,1.0,1.0,1.0,59
+In which Indian state and union territory is Tamil primarily concentrated?,en,tamil_language,Tamil language,recursive,0.7527230978012085,1.0,0.67,1.0,59
+In which Indian state and union territory is Tamil primarily concentrated?,en,tamil_language,Tamil language,semantic,0.7431373000144958,1.0,1.0,1.0,59
+"In which year did Gandhi return to India, and how old was he at that time?",en,mahatma_gandhi,Mahatma Gandhi,fixed,0.7822802662849426,1.0,0.67,1.0,62
+"In which year did Gandhi return to India, and how old was he at that time?",en,mahatma_gandhi,Mahatma Gandhi,recursive,0.6357706785202026,1.0,0.67,1.0,62
+"In which year did Gandhi return to India, and how old was he at that time?",en,mahatma_gandhi,Mahatma Gandhi,semantic,0.7822802662849426,1.0,0.6667,1.0,62
+In which year did Kalam's project director role lead to the successful deployment of the Rohini satellite?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.6914434432983398,1.0,0.33,1.0,63
+In which year did Kalam's project director role lead to the successful deployment of the Rohini satellite?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.2615883946418762,1.0,0.33,1.0,63
+In which year did Kalam's project director role lead to the successful deployment of the Rohini satellite?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.27951472997665405,1.0,0.33,1.0,63
+"In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",en,c_v_raman,C. V. Raman,fixed,0.8185853958129883,1.0,0.33,1.0,64
+"In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",en,c_v_raman,C. V. Raman,recursive,0.8238959908485413,1.0,0.67,1.0,64
+"In which year did Raman become the first Indian director of the Indian Institute of Science, and which city did he move to?",en,c_v_raman,C. V. Raman,semantic,0.18338429927825928,1.0,0.67,0.0,64
+In which year was M. G. Ramachandran posthumously awarded the Bharat Ratna?,en,m_g_ramachandran,M. G. Ramachandran,fixed,0.3187997341156006,1.0,0.67,1.0,65
+In which year was M. G. Ramachandran posthumously awarded the Bharat Ratna?,en,m_g_ramachandran,M. G. Ramachandran,recursive,0.8203792572021484,1.0,1.0,1.0,65
+In which year was M. G. Ramachandran posthumously awarded the Bharat Ratna?,en,m_g_ramachandran,M. G. Ramachandran,semantic,0.3187997341156006,1.0,0.67,1.0,65
+In which year was the city officially renamed from Madras to Chennai?,en,chennai,Chennai,fixed,0.2818681299686432,1.0,0.67,1.0,67
+In which year was the city officially renamed from Madras to Chennai?,en,chennai,Chennai,recursive,0.2818681299686432,1.0,1.0,1.0,67
+In which year was the city officially renamed from Madras to Chennai?,en,chennai,Chennai,semantic,0.2818681299686432,1.0,1.0,1.0,67
+In which year was the state renamed Tamil Nadu?,en,tamil_nadu,Tamil Nadu,fixed,0.2832620143890381,1.0,0.67,1.0,69
+In which year was the state renamed Tamil Nadu?,en,tamil_nadu,Tamil Nadu,recursive,0.8066051006317139,1.0,1.0,1.0,69
+In which year was the state renamed Tamil Nadu?,en,tamil_nadu,Tamil Nadu,semantic,0.29920482635498047,1.0,0.6666666667,1.0,69
+In which year was the temple adjudged the best 'Swachh Iconic Place' in India?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.2892049551010132,1.0,0.33,1.0,70
+In which year was the temple adjudged the best 'Swachh Iconic Place' in India?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.2745896577835083,1.0,0.67,1.0,70
+In which year was the temple adjudged the best 'Swachh Iconic Place' in India?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.2892049551010132,1.0,0.33,1.0,70
+Name the five dwarf planets listed by the International Astronomical Union's Minor Planet Center.,en,solar_system,Solar System,fixed,0.47131550312042236,1.0,0.33,1.0,74
+Name the five dwarf planets listed by the International Astronomical Union's Minor Planet Center.,en,solar_system,Solar System,recursive,0.47131550312042236,1.0,0.33,1.0,74
+Name the five dwarf planets listed by the International Astronomical Union's Minor Planet Center.,en,solar_system,Solar System,semantic,0.47131550312042236,1.0,0.33,1.0,74
+Name the major rivers that rise in the vicinity of the Himalayas.,en,himalayas,Himalayas,fixed,0.7751541137695312,1.0,0.33,1.0,76
+Name the major rivers that rise in the vicinity of the Himalayas.,en,himalayas,Himalayas,recursive,0.7963058352470398,1.0,1.0,1.0,76
+Name the major rivers that rise in the vicinity of the Himalayas.,en,himalayas,Himalayas,semantic,0.5978838205337524,1.0,0.33,1.0,76
+Name three European travelers whose writings provide information about the Vijayanagara Empire.,en,vijayanagara_empire,Vijayanagara Empire,fixed,0.3226810693740845,1.0,0.6667,1.0,78
+Name three European travelers whose writings provide information about the Vijayanagara Empire.,en,vijayanagara_empire,Vijayanagara Empire,recursive,0.3226810693740845,1.0,1.0,1.0,78
+Name three European travelers whose writings provide information about the Vijayanagara Empire.,en,vijayanagara_empire,Vijayanagara Empire,semantic,0.3226810693740845,1.0,0.33,1.0,78
+Name three countries outside the Indian subcontinent where Tamil inscriptions have been found.,en,tamil_language,Tamil language,fixed,0.5599532127380371,1.0,0.3333333333,1.0,79
+Name three countries outside the Indian subcontinent where Tamil inscriptions have been found.,en,tamil_language,Tamil language,recursive,0.5599532127380371,1.0,0.6667,1.0,79
+Name three countries outside the Indian subcontinent where Tamil inscriptions have been found.,en,tamil_language,Tamil language,semantic,0.5599532127380371,1.0,0.3333333333,1.0,79
+Name three major river systems that originate in the Western Ghats.,en,western_ghats,Western Ghats,fixed,0.7638211250305176,1.0,0.33,1.0,80
+Name three major river systems that originate in the Western Ghats.,en,western_ghats,Western Ghats,recursive,0.4476320445537567,1.0,0.33,1.0,80
+Name three major river systems that originate in the Western Ghats.,en,western_ghats,Western Ghats,semantic,0.7849777340888977,1.0,0.33,1.0,80
+Name three of Bharati's literary works that were composed around 1912.,en,subramania_bharati,Subramania Bharati,fixed,0.40629029273986816,1.0,0.33,1.0,81
+Name three of Bharati's literary works that were composed around 1912.,en,subramania_bharati,Subramania Bharati,recursive,0.40629029273986816,1.0,0.33,1.0,81
+Name three of Bharati's literary works that were composed around 1912.,en,subramania_bharati,Subramania Bharati,semantic,0.40629029273986816,1.0,0.33,1.0,81
+Name two prominent leaders who followed Mahatma Gandhi’s non‑violent philosophy as mentioned in the article.,en,indian_independence_movement,Indian independence movement,fixed,0.4254607558250427,1.0,0.67,1.0,84
+Name two prominent leaders who followed Mahatma Gandhi’s non‑violent philosophy as mentioned in the article.,en,indian_independence_movement,Indian independence movement,recursive,0.4254607558250427,1.0,0.33,1.0,84
+Name two prominent leaders who followed Mahatma Gandhi’s non‑violent philosophy as mentioned in the article.,en,indian_independence_movement,Indian independence movement,semantic,0.4254607558250427,1.0,0.33,1.0,84
+On what date did the Constitution of India establish the Republic of India?,en,indian_independence_movement,Indian independence movement,fixed,0.7866185307502747,1.0,0.67,1.0,86
+On what date did the Constitution of India establish the Republic of India?,en,indian_independence_movement,Indian independence movement,recursive,0.3497180640697479,1.0,0.67,1.0,86
+On what date did the Constitution of India establish the Republic of India?,en,indian_independence_movement,Indian independence movement,semantic,0.3066486716270447,1.0,0.6666666667,1.0,86
+On what date was the Raman effect discovered?,en,c_v_raman,C. V. Raman,fixed,0.32808148860931396,1.0,0.67,1.0,89
+On what date was the Raman effect discovered?,en,c_v_raman,C. V. Raman,recursive,0.32808148860931396,1.0,0.33,1.0,89
+On what date was the Raman effect discovered?,en,c_v_raman,C. V. Raman,semantic,0.32808148860931396,1.0,0.6667,1.0,89
+On which river's southern bank is Meenakshi Temple located?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.7959155440330505,1.0,0.67,1.0,90
+On which river's southern bank is Meenakshi Temple located?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.7959155440330505,1.0,0.67,1.0,90
+On which river's southern bank is Meenakshi Temple located?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.807025671005249,1.0,0.67,1.0,90
+"Under which ruler did the empire reach its peak in the early 16th century, and what major territories did it annex?",en,vijayanagara_empire,Vijayanagara Empire,fixed,0.592348575592041,1.0,0.6667,1.0,94
+"Under which ruler did the empire reach its peak in the early 16th century, and what major territories did it annex?",en,vijayanagara_empire,Vijayanagara Empire,recursive,0.6407477259635925,1.0,1.0,1.0,94
+"Under which ruler did the empire reach its peak in the early 16th century, and what major territories did it annex?",en,vijayanagara_empire,Vijayanagara Empire,semantic,0.6085366010665894,1.0,0.67,1.0,94
+"What alternative name for the Kaveri river signifies its comparison to the Ganges, and what does it translate to?",en,kaveri_river,Kaveri River,fixed,0.28715044260025024,1.0,0.0,0.0,95
+"What alternative name for the Kaveri river signifies its comparison to the Ganges, and what does it translate to?",en,kaveri_river,Kaveri River,recursive,0.28715044260025024,1.0,0.0,0.0,95
+"What alternative name for the Kaveri river signifies its comparison to the Ganges, and what does it translate to?",en,kaveri_river,Kaveri River,semantic,0.5720608234405518,1.0,0.3333333333,1.0,95
+What architectural innovation resulted from merging different temple building traditions during the Vijayanagara period?,en,vijayanagara_empire,Vijayanagara Empire,fixed,0.5556176900863647,1.0,0.67,1.0,96
+What architectural innovation resulted from merging different temple building traditions during the Vijayanagara period?,en,vijayanagara_empire,Vijayanagara Empire,recursive,0.6473637819290161,1.0,0.6667,1.0,96
+What architectural innovation resulted from merging different temple building traditions during the Vijayanagara period?,en,vijayanagara_empire,Vijayanagara Empire,semantic,0.7030937671661377,0.9,0.6667,1.0,96
+What are the four parallel mountain ranges that make up the Himalayas from south to north?,en,himalayas,Himalayas,fixed,0.7706709504127502,1.0,0.6666666667,1.0,99
+What are the four parallel mountain ranges that make up the Himalayas from south to north?,en,himalayas,Himalayas,recursive,0.7363707423210144,1.0,0.67,1.0,99
+What are the four parallel mountain ranges that make up the Himalayas from south to north?,en,himalayas,Himalayas,semantic,0.7363303303718567,1.0,0.33,1.0,99
+What are the three categories of repertoire included in a Bharatanatyam performance?,en,bharatanatyam,Bharatanatyam,fixed,0.6635679602622986,1.0,0.33,1.0,101
+What are the three categories of repertoire included in a Bharatanatyam performance?,en,bharatanatyam,Bharatanatyam,recursive,0.5187559723854065,1.0,0.67,1.0,101
+What are the three categories of repertoire included in a Bharatanatyam performance?,en,bharatanatyam,Bharatanatyam,semantic,0.7727544903755188,1.0,0.67,1.0,101
+"What are the three components represented in the backronym interpretation of the word ""Bharatam""?",en,bharatanatyam,Bharatanatyam,fixed,0.7056781053543091,1.0,0.33,1.0,102
+"What are the three components represented in the backronym interpretation of the word ""Bharatam""?",en,bharatanatyam,Bharatanatyam,recursive,0.7218517661094666,1.0,1.0,1.0,102
+"What are the three components represented in the backronym interpretation of the word ""Bharatam""?",en,bharatanatyam,Bharatanatyam,semantic,0.7051548957824707,1.0,0.33,1.0,102
+What are the western and eastern anchor peaks of the Himalayas?,en,himalayas,Himalayas,fixed,0.5947036743164062,1.0,0.33,1.0,103
+What are the western and eastern anchor peaks of the Himalayas?,en,himalayas,Himalayas,recursive,0.5947036743164062,1.0,0.33,1.0,103
+What are the western and eastern anchor peaks of the Himalayas?,en,himalayas,Himalayas,semantic,0.5947036743164062,1.0,0.33,1.0,103
+"What battle in 1565 marked a major decline in the empire’s power, and when did the empire finally cease to exist?",en,vijayanagara_empire,Vijayanagara Empire,fixed,0.7791668176651001,1.0,1.0,1.0,104
+"What battle in 1565 marked a major decline in the empire’s power, and when did the empire finally cease to exist?",en,vijayanagara_empire,Vijayanagara Empire,recursive,0.7522566318511963,1.0,1.0,1.0,104
+"What battle in 1565 marked a major decline in the empire’s power, and when did the empire finally cease to exist?",en,vijayanagara_empire,Vijayanagara Empire,semantic,0.7522566318511963,1.0,1.0,1.0,104
+What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?,en,c_v_raman,C. V. Raman,fixed,0.5269542932510376,1.0,0.33,1.0,105
+What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?,en,c_v_raman,C. V. Raman,recursive,0.7058694362640381,1.0,0.67,1.0,105
+What distinction did Raman achieve when he received the Nobel Prize in Physics in 1930?,en,c_v_raman,C. V. Raman,semantic,0.7092535495758057,1.0,0.33,1.0,105
+"What event in 1908 forced Bharati to live in exile in Pondicherry, and how long did his exile last?",en,subramania_bharati,Subramania Bharati,fixed,0.7869855165481567,1.0,0.67,1.0,108
+"What event in 1908 forced Bharati to live in exile in Pondicherry, and how long did his exile last?",en,subramania_bharati,Subramania Bharati,recursive,0.7981720566749573,1.0,0.33,1.0,108
+"What event in 1908 forced Bharati to live in exile in Pondicherry, and how long did his exile last?",en,subramania_bharati,Subramania Bharati,semantic,0.7921273708343506,1.0,0.67,1.0,108
+What incident involving an Indian elephant occurred shortly before Bharati's death?,en,subramania_bharati,Subramania Bharati,fixed,0.5973072052001953,1.0,1.0,1.0,109
+What incident involving an Indian elephant occurred shortly before Bharati's death?,en,subramania_bharati,Subramania Bharati,recursive,0.6908515691757202,1.0,0.67,1.0,109
+What incident involving an Indian elephant occurred shortly before Bharati's death?,en,subramania_bharati,Subramania Bharati,semantic,0.6773636937141418,1.0,0.67,1.0,109
+What is Tamil Nadu's rank in size among Indian states by area?,en,tamil_nadu,Tamil Nadu,fixed,0.812195360660553,1.0,0.67,1.0,111
+What is Tamil Nadu's rank in size among Indian states by area?,en,tamil_nadu,Tamil Nadu,recursive,0.8367002010345459,1.0,1.0,1.0,111
+What is Tamil Nadu's rank in size among Indian states by area?,en,tamil_nadu,Tamil Nadu,semantic,0.812195360660553,1.0,0.67,1.0,111
+What is the capital and largest city of Tamil Nadu?,en,tamil_nadu,Tamil Nadu,fixed,0.5138135552406311,1.0,0.67,1.0,114
+What is the capital and largest city of Tamil Nadu?,en,tamil_nadu,Tamil Nadu,recursive,0.5138135552406311,1.0,1.0,1.0,114
+What is the capital and largest city of Tamil Nadu?,en,tamil_nadu,Tamil Nadu,semantic,0.5138135552406311,1.0,1.0,1.0,114
+What is the highest peak in the Western Ghats and its elevation?,en,western_ghats,Western Ghats,fixed,0.7530335187911987,1.0,0.67,1.0,118
+What is the highest peak in the Western Ghats and its elevation?,en,western_ghats,Western Ghats,recursive,0.7501003742218018,1.0,0.6667,1.0,118
+What is the highest peak in the Western Ghats and its elevation?,en,western_ghats,Western Ghats,semantic,0.7530335187911987,1.0,0.6667,1.0,118
+What is the length of the Himalayan mountain range arc?,en,himalayas,Himalayas,fixed,0.8089252710342407,1.0,0.3333333333,1.0,119
+What is the length of the Himalayan mountain range arc?,en,himalayas,Himalayas,recursive,0.8001883625984192,1.0,0.6666666667,1.0,119
+What is the length of the Himalayan mountain range arc?,en,himalayas,Himalayas,semantic,0.8053348660469055,1.0,0.33,1.0,119
+"What is the modern name of the empire’s capital city, and what UNESCO designation does it hold?",en,vijayanagara_empire,Vijayanagara Empire,fixed,0.7275791168212891,1.0,0.67,1.0,122
+"What is the modern name of the empire’s capital city, and what UNESCO designation does it hold?",en,vijayanagara_empire,Vijayanagara Empire,recursive,0.6485705971717834,1.0,0.67,1.0,122
+"What is the modern name of the empire’s capital city, and what UNESCO designation does it hold?",en,vijayanagara_empire,Vijayanagara Empire,semantic,0.7342462539672852,1.0,0.67,1.0,122
+What is the name of the main temple tank within the Meenakshi Temple complex?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.6473127007484436,1.0,0.33,1.0,125
+What is the name of the main temple tank within the Meenakshi Temple complex?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.6652494668960571,1.0,0.33,1.0,125
+What is the name of the main temple tank within the Meenakshi Temple complex?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.2955024540424347,1.0,0.33,1.0,125
+What is the total length of the Kaveri river and how is this length distributed between Karnataka and Tamil Nadu?,en,kaveri_river,Kaveri River,fixed,0.7660952806472778,1.0,0.33,0.67,127
+What is the total length of the Kaveri river and how is this length distributed between Karnataka and Tamil Nadu?,en,kaveri_river,Kaveri River,recursive,0.7692060470581055,1.0,0.33,0.67,127
+What is the total length of the Kaveri river and how is this length distributed between Karnataka and Tamil Nadu?,en,kaveri_river,Kaveri River,semantic,0.7954188585281372,1.0,0.33,0.67,127
+What legislation allowed indefinite detention and triggered protests that culminated in the Jallianwala Bagh massacre?,en,indian_independence_movement,Indian independence movement,fixed,0.3766787052154541,1.0,1.0,1.0,128
+What legislation allowed indefinite detention and triggered protests that culminated in the Jallianwala Bagh massacre?,en,indian_independence_movement,Indian independence movement,recursive,0.4336797297000885,1.0,0.67,1.0,128
+What legislation allowed indefinite detention and triggered protests that culminated in the Jallianwala Bagh massacre?,en,indian_independence_movement,Indian independence movement,semantic,0.4336797297000885,1.0,0.6667,1.0,128
+What national holiday in India commemorates Gandhi's birthday?,en,mahatma_gandhi,Mahatma Gandhi,fixed,0.5656968951225281,1.0,0.67,1.0,130
+What national holiday in India commemorates Gandhi's birthday?,en,mahatma_gandhi,Mahatma Gandhi,recursive,0.5656968951225281,1.0,0.6666666667,1.0,130
+What national holiday in India commemorates Gandhi's birthday?,en,mahatma_gandhi,Mahatma Gandhi,semantic,0.7678213119506836,1.0,0.33,1.0,130
+What percentage of the Solar System's total mass is contributed by the Sun?,en,solar_system,Solar System,fixed,0.8203911781311035,1.0,0.6666666667,1.0,132
+What percentage of the Solar System's total mass is contributed by the Sun?,en,solar_system,Solar System,recursive,0.8439279794692993,1.0,1.0,1.0,132
+What percentage of the Solar System's total mass is contributed by the Sun?,en,solar_system,Solar System,semantic,0.8203911781311035,1.0,0.67,1.0,132
+What political office did M. G. Ramachandran hold from 1977 until his death in 1987?,en,m_g_ramachandran,M. G. Ramachandran,fixed,0.5936460494995117,1.0,0.67,1.0,133
+What political office did M. G. Ramachandran hold from 1977 until his death in 1987?,en,m_g_ramachandran,M. G. Ramachandran,recursive,0.5962650775909424,1.0,0.67,1.0,133
+What political office did M. G. Ramachandran hold from 1977 until his death in 1987?,en,m_g_ramachandran,M. G. Ramachandran,semantic,0.21124647557735443,1.0,0.0,0.0,133
+What proportion of India's land area is drained by the rivers originating in the Western Ghats?,en,western_ghats,Western Ghats,fixed,0.8805919885635376,1.0,0.33,1.0,134
+What proportion of India's land area is drained by the rivers originating in the Western Ghats?,en,western_ghats,Western Ghats,recursive,0.23871734738349915,1.0,0.0,0.0,134
+What proportion of India's land area is drained by the rivers originating in the Western Ghats?,en,western_ghats,Western Ghats,semantic,0.8777141571044922,1.0,0.33,1.0,134
+What purposes do the dams on the Kaveri river serve?,en,kaveri_river,Kaveri River,fixed,0.2520368993282318,1.0,0.33,0.0,136
+What purposes do the dams on the Kaveri river serve?,en,kaveri_river,Kaveri River,recursive,0.7603105306625366,1.0,0.33,1.0,136
+What purposes do the dams on the Kaveri river serve?,en,kaveri_river,Kaveri River,semantic,0.2520368993282318,1.0,0.0,0.0,136
+What river's fertile valley was the heartland of the Chola dynasty?,en,chola_dynasty,Chola dynasty,fixed,0.3288341164588928,1.0,0.33,1.0,138
+What river's fertile valley was the heartland of the Chola dynasty?,en,chola_dynasty,Chola dynasty,recursive,0.7897394895553589,1.0,0.33,1.0,138
+What river's fertile valley was the heartland of the Chola dynasty?,en,chola_dynasty,Chola dynasty,semantic,0.3288341164588928,1.0,0.33,1.0,138
+What social reforms did Bharati advocate for during his lifetime?,en,subramania_bharati,Subramania Bharati,fixed,0.689348578453064,1.0,0.33,1.0,139
+What social reforms did Bharati advocate for during his lifetime?,en,subramania_bharati,Subramania Bharati,recursive,0.7097986936569214,1.0,0.67,1.0,139
+What social reforms did Bharati advocate for during his lifetime?,en,subramania_bharati,Subramania Bharati,semantic,0.1942465603351593,1.0,1.0,0.0,139
+What term describes the specific dance technique and style associated with a guru or school in Bharatanatyam?,en,bharatanatyam,Bharatanatyam,fixed,0.31800609827041626,1.0,0.33,1.0,140
+What term describes the specific dance technique and style associated with a guru or school in Bharatanatyam?,en,bharatanatyam,Bharatanatyam,recursive,0.31800609827041626,1.0,0.33,1.0,140
+What term describes the specific dance technique and style associated with a guru or school in Bharatanatyam?,en,bharatanatyam,Bharatanatyam,semantic,0.31800609827041626,1.0,0.33,1.0,140
+What title was Abdul Kalam popularly known by for his contributions to missile technology?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.46040236949920654,1.0,0.67,1.0,142
+What title was Abdul Kalam popularly known by for his contributions to missile technology?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.5834231972694397,1.0,0.67,1.0,142
+What title was Abdul Kalam popularly known by for his contributions to missile technology?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.600321352481842,1.0,0.33,1.0,142
+What was Chennai's estimated gross domestic product in 2023?,en,chennai,Chennai,fixed,0.8463631868362427,1.0,0.67,1.0,145
+What was Chennai's estimated gross domestic product in 2023?,en,chennai,Chennai,recursive,0.84523606300354,1.0,1.0,1.0,145
+What was Chennai's estimated gross domestic product in 2023?,en,chennai,Chennai,semantic,0.8463631868362427,1.0,0.67,1.0,145
+What was Kalam's father's occupation and religious role in Rameswaram?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.748183012008667,1.0,0.67,1.0,146
+What was Kalam's father's occupation and religious role in Rameswaram?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.7534526586532593,1.0,0.33,1.0,146
+What was Kalam's father's occupation and religious role in Rameswaram?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.753620982170105,1.0,0.33,1.0,146
+"What was Kalam's role in India's first nuclear test, Smiling Buddha, in 1974?",en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7783406972885132,1.0,0.33,1.0,147
+"What was Kalam's role in India's first nuclear test, Smiling Buddha, in 1974?",en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.7242153882980347,1.0,0.67,1.0,147
+"What was Kalam's role in India's first nuclear test, Smiling Buddha, in 1974?",en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.7135964632034302,1.0,0.33,1.0,147
+What was Tamil Nadu's gross state domestic product in December 2023 and how does it rank among Indian states?,en,tamil_nadu,Tamil Nadu,fixed,0.7968993186950684,1.0,0.67,1.0,148
+What was Tamil Nadu's gross state domestic product in December 2023 and how does it rank among Indian states?,en,tamil_nadu,Tamil Nadu,recursive,0.8055711984634399,1.0,0.67,1.0,148
+What was Tamil Nadu's gross state domestic product in December 2023 and how does it rank among Indian states?,en,tamil_nadu,Tamil Nadu,semantic,0.8091714382171631,1.0,0.33,1.0,148
+What was the approximate diameter of the protoplanetary disc that formed during the Solar System's formation?,en,solar_system,Solar System,fixed,0.6889744997024536,1.0,0.33,1.0,149
+What was the approximate diameter of the protoplanetary disc that formed during the Solar System's formation?,en,solar_system,Solar System,recursive,0.6914050579071045,1.0,0.33,1.0,149
+What was the approximate diameter of the protoplanetary disc that formed during the Solar System's formation?,en,solar_system,Solar System,semantic,0.6889744997024536,1.0,0.33,1.0,149
+What was the name of the 1930 protest in which Gandhi and followers marched 400 km to the sea?,en,mahatma_gandhi,Mahatma Gandhi,fixed,0.5018918514251709,1.0,1.0,1.0,150
+What was the name of the 1930 protest in which Gandhi and followers marched 400 km to the sea?,en,mahatma_gandhi,Mahatma Gandhi,recursive,0.4780663251876831,1.0,1.0,1.0,150
+What was the name of the 1930 protest in which Gandhi and followers marched 400 km to the sea?,en,mahatma_gandhi,Mahatma Gandhi,semantic,0.4734441041946411,1.0,0.67,1.0,150
+What was the name of the first British fortress built in India that is located in Chennai?,en,chennai,Chennai,fixed,0.3632541596889496,1.0,1.0,1.0,151
+What was the name of the first British fortress built in India that is located in Chennai?,en,chennai,Chennai,recursive,0.3632541596889496,1.0,0.67,1.0,151
+What was the name of the first British fortress built in India that is located in Chennai?,en,chennai,Chennai,semantic,0.3632541596889496,1.0,0.33,1.0,151
+"What was the title of his debut Tamil film in 1936, and who directed it?",en,m_g_ramachandran,M. G. Ramachandran,fixed,0.7250620722770691,1.0,0.67,1.0,153
+"What was the title of his debut Tamil film in 1936, and who directed it?",en,m_g_ramachandran,M. G. Ramachandran,recursive,0.7204914689064026,1.0,0.67,1.0,153
+"What was the title of his debut Tamil film in 1936, and who directed it?",en,m_g_ramachandran,M. G. Ramachandran,semantic,0.7250620722770691,1.0,0.67,1.0,153
+When was Mohandas Karamchand Gandhi born?,en,mahatma_gandhi,Mahatma Gandhi,fixed,0.8291663527488708,1.0,0.67,1.0,157
+When was Mohandas Karamchand Gandhi born?,en,mahatma_gandhi,Mahatma Gandhi,recursive,0.8291663527488708,1.0,1.0,1.0,157
+When was Mohandas Karamchand Gandhi born?,en,mahatma_gandhi,Mahatma Gandhi,semantic,0.2979569435119629,1.0,0.6666666667,1.0,157
+When was Subramania Bharati born and when did he die?,en,subramania_bharati,Subramania Bharati,fixed,0.7533605098724365,1.0,0.67,1.0,158
+When was Subramania Bharati born and when did he die?,en,subramania_bharati,Subramania Bharati,recursive,0.7533605098724365,1.0,0.67,1.0,158
+When was Subramania Bharati born and when did he die?,en,subramania_bharati,Subramania Bharati,semantic,0.7187266945838928,1.0,0.6667,1.0,158
+Where is the dwarf planet Ceres located within the Solar System?,en,solar_system,Solar System,fixed,0.6809170842170715,1.0,0.67,1.0,162
+Where is the dwarf planet Ceres located within the Solar System?,en,solar_system,Solar System,recursive,0.684881329536438,1.0,0.67,1.0,162
+Where is the dwarf planet Ceres located within the Solar System?,en,solar_system,Solar System,semantic,0.6869796514511108,1.0,0.67,1.0,162
+Where was C. V. Raman born and on what date?,en,c_v_raman,C. V. Raman,fixed,0.7788814902305603,1.0,0.33,1.0,164
+Where was C. V. Raman born and on what date?,en,c_v_raman,C. V. Raman,recursive,0.7788814902305603,1.0,0.67,1.0,164
+Where was C. V. Raman born and on what date?,en,c_v_raman,C. V. Raman,semantic,0.7788814902305603,1.0,0.33,1.0,164
+Where was M. G. Ramachandran born and what was his family's ethnic background?,en,m_g_ramachandran,M. G. Ramachandran,fixed,0.7712330222129822,1.0,0.67,1.0,166
+Where was M. G. Ramachandran born and what was his family's ethnic background?,en,m_g_ramachandran,M. G. Ramachandran,recursive,0.7743452787399292,1.0,0.67,1.0,166
+Where was M. G. Ramachandran born and what was his family's ethnic background?,en,m_g_ramachandran,M. G. Ramachandran,semantic,0.7961922883987427,1.0,0.67,0.0,166
+Which 1955 film of his was the Tamil film industry's first full‑length Gevacolor film?,en,m_g_ramachandran,M. G. Ramachandran,fixed,0.2812941372394562,1.0,0.33,1.0,167
+Which 1955 film of his was the Tamil film industry's first full‑length Gevacolor film?,en,m_g_ramachandran,M. G. Ramachandran,recursive,0.2812941372394562,1.0,0.33,1.0,167
+Which 1955 film of his was the Tamil film industry's first full‑length Gevacolor film?,en,m_g_ramachandran,M. G. Ramachandran,semantic,0.2812941372394562,1.0,0.33,1.0,167
+Which Indian activist and disciple of Swami Vivekananda did Bharati consider his guru?,en,subramania_bharati,Subramania Bharati,fixed,0.2516356110572815,1.0,0.6667,1.0,168
+Which Indian activist and disciple of Swami Vivekananda did Bharati consider his guru?,en,subramania_bharati,Subramania Bharati,recursive,0.2516356110572815,1.0,1.0,1.0,168
+Which Indian activist and disciple of Swami Vivekananda did Bharati consider his guru?,en,subramania_bharati,Subramania Bharati,semantic,0.2516356110572815,1.0,0.67,1.0,168
+Which Indian holiday commemorates the discovery of the Raman effect?,en,c_v_raman,C. V. Raman,fixed,0.3949401378631592,1.0,0.6667,1.0,169
+Which Indian holiday commemorates the discovery of the Raman effect?,en,c_v_raman,C. V. Raman,recursive,0.3949401378631592,1.0,0.67,1.0,169
+Which Indian holiday commemorates the discovery of the Raman effect?,en,c_v_raman,C. V. Raman,semantic,0.3949401378631592,1.0,0.6667,1.0,169
+Which Indian states does the Western Ghats traverse?,en,western_ghats,Western Ghats,fixed,0.8075551986694336,1.0,0.67,1.0,170
+Which Indian states does the Western Ghats traverse?,en,western_ghats,Western Ghats,recursive,0.8075551986694336,1.0,1.0,1.0,170
+Which Indian states does the Western Ghats traverse?,en,western_ghats,Western Ghats,semantic,0.8075551986694336,1.0,0.67,1.0,170
+"Which Sri Lankan province does Tamil Nadu share an international maritime border with, and at which island?",en,tamil_nadu,Tamil Nadu,fixed,0.7724745273590088,1.0,1.0,1.0,171
+"Which Sri Lankan province does Tamil Nadu share an international maritime border with, and at which island?",en,tamil_nadu,Tamil Nadu,recursive,0.7738462090492249,1.0,0.6666666667,1.0,171
+"Which Sri Lankan province does Tamil Nadu share an international maritime border with, and at which island?",en,tamil_nadu,Tamil Nadu,semantic,0.7722943425178528,1.0,0.67,1.0,171
+Which alternative name for the Cholas is derived from the Tamil word meaning “dig or cleave”?,en,chola_dynasty,Chola dynasty,fixed,0.3232274055480957,1.0,0.33,1.0,172
+Which alternative name for the Cholas is derived from the Tamil word meaning “dig or cleave”?,en,chola_dynasty,Chola dynasty,recursive,0.3232274055480957,1.0,0.67,1.0,172
+Which alternative name for the Cholas is derived from the Tamil word meaning “dig or cleave”?,en,chola_dynasty,Chola dynasty,semantic,0.3232274055480957,1.0,0.33,1.0,172
+Which battle in 1757 marked the East India Company’s rise as a major player in Indian affairs?,en,indian_independence_movement,Indian independence movement,fixed,0.5614004731178284,0.7,0.33,0.5,175
+Which battle in 1757 marked the East India Company’s rise as a major player in Indian affairs?,en,indian_independence_movement,Indian independence movement,recursive,0.3767777681350708,1.0,0.3333333333,1.0,175
+Which battle in 1757 marked the East India Company’s rise as a major player in Indian affairs?,en,indian_independence_movement,Indian independence movement,semantic,0.5614004731178284,1.0,0.33,1.0,175
+Which country did Gandhi move to in 1893 to represent an Indian merchant in a lawsuit?,en,mahatma_gandhi,Mahatma Gandhi,fixed,0.2525041401386261,1.0,0.6667,1.0,178
+Which country did Gandhi move to in 1893 to represent an Indian merchant in a lawsuit?,en,mahatma_gandhi,Mahatma Gandhi,recursive,0.2525041401386261,1.0,1.0,1.0,178
+Which country did Gandhi move to in 1893 to represent an Indian merchant in a lawsuit?,en,mahatma_gandhi,Mahatma Gandhi,semantic,0.2525041401386261,1.0,1.0,1.0,178
+"Which drama troupe did he join during his school days, and what type of roles did he perform overseas?",en,m_g_ramachandran,M. G. Ramachandran,fixed,0.6607494950294495,1.0,0.67,1.0,181
+"Which drama troupe did he join during his school days, and what type of roles did he perform overseas?",en,m_g_ramachandran,M. G. Ramachandran,recursive,0.7469491362571716,1.0,0.33,0.5,181
+"Which drama troupe did he join during his school days, and what type of roles did he perform overseas?",en,m_g_ramachandran,M. G. Ramachandran,semantic,0.7485260367393494,1.0,0.33,0.0,181
+Which empire rebuilt the temple in the 14th century after its destruction by the Delhi Sultanate?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.7384529113769531,1.0,0.33,1.0,183
+Which empire rebuilt the temple in the 14th century after its destruction by the Delhi Sultanate?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.821926474571228,1.0,1.0,1.0,183
+Which empire rebuilt the temple in the 14th century after its destruction by the Delhi Sultanate?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.7918752431869507,1.0,0.33,1.0,183
+Which government department is responsible for managing Meenakshi Temple?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.7651961445808411,1.0,0.3333333333,0.5,186
+Which government department is responsible for managing Meenakshi Temple?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.45811837911605835,1.0,0.33,1.0,186
+Which government department is responsible for managing Meenakshi Temple?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.45811837911605835,1.0,0.33,1.0,186
+"Which institution did Kalam attend to study aerospace engineering, and what challenge did he face there?",en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7262363433837891,1.0,0.67,1.0,188
+"Which institution did Kalam attend to study aerospace engineering, and what challenge did he face there?",en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.7415945529937744,1.0,0.67,1.0,188
+"Which institution did Kalam attend to study aerospace engineering, and what challenge did he face there?",en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.24670910835266113,1.0,0.33,0.0,188
+Which journal did Raman found in 1926?,en,c_v_raman,C. V. Raman,fixed,0.20348341763019562,1.0,0.0,0.0,190
+Which journal did Raman found in 1926?,en,c_v_raman,C. V. Raman,recursive,0.3778259754180908,1.0,0.67,1.0,190
+Which journal did Raman found in 1926?,en,c_v_raman,C. V. Raman,semantic,0.4055051803588867,1.0,0.33,1.0,190
+"Which language is Tamil’s closest major relative, and around which century did they begin diverging?",en,tamil_language,Tamil language,fixed,0.7962597608566284,1.0,0.67,1.0,191
+"Which language is Tamil’s closest major relative, and around which century did they begin diverging?",en,tamil_language,Tamil language,recursive,0.7962597608566284,1.0,0.67,1.0,191
+"Which language is Tamil’s closest major relative, and around which century did they begin diverging?",en,tamil_language,Tamil language,semantic,0.7962597608566284,1.0,0.33,1.0,191
+Which language is most widely spoken by the residents of Chennai?,en,chennai,Chennai,fixed,0.5093305706977844,1.0,0.6667,1.0,192
+Which language is most widely spoken by the residents of Chennai?,en,chennai,Chennai,recursive,0.8346726298332214,1.0,0.6666666667,1.0,192
+Which language is most widely spoken by the residents of Chennai?,en,chennai,Chennai,semantic,0.8333110213279724,1.0,0.6667,1.0,192
+Which language serves as Tamil Nadu's official language and what unique recognition does it hold?,en,tamil_nadu,Tamil Nadu,fixed,0.7535065412521362,1.0,0.67,1.0,193
+Which language serves as Tamil Nadu's official language and what unique recognition does it hold?,en,tamil_nadu,Tamil Nadu,recursive,0.7535065412521362,1.0,1.0,1.0,193
+Which language serves as Tamil Nadu's official language and what unique recognition does it hold?,en,tamil_nadu,Tamil Nadu,semantic,0.7528613209724426,1.0,1.0,1.0,193
+Which major tributary joins the Kaveri at Krishna Raja Sagara?,en,kaveri_river,Kaveri River,fixed,0.7225345373153687,1.0,0.33,1.0,195
+Which major tributary joins the Kaveri at Krishna Raja Sagara?,en,kaveri_river,Kaveri River,recursive,0.6839649081230164,1.0,0.6666666667,1.0,195
+Which major tributary joins the Kaveri at Krishna Raja Sagara?,en,kaveri_river,Kaveri River,semantic,0.6902202367782593,1.0,0.33,1.0,195
+"Which medieval Chola ruler’s successors turned the empire into a military, economic, and cultural powerhouse in South and Southeast Asia?",en,chola_dynasty,Chola dynasty,fixed,0.25200045108795166,1.0,0.33,1.0,196
+"Which medieval Chola ruler’s successors turned the empire into a military, economic, and cultural powerhouse in South and Southeast Asia?",en,chola_dynasty,Chola dynasty,recursive,0.25200045108795166,1.0,0.33,1.0,196
+"Which medieval Chola ruler’s successors turned the empire into a military, economic, and cultural powerhouse in South and Southeast Asia?",en,chola_dynasty,Chola dynasty,semantic,0.25200045108795166,1.0,0.33,1.0,196
+Which modern Indian states were largely encompassed by the Vijayanagara Empire’s territory?,en,vijayanagara_empire,Vijayanagara Empire,fixed,0.4348002076148987,1.0,0.33,0.0,197
+Which modern Indian states were largely encompassed by the Vijayanagara Empire’s territory?,en,vijayanagara_empire,Vijayanagara Empire,recursive,0.7511831521987915,1.0,0.33,0.29,197
+Which modern Indian states were largely encompassed by the Vijayanagara Empire’s territory?,en,vijayanagara_empire,Vijayanagara Empire,semantic,0.4348002076148987,1.0,0.67,0.29,197
+"Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",en,himalayas,Himalayas,fixed,0.3000376224517822,1.0,0.33,1.0,198
+"Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",en,himalayas,Himalayas,recursive,0.2086687982082367,1.0,0.0,0.0,198
+"Which mountain is the highest point of India and the most easterly 8,000‑metre summit?",en,himalayas,Himalayas,semantic,0.3000376224517822,1.0,0.33,1.0,198
+"Which movement, occurring from 1929 to 1931, called for active disobedience to the colonial government?",en,indian_independence_movement,Indian independence movement,fixed,0.7482208609580994,1.0,0.67,1.0,199
+"Which movement, occurring from 1929 to 1931, called for active disobedience to the colonial government?",en,indian_independence_movement,Indian independence movement,recursive,0.7482208609580994,1.0,0.6666666667,1.0,199
+"Which movement, occurring from 1929 to 1931, called for active disobedience to the colonial government?",en,indian_independence_movement,Indian independence movement,semantic,0.6453909277915955,1.0,1.0,1.0,199
+Which municipal corporation administers Chennai and in what year was it incorporated?,en,chennai,Chennai,fixed,0.7324862480163574,1.0,0.67,1.0,200
+Which municipal corporation administers Chennai and in what year was it incorporated?,en,chennai,Chennai,recursive,0.7324862480163574,1.0,1.0,1.0,200
+Which municipal corporation administers Chennai and in what year was it incorporated?,en,chennai,Chennai,semantic,0.7399541139602661,1.0,1.0,1.0,200
+"Which newspapers did Bharati edit while in Pondicherry, and which of his publications were banned in British India in 1909?",en,subramania_bharati,Subramania Bharati,fixed,0.7837557196617126,1.0,0.67,1.0,202
+"Which newspapers did Bharati edit while in Pondicherry, and which of his publications were banned in British India in 1909?",en,subramania_bharati,Subramania Bharati,recursive,0.8131296634674072,1.0,0.67,1.0,202
+"Which newspapers did Bharati edit while in Pondicherry, and which of his publications were banned in British India in 1909?",en,subramania_bharati,Subramania Bharati,semantic,0.7681592106819153,1.0,0.33,1.0,202
+Which organization officially recognizes Bharatanatyam as a classical dance form?,en,bharatanatyam,Bharatanatyam,fixed,0.826115608215332,1.0,0.33,1.0,204
+Which organization officially recognizes Bharatanatyam as a classical dance form?,en,bharatanatyam,Bharatanatyam,recursive,0.3500782251358032,1.0,0.33,1.0,204
+Which organization officially recognizes Bharatanatyam as a classical dance form?,en,bharatanatyam,Bharatanatyam,semantic,0.3500782251358032,1.0,0.33,1.0,204
+Which political party did he found and serve as its first general secretary?,en,m_g_ramachandran,M. G. Ramachandran,fixed,0.6621443033218384,1.0,1.0,1.0,208
+Which political party did he found and serve as its first general secretary?,en,m_g_ramachandran,M. G. Ramachandran,recursive,0.6621443033218384,1.0,0.67,1.0,208
+Which political party did he found and serve as its first general secretary?,en,m_g_ramachandran,M. G. Ramachandran,semantic,0.32532137632369995,1.0,0.6667,1.0,208
+Which quartet is credited with formalizing the basic structure of modern Bharatanatyam?,en,bharatanatyam,Bharatanatyam,fixed,0.5041584968566895,1.0,0.67,1.0,212
+Which quartet is credited with formalizing the basic structure of modern Bharatanatyam?,en,bharatanatyam,Bharatanatyam,recursive,0.5041584968566895,1.0,0.33,1.0,212
+Which quartet is credited with formalizing the basic structure of modern Bharatanatyam?,en,bharatanatyam,Bharatanatyam,semantic,0.5041584968566895,1.0,0.33,1.0,212
+Which region was annexed by the British in 1849 following the Second Anglo‑Sikh War?,en,indian_independence_movement,Indian independence movement,fixed,0.32912927865982056,1.0,0.33,1.0,213
+Which region was annexed by the British in 1849 following the Second Anglo‑Sikh War?,en,indian_independence_movement,Indian independence movement,recursive,0.32912927865982056,1.0,0.33,1.0,213
+Which region was annexed by the British in 1849 following the Second Anglo‑Sikh War?,en,indian_independence_movement,Indian independence movement,semantic,0.32912927865982056,1.0,0.33,1.0,213
+Which script was used for Tamil before the current standardized script was adopted?,en,tamil_language,Tamil language,fixed,0.707442045211792,1.0,0.33,1.0,215
+Which script was used for Tamil before the current standardized script was adopted?,en,tamil_language,Tamil language,recursive,0.8510926365852356,1.0,0.67,1.0,215
+Which script was used for Tamil before the current standardized script was adopted?,en,tamil_language,Tamil language,semantic,0.8360888957977295,1.0,0.67,1.0,215
+Which states and union territory are included in the Kaveri basin's catchment area?,en,kaveri_river,Kaveri River,fixed,0.7598838210105896,1.0,0.67,1.0,217
+Which states and union territory are included in the Kaveri basin's catchment area?,en,kaveri_river,Kaveri River,recursive,0.7598838210105896,1.0,0.67,1.0,217
+Which states and union territory are included in the Kaveri basin's catchment area?,en,kaveri_river,Kaveri River,semantic,0.7598838210105896,1.0,0.67,1.0,217
+Which three Hindu denominations does the temple represent a confluence of?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.4186287522315979,1.0,1.0,1.0,218
+Which three Hindu denominations does the temple represent a confluence of?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.4186287522315979,1.0,1.0,1.0,218
+Which three Hindu denominations does the temple represent a confluence of?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.7605575323104858,1.0,0.67,1.0,218
+"Which title was given to Subramania Bharati in recognition of his poetry, and at what age did he receive it?",en,subramania_bharati,Subramania Bharati,fixed,0.8038973212242126,1.0,0.67,1.0,219
+"Which title was given to Subramania Bharati in recognition of his poetry, and at what age did he receive it?",en,subramania_bharati,Subramania Bharati,recursive,0.6441175937652588,1.0,0.67,1.0,219
+"Which title was given to Subramania Bharati in recognition of his poetry, and at what age did he receive it?",en,subramania_bharati,Subramania Bharati,semantic,0.6546550393104553,1.0,0.67,1.0,219
+Which two deities are the primary focus of the temple's dedication?,en,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.6833465099334717,1.0,1.0,1.0,221
+Which two deities are the primary focus of the temple's dedication?,en,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.6836421489715576,0.9,0.6666666667,0.9,221
+Which two deities are the primary focus of the temple's dedication?,en,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.6989843249320984,1.0,1.0,1.0,221
+Which two major Indian political parties supported Kalam's election as president in 2002?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7412910461425781,1.0,0.33,1.0,222
+Which two major Indian political parties supported Kalam's election as president in 2002?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.4335941672325134,1.0,0.67,1.0,222
+Which two major Indian political parties supported Kalam's election as president in 2002?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.775489866733551,1.0,0.33,1.0,222
+Which two missile development projects did Kalam direct in the 1970s?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.42684656381607056,1.0,0.33,1.0,223
+Which two missile development projects did Kalam direct in the 1970s?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.42684656381607056,1.0,0.6666666667,1.0,223
+Which two missile development projects did Kalam direct in the 1970s?,en,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.42684656381607056,1.0,0.33,1.0,223
+"Which two moons are larger than the smallest planet Mercury, and which planets do they orbit?",en,solar_system,Solar System,fixed,0.7621989846229553,1.0,0.33,1.0,224
+"Which two moons are larger than the smallest planet Mercury, and which planets do they orbit?",en,solar_system,Solar System,recursive,0.6222243309020996,1.0,0.67,1.0,224
+"Which two moons are larger than the smallest planet Mercury, and which planets do they orbit?",en,solar_system,Solar System,semantic,0.7207310199737549,1.0,0.33,1.0,224
+Which two planets are the only ones that orbit within the Sun's habitable zone?,en,solar_system,Solar System,fixed,0.47369733452796936,1.0,0.33,1.0,225
+Which two planets are the only ones that orbit within the Sun's habitable zone?,en,solar_system,Solar System,recursive,0.47369733452796936,1.0,0.33,1.0,225
+Which two planets are the only ones that orbit within the Sun's habitable zone?,en,solar_system,Solar System,semantic,0.47369733452796936,1.0,0.33,1.0,225
+Which two prominent Chola kings are mentioned in Sangam literature?,en,chola_dynasty,Chola dynasty,fixed,0.3082915246486664,1.0,0.33,1.0,226
+Which two prominent Chola kings are mentioned in Sangam literature?,en,chola_dynasty,Chola dynasty,recursive,0.3082915246486664,1.0,0.33,1.0,226
+Which two prominent Chola kings are mentioned in Sangam literature?,en,chola_dynasty,Chola dynasty,semantic,0.3082915246486664,1.0,0.33,1.0,226
+"Who assassinated Gandhi, and where did the assassination take place?",en,mahatma_gandhi,Mahatma Gandhi,fixed,0.6852573156356812,1.0,0.67,1.0,227
+"Who assassinated Gandhi, and where did the assassination take place?",en,mahatma_gandhi,Mahatma Gandhi,recursive,0.7489621639251709,1.0,1.0,1.0,227
+"Who assassinated Gandhi, and where did the assassination take place?",en,mahatma_gandhi,Mahatma Gandhi,semantic,0.6805433630943298,1.0,1.0,1.0,227
+Who was Raman's famous Nobel laureate nephew?,en,c_v_raman,C. V. Raman,fixed,0.3640614151954651,1.0,0.67,1.0,230
+Who was Raman's famous Nobel laureate nephew?,en,c_v_raman,C. V. Raman,recursive,0.3640614151954651,1.0,0.6667,1.0,230
+Who was Raman's famous Nobel laureate nephew?,en,c_v_raman,C. V. Raman,semantic,0.3640614151954651,1.0,0.6667,1.0,230
+Who was the first European to reach India via the Atlantic Ocean and in which year did this occur?,en,indian_independence_movement,Indian independence movement,fixed,0.31813138723373413,1.0,0.33,1.0,232
+Who was the first European to reach India via the Atlantic Ocean and in which year did this occur?,en,indian_independence_movement,Indian independence movement,recursive,0.728193998336792,1.0,0.33,1.0,232
+Who was the first European to reach India via the Atlantic Ocean and in which year did this occur?,en,indian_independence_movement,Indian independence movement,semantic,0.7142255306243896,1.0,0.33,1.0,232
+"""சோழ நாடு சோறுடைத்து"" என்ற சொற்றொடர் எதைக் குறிக்கிறது?",ta,chola_dynasty,Chola dynasty,fixed,0.7177658081054688,1.0,0.33,1.0,0
+"""சோழ நாடு சோறுடைத்து"" என்ற சொற்றொடர் எதைக் குறிக்கிறது?",ta,chola_dynasty,Chola dynasty,recursive,0.7106969356536865,0.75,0.33,1.0,0
+"""சோழ நாடு சோறுடைத்து"" என்ற சொற்றொடர் எதைக் குறிக்கிறது?",ta,chola_dynasty,Chola dynasty,semantic,0.7470970749855042,1.0,0.33,1.0,0
+10-12 ஆம் நூற்றாண்டுகளில் சோழரின் நிலை எப்படியிருந்தது?,ta,chola_dynasty,Chola dynasty,fixed,0.6992617845535278,1.0,0.67,1.0,1
+10-12 ஆம் நூற்றாண்டுகளில் சோழரின் நிலை எப்படியிருந்தது?,ta,chola_dynasty,Chola dynasty,recursive,0.7539199590682983,1.0,0.67,1.0,1
+10-12 ஆம் நூற்றாண்டுகளில் சோழரின் நிலை எப்படியிருந்தது?,ta,chola_dynasty,Chola dynasty,semantic,0.6769582033157349,1.0,1.0,1.0,1
+1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?,ta,c_v_raman,C. V. Raman,fixed,0.5730727314949036,1.0,0.33,1.0,2
+1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?,ta,c_v_raman,C. V. Raman,recursive,0.7676469683647156,1.0,0.6667,1.0,2
+1926ல் ராமன் நிறுவிய அறிவியல் இதழின் பெயர் என்ன?,ta,c_v_raman,C. V. Raman,semantic,0.7731298804283142,1.0,0.33,1.0,2
+1932 ஆம் ஆண்டு பரத நாட்டியத்தின் புதிய பெயரை முன்மொழிந்தோர் யார்?,ta,bharatanatyam,Bharatanatyam,fixed,0.749968945980072,1.0,0.33,1.0,3
+1932 ஆம் ஆண்டு பரத நாட்டியத்தின் புதிய பெயரை முன்மொழிந்தோர் யார்?,ta,bharatanatyam,Bharatanatyam,recursive,0.7608097195625305,1.0,0.67,1.0,3
+1932 ஆம் ஆண்டு பரத நாட்டியத்தின் புதிய பெயரை முன்மொழிந்தோர் யார்?,ta,bharatanatyam,Bharatanatyam,semantic,0.2315070629119873,0.0,0.3333333333,1.0,3
+1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?,ta,chennai,Chennai,fixed,0.6970665454864502,1.0,0.67,1.0,4
+1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?,ta,chennai,Chennai,recursive,0.7195058465003967,0.8,1.0,1.0,4
+1996 க்கு முன்னர் சென்னை என்ன பெயர்களில் அழைக்கப்பட்டது?,ta,chennai,Chennai,semantic,0.6960713863372803,1.0,1.0,0.67,4
+"According to the 1997 data, how many people worldwide spoke Tamil as a first language?",ta,tamil_language,Tamil language,fixed,0.872262179851532,1.0,0.33,1.0,5
+"According to the 1997 data, how many people worldwide spoke Tamil as a first language?",ta,tamil_language,Tamil language,recursive,0.8700978755950928,1.0,0.67,1.0,5
+"According to the 1997 data, how many people worldwide spoke Tamil as a first language?",ta,tamil_language,Tamil language,semantic,0.687715470790863,1.0,0.33,1.0,5
+"According to the International Astronomical Union, what does the Solar System include?",ta,solar_system,Solar System,fixed,0.6821572184562683,1.0,0.33,1.0,7
+"According to the International Astronomical Union, what does the Solar System include?",ta,solar_system,Solar System,recursive,0.6637182831764221,1.0,0.33,1.0,7
+"According to the International Astronomical Union, what does the Solar System include?",ta,solar_system,Solar System,semantic,0.6348638534545898,1.0,0.33,0.67,7
+Approximately how many people live in the drainage basin of the Himalayan rivers?,ta,himalayas,Himalayas,fixed,0.5378322601318359,1.0,0.33,1.0,13
+Approximately how many people live in the drainage basin of the Himalayan rivers?,ta,himalayas,Himalayas,recursive,0.5727930068969727,1.0,0.33,1.0,13
+Approximately how many people live in the drainage basin of the Himalayan rivers?,ta,himalayas,Himalayas,semantic,0.5427348613739014,1.0,0.3333333333,1.0,13
+Approximately how many plant species are found in the Western Ghats?,ta,western_ghats,Western Ghats,fixed,0.5618613362312317,1.0,0.67,1.0,14
+Approximately how many plant species are found in the Western Ghats?,ta,western_ghats,Western Ghats,recursive,0.552399754524231,0.8,0.6666666667,1.0,14
+Approximately how many plant species are found in the Western Ghats?,ta,western_ghats,Western Ghats,semantic,0.8859583139419556,1.0,0.33,1.0,14
+Approximately what percentage of Tamil Nadu's area is covered by forests?,ta,tamil_nadu,Tamil Nadu,fixed,0.40856224298477173,1.0,0.6666666667,1.0,16
+Approximately what percentage of Tamil Nadu's area is covered by forests?,ta,tamil_nadu,Tamil Nadu,recursive,0.8201514482498169,1.0,1.0,1.0,16
+Approximately what percentage of Tamil Nadu's area is covered by forests?,ta,tamil_nadu,Tamil Nadu,semantic,0.8201514482498169,1.0,0.33,1.0,16
+At what age did Gandhi lose his father?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.6425692439079285,1.0,0.33,1.0,19
+At what age did Gandhi lose his father?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.7733612060546875,1.0,0.33,1.0,19
+At what age did Gandhi lose his father?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.8708639740943909,1.0,0.33,1.0,19
+At what age did Subramania Bharati get married and what was his wife's name?,ta,subramania_bharati,Subramania Bharati,fixed,0.5458575487136841,1.0,0.33,1.0,20
+At what age did Subramania Bharati get married and what was his wife's name?,ta,subramania_bharati,Subramania Bharati,recursive,0.6145559549331665,0.5,0.33,1.0,20
+At what age did Subramania Bharati get married and what was his wife's name?,ta,subramania_bharati,Subramania Bharati,semantic,0.7712259292602539,0.0,0.33,1.0,20
+At what altitude is the snow line of the Himalayas located?,ta,himalayas,Himalayas,fixed,0.2865285873413086,1.0,0.0,0.0,23
+At what altitude is the snow line of the Himalayas located?,ta,himalayas,Himalayas,recursive,0.2865285873413086,1.0,0.0,0.0,23
+At what altitude is the snow line of the Himalayas located?,ta,himalayas,Himalayas,semantic,0.7973518967628479,1.0,0.25,1.0,23
+"At what rate does the Indian‑Australian tectonic plate move, and how far is it expected to travel in the next ten million years?",ta,himalayas,Himalayas,fixed,0.6763871908187866,1.0,0.33,1.0,25
+"At what rate does the Indian‑Australian tectonic plate move, and how far is it expected to travel in the next ten million years?",ta,himalayas,Himalayas,recursive,0.8586583137512207,1.0,0.33,1.0,25
+"At what rate does the Indian‑Australian tectonic plate move, and how far is it expected to travel in the next ten million years?",ta,himalayas,Himalayas,semantic,0.6844088435173035,1.0,0.3333333333,1.0,25
+From which political party did M. G. Ramachandran first enter politics?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.8316662311553955,1.0,0.6667,1.0,34
+From which political party did M. G. Ramachandran first enter politics?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.8316662311553955,1.0,0.33,1.0,34
+From which political party did M. G. Ramachandran first enter politics?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.5973870754241943,1.0,0.33,1.0,34
+How are the Himalayas described in terms of size and height worldwide?,ta,himalayas,Himalayas,fixed,0.6872275471687317,1.0,0.6667,1.0,35
+How are the Himalayas described in terms of size and height worldwide?,ta,himalayas,Himalayas,recursive,0.7142652273178101,1.0,0.67,1.0,35
+How are the Himalayas described in terms of size and height worldwide?,ta,himalayas,Himalayas,semantic,0.6146857738494873,1.0,0.33,1.0,35
+How does Tamil Nadu rank among Indian states by area?,ta,tamil_nadu,Tamil Nadu,fixed,0.6599264144897461,1.0,0.67,1.0,36
+How does Tamil Nadu rank among Indian states by area?,ta,tamil_nadu,Tamil Nadu,recursive,0.8237885236740112,1.0,0.6667,1.0,36
+How does Tamil Nadu rank among Indian states by area?,ta,tamil_nadu,Tamil Nadu,semantic,0.7641744613647461,1.0,0.6667,1.0,36
+How is Mohandas Karamchand Gandhi affectionately addressed?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.7594195604324341,1.0,0.67,1.0,38
+How is Mohandas Karamchand Gandhi affectionately addressed?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.6422601938247681,1.0,0.33,1.0,38
+How is Mohandas Karamchand Gandhi affectionately addressed?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.7594195604324341,1.0,0.67,1.0,38
+How many UNESCO World Heritage Sites are located in Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,fixed,0.23287099599838257,0.0,0.6667,1.0,42
+How many UNESCO World Heritage Sites are located in Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,recursive,0.5537689328193665,1.0,1.0,1.0,42
+How many UNESCO World Heritage Sites are located in Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,semantic,0.5527433156967163,1.0,0.6667,1.0,42
+How many acres does the Madurai Meenakshi Sundareswarar Temple occupy?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.4796906113624573,1.0,0.33,1.0,44
+How many acres does the Madurai Meenakshi Sundareswarar Temple occupy?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.4491603374481201,1.0,0.33,1.0,44
+How many acres does the Madurai Meenakshi Sundareswarar Temple occupy?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.49500173330307007,1.0,0.3333333333,1.0,44
+"How many moons does Jupiter have, and which is the largest?",ta,solar_system,Solar System,fixed,0.7415620684623718,1.0,0.3333333333,0.0,45
+"How many moons does Jupiter have, and which is the largest?",ta,solar_system,Solar System,recursive,0.7534557580947876,1.0,0.6667,1.0,45
+"How many moons does Jupiter have, and which is the largest?",ta,solar_system,Solar System,semantic,0.4849853217601776,1.0,0.6667,1.0,45
+"How many of the roughly 100,000 Indian inscriptions are found in Tamil Nadu, and what percentage of them are in Tamil?",ta,tamil_language,Tamil language,fixed,0.8354644775390625,1.0,0.33,1.0,46
+"How many of the roughly 100,000 Indian inscriptions are found in Tamil Nadu, and what percentage of them are in Tamil?",ta,tamil_language,Tamil language,recursive,0.6313309669494629,1.0,0.6666666667,1.0,46
+"How many of the roughly 100,000 Indian inscriptions are found in Tamil Nadu, and what percentage of them are in Tamil?",ta,tamil_language,Tamil language,semantic,0.6005606055259705,1.0,0.6667,1.0,46
+How many times did M. G. Ramachandran serve as Chief Minister of Tamil Nadu?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.8559982776641846,1.0,0.3333333333,1.0,48
+How many times did M. G. Ramachandran serve as Chief Minister of Tamil Nadu?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.6833901405334473,1.0,0.33,1.0,48
+How many times did M. G. Ramachandran serve as Chief Minister of Tamil Nadu?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.8559982776641846,1.0,0.33,1.0,48
+How many vimanas does the temple have and what are they called?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.20769889652729034,0.0,0.33,0.5,49
+How many vimanas does the temple have and what are they called?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.20769889652729034,1.0,0.0,0.0,49
+How many vimanas does the temple have and what are they called?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.20769889652729034,1.0,0.0,0.0,49
+"How many years ago did the Solar System form, and what caused its formation?",ta,solar_system,Solar System,fixed,0.7694039940834045,1.0,0.33,1.0,50
+"How many years ago did the Solar System form, and what caused its formation?",ta,solar_system,Solar System,recursive,0.7954009771347046,1.0,0.6667,1.0,50
+"How many years ago did the Solar System form, and what caused its formation?",ta,solar_system,Solar System,semantic,0.7936602234840393,1.0,0.33,1.0,50
+"In terms of contribution to India's Gross Domestic Product, what position does Tamil Nadu hold?",ta,tamil_nadu,Tamil Nadu,fixed,0.661426305770874,1.0,0.33,1.0,52
+"In terms of contribution to India's Gross Domestic Product, what position does Tamil Nadu hold?",ta,tamil_nadu,Tamil Nadu,recursive,0.6433010101318359,1.0,0.33,1.0,52
+"In terms of contribution to India's Gross Domestic Product, what position does Tamil Nadu hold?",ta,tamil_nadu,Tamil Nadu,semantic,0.8263103365898132,1.0,0.67,1.0,52
+"In the 2017 Google survey, which Indian language was found to be used most on the internet?",ta,tamil_language,Tamil language,fixed,0.4208075702190399,1.0,0.33,1.0,53
+"In the 2017 Google survey, which Indian language was found to be used most on the internet?",ta,tamil_language,Tamil language,recursive,0.3834781050682068,1.0,1.0,1.0,53
+"In the 2017 Google survey, which Indian language was found to be used most on the internet?",ta,tamil_language,Tamil language,semantic,0.3834781050682068,1.0,0.33,1.0,53
+In which South African city did Gandhi first employ satyagraha in 1906?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.2094830870628357,1.0,0.0,0.0,60
+In which South African city did Gandhi first employ satyagraha in 1906?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.28257906436920166,1.0,0.33,1.0,60
+In which South African city did Gandhi first employ satyagraha in 1906?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.40966084599494934,1.0,0.3333333333,1.0,60
+In which Sri Lankan locality was M. G. Ramachandran born?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.8077811002731323,1.0,0.33,1.0,61
+In which Sri Lankan locality was M. G. Ramachandran born?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.28846287727355957,1.0,0.33,1.0,61
+In which Sri Lankan locality was M. G. Ramachandran born?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.2202976495027542,0.0,0.33,1.0,61
+"In which year was the Vijayanagara Empire founded, and who were its founders?",ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.4991839826107025,1.0,0.33,1.0,66
+"In which year was the Vijayanagara Empire founded, and who were its founders?",ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.48424652218818665,1.0,0.33,1.0,66
+"In which year was the Vijayanagara Empire founded, and who were its founders?",ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.44682180881500244,1.0,0.67,0.5,66
+In which year was the first English trading factory established in Surat?,ta,indian_independence_movement,Indian independence movement,fixed,0.31335917115211487,1.0,0.33,1.0,68
+In which year was the first English trading factory established in Surat?,ta,indian_independence_movement,Indian independence movement,recursive,0.28531312942504883,1.0,0.33,1.0,68
+In which year was the first English trading factory established in Surat?,ta,indian_independence_movement,Indian independence movement,semantic,0.28531312942504883,1.0,0.33,1.0,68
+List the five historical periods of Tamil language as classified by scholars.,ta,tamil_language,Tamil language,fixed,0.2562713027000427,1.0,0.3333333333,0.2,71
+List the five historical periods of Tamil language as classified by scholars.,ta,tamil_language,Tamil language,recursive,0.4466913342475891,1.0,0.33,1.0,71
+List the five historical periods of Tamil language as classified by scholars.,ta,tamil_language,Tamil language,semantic,0.2562713027000427,0.0,0.33,0.0,71
+List three periodicals Subramania Bharati contributed to.,ta,subramania_bharati,Subramania Bharati,fixed,0.31182223558425903,1.0,0.33,0.0,72
+List three periodicals Subramania Bharati contributed to.,ta,subramania_bharati,Subramania Bharati,recursive,0.34369587898254395,1.0,0.6667,1.0,72
+List three periodicals Subramania Bharati contributed to.,ta,subramania_bharati,Subramania Bharati,semantic,0.18205314874649048,0.0,0.3333333333,0.3333333333,72
+List three tributaries that flow in Karnataka.,ta,kaveri_river,Kaveri River,fixed,0.6109142303466797,1.0,0.67,0.0,73
+List three tributaries that flow in Karnataka.,ta,kaveri_river,Kaveri River,recursive,0.4398236870765686,0.33,0.67,0.33,73
+List three tributaries that flow in Karnataka.,ta,kaveri_river,Kaveri River,semantic,0.4220358729362488,0.67,0.33,0.33,73
+Name the major rivers that originate in the Western Ghats and flow eastward to the Bay of Bengal.,ta,western_ghats,Western Ghats,fixed,0.18573379516601562,0.0,0.0,0.0,75
+Name the major rivers that originate in the Western Ghats and flow eastward to the Bay of Bengal.,ta,western_ghats,Western Ghats,recursive,0.5139681100845337,1.0,0.33,1.0,75
+Name the major rivers that originate in the Western Ghats and flow eastward to the Bay of Bengal.,ta,western_ghats,Western Ghats,semantic,0.18573379516601562,0.0,0.0,0.0,75
+Name three European travelers who visited the Vijayanagara Empire.,ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.3183858394622803,1.0,0.33,1.0,77
+Name three European travelers who visited the Vijayanagara Empire.,ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.31941625475883484,1.0,0.33,1.0,77
+Name three European travelers who visited the Vijayanagara Empire.,ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.3183858394622803,1.0,0.33,1.0,77
+Name two countries where Tamil is spoken by a large population.,ta,tamil_language,Tamil language,fixed,0.6489942073822021,1.0,0.33,1.0,82
+Name two countries where Tamil is spoken by a large population.,ta,tamil_language,Tamil language,recursive,0.5234240889549255,1.0,0.6667,1.0,82
+Name two countries where Tamil is spoken by a large population.,ta,tamil_language,Tamil language,semantic,0.6716222763061523,1.0,0.33,1.0,82
+Name two literary works authored by Subramania Bharati.,ta,subramania_bharati,Subramania Bharati,fixed,0.32299721240997314,1.0,0.33,1.0,83
+Name two literary works authored by Subramania Bharati.,ta,subramania_bharati,Subramania Bharati,recursive,0.20531152188777924,0.0,0.3333333333,1.0,83
+Name two literary works authored by Subramania Bharati.,ta,subramania_bharati,Subramania Bharati,semantic,0.26588159799575806,1.0,0.33,1.0,83
+Name two states through which the Cauvery river flows.,ta,kaveri_river,Kaveri River,fixed,0.4718993306159973,1.0,0.6667,1.0,85
+Name two states through which the Cauvery river flows.,ta,kaveri_river,Kaveri River,recursive,0.45953887701034546,1.0,0.67,1.0,85
+Name two states through which the Cauvery river flows.,ta,kaveri_river,Kaveri River,semantic,0.4718993306159973,1.0,1.0,1.0,85
+"On what date is the annual ""Aadipperukku"" festival celebrated?",ta,kaveri_river,Kaveri River,fixed,0.4839291274547577,1.0,0.6667,1.0,87
+"On what date is the annual ""Aadipperukku"" festival celebrated?",ta,kaveri_river,Kaveri River,recursive,0.47856777906417847,1.0,1.0,1.0,87
+"On what date is the annual ""Aadipperukku"" festival celebrated?",ta,kaveri_river,Kaveri River,semantic,0.4720529019832611,1.0,0.67,1.0,87
+"On what date was the Constitution of India adopted, establishing the Republic of India?",ta,indian_independence_movement,Indian independence movement,fixed,0.7871639728546143,1.0,0.67,1.0,88
+"On what date was the Constitution of India adopted, establishing the Republic of India?",ta,indian_independence_movement,Indian independence movement,recursive,0.6826974153518677,1.0,0.67,1.0,88
+"On what date was the Constitution of India adopted, establishing the Republic of India?",ta,indian_independence_movement,Indian independence movement,semantic,0.7865539789199829,1.0,0.67,1.0,88
+The temple is the primary shrine among how many Meenakshi Sundareswarar temples in Tamil Nadu?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.4893466830253601,1.0,0.33,1.0,91
+The temple is the primary shrine among how many Meenakshi Sundareswarar temples in Tamil Nadu?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.48662304878234863,1.0,0.33,1.0,91
+The temple is the primary shrine among how many Meenakshi Sundareswarar temples in Tamil Nadu?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.38923555612564087,1.0,0.33,1.0,91
+"To which language family does Tamil belong, and what is one of its sub‑families?",ta,tamil_language,Tamil language,fixed,0.7705799341201782,1.0,0.67,1.0,92
+"To which language family does Tamil belong, and what is one of its sub‑families?",ta,tamil_language,Tamil language,recursive,0.7777496576309204,1.0,0.67,1.0,92
+"To which language family does Tamil belong, and what is one of its sub‑families?",ta,tamil_language,Tamil language,semantic,0.7791930437088013,1.0,0.67,1.0,92
+Under which ruler did the Vijayanagara Empire reach its zenith in the early 16th century?,ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.569894552230835,1.0,0.33,1.0,93
+Under which ruler did the Vijayanagara Empire reach its zenith in the early 16th century?,ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.2893362045288086,1.0,0.6667,1.0,93
+Under which ruler did the Vijayanagara Empire reach its zenith in the early 16th century?,ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.8114941120147705,1.0,0.67,1.0,93
+What are the birth and death dates of M. G. Ramachandran?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.7825131416320801,1.0,0.33,1.0,97
+What are the birth and death dates of M. G. Ramachandran?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.7825131416320801,1.0,0.33,1.0,97
+What are the birth and death dates of M. G. Ramachandran?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.6525684595108032,1.0,0.33,1.0,97
+"What are the four inner planets called, and what are they primarily composed of?",ta,solar_system,Solar System,fixed,0.7331423759460449,1.0,0.6667,1.0,98
+"What are the four inner planets called, and what are they primarily composed of?",ta,solar_system,Solar System,recursive,0.6893515586853027,1.0,0.6667,1.0,98
+"What are the four inner planets called, and what are they primarily composed of?",ta,solar_system,Solar System,semantic,0.7134906053543091,1.0,0.33,1.0,98
+What are the names of the two waterfalls mentioned in the article?,ta,kaveri_river,Kaveri River,fixed,0.6355934143066406,1.0,0.33,1.0,100
+What are the names of the two waterfalls mentioned in the article?,ta,kaveri_river,Kaveri River,recursive,0.47567814588546753,1.0,0.3333333333333333,0.5,100
+What are the names of the two waterfalls mentioned in the article?,ta,kaveri_river,Kaveri River,semantic,0.3514083921909332,1.0,0.0,0.0,100
+"What does the name ""Tamil Nadu"" mean in Tamil?",ta,tamil_nadu,Tamil Nadu,fixed,0.5873470306396484,0.95,0.33,1.0,106
+"What does the name ""Tamil Nadu"" mean in Tamil?",ta,tamil_nadu,Tamil Nadu,recursive,0.5772433876991272,1.0,0.33,1.0,106
+"What does the name ""Tamil Nadu"" mean in Tamil?",ta,tamil_nadu,Tamil Nadu,semantic,0.5914548635482788,1.0,0.33,1.0,106
+"What does the name ""Vijayanagara"" translate to in English?",ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.8308359384536743,1.0,0.33,1.0,107
+"What does the name ""Vijayanagara"" translate to in English?",ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.8173860311508179,1.0,0.6666666667,1.0,107
+"What does the name ""Vijayanagara"" translate to in English?",ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.815259575843811,1.0,0.33,1.0,107
+What is Mahatma Gandhi's full name and his birth and death dates?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.7876254320144653,1.0,1.0,1.0,110
+What is Mahatma Gandhi's full name and his birth and death dates?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.7793939709663391,1.0,1.0,1.0,110
+What is Mahatma Gandhi's full name and his birth and death dates?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.7859112024307251,1.0,1.0,1.0,110
+What is Tamil Nadu's rank by population among Indian states?,ta,tamil_nadu,Tamil Nadu,fixed,0.5894562602043152,0.4,0.67,1.0,112
+What is Tamil Nadu's rank by population among Indian states?,ta,tamil_nadu,Tamil Nadu,recursive,0.588273823261261,0.9,0.6666666667,1.0,112
+What is Tamil Nadu's rank by population among Indian states?,ta,tamil_nadu,Tamil Nadu,semantic,0.5790241956710815,1.0,0.6667,1.0,112
+What is another name by which the Vijayanagara Empire was known?,ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.7832536697387695,1.0,0.6667,1.0,113
+What is another name by which the Vijayanagara Empire was known?,ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.5935419201850891,1.0,0.67,1.0,113
+What is another name by which the Vijayanagara Empire was known?,ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.5402273535728455,1.0,0.6667,1.0,113
+What is the capital city of Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,fixed,0.4024336636066437,1.0,0.67,1.0,115
+What is the capital city of Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,recursive,0.4024336636066437,1.0,1.0,1.0,115
+What is the capital city of Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,semantic,0.4024336636066437,1.0,1.0,1.0,115
+What is the estimated age of the Tamil classic Thirukkural?,ta,tamil_language,Tamil language,fixed,0.3048667311668396,0.0,0.0,0.0,116
+What is the estimated age of the Tamil classic Thirukkural?,ta,tamil_language,Tamil language,recursive,0.3048667311668396,1.0,0.0,0.0,116
+What is the estimated age of the Tamil classic Thirukkural?,ta,tamil_language,Tamil language,semantic,0.4452168345451355,1.0,0.33,1.0,116
+What is the famous prasadam offered at this temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.5476406216621399,1.0,0.33,1.0,117
+What is the famous prasadam offered at this temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.7448936700820923,1.0,0.6667,1.0,117
+What is the famous prasadam offered at this temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.7336369156837463,1.0,0.33,1.0,117
+What is the length of the Western Ghats mountain range?,ta,western_ghats,Western Ghats,fixed,0.4497634768486023,1.0,0.33,1.0,120
+What is the length of the Western Ghats mountain range?,ta,western_ghats,Western Ghats,recursive,0.7683868408203125,1.0,0.33,1.0,120
+What is the length of the Western Ghats mountain range?,ta,western_ghats,Western Ghats,semantic,0.4475082755088806,1.0,0.33,1.0,120
+What is the minimum elevation of some of the highest peaks in the Himalayas?,ta,himalayas,Himalayas,fixed,0.7277461290359497,1.0,0.33,1.0,121
+What is the minimum elevation of some of the highest peaks in the Himalayas?,ta,himalayas,Himalayas,recursive,0.4419369697570801,1.0,0.0,0.0,121
+What is the minimum elevation of some of the highest peaks in the Himalayas?,ta,himalayas,Himalayas,semantic,0.5909147262573242,0.5,0.3333333333,1.0,121
+"What is the modern name of the empire’s capital, and what UNESCO designation does it hold?",ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.5865920782089233,1.0,0.33,1.0,123
+"What is the modern name of the empire’s capital, and what UNESCO designation does it hold?",ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.7303996086120605,1.0,0.6667,1.0,123
+"What is the modern name of the empire’s capital, and what UNESCO designation does it hold?",ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.7456988096237183,1.0,0.67,1.0,123
+What is the name of the Shiva temple located in the centre of Madurai?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.5565253496170044,1.0,0.33,1.0,124
+What is the name of the Shiva temple located in the centre of Madurai?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.5803323984146118,1.0,0.33,1.0,124
+What is the name of the Shiva temple located in the centre of Madurai?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.48934173583984375,1.0,0.33,1.0,124
+What is the total length of the Cauvery river?,ta,kaveri_river,Kaveri River,fixed,0.3922274708747864,1.0,0.67,1.0,126
+What is the total length of the Cauvery river?,ta,kaveri_river,Kaveri River,recursive,0.40131068229675293,1.0,0.33,1.0,126
+What is the total length of the Cauvery river?,ta,kaveri_river,Kaveri River,semantic,0.40131068229675293,1.0,0.33,1.0,126
+What movement did Abdul Kalam launch in 2011 aimed at youth and anti‑corruption?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.794677197933197,1.0,0.6667,1.0,129
+What movement did Abdul Kalam launch in 2011 aimed at youth and anti‑corruption?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.8079817295074463,1.0,0.6667,1.0,129
+What movement did Abdul Kalam launch in 2011 aimed at youth and anti‑corruption?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.6501203179359436,1.0,0.33,1.0,129
+What organization did Gandhi help found in South Africa in 1894?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.20763766765594482,1.0,0.0,0.0,131
+What organization did Gandhi help found in South Africa in 1894?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.5616217851638794,1.0,0.33,1.0,131
+What organization did Gandhi help found in South Africa in 1894?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.5669422149658203,1.0,0.33,1.0,131
+What pseudonym is Subramania Bharati known by?,ta,subramania_bharati,Subramania Bharati,fixed,0.452169269323349,1.0,0.33,1.0,135
+What pseudonym is Subramania Bharati known by?,ta,subramania_bharati,Subramania Bharati,recursive,0.3967176377773285,1.0,0.3333333333,0.0,135
+What pseudonym is Subramania Bharati known by?,ta,subramania_bharati,Subramania Bharati,semantic,0.46210289001464844,1.0,0.33,0.0,135
+What relation was M. G. Sakthapani to M. G. Ramachandran?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.4562697410583496,1.0,0.33,1.0,137
+What relation was M. G. Sakthapani to M. G. Ramachandran?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.8171784281730652,0.5,0.3333333333,1.0,137
+What relation was M. G. Sakthapani to M. G. Ramachandran?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.26588794589042664,0.0,0.0,0.0,137
+What title is given to Gandhi for his role in India's independence?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.5795871019363403,1.0,0.33,0.0,141
+What title is given to Gandhi for his role in India's independence?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.5862312912940979,1.0,0.6667,0.0,141
+What title is given to Gandhi for his role in India's independence?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.5669288039207458,1.0,0.33,1.0,141
+What unique characteristic does Neptune’s moon Triton have regarding its orbit?,ta,solar_system,Solar System,fixed,0.7108907699584961,1.0,0.33,1.0,143
+What unique characteristic does Neptune’s moon Triton have regarding its orbit?,ta,solar_system,Solar System,recursive,0.713754415512085,1.0,0.33,1.0,143
+What unique characteristic does Neptune’s moon Triton have regarding its orbit?,ta,solar_system,Solar System,semantic,0.769342303276062,1.0,0.33,1.0,143
+What was Abdul Kalam’s role in the 1998 Pokhran-II nuclear test?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7782197594642639,1.0,0.67,1.0,144
+What was Abdul Kalam’s role in the 1998 Pokhran-II nuclear test?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.6306530237197876,1.0,0.67,1.0,144
+What was Abdul Kalam’s role in the 1998 Pokhran-II nuclear test?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.7504422664642334,1.0,0.67,1.0,144
+What was the title of M. G. Ramachandran's debut film in 1936?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.7900718450546265,1.0,0.67,1.0,152
+What was the title of M. G. Ramachandran's debut film in 1936?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.23992477357387543,1.0,0.67,1.0,152
+What was the title of M. G. Ramachandran's debut film in 1936?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.8121472001075745,1.0,0.33,1.0,152
+When did Gandhi arrive at Mumbai port and how was he dressed?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.6728541851043701,1.0,0.33,1.0,154
+When did Gandhi arrive at Mumbai port and how was he dressed?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.7907364964485168,1.0,0.6667,1.0,154
+When did Gandhi arrive at Mumbai port and how was he dressed?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.7916008234024048,1.0,0.6667,1.0,154
+"When did the Indian Independence Act come into effect, marking the end of the Indian independence movement?",ta,indian_independence_movement,Indian independence movement,fixed,0.6630574464797974,0.0,0.67,1.0,155
+"When did the Indian Independence Act come into effect, marking the end of the Indian independence movement?",ta,indian_independence_movement,Indian independence movement,recursive,0.7138832807540894,1.0,0.33,1.0,155
+"When did the Indian Independence Act come into effect, marking the end of the Indian independence movement?",ta,indian_independence_movement,Indian independence movement,semantic,0.6587420701980591,0.0,0.6667,1.0,155
+When was A. P. J. Abdul Kalam born and when did he die?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.5962534546852112,1.0,0.33,1.0,156
+When was A. P. J. Abdul Kalam born and when did he die?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.7705762386322021,1.0,0.33,1.0,156
+When was A. P. J. Abdul Kalam born and when did he die?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.7962350845336914,1.0,0.33,1.0,156
+When was Subramania Bharati born and when did he die?,ta,subramania_bharati,Subramania Bharati,fixed,0.4931092858314514,1.0,0.67,1.0,159
+When was Subramania Bharati born and when did he die?,ta,subramania_bharati,Subramania Bharati,recursive,0.7187266945838928,1.0,0.6667,1.0,159
+When was Subramania Bharati born and when did he die?,ta,subramania_bharati,Subramania Bharati,semantic,0.7533605098724365,1.0,0.67,1.0,159
+When was the Madav Kadhkila group formed and how many members did it have?,ta,western_ghats,Western Ghats,fixed,0.20313413441181183,1.0,0.0,0.0,160
+When was the Madav Kadhkila group formed and how many members did it have?,ta,western_ghats,Western Ghats,recursive,0.7694511413574219,1.0,0.33,1.0,160
+When was the Madav Kadhkila group formed and how many members did it have?,ta,western_ghats,Western Ghats,semantic,0.5389087796211243,1.0,0.33,1.0,160
+Where does the Cauvery river originate?,ta,kaveri_river,Kaveri River,fixed,0.54192054271698,1.0,0.33,1.0,161
+Where does the Cauvery river originate?,ta,kaveri_river,Kaveri River,recursive,0.7045495510101318,1.0,0.33,1.0,161
+Where does the Cauvery river originate?,ta,kaveri_river,Kaveri River,semantic,0.5105537176132202,1.0,0.33,1.0,161
+Where was Abdul Kalam born?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7938046455383301,1.0,0.6667,0.5,163
+Where was Abdul Kalam born?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.6320359706878662,1.0,0.6667,1.0,163
+Where was Abdul Kalam born?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.6117966771125793,1.0,0.67,1.0,163
+Where was Gandhi born and what was his mother tongue?,ta,mahatma_gandhi,Mahatma Gandhi,fixed,0.8023189306259155,1.0,0.33,1.0,165
+Where was Gandhi born and what was his mother tongue?,ta,mahatma_gandhi,Mahatma Gandhi,recursive,0.8037704229354858,1.0,0.33,1.0,165
+Where was Gandhi born and what was his mother tongue?,ta,mahatma_gandhi,Mahatma Gandhi,semantic,0.5447691679000854,1.0,0.33,1.0,165
+"Which ancient Tamil work, composed around 1000 years ago, is taught to schoolchildren as an alphabetic text?",ta,tamil_language,Tamil language,fixed,0.2768746018409729,1.0,0.33,1.0,173
+"Which ancient Tamil work, composed around 1000 years ago, is taught to schoolchildren as an alphabetic text?",ta,tamil_language,Tamil language,recursive,0.2768746018409729,1.0,0.33,1.0,173
+"Which ancient Tamil work, composed around 1000 years ago, is taught to schoolchildren as an alphabetic text?",ta,tamil_language,Tamil language,semantic,0.6094292402267456,1.0,0.33,1.0,173
+Which battle in 1565 marked a major military defeat for the empire?,ta,vijayanagara_empire,Vijayanagara Empire,fixed,0.730022668838501,1.0,0.6667,1.0,174
+Which battle in 1565 marked a major military defeat for the empire?,ta,vijayanagara_empire,Vijayanagara Empire,recursive,0.6986548900604248,1.0,1.0,1.0,174
+Which battle in 1565 marked a major military defeat for the empire?,ta,vijayanagara_empire,Vijayanagara Empire,semantic,0.736767053604126,1.0,1.0,1.0,174
+"Which battle in 1764 allowed the East India Company to gain administrative rights over Bengal, Bihar, and Midnapore?",ta,indian_independence_movement,Indian independence movement,fixed,0.5089795589447021,1.0,0.33,1.0,176
+"Which battle in 1764 allowed the East India Company to gain administrative rights over Bengal, Bihar, and Midnapore?",ta,indian_independence_movement,Indian independence movement,recursive,0.7800498604774475,1.0,0.6667,1.0,176
+"Which battle in 1764 allowed the East India Company to gain administrative rights over Bengal, Bihar, and Midnapore?",ta,indian_independence_movement,Indian independence movement,semantic,0.6445918679237366,1.0,0.67,1.0,176
+Which college did he attend for his physics degree?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7118087410926819,1.0,0.33,0.0,177
+Which college did he attend for his physics degree?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.7018097639083862,1.0,0.6667,0.0,177
+Which college did he attend for his physics degree?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.7144411206245422,1.0,0.33,0.0,177
+Which dam in Maharashtra is mentioned as a notable dam in the Western Ghats region?,ta,western_ghats,Western Ghats,fixed,0.5617062449455261,1.0,0.33,1.0,179
+Which dam in Maharashtra is mentioned as a notable dam in the Western Ghats region?,ta,western_ghats,Western Ghats,recursive,0.39238739013671875,1.0,0.33,1.0,179
+Which dam in Maharashtra is mentioned as a notable dam in the Western Ghats region?,ta,western_ghats,Western Ghats,semantic,0.3440157473087311,1.0,0.33,1.0,179
+Which dams are built on the Cauvery river?,ta,kaveri_river,Kaveri River,fixed,0.5622607469558716,1.0,0.33,1.0,180
+Which dams are built on the Cauvery river?,ta,kaveri_river,Kaveri River,recursive,0.6923531293869019,1.0,0.33,1.0,180
+Which dams are built on the Cauvery river?,ta,kaveri_river,Kaveri River,semantic,0.5177950263023376,1.0,0.67,1.0,180
+Which dwarf planet is located in the asteroid belt between Mars and Jupiter?,ta,solar_system,Solar System,fixed,0.32093346118927,1.0,0.33,1.0,182
+Which dwarf planet is located in the asteroid belt between Mars and Jupiter?,ta,solar_system,Solar System,recursive,0.32093346118927,1.0,0.33,1.0,182
+Which dwarf planet is located in the asteroid belt between Mars and Jupiter?,ta,solar_system,Solar System,semantic,0.32093346118927,1.0,0.33,1.0,182
+Which female leader mentioned in the article encouraged women's participation in the Indian freedom struggle?,ta,indian_independence_movement,Indian independence movement,fixed,0.6147782802581787,1.0,0.33,1.0,184
+Which female leader mentioned in the article encouraged women's participation in the Indian freedom struggle?,ta,indian_independence_movement,Indian independence movement,recursive,0.3851449489593506,1.0,0.33,1.0,184
+Which female leader mentioned in the article encouraged women's participation in the Indian freedom struggle?,ta,indian_independence_movement,Indian independence movement,semantic,0.39674049615859985,1.0,0.33,1.0,184
+Which five countries contain parts of the Himalayas?,ta,himalayas,Himalayas,fixed,0.47860294580459595,1.0,0.33,1.0,185
+Which five countries contain parts of the Himalayas?,ta,himalayas,Himalayas,recursive,0.4572778642177582,1.0,0.33,1.0,185
+Which five countries contain parts of the Himalayas?,ta,himalayas,Himalayas,semantic,0.48179060220718384,1.0,0.33,1.0,185
+Which historical period saw the construction of the east (Raja) gopuram between 1216 and 1238 CE?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.4493563175201416,1.0,0.33,1.0,187
+Which historical period saw the construction of the east (Raja) gopuram between 1216 and 1238 CE?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.4377099275588989,1.0,0.33,1.0,187
+Which historical period saw the construction of the east (Raja) gopuram between 1216 and 1238 CE?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.637919008731842,1.0,0.33,1.0,187
+Which island created by the Cauvery in Karnataka is noted as the largest?,ta,kaveri_river,Kaveri River,fixed,0.5289735794067383,1.0,0.67,1.0,189
+Which island created by the Cauvery in Karnataka is noted as the largest?,ta,kaveri_river,Kaveri River,recursive,0.28062933683395386,1.0,0.33,1.0,189
+Which island created by the Cauvery in Karnataka is noted as the largest?,ta,kaveri_river,Kaveri River,semantic,0.1988542675971985,1.0,0.6667,0.0,189
+"Which law, passed before the Jallianwala Bagh massacre, intensified violent resistance and sparked protests especially in Punjab?",ta,indian_independence_movement,Indian independence movement,fixed,0.3563390076160431,1.0,0.33,1.0,194
+"Which law, passed before the Jallianwala Bagh massacre, intensified violent resistance and sparked protests especially in Punjab?",ta,indian_independence_movement,Indian independence movement,recursive,0.3563390076160431,1.0,0.33,1.0,194
+"Which law, passed before the Jallianwala Bagh massacre, intensified violent resistance and sparked protests especially in Punjab?",ta,indian_independence_movement,Indian independence movement,semantic,0.3810635209083557,1.0,0.6667,1.0,194
+Which neighboring country shares a maritime border with Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,fixed,0.37104591727256775,1.0,1.0,1.0,201
+Which neighboring country shares a maritime border with Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,recursive,0.37104591727256775,1.0,1.0,1.0,201
+Which neighboring country shares a maritime border with Tamil Nadu?,ta,tamil_nadu,Tamil Nadu,semantic,0.37104591727256775,1.0,0.67,1.0,201
+Which number President of India did Abdul Kalam serve as?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.549451470375061,1.0,0.67,1.0,203
+Which number President of India did Abdul Kalam serve as?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.5728023648262024,1.0,1.0,1.0,203
+Which number President of India did Abdul Kalam serve as?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.5869137048721313,1.0,0.67,1.0,203
+Which peak is the highest in the Western Ghats and what is its elevation?,ta,western_ghats,Western Ghats,fixed,0.22159431874752045,0.0,0.0,0.0,205
+Which peak is the highest in the Western Ghats and what is its elevation?,ta,western_ghats,Western Ghats,recursive,0.6020008325576782,0.0,0.0,0.0,205
+Which peak is the highest in the Western Ghats and what is its elevation?,ta,western_ghats,Western Ghats,semantic,0.22159431874752045,1.0,0.0,0.0,205
+Which planet has the greatest mass after the Sun?,ta,solar_system,Solar System,fixed,0.2546117901802063,1.0,0.6667,1.0,206
+Which planet has the greatest mass after the Sun?,ta,solar_system,Solar System,recursive,0.4340403079986572,1.0,0.3333333333,1.0,206
+Which planet has the greatest mass after the Sun?,ta,solar_system,Solar System,semantic,0.617620587348938,1.0,0.6667,1.0,206
+Which political parties supported his election as President in 2002?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.7097814083099365,1.0,0.67,1.0,207
+Which political parties supported his election as President in 2002?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.7829400300979614,1.0,1.0,1.0,207
+Which political parties supported his election as President in 2002?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.7829400300979614,1.0,0.33,1.0,207
+Which pooja is performed first each day at the temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.5198159217834473,1.0,0.6667,1.0,209
+Which pooja is performed first each day at the temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.5715211629867554,1.0,0.6667,1.0,209
+Which pooja is performed first each day at the temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.5646255612373352,0.7,0.33,1.0,209
+Which prestigious Indian civilian award did Abdul Kalam receive?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,fixed,0.5693907737731934,1.0,0.33,1.0,210
+Which prestigious Indian civilian award did Abdul Kalam receive?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,recursive,0.5472414493560791,1.0,0.33,1.0,210
+Which prestigious Indian civilian award did Abdul Kalam receive?,ta,a_p_j_abdul_kalam,A. P. J. Abdul Kalam,semantic,0.5516257882118225,1.0,0.33,1.0,210
+Which prestigious civilian award did M. G. Ramachandran receive?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.22775374352931976,0.0,1.0,1.0,211
+Which prestigious civilian award did M. G. Ramachandran receive?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.7454463839530945,1.0,0.6667,1.0,211
+Which prestigious civilian award did M. G. Ramachandran receive?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.7571655511856079,1.0,0.6667,1.0,211
+Which region was the birthplace of the first Indian nationalist movement?,ta,indian_independence_movement,Indian independence movement,fixed,0.4418591856956482,1.0,0.33,1.0,214
+Which region was the birthplace of the first Indian nationalist movement?,ta,indian_independence_movement,Indian independence movement,recursive,0.6284974813461304,1.0,0.33,1.0,214
+Which region was the birthplace of the first Indian nationalist movement?,ta,indian_independence_movement,Indian independence movement,semantic,0.8161224126815796,1.0,0.3333333333,1.0,214
+Which sea does the Western Ghats run parallel to?,ta,western_ghats,Western Ghats,fixed,0.448211669921875,1.0,0.33,1.0,216
+Which sea does the Western Ghats run parallel to?,ta,western_ghats,Western Ghats,recursive,0.41736045479774475,1.0,0.33,1.0,216
+Which sea does the Western Ghats run parallel to?,ta,western_ghats,Western Ghats,semantic,0.8625856637954712,1.0,0.33,1.0,216
+Which two deities are the main presiding figures of this temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,fixed,0.5990723371505737,1.0,0.67,1.0,220
+Which two deities are the main presiding figures of this temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,recursive,0.5771083831787109,1.0,0.67,1.0,220
+Which two deities are the main presiding figures of this temple?,ta,meenakshi_amman_temple,Meenakshi Amman Temple,semantic,0.2375236451625824,0.0,0.33,1.0,220
+Who did Subramania Bharati regard as his guru?,ta,subramania_bharati,Subramania Bharati,fixed,0.19750940799713135,0.0,0.33,0.0,228
+Who did Subramania Bharati regard as his guru?,ta,subramania_bharati,Subramania Bharati,recursive,0.5494638085365295,1.0,0.33,1.0,228
+Who did Subramania Bharati regard as his guru?,ta,subramania_bharati,Subramania Bharati,semantic,0.5089452862739563,1.0,0.67,1.0,228
+Who was M. G. Ramachandran's first wife and what happened to her?,ta,m_g_ramachandran,M. G. Ramachandran,fixed,0.7414215207099915,1.0,0.67,1.0,229
+Who was M. G. Ramachandran's first wife and what happened to her?,ta,m_g_ramachandran,M. G. Ramachandran,recursive,0.7310544848442078,1.0,0.67,1.0,229
+Who was M. G. Ramachandran's first wife and what happened to her?,ta,m_g_ramachandran,M. G. Ramachandran,semantic,0.6932101249694824,1.0,0.33,1.0,229
+Who was the Portuguese explorer that reached India in 1498 seeking spices?,ta,indian_independence_movement,Indian independence movement,fixed,0.19076700508594513,1.0,0.0,0.0,231
+Who was the Portuguese explorer that reached India in 1498 seeking spices?,ta,indian_independence_movement,Indian independence movement,recursive,0.575219988822937,1.0,0.33,1.0,231
+Who was the Portuguese explorer that reached India in 1498 seeking spices?,ta,indian_independence_movement,Indian independence movement,semantic,0.23388493061065674,1.0,0.33,1.0,231
+Why did Subramania Bharati move to Pondicherry in 1908?,ta,subramania_bharati,Subramania Bharati,fixed,0.5570418834686279,1.0,0.33,1.0,233
+Why did Subramania Bharati move to Pondicherry in 1908?,ta,subramania_bharati,Subramania Bharati,recursive,0.5447127819061279,1.0,0.33,1.0,233
+Why did Subramania Bharati move to Pondicherry in 1908?,ta,subramania_bharati,Subramania Bharati,semantic,0.5663586854934692,1.0,0.33,1.0,233
+"Why was the title ""Bharathi"" bestowed upon Subramania Bharati?",ta,subramania_bharati,Subramania Bharati,fixed,0.6161006093025208,1.0,0.6667,1.0,234
+"Why was the title ""Bharathi"" bestowed upon Subramania Bharati?",ta,subramania_bharati,Subramania Bharati,recursive,0.5594815015792847,1.0,0.33,1.0,234
+"Why was the title ""Bharathi"" bestowed upon Subramania Bharati?",ta,subramania_bharati,Subramania Bharati,semantic,0.5237607359886169,1.0,0.3333333333,1.0,234
+அடவு என்ற நடன அங்கத்தின் மொத்த எண்ணிக்கை மற்றும் தற்போதைய பயன்படுத்தும் எண்ணிக்கை என்ன?,ta,bharatanatyam,Bharatanatyam,fixed,0.8101569414138794,1.0,0.33,1.0,235
+அடவு என்ற நடன அங்கத்தின் மொத்த எண்ணிக்கை மற்றும் தற்போதைய பயன்படுத்தும் எண்ணிக்கை என்ன?,ta,bharatanatyam,Bharatanatyam,recursive,0.646065890789032,1.0,0.6667,1.0,235
+அடவு என்ற நடன அங்கத்தின் மொத்த எண்ணிக்கை மற்றும் தற்போதைய பயன்படுத்தும் எண்ணிக்கை என்ன?,ta,bharatanatyam,Bharatanatyam,semantic,0.6883282661437988,1.0,0.33,1.0,235
+ஆரம்பகாலத்தில் பரத நாட்டியத்திற்கு என்னென்ன பெயர்கள் பயன்படுத்தப்பட்டன?,ta,bharatanatyam,Bharatanatyam,fixed,0.7582957744598389,0.83,0.33,1.0,236
+ஆரம்பகாலத்தில் பரத நாட்டியத்திற்கு என்னென்ன பெயர்கள் பயன்படுத்தப்பட்டன?,ta,bharatanatyam,Bharatanatyam,recursive,0.4781193137168884,1.0,0.33,1.0,236
+ஆரம்பகாலத்தில் பரத நாட்டியத்திற்கு என்னென்ன பெயர்கள் பயன்படுத்தப்பட்டன?,ta,bharatanatyam,Bharatanatyam,semantic,0.7091953158378601,1.0,0.6667,1.0,236
+இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?,ta,chennai,Chennai,fixed,0.8336434364318848,1.0,0.67,1.0,237
+இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?,ta,chennai,Chennai,recursive,0.8327339887619019,1.0,1.0,1.0,237
+இந்தியாவின் முதல் மாநகராட்சி எந்த தேதியில் நிறுவப்பட்டது?,ta,chennai,Chennai,semantic,0.3109215199947357,1.0,1.0,1.0,237
+இராசராசன் எந்த பகுதிகளை கைப்பற்றினார்?,ta,chola_dynasty,Chola dynasty,fixed,0.649364709854126,1.0,0.6667,0.5,238
+இராசராசன் எந்த பகுதிகளை கைப்பற்றினார்?,ta,chola_dynasty,Chola dynasty,recursive,0.6831984519958496,1.0,0.6667,1.0,238
+இராசராசன் எந்த பகுதிகளை கைப்பற்றினார்?,ta,chola_dynasty,Chola dynasty,semantic,0.6635371446609497,1.0,0.6667,1.0,238
+ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?,ta,c_v_raman,C. V. Raman,fixed,0.7016454935073853,1.0,0.33,1.0,239
+ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?,ta,c_v_raman,C. V. Raman,recursive,0.7016454935073853,1.0,0.33,1.0,239
+ஒளியின் அலைநீள மாற்றத்தைக் குறிப்பது என்ன என்று அழைக்கப்படுகிறது?,ta,c_v_raman,C. V. Raman,semantic,0.6545066833496094,1.0,0.33,1.0,239
+கல்லணை என்ன மற்றும் அது எதற்காக பிரசித்தி பெற்றது?,ta,chola_dynasty,Chola dynasty,fixed,0.6876285076141357,1.0,0.33,1.0,240
+கல்லணை என்ன மற்றும் அது எதற்காக பிரசித்தி பெற்றது?,ta,chola_dynasty,Chola dynasty,recursive,0.6547735333442688,0.9,0.6667,1.0,240
+கல்லணை என்ன மற்றும் அது எதற்காக பிரசித்தி பெற்றது?,ta,chola_dynasty,Chola dynasty,semantic,0.6498685479164124,1.0,0.33,1.0,240
+சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?,ta,c_v_raman,C. V. Raman,fixed,0.3148338198661804,1.0,0.67,1.0,241
+சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?,ta,c_v_raman,C. V. Raman,recursive,0.3148338198661804,1.0,0.33,1.0,241
+சர் சந்திரசேகர வெங்கட்ராமன் எப்போது பிறந்தார்?,ta,c_v_raman,C. V. Raman,semantic,0.8272882699966431,1.0,0.33,1.0,241
+சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?,ta,chennai,Chennai,fixed,0.7193006873130798,1.0,0.67,1.0,242
+சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?,ta,chennai,Chennai,recursive,0.720537543296814,1.0,0.6666666667,1.0,242
+சென்னை 'ஆசியாவின் டெட்ராய்ட்' என்று அழைக்கப்படுவதற்கான காரணம் என்ன?,ta,chennai,Chennai,semantic,0.7025001049041748,1.0,0.67,1.0,242
+"சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",ta,chennai,Chennai,fixed,0.8011292219161987,1.0,0.6667,1.0,243
+"சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",ta,chennai,Chennai,recursive,0.8187031149864197,1.0,1.0,1.0,243
+"சென்னை தமிழ்நாட்டின் தலைநகரமும், இந்தியாவின் எத்தனாவது பெரிய நகரம்?",ta,chennai,Chennai,semantic,0.818208634853363,1.0,0.6667,1.0,243
+சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?,ta,chennai,Chennai,fixed,0.684333086013794,1.0,1.0,1.0,244
+சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?,ta,chennai,Chennai,recursive,0.7705065011978149,1.0,0.6667,1.0,244
+சென்னை நகரில் உள்ள மெரினா கடற்கரை உலகின் எந்த வகையில் குறிப்பிடப்படுகிறது?,ta,chennai,Chennai,semantic,0.6879534721374512,1.0,0.6667,1.0,244
+சோழர் குலத்தின் தோற்றம் எங்கு இருந்தது?,ta,chola_dynasty,Chola dynasty,fixed,0.730190634727478,1.0,0.33,1.0,245
+சோழர் குலத்தின் தோற்றம் எங்கு இருந்தது?,ta,chola_dynasty,Chola dynasty,recursive,0.7086015343666077,1.0,0.67,1.0,245
+சோழர் குலத்தின் தோற்றம் எங்கு இருந்தது?,ta,chola_dynasty,Chola dynasty,semantic,0.6987914443016052,1.0,0.33,1.0,245
+"சோழர், சேரர், பாண்டியர் ஆகிய மூவர் எதனை பிரதிநிதித்துவப்படுத்துகின்றனர்?",ta,chola_dynasty,Chola dynasty,fixed,0.7520086765289307,1.0,0.6667,1.0,246
+"சோழர், சேரர், பாண்டியர் ஆகிய மூவர் எதனை பிரதிநிதித்துவப்படுத்துகின்றனர்?",ta,chola_dynasty,Chola dynasty,recursive,0.7589447498321533,1.0,1.0,1.0,246
+"சோழர், சேரர், பாண்டியர் ஆகிய மூவர் எதனை பிரதிநிதித்துவப்படுத்துகின்றனர்?",ta,chola_dynasty,Chola dynasty,semantic,0.7533015012741089,1.0,0.67,1.0,246
+சோழர்கள் எந்த நூற்றாண்டில் மீண்டும் வலிமை பெற்றனர்?,ta,chola_dynasty,Chola dynasty,fixed,0.7945079207420349,1.0,0.67,1.0,247
+சோழர்கள் எந்த நூற்றாண்டில் மீண்டும் வலிமை பெற்றனர்?,ta,chola_dynasty,Chola dynasty,recursive,0.7831305265426636,1.0,1.0,1.0,247
+சோழர்கள் எந்த நூற்றாண்டில் மீண்டும் வலிமை பெற்றனர்?,ta,chola_dynasty,Chola dynasty,semantic,0.7943257093429565,1.0,0.67,1.0,247
+பரத நாட்டியத்தின் பாணிகளில் ‘பந்தநல்லூர்’ பாணியைத் தவிர மற்ற பெயர்கள் எவை?,ta,bharatanatyam,Bharatanatyam,fixed,0.740882396697998,1.0,0.67,1.0,248
+பரத நாட்டியத்தின் பாணிகளில் ‘பந்தநல்லூர்’ பாணியைத் தவிர மற்ற பெயர்கள் எவை?,ta,bharatanatyam,Bharatanatyam,recursive,0.740882396697998,1.0,0.67,1.0,248
+பரத நாட்டியத்தின் பாணிகளில் ‘பந்தநல்லூர்’ பாணியைத் தவிர மற்ற பெயர்கள் எவை?,ta,bharatanatyam,Bharatanatyam,semantic,0.7320554256439209,1.0,0.33,1.0,248
+பரத நாட்டியத்திற்கு இசை துணையாக பயன்படுத்தப்படும் சில கருவிகள் எவை?,ta,bharatanatyam,Bharatanatyam,fixed,0.7678588628768921,1.0,0.33,1.0,249
+பரத நாட்டியத்திற்கு இசை துணையாக பயன்படுத்தப்படும் சில கருவிகள் எவை?,ta,bharatanatyam,Bharatanatyam,recursive,0.7646939158439636,1.0,0.33,1.0,249
+பரத நாட்டியத்திற்கு இசை துணையாக பயன்படுத்தப்படும் சில கருவிகள் எவை?,ta,bharatanatyam,Bharatanatyam,semantic,0.7631449699401855,1.0,0.33,1.0,249
+பரத நாட்டியம் எந்த பிரதேசம் மற்றும் மாநிலத்துக்கு சிறப்பாகச் சொந்தமானது?,ta,bharatanatyam,Bharatanatyam,fixed,0.667861819267273,1.0,1.0,1.0,250
+பரத நாட்டியம் எந்த பிரதேசம் மற்றும் மாநிலத்துக்கு சிறப்பாகச் சொந்தமானது?,ta,bharatanatyam,Bharatanatyam,recursive,0.7682317495346069,1.0,1.0,1.0,250
+பரத நாட்டியம் எந்த பிரதேசம் மற்றும் மாநிலத்துக்கு சிறப்பாகச் சொந்தமானது?,ta,bharatanatyam,Bharatanatyam,semantic,0.7450861930847168,1.0,1.0,1.0,250
+பரத நாட்டியம் குறித்து நேரடி வரலாற்று குறிப்புகள் உள்ள தமிழ்க் காப்பியங்கள் எவை?,ta,bharatanatyam,Bharatanatyam,fixed,0.6345127820968628,1.0,0.33,1.0,251
+பரத நாட்டியம் குறித்து நேரடி வரலாற்று குறிப்புகள் உள்ள தமிழ்க் காப்பியங்கள் எவை?,ta,bharatanatyam,Bharatanatyam,recursive,0.6701290607452393,0.9,0.67,1.0,251
+பரத நாட்டியம் குறித்து நேரடி வரலாற்று குறிப்புகள் உள்ள தமிழ்க் காப்பியங்கள் எவை?,ta,bharatanatyam,Bharatanatyam,semantic,0.6873196363449097,1.0,0.33,1.0,251
+பொ.ஊ. இரண்டாம் நூற்றாண்டுக்குப் பிறகு சோழ மன்னர்களின் நிலை என்ன ஆனது?,ta,chola_dynasty,Chola dynasty,fixed,0.7556699514389038,1.0,0.6667,1.0,252
+பொ.ஊ. இரண்டாம் நூற்றாண்டுக்குப் பிறகு சோழ மன்னர்களின் நிலை என்ன ஆனது?,ta,chola_dynasty,Chola dynasty,recursive,0.763574481010437,1.0,1.0,1.0,252
+பொ.ஊ. இரண்டாம் நூற்றாண்டுக்குப் பிறகு சோழ மன்னர்களின் நிலை என்ன ஆனது?,ta,chola_dynasty,Chola dynasty,semantic,0.7497563362121582,1.0,1.0,1.0,252
+ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?,ta,c_v_raman,C. V. Raman,fixed,0.7772067189216614,1.0,0.67,1.0,253
+ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?,ta,c_v_raman,C. V. Raman,recursive,0.7892518043518066,1.0,0.6667,1.0,253
+ராமன் 1954 இல் இந்தியாவின் எந்த உயர்ந்த விருது பெற்றார்?,ta,c_v_raman,C. V. Raman,semantic,0.7914791107177734,1.0,0.67,1.0,253
+ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?,ta,c_v_raman,C. V. Raman,fixed,0.5887805223464966,1.0,0.33,1.0,254
+ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?,ta,c_v_raman,C. V. Raman,recursive,0.2744709551334381,1.0,0.0,0.0,254
+ராமன் எங்கே உள்ள திருவானைக்காவல் ஊரில் பிறந்தார்?,ta,c_v_raman,C. V. Raman,semantic,0.6724871397018433,1.0,0.33,1.0,254
+ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?,ta,c_v_raman,C. V. Raman,fixed,0.2915588915348053,1.0,0.6667,1.0,255
+ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?,ta,c_v_raman,C. V. Raman,recursive,0.3054961562156677,1.0,0.67,1.0,255
+ராமன் எந்த ஆண்டில் இயற்பியல் துறைக்கான நோபல் பரிசை பெற்றார்?,ta,c_v_raman,C. V. Raman,semantic,0.8180880546569824,1.0,0.33,1.0,255
+ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?,ta,c_v_raman,C. V. Raman,fixed,0.7939039468765259,1.0,0.33,1.0,256
+ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?,ta,c_v_raman,C. V. Raman,recursive,0.2534049153327942,1.0,0.0,0.0,256
+ராமன் தனது இளங்கலைப் பட்டப்படிப்பை எங்கு மற்றும் எப்போது முடித்தார்?,ta,c_v_raman,C. V. Raman,semantic,0.7783234119415283,1.0,0.3333333333,0.0,256
+ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?,ta,c_v_raman,C. V. Raman,fixed,0.8446667194366455,1.0,0.33,1.0,257
+ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?,ta,c_v_raman,C. V. Raman,recursive,0.3779265880584717,1.0,0.33,1.0,257
+ராமன் பெங்களூரில் உள்ள இந்திய அறிவியல் கழகத்தில் எத்தனை ஆண்டுகள் பணியாற்றினார்?,ta,c_v_raman,C. V. Raman,semantic,0.8446667194366455,1.0,0.33,1.0,257

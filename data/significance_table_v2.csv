@@ -1,0 +1,25 @@
+language,metric,comparison,mean_diff,n,p_value,significant (p<0.05)
+en,faithfulness,fixed vs recursive,-0.0099,131,0.1975,False
+en,faithfulness,fixed vs semantic,-0.0088,131,0.4652,False
+en,faithfulness,recursive vs semantic,0.0011,131,0.4497,False
+en,answer_relevancy,fixed vs recursive,-0.0109,131,0.3748,False
+en,answer_relevancy,fixed vs semantic,0.0211,131,0.7582,False
+en,answer_relevancy,recursive vs semantic,0.0319,131,0.4291,False
+en,context_precision,fixed vs recursive,-0.0944,131,0.0003,True
+en,context_precision,fixed vs semantic,0.0259,131,0.1099,False
+en,context_precision,recursive vs semantic,0.1203,131,0.0,True
+en,context_recall,fixed vs recursive,-0.0015,131,0.9588,False
+en,context_recall,fixed vs semantic,0.0321,131,0.1362,False
+en,context_recall,recursive vs semantic,0.0336,131,0.2033,False
+ta,faithfulness,fixed vs recursive,-0.0331,127,0.264,False
+ta,faithfulness,fixed vs semantic,0.0103,127,0.738,False
+ta,faithfulness,recursive vs semantic,0.0434,127,0.0966,False
+ta,answer_relevancy,fixed vs recursive,-0.0122,127,0.4461,False
+ta,answer_relevancy,fixed vs semantic,-0.0188,127,0.5466,False
+ta,answer_relevancy,recursive vs semantic,-0.0066,127,0.7462,False
+ta,context_precision,fixed vs recursive,-0.0684,127,0.0034,True
+ta,context_precision,fixed vs semantic,-0.0044,127,0.9869,False
+ta,context_precision,recursive vs semantic,0.0639,127,0.0079,True
+ta,context_recall,fixed vs recursive,-0.0404,127,0.198,False
+ta,context_recall,fixed vs semantic,-0.0299,127,0.2807,False
+ta,context_recall,recursive vs semantic,0.0104,127,0.8714,False
